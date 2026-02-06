@@ -1,12 +1,26 @@
-You are tasked with updating the "Defect Detection" RSS feed.
+# Scheduled Task: Update Defect Detection Feed
 
-1.  **Read Strategy**: First, read the file `SEARCH_STRATEGY.md` to get the latest arXiv API URL for the defect detection query.
-2.  **Fetch Data**: Use your `view_text_website` tool to fetch the content from the arXiv API URL found in the strategy file.
-3.  **Parse & Update**: For each of the top 7 most recent entries in the API response:
-    *   Extract the **Title**, **Link** (use the `id`), and **Summary**.
-    *   Run the `rss_manager.py` script to add the item to the feed.
-    *   Command format:
+You are a scheduled agent tasked with maintaining the "Defect Detection" RSS feed. Follow the protocols defined in the repository to ensure compliance and data integrity.
+
+## Prerequisites & Context
+1.  **Read Instructions**: First, strictly review `INSTRUCTIONS.md`. This file governs the workflow, specifically:
+    *   The requirement to use `rss_manager.py` for all updates.
+    *   The prohibition against manual XML editing.
+    *   The standard command format.
+2.  **Read Strategy**: Review `SEARCH_STRATEGY.md`. This file contains:
+    *   The precise Boolean search logic.
+    *   The **arXiv API URL** required to fetch the latest data.
+
+## Execution Steps
+1.  **Fetch Data**:
+    *   Use the `view_text_website` tool to retrieve the Atom/RSS feed from the arXiv URL found in `SEARCH_STRATEGY.md`.
+2.  **Process Entries**:
+    *   Identify the top 7 most recent papers from the fetched data.
+    *   For each paper, extract the `Title`, `Link` (arXiv ID/URL), and `Summary`.
+3.  **Update Feed**:
+    *   For each identified paper, run the following command (as specified in `INSTRUCTIONS.md`):
         ```bash
-        python3 rss_manager.py --topic "Defect_Detection" --title "PAPER_TITLE" --link "PAPER_URL" --summary "PAPER_SUMMARY"
+        python3 rss_manager.py --topic "Defect_Detection" --title "<TITLE>" --link "<LINK>" --summary "<SUMMARY>"
         ```
-4.  **Verify**: Read `feeds/Defect_Detection.xml` to ensure the new items were added correctly.
+4.  **Verification**:
+    *   Read `feeds/Defect_Detection.xml` to verify the new items have been correctly added and the file format remains valid.
