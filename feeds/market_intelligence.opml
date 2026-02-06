@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Defect Recognition and Machine Vision Market Intelligence</title>
+    </head>
+    <body>
+        <outline text="Vision Systems Design" title="Vision Systems Design" type="rss" xmlUrl="https://www.vision-systems.com/__rss/website-scheduled-content.xml?input={%22sectionAlias%22:%22home%22}"/>
+        <outline text="Metrology.News" title="Metrology.News" type="rss" xmlUrl="https://metrology.news/feed/"/>
+        <outline text="Quality Magazine" title="Quality Magazine" type="rss" xmlUrl="https://www.qualitymag.com/rss/articles"/>
+        <outline text="Market Trends (Google News)" title="Market Trends (Google News)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%22Automated+Optical+Inspection%22+OR+%22Surface+Defect+Detection+Market%22+OR+%22Industrial+Machine+Vision+Cameras%22&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    </body>
+</opml>
