@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Machine_Vision_Commercial News</title>
+    <description>Latest news about Machine_Vision_Commercial</description>
+    <link>https://github.com/jules/feeds</link>
+    <item>
+      <title>ISO 9001 in 2026: What’s Changing</title>
+      <link>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</link>
+      <description>ISO 9001 in 2026: What’s Changing - Quality Magazine</description>
+      <pubDate>Fri, 06 Feb 2026 19:53:36 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</guid>
+    </item>
+    <item>
+      <title>Siemens Acquires Canopus AI to Integrate AI-driven Metrology into Semiconductor Manufacturing</title>
+      <link>https://www.vision-systems.com/home/article/55355314/siemens-acquires-canopus-ai-to-integrate-ai-driven-metrology-into-semiconductor-manufacturing</link>
+      <description>Siemens Acquires Canopus AI - Vision Systems Design</description>
+      <pubDate>Fri, 06 Feb 2026 19:53:34 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/article/55355314/siemens-acquires-canopus-ai-to-integrate-ai-driven-metrology-into-semiconductor-manufacturing</guid>
+    </item>
+    <item>
+      <title>Inline Metrology at the Speed of Production</title>
+      <link>https://metrology.news/inline-metrology-at-the-speed-of-production/</link>
+      <description>Inline Metrology at the Speed of Production - Metrology.News</description>
+      <pubDate>Fri, 06 Feb 2026 19:53:33 -0000</pubDate>
+      <guid>https://metrology.news/inline-metrology-at-the-speed-of-production/</guid>
+    </item>
+  </channel>
+</rss>
