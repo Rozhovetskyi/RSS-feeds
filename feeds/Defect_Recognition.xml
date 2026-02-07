@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing</title>
+      <link>https://opencv.org/blender-fusion/</link>
+      <description>A framework merging 3D graphics editing with diffusion models for precise, 3D-aware visual compositing, useful for synthetic data generation.</description>
+      <pubDate>Sat, 07 Feb 2026 18:36:05 -0000</pubDate>
+      <guid>https://opencv.org/blender-fusion/</guid>
+    </item>
+    <item>
+      <title>YOLOv5</title>
+      <link>https://pytorch.org/hub/ultralytics_yolov5</link>
+      <description>State-of-the-art YOLOv5 model for object detection available on PyTorch Hub, supporting custom training and inference.</description>
+      <pubDate>Sat, 07 Feb 2026 18:35:10 -0000</pubDate>
+      <guid>https://pytorch.org/hub/ultralytics_yolov5</guid>
+    </item>
+    <item>
+      <title>Intro to Autoencoders</title>
+      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
+      <description>A tutorial introducing autoencoders with examples including image denoising and anomaly detection on ECG data.</description>
+      <pubDate>Sat, 07 Feb 2026 18:34:51 -0000</pubDate>
+      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
+    </item>
+    <item>
       <title>Dynamic SOLO (SOLOv2) with TensorFlow for Better Understanding Computer Vision</title>
       <link>https://towardsdatascience.com/dynamic-solo-solov2-with-tensorflow-for-better-understanding-computer-vision/</link>
       <description>A practical approach to instance segmentation using SOLOv2 and TensorFlow, serving as a powerful alternative to YOLO for custom object and defect detection.</description>
