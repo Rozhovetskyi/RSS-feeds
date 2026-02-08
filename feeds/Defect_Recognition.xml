@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
+      <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
+      <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
+      <pubDate>Sun, 08 Feb 2026 18:49:55 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</guid>
+    </item>
+    <item>
+      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
+      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</link>
+      <description>Detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset.</description>
+      <pubDate>Sun, 08 Feb 2026 18:49:37 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</guid>
+    </item>
+    <item>
       <title>Dynamic SOLO (SOLOv2) with TensorFlow for Better Understanding Computer Vision</title>
       <link>https://towardsdatascience.com/dynamic-solo-solov2-with-tensorflow-for-better-understanding-computer-vision/</link>
       <description>A practical approach to instance segmentation using SOLOv2 and TensorFlow, serving as a powerful alternative to YOLO for custom object and defect detection.</description>
