@@ -5,25 +5,53 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Medical Device Manufacturers Redefine Quality</title>
+      <link>https://www.qualitymag.com/articles/99385-medical-device-manufacturers-redefine-quality-amid-digital-regulatory-and-supply-chain-pressures</link>
+      <description>Medical device manufacturers are transforming inspection processes and supplier management to meet new quality demands amidst digital and regulatory pressures.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:40 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99385-medical-device-manufacturers-redefine-quality-amid-digital-regulatory-and-supply-chain-pressures</guid>
+    </item>
+    <item>
+      <title>Siemens Targets Sub-Nanometer Era with AI Metrology Acquisition</title>
+      <link>https://metrology.news/siemens-targets-sub-nanometer-era-with-ai-metrology-acquisition/</link>
+      <description>Siemens acquires Canopus AI to enhance semiconductor manufacturing precision with computational and AI-driven metrology solutions for wafer inspection.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
+      <guid>https://metrology.news/siemens-targets-sub-nanometer-era-with-ai-metrology-acquisition/</guid>
+    </item>
+    <item>
+      <title>Nikon Advances Vision-Based Metrology with Next-Generation AutoMeasure Software</title>
+      <link>https://metrology.news/nikon-advances-vision-based-metrology-with-next-generation-automeasure-software/</link>
+      <description>Nikon unveils new AutoMeasure software for NEXIV video measuring systems, simplifying dimensional measurement for operators with intelligent features.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
+      <guid>https://metrology.news/nikon-advances-vision-based-metrology-with-next-generation-automeasure-software/</guid>
+    </item>
+    <item>
+      <title>Siemens’ Digital Twin Composer Brings Real-Time Intelligence to the Factory Digital Twin</title>
+      <link>https://metrology.news/siemens-digital-twin-composer-brings-real-time-intelligence-to-the-factory-digital-twin/</link>
+      <description>Siemens launches Digital Twin Composer to build Industrial Metaverse environments at scale, enabling virtual decision-making with real-time physical data.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
+      <guid>https://metrology.news/siemens-digital-twin-composer-brings-real-time-intelligence-to-the-factory-digital-twin/</guid>
+    </item>
+    <item>
+      <title>Hexagon’s HYPERSCAN Drives Industrial 3D Inspection</title>
+      <link>https://metrology.news/hexagons-hyperscan-drives-industrial-3d-inspection/</link>
+      <description>Hexagon introduces HYPERSCAN, a robust 3D scanning solution for complex industrial environments, combining speed and flexibility to transform inspection processes.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:38 -0000</pubDate>
+      <guid>https://metrology.news/hexagons-hyperscan-drives-industrial-3d-inspection/</guid>
+    </item>
+    <item>
+      <title>The Pursuit of Zero-Defect Manufacturing</title>
+      <link>https://metrology.news/the-pursuit-of-zero-defect-manufacturing/</link>
+      <description>Zero-defect manufacturing is an ambitious goal in industrial quality control, now becoming a reality with advanced technologies and real-time feedback.</description>
+      <pubDate>Mon, 09 Feb 2026 06:37:38 -0000</pubDate>
+      <guid>https://metrology.news/the-pursuit-of-zero-defect-manufacturing/</guid>
+    </item>
+    <item>
       <title>ISO 9001 in 2026: What’s Changing</title>
       <link>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</link>
       <description>ISO 9001 in 2026: What’s Changing - Quality Magazine</description>
       <pubDate>Fri, 06 Feb 2026 19:53:36 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</guid>
-    </item>
-    <item>
-      <title>Siemens Acquires Canopus AI to Integrate AI-driven Metrology into Semiconductor Manufacturing</title>
-      <link>https://www.vision-systems.com/home/article/55355314/siemens-acquires-canopus-ai-to-integrate-ai-driven-metrology-into-semiconductor-manufacturing</link>
-      <description>Siemens Acquires Canopus AI - Vision Systems Design</description>
-      <pubDate>Fri, 06 Feb 2026 19:53:34 -0000</pubDate>
-      <guid>https://www.vision-systems.com/home/article/55355314/siemens-acquires-canopus-ai-to-integrate-ai-driven-metrology-into-semiconductor-manufacturing</guid>
-    </item>
-    <item>
-      <title>Inline Metrology at the Speed of Production</title>
-      <link>https://metrology.news/inline-metrology-at-the-speed-of-production/</link>
-      <description>Inline Metrology at the Speed of Production - Metrology.News</description>
-      <pubDate>Fri, 06 Feb 2026 19:53:33 -0000</pubDate>
-      <guid>https://metrology.news/inline-metrology-at-the-speed-of-production/</guid>
     </item>
   </channel>
 </rss>
