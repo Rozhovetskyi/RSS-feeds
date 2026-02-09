@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Semi-supervised Anomaly Detection using Auto Encoders</title>
+      <link>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</link>
+      <description>Describes a convolutional autoencoder approach for semi-supervised anomaly detection, trained only on normal images to identify defects as residuals.</description>
+      <pubDate>Mon, 09 Feb 2026 18:39:30 -0000</pubDate>
+      <guid>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</guid>
+    </item>
+    <item>
+      <title>Custom Training Pipeline for Object Detection Models</title>
+      <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
+      <description>Detailed guide on building a custom training pipeline for object detection (D-FINE/YOLO) from scratch, covering dataset processing, augmentations, and training loops.</description>
+      <pubDate>Mon, 09 Feb 2026 18:39:14 -0000</pubDate>
+      <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
+    </item>
+    <item>
       <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
       <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
       <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
@@ -38,13 +52,6 @@
       <description>Demonstrates training a computer vision model using synthetic data generated with three.js, relevant for synthetic defect generation workflows.</description>
       <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
       <guid>https://towardsdatascience.com/lunar-crater-detection-computer-vision-in-space-04e1ee416826/</guid>
-    </item>
-    <item>
-      <title>How to Improve the Performance of Visual Anomaly Detection Models</title>
-      <link>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</link>
-      <description>Practical guide on improving visual anomaly detection models using techniques like image resizing, center cropping, and background removal, with references to Anomalib and PatchCore.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:39 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</guid>
     </item>
   </channel>
 </rss>
