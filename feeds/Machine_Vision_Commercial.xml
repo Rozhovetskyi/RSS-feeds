@@ -5,6 +5,41 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>SHINING 3D Expands FreeScan Omni into a Modular Metrology Series</title>
+      <link>https://metrology.news/shining-3d-expands-freescan-omni-into-a-modular-metrology-series/</link>
+      <description>SHINING 3D launches the FreeScan Omni, a modular wireless 3D scanning platform designed to improve mobile metrology workflows.</description>
+      <pubDate>Tue, 10 Feb 2026 06:42:07 -0000</pubDate>
+      <guid>https://metrology.news/shining-3d-expands-freescan-omni-into-a-modular-metrology-series/</guid>
+    </item>
+    <item>
+      <title>5-Axis Measurement Cuts Inspection Time Without Cutting Accuracy</title>
+      <link>https://metrology.news/5-axis-measurement-cuts-inspection-time-without-cutting-accuracy/</link>
+      <description>5-axis CMM technology reduces inspection time while maintaining precision for complex parts, enhancing manufacturing throughput.</description>
+      <pubDate>Tue, 10 Feb 2026 06:41:53 -0000</pubDate>
+      <guid>https://metrology.news/5-axis-measurement-cuts-inspection-time-without-cutting-accuracy/</guid>
+    </item>
+    <item>
+      <title>Metallo Accelerates Inspection Efficiency 30 Percent by Automating Measurements</title>
+      <link>https://metrology.news/metallo-accelerates-inspection-efficiency-30-percent-by-automating-measurements/</link>
+      <description>Metallo Ltd increased inspection efficiency by 30% using the Baty Velo FV automated optical measurement system.</description>
+      <pubDate>Tue, 10 Feb 2026 06:41:41 -0000</pubDate>
+      <guid>https://metrology.news/metallo-accelerates-inspection-efficiency-30-percent-by-automating-measurements/</guid>
+    </item>
+    <item>
+      <title>Automation Momentum Builds as Manufacturers Boost Robot Investment</title>
+      <link>https://metrology.news/automation-momentum-builds-as-manufacturers-boost-robot-investment/</link>
+      <description>North American robot orders rose 6.6% in 2025, reflecting strong investment in automation across diverse manufacturing sectors.</description>
+      <pubDate>Tue, 10 Feb 2026 06:41:27 -0000</pubDate>
+      <guid>https://metrology.news/automation-momentum-builds-as-manufacturers-boost-robot-investment/</guid>
+    </item>
+    <item>
+      <title>Is Good Help Hard to Find? It Depends on Whom You Ask</title>
+      <link>https://www.vision-systems.com/non-factory/article/55356034/is-good-help-hard-to-find-it-depends-on-whom-you-ask</link>
+      <description>VSD survey reveals ongoing challenges in hiring experienced machine vision engineers despite a slight decline in perceived shortages.</description>
+      <pubDate>Tue, 10 Feb 2026 06:41:14 -0000</pubDate>
+      <guid>https://www.vision-systems.com/non-factory/article/55356034/is-good-help-hard-to-find-it-depends-on-whom-you-ask</guid>
+    </item>
+    <item>
       <title>Medical Device Manufacturers Redefine Quality</title>
       <link>https://www.qualitymag.com/articles/99385-medical-device-manufacturers-redefine-quality-amid-digital-regulatory-and-supply-chain-pressures</link>
       <description>Medical device manufacturers are transforming inspection processes and supplier management to meet new quality demands amidst digital and regulatory pressures.</description>
@@ -17,41 +52,6 @@
       <description>Siemens acquires Canopus AI to enhance semiconductor manufacturing precision with computational and AI-driven metrology solutions for wafer inspection.</description>
       <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
       <guid>https://metrology.news/siemens-targets-sub-nanometer-era-with-ai-metrology-acquisition/</guid>
-    </item>
-    <item>
-      <title>Nikon Advances Vision-Based Metrology with Next-Generation AutoMeasure Software</title>
-      <link>https://metrology.news/nikon-advances-vision-based-metrology-with-next-generation-automeasure-software/</link>
-      <description>Nikon unveils new AutoMeasure software for NEXIV video measuring systems, simplifying dimensional measurement for operators with intelligent features.</description>
-      <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
-      <guid>https://metrology.news/nikon-advances-vision-based-metrology-with-next-generation-automeasure-software/</guid>
-    </item>
-    <item>
-      <title>Siemens’ Digital Twin Composer Brings Real-Time Intelligence to the Factory Digital Twin</title>
-      <link>https://metrology.news/siemens-digital-twin-composer-brings-real-time-intelligence-to-the-factory-digital-twin/</link>
-      <description>Siemens launches Digital Twin Composer to build Industrial Metaverse environments at scale, enabling virtual decision-making with real-time physical data.</description>
-      <pubDate>Mon, 09 Feb 2026 06:37:39 -0000</pubDate>
-      <guid>https://metrology.news/siemens-digital-twin-composer-brings-real-time-intelligence-to-the-factory-digital-twin/</guid>
-    </item>
-    <item>
-      <title>Hexagon’s HYPERSCAN Drives Industrial 3D Inspection</title>
-      <link>https://metrology.news/hexagons-hyperscan-drives-industrial-3d-inspection/</link>
-      <description>Hexagon introduces HYPERSCAN, a robust 3D scanning solution for complex industrial environments, combining speed and flexibility to transform inspection processes.</description>
-      <pubDate>Mon, 09 Feb 2026 06:37:38 -0000</pubDate>
-      <guid>https://metrology.news/hexagons-hyperscan-drives-industrial-3d-inspection/</guid>
-    </item>
-    <item>
-      <title>The Pursuit of Zero-Defect Manufacturing</title>
-      <link>https://metrology.news/the-pursuit-of-zero-defect-manufacturing/</link>
-      <description>Zero-defect manufacturing is an ambitious goal in industrial quality control, now becoming a reality with advanced technologies and real-time feedback.</description>
-      <pubDate>Mon, 09 Feb 2026 06:37:38 -0000</pubDate>
-      <guid>https://metrology.news/the-pursuit-of-zero-defect-manufacturing/</guid>
-    </item>
-    <item>
-      <title>ISO 9001 in 2026: What’s Changing</title>
-      <link>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</link>
-      <description>ISO 9001 in 2026: What’s Changing - Quality Magazine</description>
-      <pubDate>Fri, 06 Feb 2026 19:53:36 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99324-iso-9001-in-2026-whats-changingand-how-as9100-ia9100-iatf-16949-nist-and-cmmc-fit-together</guid>
     </item>
   </channel>
 </rss>
