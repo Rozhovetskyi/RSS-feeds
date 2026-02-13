@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>YOLOv2 &amp; YOLO9000 Paper Walkthrough: Better, Faster, Stronger</title>
+      <link>https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/</link>
+      <description>Detailed walkthrough and PyTorch implementation from scratch of the YOLOv2 architecture, explaining anchor boxes and passthrough layers.</description>
+      <pubDate>Fri, 13 Feb 2026 19:03:31 -0000</pubDate>
+      <guid>https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/</guid>
+    </item>
+    <item>
+      <title>Evaluating Synthetic Data — The Million Dollar Question</title>
+      <link>https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621</link>
+      <description>Introduction to the Maximum Similarity Test for evaluating the fidelity, utility, and privacy of synthetic datasets.</description>
+      <pubDate>Fri, 13 Feb 2026 19:03:00 -0000</pubDate>
+      <guid>https://towardsdatascience.com/evaluating-synthetic-data-the-million-dollar-question-a54701d1b621</guid>
+    </item>
+    <item>
+      <title>How Do Grayscale Images Affect Visual Anomaly Detection?</title>
+      <link>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</link>
+      <description>Practical exploration of how grayscale images impact the performance of visual anomaly detection models like PatchCore and FastFlow using Anomalib.</description>
+      <pubDate>Fri, 13 Feb 2026 19:02:47 -0000</pubDate>
+      <guid>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</guid>
+    </item>
+    <item>
+      <title>Deep Learning for Outlier Detection on Tabular and Image Data</title>
+      <link>https://towardsdatascience.com/deep-learning-for-outlier-detection-on-tabular-and-image-data-90ae518a27b3</link>
+      <description>Comprehensive guide on using Deep Learning, specifically Autoencoders and VAEs, for outlier detection on image data with PyTorch and Alibi-Detect implementations.</description>
+      <pubDate>Fri, 13 Feb 2026 19:02:25 -0000</pubDate>
+      <guid>https://towardsdatascience.com/deep-learning-for-outlier-detection-on-tabular-and-image-data-90ae518a27b3</guid>
+    </item>
+    <item>
       <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
       <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
       <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
@@ -24,27 +52,6 @@
       <description>A practical approach to instance segmentation using SOLOv2 and TensorFlow, serving as a powerful alternative to YOLO for custom object and defect detection.</description>
       <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
       <guid>https://towardsdatascience.com/dynamic-solo-solov2-with-tensorflow-for-better-understanding-computer-vision/</guid>
-    </item>
-    <item>
-      <title>Watershed Segmentation Using OpenCV</title>
-      <link>https://opencv.org/watershed-segmentation-using-opencv/</link>
-      <description>A comprehensive technical guide on using the watershed segmentation technique in OpenCV, applicable for industrial inspection and defect localization.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
-      <guid>https://opencv.org/watershed-segmentation-using-opencv/</guid>
-    </item>
-    <item>
-      <title>Lunar Crater Detection: Computer Vision in Space</title>
-      <link>https://towardsdatascience.com/lunar-crater-detection-computer-vision-in-space-04e1ee416826/</link>
-      <description>Demonstrates training a computer vision model using synthetic data generated with three.js, relevant for synthetic defect generation workflows.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
-      <guid>https://towardsdatascience.com/lunar-crater-detection-computer-vision-in-space-04e1ee416826/</guid>
-    </item>
-    <item>
-      <title>How to Improve the Performance of Visual Anomaly Detection Models</title>
-      <link>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</link>
-      <description>Practical guide on improving visual anomaly detection models using techniques like image resizing, center cropping, and background removal, with references to Anomalib and PatchCore.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:39 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</guid>
     </item>
   </channel>
 </rss>
