@@ -1,8 +1,8 @@
-name: Auto Merge Jules PRs
+name: Auto Merge PRs from Rozhovetskyi
 
 on:
   pull_request:
-    types: [opened, synchronize, reopened]
+    types: [opened, synchronize, reopened, edited]
 
 permissions:
   contents: write
@@ -11,9 +11,9 @@ permissions:
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    if: github.actor == 'google-labs-jules[bot]' || startsWith(github.head_ref, 'jules/')
+    if: github.actor == 'Rozhovetskyi' && contains(github.event.pull_request.title, 'automerge')
     steps:
-      - name: Enable auto-merge for Jules PRs
+      - name: Enable auto-merge
         run: gh pr merge --auto --merge "$PR_URL"
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
