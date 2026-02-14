@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Intro to Autoencoders | TensorFlow Core</title>
+      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
+      <description>This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection.</description>
+      <pubDate>Sat, 14 Feb 2026 06:35:33 -0000</pubDate>
+      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
+    </item>
+    <item>
       <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
       <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
       <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
