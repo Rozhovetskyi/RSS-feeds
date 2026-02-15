@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator</title>
+      <link>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</link>
+      <description>Applying calculus fundamentals to computer vision for edge detection with OpenCV and Sobel operator.</description>
+      <pubDate>Sun, 15 Feb 2026 19:31:49 -0000</pubDate>
+      <guid>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</guid>
+    </item>
+    <item>
+      <title>Auto-Encoder: What Is It? And What Is It Used For? (Part 1)</title>
+      <link>https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726/</link>
+      <description>A Gentle Introduction to Auto-Encoder and Some Of Its Common Use Cases With Python Code.</description>
+      <pubDate>Sun, 15 Feb 2026 19:31:46 -0000</pubDate>
+      <guid>https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726/</guid>
+    </item>
+    <item>
+      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
+      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843/</link>
+      <description>Detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset.</description>
+      <pubDate>Sun, 15 Feb 2026 19:31:44 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843/</guid>
+    </item>
+    <item>
       <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
       <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
       <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
@@ -31,27 +52,6 @@
       <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
       <pubDate>Sun, 08 Feb 2026 18:49:55 -0000</pubDate>
       <guid>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</guid>
-    </item>
-    <item>
-      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
-      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</link>
-      <description>Detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset.</description>
-      <pubDate>Sun, 08 Feb 2026 18:49:37 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</guid>
-    </item>
-    <item>
-      <title>Dynamic SOLO (SOLOv2) with TensorFlow for Better Understanding Computer Vision</title>
-      <link>https://towardsdatascience.com/dynamic-solo-solov2-with-tensorflow-for-better-understanding-computer-vision/</link>
-      <description>A practical approach to instance segmentation using SOLOv2 and TensorFlow, serving as a powerful alternative to YOLO for custom object and defect detection.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
-      <guid>https://towardsdatascience.com/dynamic-solo-solov2-with-tensorflow-for-better-understanding-computer-vision/</guid>
-    </item>
-    <item>
-      <title>Watershed Segmentation Using OpenCV</title>
-      <link>https://opencv.org/watershed-segmentation-using-opencv/</link>
-      <description>A comprehensive technical guide on using the watershed segmentation technique in OpenCV, applicable for industrial inspection and defect localization.</description>
-      <pubDate>Fri, 06 Feb 2026 19:55:40 -0000</pubDate>
-      <guid>https://opencv.org/watershed-segmentation-using-opencv/</guid>
     </item>
   </channel>
 </rss>
