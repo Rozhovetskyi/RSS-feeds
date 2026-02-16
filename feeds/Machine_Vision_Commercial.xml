@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>CAPPS 2026 Powers Data-Driven CNC Manufacturing</title>
+      <link>https://metrology.news/capps-2026-powers-data-driven-cnc-manufacturing/</link>
+      <description>Applied Automation Technologies released CAPPS 2026, advancing on-machine metrology with improved laser scanning integration and automated process control for CNC manufacturing.</description>
+      <pubDate>Mon, 16 Feb 2026 07:27:57 -0000</pubDate>
+      <guid>https://metrology.news/capps-2026-powers-data-driven-cnc-manufacturing/</guid>
+    </item>
+    <item>
+      <title>$124M Investment Funds Machina Labs’ First Large-Scale Intelligent Factory</title>
+      <link>https://metrology.news/124m-investment-funds-machina-labs-first-large-scale-intelligent-factory/</link>
+      <description>Machina Labs secured $124M Series C funding to build a large-scale intelligent factory using robotic manufacturing cells, signaling major growth in software-defined production infrastructure.</description>
+      <pubDate>Mon, 16 Feb 2026 07:27:49 -0000</pubDate>
+      <guid>https://metrology.news/124m-investment-funds-machina-labs-first-large-scale-intelligent-factory/</guid>
+    </item>
+    <item>
+      <title>Orbbec and Robbyant Set a New Benchmark in Robotic Depth Perception</title>
+      <link>https://metrology.news/orbbec-and-robbyant-set-a-new-benchmark-in-robotic-depth-perception/</link>
+      <description>Orbbec partners with Robbyant to optimize spatial perception models for its Gemini 330 stereo depth cameras, enhancing reliability for commercial robotic vision applications.</description>
+      <pubDate>Mon, 16 Feb 2026 07:27:39 -0000</pubDate>
+      <guid>https://metrology.news/orbbec-and-robbyant-set-a-new-benchmark-in-robotic-depth-perception/</guid>
+    </item>
+    <item>
       <title>Machine Vision Lighting Solutions for Unwanted Glare</title>
       <link>https://www.qualitymag.com/articles/99403-machine-vision-lighting-solutions-for-unwanted-glare</link>
       <description>CCS America details lighting strategies (shrouding, polarization, overdriving) to eliminate glare in machine vision inspection systems.</description>
@@ -31,27 +52,6 @@
       <description>Loughborough University's AVRRC develops AI-based anomaly detection using synthetic data to augment human inspection in aircraft wing manufacturing.</description>
       <pubDate>Sat, 14 Feb 2026 07:04:32 -0000</pubDate>
       <guid>https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/</guid>
-    </item>
-    <item>
-      <title>Flir Launches Long-Life Cooled Thermal Cameras</title>
-      <link>https://metrology.news/long-life-cooled-thermal-cameras-deliver-high-speed-high-sensitivity-mwir-imaging/</link>
-      <description>Flir introduces the A6450 Long-Life Cooled MWIR Cameras, purpose-built for continuous industrial automation and non-destructive testing.</description>
-      <pubDate>Sat, 14 Feb 2026 07:04:32 -0000</pubDate>
-      <guid>https://metrology.news/long-life-cooled-thermal-cameras-deliver-high-speed-high-sensitivity-mwir-imaging/</guid>
-    </item>
-    <item>
-      <title>Nikon Launches Enhanced Microscope Portfolio</title>
-      <link>https://metrology.news/nikon-launches-enhanced-microscope-portfolio/</link>
-      <description>Nikon Corporation releases new ECLIPSE microscope models to strengthen its industrial microscopy solutions range.</description>
-      <pubDate>Sat, 14 Feb 2026 07:04:31 -0000</pubDate>
-      <guid>https://metrology.news/nikon-launches-enhanced-microscope-portfolio/</guid>
-    </item>
-    <item>
-      <title>Specim Unveils High-Speed NIR-SWIR Hyperspectral Camera</title>
-      <link>https://metrology.news/specim-unveils-high-speed-nir-swir-hyperspectral-camera-for-industrial-machine-vision/</link>
-      <description>Specim launches the FX19, a high-speed NIR-SWIR hyperspectral camera designed for industrial machine vision applications from 1130–1920 nm.</description>
-      <pubDate>Sat, 14 Feb 2026 07:04:14 -0000</pubDate>
-      <guid>https://metrology.news/specim-unveils-high-speed-nir-swir-hyperspectral-camera-for-industrial-machine-vision/</guid>
     </item>
   </channel>
 </rss>
