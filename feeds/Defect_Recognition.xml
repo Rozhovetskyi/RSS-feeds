@@ -5,6 +5,41 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
+      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
+      <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
+      <pubDate>Mon, 16 Feb 2026 19:25:28 -0000</pubDate>
+      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
+    </item>
+    <item>
+      <title>Feature Detection, Part 3: Harris Corner Detection</title>
+      <link>https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/</link>
+      <description>Finding the most informative points in images using Harris Corner Detection, a fundamental technique for industrial inspection.</description>
+      <pubDate>Mon, 16 Feb 2026 19:25:10 -0000</pubDate>
+      <guid>https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/</guid>
+    </item>
+    <item>
+      <title>How to Improve the Performance of Visual Anomaly Detection Models</title>
+      <link>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</link>
+      <description>Apply the best methods from academia to get the most out of practical applications of visual anomaly detection.</description>
+      <pubDate>Mon, 16 Feb 2026 19:24:53 -0000</pubDate>
+      <guid>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</guid>
+    </item>
+    <item>
+      <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
+      <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
+      <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
+      <pubDate>Mon, 16 Feb 2026 19:24:28 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</guid>
+    </item>
+    <item>
+      <title>YOLOv1 Paper Walkthrough: The Day YOLO First Saw the World</title>
+      <link>https://towardsdatascience.com/yolov1-paper-walkthrough-the-day-yolo-first-saw-the-world/</link>
+      <description>A detailed walkthrough of the YOLOv1 architecture and its PyTorch implementation from scratch.</description>
+      <pubDate>Mon, 16 Feb 2026 19:24:10 -0000</pubDate>
+      <guid>https://towardsdatascience.com/yolov1-paper-walkthrough-the-day-yolo-first-saw-the-world/</guid>
+    </item>
+    <item>
       <title>Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator</title>
       <link>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</link>
       <description>Applying calculus fundamentals to computer vision for edge detection with OpenCV and Sobel operator.</description>
@@ -17,41 +52,6 @@
       <description>A Gentle Introduction to Auto-Encoder and Some Of Its Common Use Cases With Python Code.</description>
       <pubDate>Sun, 15 Feb 2026 19:31:46 -0000</pubDate>
       <guid>https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726/</guid>
-    </item>
-    <item>
-      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
-      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843/</link>
-      <description>Detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset.</description>
-      <pubDate>Sun, 15 Feb 2026 19:31:44 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843/</guid>
-    </item>
-    <item>
-      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
-      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
-      <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
-      <pubDate>Sat, 14 Feb 2026 19:03:52 -0000</pubDate>
-      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
-    </item>
-    <item>
-      <title>Semi-supervised Anomaly Detection using Auto Encoders</title>
-      <link>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</link>
-      <description>Proposes a convolutional autoencoder approach for semi-supervised anomaly detection in industrial optical inspection, with PyTorch implementation.</description>
-      <pubDate>Sat, 14 Feb 2026 19:03:38 -0000</pubDate>
-      <guid>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</guid>
-    </item>
-    <item>
-      <title>How to Train A Custom Object Detection Model with YOLO v5</title>
-      <link>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
-      <description>A comprehensive tutorial on training YOLOv5 for custom object detection, covering data collection, annotation, and model configuration.</description>
-      <pubDate>Sat, 14 Feb 2026 19:03:21 -0000</pubDate>
-      <guid>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</guid>
-    </item>
-    <item>
-      <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
-      <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
-      <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
-      <pubDate>Sun, 08 Feb 2026 18:49:55 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</guid>
     </item>
   </channel>
 </rss>
