@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Visual Intelligence Powering Next-Generation Robotics</title>
+      <link>https://metrology.news/visual-intelligence-powering-next-generation-robotics/</link>
+      <description>Machine vision is evolving from simple inspection to a core enabler of robotic intelligence, providing spatial awareness and real-time measurement for flexible, high-mix manufacturing.</description>
+      <pubDate>Tue, 17 Feb 2026 07:10:43 -0000</pubDate>
+      <guid>https://metrology.news/visual-intelligence-powering-next-generation-robotics/</guid>
+    </item>
+    <item>
+      <title>All-in-One SLAM LiDAR, RTK and 360° Imagery Scanner Launched</title>
+      <link>https://metrology.news/all-in-one-slam-lidar-rtk-and-360-imagery-scanner-launched/</link>
+      <description>Emesent launched the GX1, an integrated SLAM and RTK scanner achieving 5-10mm global accuracy for topographic surveying and construction.</description>
+      <pubDate>Tue, 17 Feb 2026 07:10:29 -0000</pubDate>
+      <guid>https://metrology.news/all-in-one-slam-lidar-rtk-and-360-imagery-scanner-launched/</guid>
+    </item>
+    <item>
+      <title>Driving Automotive Quality with Automation</title>
+      <link>https://metrology.news/driving-automotive-quality-with-automation/</link>
+      <description>Ajin Industrial implemented Creaform's CUBE-R automated 3D scanning cell to replace manual fixtures, achieving higher repeatability and speed for automotive body-in-white inspection.</description>
+      <pubDate>Tue, 17 Feb 2026 07:10:16 -0000</pubDate>
+      <guid>https://metrology.news/driving-automotive-quality-with-automation/</guid>
+    </item>
+    <item>
+      <title>LK Metrology CT System</title>
+      <link>https://www.qualitymag.com/articles/99404-lk-metrology-ct-system</link>
+      <description>LK Metrology introduced the COREX 250, a cost-effective industrial CT system designed specifically for shop floor production environments rather than labs.</description>
+      <pubDate>Tue, 17 Feb 2026 07:10:04 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99404-lk-metrology-ct-system</guid>
+    </item>
+    <item>
       <title>CAPPS 2026 Powers Data-Driven CNC Manufacturing</title>
       <link>https://metrology.news/capps-2026-powers-data-driven-cnc-manufacturing/</link>
       <description>Applied Automation Technologies released CAPPS 2026, advancing on-machine metrology with improved laser scanning integration and automated process control for CNC manufacturing.</description>
@@ -24,34 +52,6 @@
       <description>Orbbec partners with Robbyant to optimize spatial perception models for its Gemini 330 stereo depth cameras, enhancing reliability for commercial robotic vision applications.</description>
       <pubDate>Mon, 16 Feb 2026 07:27:39 -0000</pubDate>
       <guid>https://metrology.news/orbbec-and-robbyant-set-a-new-benchmark-in-robotic-depth-perception/</guid>
-    </item>
-    <item>
-      <title>Machine Vision Lighting Solutions for Unwanted Glare</title>
-      <link>https://www.qualitymag.com/articles/99403-machine-vision-lighting-solutions-for-unwanted-glare</link>
-      <description>CCS America details lighting strategies (shrouding, polarization, overdriving) to eliminate glare in machine vision inspection systems.</description>
-      <pubDate>Sun, 15 Feb 2026 07:26:46 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99403-machine-vision-lighting-solutions-for-unwanted-glare</guid>
-    </item>
-    <item>
-      <title>Advancing Robotics with 3D Vision, AI, and Edge Computing</title>
-      <link>https://www.vision-systems.com/nextgen/article/55357131/teledyne-vision-systems-smarter-vision-at-the-edge-merging-ai-depth-and-motion</link>
-      <description>Teledyne Vision Systems discusses the convergence of AI, 3D vision, and edge computing to enable smarter, adaptive robotics in industrial automation.</description>
-      <pubDate>Sun, 15 Feb 2026 07:26:33 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/article/55357131/teledyne-vision-systems-smarter-vision-at-the-edge-merging-ai-depth-and-motion</guid>
-    </item>
-    <item>
-      <title>Camera Powers Lens-Coupled High-Speed X-Ray Imager</title>
-      <link>https://metrology.news/camera-powers-lens-coupled-high-speed-x-ray-imager-for-real-time-4d-computed-tomography/</link>
-      <description>Allied Vision's EoSens 1.1CXP2 high-speed CMOS camera selected as the core imaging engine for a new real-time 4D X-ray CT system.</description>
-      <pubDate>Sat, 14 Feb 2026 07:04:32 -0000</pubDate>
-      <guid>https://metrology.news/camera-powers-lens-coupled-high-speed-x-ray-imager-for-real-time-4d-computed-tomography/</guid>
-    </item>
-    <item>
-      <title>Harnessing AI to Detect Anomalies During Aircraft Wing Manufacture</title>
-      <link>https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/</link>
-      <description>Loughborough University's AVRRC develops AI-based anomaly detection using synthetic data to augment human inspection in aircraft wing manufacturing.</description>
-      <pubDate>Sat, 14 Feb 2026 07:04:32 -0000</pubDate>
-      <guid>https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/</guid>
     </item>
   </channel>
 </rss>
