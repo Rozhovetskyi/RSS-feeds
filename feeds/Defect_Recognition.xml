@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Mastering Object Detection: Training YOLO on Custom Objects</title>
+      <link>https://medium.com/@frankshanealvares/mastering-object-detection-training-yolo-on-custom-objects-4791c33f2b1a</link>
+      <description>A step-by-step guide to training YOLOv11 on custom objects, covering dataset preparation, configuration, and evaluation.</description>
+      <pubDate>Wed, 18 Feb 2026 19:20:07 -0000</pubDate>
+      <guid>https://medium.com/@frankshanealvares/mastering-object-detection-training-yolo-on-custom-objects-4791c33f2b1a</guid>
+    </item>
+    <item>
       <title>YOLOv2 &amp; YOLO9000 Paper Walkthrough: Better, Faster, Stronger</title>
       <link>https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/</link>
       <description>A detailed walkthrough of the YOLOv2 architecture and its PyTorch implementation from scratch, including Darknet-19, passthrough layers, and anchor boxes.</description>
@@ -45,13 +52,6 @@
       <description>Apply the best methods from academia to get the most out of practical applications of visual anomaly detection.</description>
       <pubDate>Mon, 16 Feb 2026 19:24:53 -0000</pubDate>
       <guid>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</guid>
-    </item>
-    <item>
-      <title>The Next AI Revolution: A Tutorial Using VAEs to Generate High-Quality Synthetic Data</title>
-      <link>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</link>
-      <description>Tutorial on leveraging the BasicVAE architecture to generate synthetic data and improve classification accuracy.</description>
-      <pubDate>Mon, 16 Feb 2026 19:24:28 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-next-ai-revolution-a-tutorial-using-vaes-to-generate-high-quality-synthetic-data-d0a6d2f7d638</guid>
     </item>
   </channel>
 </rss>
