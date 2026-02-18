@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Breaking the Data Bottleneck: Synthetic Data Accelerates AI-Driven Quality Control</title>
+      <link>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</link>
+      <description>Zetamotion and other companies are advancing synthetic data generation to overcome data scarcity in AI training for automated inspection, accelerating the deployment of defect detection models.</description>
+      <pubDate>Wed, 18 Feb 2026 07:07:52 -0000</pubDate>
+      <guid>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</guid>
+    </item>
+    <item>
+      <title>SHINING 3D Expands Industrial 3D Scanning Range with New Metrology Systems</title>
+      <link>https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/</link>
+      <description>SHINING 3D launches OptimScan Q9 and FreeScan Omni Lite, expanding its industrial metrology portfolio with scalable, high-precision scanning solutions for manufacturing.</description>
+      <pubDate>Wed, 18 Feb 2026 07:07:37 -0000</pubDate>
+      <guid>https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/</guid>
+    </item>
+    <item>
+      <title>Minitab Expands DOE Capabilities with Acquisition of Effex Optimization Platform</title>
+      <link>https://metrology.news/minitab-expands-doe-capabilities-with-acquisition-of-effex-optimization-platform/</link>
+      <description>Minitab acquires Effex to integrate advanced design of experiments (DOE) and AI-driven optimization into its quality analysis software, enhancing process improvement tools for manufacturers.</description>
+      <pubDate>Wed, 18 Feb 2026 07:07:21 -0000</pubDate>
+      <guid>https://metrology.news/minitab-expands-doe-capabilities-with-acquisition-of-effex-optimization-platform/</guid>
+    </item>
+    <item>
+      <title>Red Bull Ford Powertrains Uses Hexagon Tech to Ensure Super-High-Performance of Its First-Ever F1 Powertrain</title>
+      <link>https://www.qualitymag.com/articles/99409-red-bull-ford-powertrains-uses-hexagon-tech-to-ensure-super-high-performance-of-its-first-ever-f1-powertrain</link>
+      <description>Red Bull Ford Powertrains utilizes Hexagon’s ultra-high accuracy CMMs and 3D scanners to achieve sub-micron tolerances for its new F1 hybrid powertrain manufacturing.</description>
+      <pubDate>Wed, 18 Feb 2026 07:07:07 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99409-red-bull-ford-powertrains-uses-hexagon-tech-to-ensure-super-high-performance-of-its-first-ever-f1-powertrain</guid>
+    </item>
+    <item>
       <title>Visual Intelligence Powering Next-Generation Robotics</title>
       <link>https://metrology.news/visual-intelligence-powering-next-generation-robotics/</link>
       <description>Machine vision is evolving from simple inspection to a core enabler of robotic intelligence, providing spatial awareness and real-time measurement for flexible, high-mix manufacturing.</description>
@@ -24,34 +52,6 @@
       <description>Ajin Industrial implemented Creaform's CUBE-R automated 3D scanning cell to replace manual fixtures, achieving higher repeatability and speed for automotive body-in-white inspection.</description>
       <pubDate>Tue, 17 Feb 2026 07:10:16 -0000</pubDate>
       <guid>https://metrology.news/driving-automotive-quality-with-automation/</guid>
-    </item>
-    <item>
-      <title>LK Metrology CT System</title>
-      <link>https://www.qualitymag.com/articles/99404-lk-metrology-ct-system</link>
-      <description>LK Metrology introduced the COREX 250, a cost-effective industrial CT system designed specifically for shop floor production environments rather than labs.</description>
-      <pubDate>Tue, 17 Feb 2026 07:10:04 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99404-lk-metrology-ct-system</guid>
-    </item>
-    <item>
-      <title>CAPPS 2026 Powers Data-Driven CNC Manufacturing</title>
-      <link>https://metrology.news/capps-2026-powers-data-driven-cnc-manufacturing/</link>
-      <description>Applied Automation Technologies released CAPPS 2026, advancing on-machine metrology with improved laser scanning integration and automated process control for CNC manufacturing.</description>
-      <pubDate>Mon, 16 Feb 2026 07:27:57 -0000</pubDate>
-      <guid>https://metrology.news/capps-2026-powers-data-driven-cnc-manufacturing/</guid>
-    </item>
-    <item>
-      <title>$124M Investment Funds Machina Labs’ First Large-Scale Intelligent Factory</title>
-      <link>https://metrology.news/124m-investment-funds-machina-labs-first-large-scale-intelligent-factory/</link>
-      <description>Machina Labs secured $124M Series C funding to build a large-scale intelligent factory using robotic manufacturing cells, signaling major growth in software-defined production infrastructure.</description>
-      <pubDate>Mon, 16 Feb 2026 07:27:49 -0000</pubDate>
-      <guid>https://metrology.news/124m-investment-funds-machina-labs-first-large-scale-intelligent-factory/</guid>
-    </item>
-    <item>
-      <title>Orbbec and Robbyant Set a New Benchmark in Robotic Depth Perception</title>
-      <link>https://metrology.news/orbbec-and-robbyant-set-a-new-benchmark-in-robotic-depth-perception/</link>
-      <description>Orbbec partners with Robbyant to optimize spatial perception models for its Gemini 330 stereo depth cameras, enhancing reliability for commercial robotic vision applications.</description>
-      <pubDate>Mon, 16 Feb 2026 07:27:39 -0000</pubDate>
-      <guid>https://metrology.news/orbbec-and-robbyant-set-a-new-benchmark-in-robotic-depth-perception/</guid>
     </item>
   </channel>
 </rss>
