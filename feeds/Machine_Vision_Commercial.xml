@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Optical Inspection System Market Size &amp; Share Analysis</title>
+      <link>https://www.openpr.com/news/4392284/automated-optical-inspection-system-market-size-share</link>
+      <description>The Automated Optical Inspection (AOI) market is projected to grow to $6.5 billion by 2035, driven by rising electronics manufacturing automation and stringent quality assurance standards.</description>
+      <pubDate>Thu, 19 Feb 2026 07:14:53 -0000</pubDate>
+      <guid>https://www.openpr.com/news/4392284/automated-optical-inspection-system-market-size-share</guid>
+    </item>
+    <item>
       <title>Breaking the Data Bottleneck: Synthetic Data Accelerates AI-Driven Quality Control</title>
       <link>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</link>
       <description>Zetamotion and other companies are advancing synthetic data generation to overcome data scarcity in AI training for automated inspection, accelerating the deployment of defect detection models.</description>
@@ -45,13 +52,6 @@
       <description>Emesent launched the GX1, an integrated SLAM and RTK scanner achieving 5-10mm global accuracy for topographic surveying and construction.</description>
       <pubDate>Tue, 17 Feb 2026 07:10:29 -0000</pubDate>
       <guid>https://metrology.news/all-in-one-slam-lidar-rtk-and-360-imagery-scanner-launched/</guid>
-    </item>
-    <item>
-      <title>Driving Automotive Quality with Automation</title>
-      <link>https://metrology.news/driving-automotive-quality-with-automation/</link>
-      <description>Ajin Industrial implemented Creaform's CUBE-R automated 3D scanning cell to replace manual fixtures, achieving higher repeatability and speed for automotive body-in-white inspection.</description>
-      <pubDate>Tue, 17 Feb 2026 07:10:16 -0000</pubDate>
-      <guid>https://metrology.news/driving-automotive-quality-with-automation/</guid>
     </item>
   </channel>
 </rss>
