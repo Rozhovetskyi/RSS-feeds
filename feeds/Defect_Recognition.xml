@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator</title>
+      <link>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</link>
+      <description>An introduction to image derivatives and gradients using OpenCV, explaining how to implement Sobel and Scharr operators for edge detection.</description>
+      <pubDate>Thu, 19 Feb 2026 19:22:08 -0000</pubDate>
+      <guid>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</guid>
+    </item>
+    <item>
+      <title>Custom Training Pipeline for Object Detection Models</title>
+      <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
+      <description>A comprehensive guide to building a custom object detection training pipeline using PyTorch, covering dataset processing, augmentations, and model integration.</description>
+      <pubDate>Thu, 19 Feb 2026 19:21:47 -0000</pubDate>
+      <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
+    </item>
+    <item>
       <title>Mastering Object Detection: Training YOLO on Custom Objects</title>
       <link>https://medium.com/@frankshanealvares/mastering-object-detection-training-yolo-on-custom-objects-4791c33f2b1a</link>
       <description>A step-by-step guide to training YOLOv11 on custom objects, covering dataset preparation, configuration, and evaluation.</description>
@@ -38,20 +52,6 @@
       <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
       <pubDate>Mon, 16 Feb 2026 19:25:28 -0000</pubDate>
       <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
-    </item>
-    <item>
-      <title>Feature Detection, Part 3: Harris Corner Detection</title>
-      <link>https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/</link>
-      <description>Finding the most informative points in images using Harris Corner Detection, a fundamental technique for industrial inspection.</description>
-      <pubDate>Mon, 16 Feb 2026 19:25:10 -0000</pubDate>
-      <guid>https://towardsdatascience.com/feature-detection-part-3-harris-corner-detection/</guid>
-    </item>
-    <item>
-      <title>How to Improve the Performance of Visual Anomaly Detection Models</title>
-      <link>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</link>
-      <description>Apply the best methods from academia to get the most out of practical applications of visual anomaly detection.</description>
-      <pubDate>Mon, 16 Feb 2026 19:24:53 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-to-improve-the-performance-of-visual-anomaly-detection-models/</guid>
     </item>
   </channel>
 </rss>
