@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Collaborative Robots and Digital Metrology Pioneering Factories of the Future</title>
+      <link>https://metrology.news/collaborative-robots-and-digital-metrology-pioneering-factories-of-the-future/</link>
+      <description>Tekniker collaborates with ZEISS and KUKA to demonstrate a new automated robotic metrology solution for high-precision in-line quality control.</description>
+      <pubDate>Fri, 20 Feb 2026 07:20:48 -0000</pubDate>
+      <guid>https://metrology.news/collaborative-robots-and-digital-metrology-pioneering-factories-of-the-future/</guid>
+    </item>
+    <item>
+      <title>INSPECTIS Launches New Ring Light With Dual White &amp; UV Light</title>
+      <link>https://metrology.news/inspectis-launches-new-ring-light-with-dual-white-uv-light/</link>
+      <description>INSPECTIS launches a new dual-mode ring light for digital microscopes, enhancing detection of conformal coatings and contamination in electronics manufacturing.</description>
+      <pubDate>Fri, 20 Feb 2026 07:20:32 -0000</pubDate>
+      <guid>https://metrology.news/inspectis-launches-new-ring-light-with-dual-white-uv-light/</guid>
+    </item>
+    <item>
       <title>Automated Optical Inspection System Market Size &amp; Share Analysis</title>
       <link>https://www.openpr.com/news/4392284/automated-optical-inspection-system-market-size-share</link>
       <description>The Automated Optical Inspection (AOI) market is projected to grow to $6.5 billion by 2035, driven by rising electronics manufacturing automation and stringent quality assurance standards.</description>
@@ -38,20 +52,6 @@
       <description>Red Bull Ford Powertrains utilizes Hexagon’s ultra-high accuracy CMMs and 3D scanners to achieve sub-micron tolerances for its new F1 hybrid powertrain manufacturing.</description>
       <pubDate>Wed, 18 Feb 2026 07:07:07 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99409-red-bull-ford-powertrains-uses-hexagon-tech-to-ensure-super-high-performance-of-its-first-ever-f1-powertrain</guid>
-    </item>
-    <item>
-      <title>Visual Intelligence Powering Next-Generation Robotics</title>
-      <link>https://metrology.news/visual-intelligence-powering-next-generation-robotics/</link>
-      <description>Machine vision is evolving from simple inspection to a core enabler of robotic intelligence, providing spatial awareness and real-time measurement for flexible, high-mix manufacturing.</description>
-      <pubDate>Tue, 17 Feb 2026 07:10:43 -0000</pubDate>
-      <guid>https://metrology.news/visual-intelligence-powering-next-generation-robotics/</guid>
-    </item>
-    <item>
-      <title>All-in-One SLAM LiDAR, RTK and 360° Imagery Scanner Launched</title>
-      <link>https://metrology.news/all-in-one-slam-lidar-rtk-and-360-imagery-scanner-launched/</link>
-      <description>Emesent launched the GX1, an integrated SLAM and RTK scanner achieving 5-10mm global accuracy for topographic surveying and construction.</description>
-      <pubDate>Tue, 17 Feb 2026 07:10:29 -0000</pubDate>
-      <guid>https://metrology.news/all-in-one-slam-lidar-rtk-and-360-imagery-scanner-launched/</guid>
     </item>
   </channel>
 </rss>
