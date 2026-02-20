@@ -5,6 +5,41 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing — Part 2</title>
+      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-part-2-d18cb75337d4</link>
+      <description>Part 2 of the series on defect detection, focusing on PyTorch implementation details for training and inference in a manufacturing context.</description>
+      <pubDate>Fri, 20 Feb 2026 19:12:15 -0000</pubDate>
+      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-part-2-d18cb75337d4</guid>
+    </item>
+    <item>
+      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
+      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
+      <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
+      <pubDate>Fri, 20 Feb 2026 19:11:59 -0000</pubDate>
+      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
+    </item>
+    <item>
+      <title>Outlier Detection With Autoencoders</title>
+      <link>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90</link>
+      <description>Learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
+      <pubDate>Fri, 20 Feb 2026 19:11:37 -0000</pubDate>
+      <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90</guid>
+    </item>
+    <item>
+      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
+      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</link>
+      <description>A detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset using transfer learning.</description>
+      <pubDate>Fri, 20 Feb 2026 19:11:21 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</guid>
+    </item>
+    <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673</link>
+      <description>Learn about Yolov4 and Darknet to train a Custom Object Detector using Python and Google Colab.</description>
+      <pubDate>Fri, 20 Feb 2026 19:11:04 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673</guid>
+    </item>
+    <item>
       <title>Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator</title>
       <link>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</link>
       <description>An introduction to image derivatives and gradients using OpenCV, explaining how to implement Sobel and Scharr operators for edge detection.</description>
@@ -17,41 +52,6 @@
       <description>A comprehensive guide to building a custom object detection training pipeline using PyTorch, covering dataset processing, augmentations, and model integration.</description>
       <pubDate>Thu, 19 Feb 2026 19:21:47 -0000</pubDate>
       <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
-    </item>
-    <item>
-      <title>Mastering Object Detection: Training YOLO on Custom Objects</title>
-      <link>https://medium.com/@frankshanealvares/mastering-object-detection-training-yolo-on-custom-objects-4791c33f2b1a</link>
-      <description>A step-by-step guide to training YOLOv11 on custom objects, covering dataset preparation, configuration, and evaluation.</description>
-      <pubDate>Wed, 18 Feb 2026 19:20:07 -0000</pubDate>
-      <guid>https://medium.com/@frankshanealvares/mastering-object-detection-training-yolo-on-custom-objects-4791c33f2b1a</guid>
-    </item>
-    <item>
-      <title>YOLOv2 &amp; YOLO9000 Paper Walkthrough: Better, Faster, Stronger</title>
-      <link>https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/</link>
-      <description>A detailed walkthrough of the YOLOv2 architecture and its PyTorch implementation from scratch, including Darknet-19, passthrough layers, and anchor boxes.</description>
-      <pubDate>Tue, 17 Feb 2026 19:18:24 -0000</pubDate>
-      <guid>https://towardsdatascience.com/yolov2-yolo9000-paper-walkthrough-better-faster-stronger/</guid>
-    </item>
-    <item>
-      <title>Outlier Detection With Autoencoders</title>
-      <link>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</link>
-      <description>Building an outlier detector using autoencoders in TensorFlow to identify anomalies in data that cannot be compressed well.</description>
-      <pubDate>Tue, 17 Feb 2026 19:18:10 -0000</pubDate>
-      <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</guid>
-    </item>
-    <item>
-      <title>Autoencoders: An Ultimate Guide for Data Scientists</title>
-      <link>https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e/</link>
-      <description>A comprehensive guide to autoencoder architecture with a Python implementation using TensorFlow and Keras on the MNIST dataset.</description>
-      <pubDate>Tue, 17 Feb 2026 19:17:56 -0000</pubDate>
-      <guid>https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e/</guid>
-    </item>
-    <item>
-      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
-      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
-      <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
-      <pubDate>Mon, 16 Feb 2026 19:25:28 -0000</pubDate>
-      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
     </item>
   </channel>
 </rss>
