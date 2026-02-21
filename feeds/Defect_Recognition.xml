@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Creating Synthetic Data for Machine Learning</title>
+      <link>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</link>
+      <description>A tutorial on creating synthetic data to train a model for object detection, using YOLOv5.</description>
+      <pubDate>Sat, 21 Feb 2026 19:09:46 -0000</pubDate>
+      <guid>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</guid>
+    </item>
+    <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>A step-by-step guide to deploying a custom YOLO object detection model on localhost using Flask and Python.</description>
+      <pubDate>Sat, 21 Feb 2026 19:09:35 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
+      <title>Semi-supervised Anomaly Detection using Auto Encoders</title>
+      <link>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</link>
+      <description>A convolutional auto encoder based approach for semi-supervised anomaly detection in images, including a PyTorch implementation.</description>
+      <pubDate>Sat, 21 Feb 2026 19:09:22 -0000</pubDate>
+      <guid>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</guid>
+    </item>
+    <item>
       <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing — Part 2</title>
       <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-part-2-d18cb75337d4</link>
       <description>Part 2 of the series on defect detection, focusing on PyTorch implementation details for training and inference in a manufacturing context.</description>
@@ -31,27 +52,6 @@
       <description>A detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset using transfer learning.</description>
       <pubDate>Fri, 20 Feb 2026 19:11:21 -0000</pubDate>
       <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</guid>
-    </item>
-    <item>
-      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
-      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673</link>
-      <description>Learn about Yolov4 and Darknet to train a Custom Object Detector using Python and Google Colab.</description>
-      <pubDate>Fri, 20 Feb 2026 19:11:04 -0000</pubDate>
-      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673</guid>
-    </item>
-    <item>
-      <title>Feature Detection, Part 1: Image Derivatives, Gradients, and Sobel Operator</title>
-      <link>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</link>
-      <description>An introduction to image derivatives and gradients using OpenCV, explaining how to implement Sobel and Scharr operators for edge detection.</description>
-      <pubDate>Thu, 19 Feb 2026 19:22:08 -0000</pubDate>
-      <guid>https://towardsdatascience.com/feature-detection-part-1-image-derivatives-gradients-and-sobel-operator/</guid>
-    </item>
-    <item>
-      <title>Custom Training Pipeline for Object Detection Models</title>
-      <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
-      <description>A comprehensive guide to building a custom object detection training pipeline using PyTorch, covering dataset processing, augmentations, and model integration.</description>
-      <pubDate>Thu, 19 Feb 2026 19:21:47 -0000</pubDate>
-      <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
     </item>
   </channel>
 </rss>
