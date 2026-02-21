@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Cognex Outlines AI-Driven Growth Strategy at Citi Global Conference</title>
+      <link>https://www.investing.com/news/transcripts/cognex-at-citis-global-conference-ai-drives-growth-strategy-93CH-4514229</link>
+      <description>Cognex presented its growth strategy focusing on AI-driven penetration in packaging and semiconductor sectors, targeting a 25% EBITDA margin by 2026.</description>
+      <pubDate>Sat, 21 Feb 2026 07:28:02 -0000</pubDate>
+      <guid>https://www.investing.com/news/transcripts/cognex-at-citis-global-conference-ai-drives-growth-strategy-93CH-4514229</guid>
+    </item>
+    <item>
+      <title>Supreme Court Ruling Limits Presidential Tariff Powers, Impacting Machine Vision Industry</title>
+      <link>https://www.vision-systems.com/home/news/55358983/what-the-supreme-court-ruling-against-trumps-emergency-tariffs-might-mean-for-the-machine-vision-industry</link>
+      <description>The US Supreme Court ruled against the use of IEEPA for tariffs, requiring Congressional approval, which may reduce import costs for machine vision components like sensors and lenses.</description>
+      <pubDate>Sat, 21 Feb 2026 07:27:52 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/news/55358983/what-the-supreme-court-ruling-against-trumps-emergency-tariffs-might-mean-for-the-machine-vision-industry</guid>
+    </item>
+    <item>
       <title>Collaborative Robots and Digital Metrology Pioneering Factories of the Future</title>
       <link>https://metrology.news/collaborative-robots-and-digital-metrology-pioneering-factories-of-the-future/</link>
       <description>Tekniker collaborates with ZEISS and KUKA to demonstrate a new automated robotic metrology solution for high-precision in-line quality control.</description>
@@ -38,20 +52,6 @@
       <description>SHINING 3D launches OptimScan Q9 and FreeScan Omni Lite, expanding its industrial metrology portfolio with scalable, high-precision scanning solutions for manufacturing.</description>
       <pubDate>Wed, 18 Feb 2026 07:07:37 -0000</pubDate>
       <guid>https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/</guid>
-    </item>
-    <item>
-      <title>Minitab Expands DOE Capabilities with Acquisition of Effex Optimization Platform</title>
-      <link>https://metrology.news/minitab-expands-doe-capabilities-with-acquisition-of-effex-optimization-platform/</link>
-      <description>Minitab acquires Effex to integrate advanced design of experiments (DOE) and AI-driven optimization into its quality analysis software, enhancing process improvement tools for manufacturers.</description>
-      <pubDate>Wed, 18 Feb 2026 07:07:21 -0000</pubDate>
-      <guid>https://metrology.news/minitab-expands-doe-capabilities-with-acquisition-of-effex-optimization-platform/</guid>
-    </item>
-    <item>
-      <title>Red Bull Ford Powertrains Uses Hexagon Tech to Ensure Super-High-Performance of Its First-Ever F1 Powertrain</title>
-      <link>https://www.qualitymag.com/articles/99409-red-bull-ford-powertrains-uses-hexagon-tech-to-ensure-super-high-performance-of-its-first-ever-f1-powertrain</link>
-      <description>Red Bull Ford Powertrains utilizes Hexagon’s ultra-high accuracy CMMs and 3D scanners to achieve sub-micron tolerances for its new F1 hybrid powertrain manufacturing.</description>
-      <pubDate>Wed, 18 Feb 2026 07:07:07 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99409-red-bull-ford-powertrains-uses-hexagon-tech-to-ensure-super-high-performance-of-its-first-ever-f1-powertrain</guid>
     </item>
   </channel>
 </rss>
