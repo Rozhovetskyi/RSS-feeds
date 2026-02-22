@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Governing Artificial Intelligence in Conformity Assessment: The ISO/CASCO Perspective</title>
+      <link>https://www.qualitymag.com/articles/99426-governing-artificial-intelligence-in-conformity-assessment-the-iso-casco-perspective</link>
+      <description>ISO/CASCO standards now explicitly govern AI in conformity assessment, treating it as a technical resource requiring human oversight and validation, impacting AI-driven inspection systems.</description>
+      <pubDate>Sun, 22 Feb 2026 07:21:18 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99426-governing-artificial-intelligence-in-conformity-assessment-the-iso-casco-perspective</guid>
+    </item>
+    <item>
       <title>Cognex Outlines AI-Driven Growth Strategy at Citi Global Conference</title>
       <link>https://www.investing.com/news/transcripts/cognex-at-citis-global-conference-ai-drives-growth-strategy-93CH-4514229</link>
       <description>Cognex presented its growth strategy focusing on AI-driven penetration in packaging and semiconductor sectors, targeting a 25% EBITDA margin by 2026.</description>
@@ -45,13 +52,6 @@
       <description>Zetamotion and other companies are advancing synthetic data generation to overcome data scarcity in AI training for automated inspection, accelerating the deployment of defect detection models.</description>
       <pubDate>Wed, 18 Feb 2026 07:07:52 -0000</pubDate>
       <guid>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</guid>
-    </item>
-    <item>
-      <title>SHINING 3D Expands Industrial 3D Scanning Range with New Metrology Systems</title>
-      <link>https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/</link>
-      <description>SHINING 3D launches OptimScan Q9 and FreeScan Omni Lite, expanding its industrial metrology portfolio with scalable, high-precision scanning solutions for manufacturing.</description>
-      <pubDate>Wed, 18 Feb 2026 07:07:37 -0000</pubDate>
-      <guid>https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/</guid>
     </item>
   </channel>
 </rss>
