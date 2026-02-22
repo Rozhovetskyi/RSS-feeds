@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Watershed Segmentation Using OpenCV</title>
+      <link>https://opencv.org/watershed-segmentation-using-opencv/</link>
+      <description>A comprehensive technical guide to the watershed segmentation algorithm, with OpenCV implementation for separating touching objects and industrial defect detection.</description>
+      <pubDate>Sun, 22 Feb 2026 19:05:58 -0000</pubDate>
+      <guid>https://opencv.org/watershed-segmentation-using-opencv/</guid>
+    </item>
+    <item>
       <title>Creating Synthetic Data for Machine Learning</title>
       <link>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</link>
       <description>A tutorial on creating synthetic data to train a model for object detection, using YOLOv5.</description>
@@ -45,13 +52,6 @@
       <description>Learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
       <pubDate>Fri, 20 Feb 2026 19:11:37 -0000</pubDate>
       <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90</guid>
-    </item>
-    <item>
-      <title>The practical guide for Object Detection with YOLOv5 algorithm</title>
-      <link>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</link>
-      <description>A detailed tutorial explaining how to efficiently train the object detection algorithm YOLOv5 on your own custom dataset using transfer learning.</description>
-      <pubDate>Fri, 20 Feb 2026 19:11:21 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843</guid>
     </item>
   </channel>
 </rss>
