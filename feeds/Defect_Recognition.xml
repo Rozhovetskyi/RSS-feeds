@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>A practical guide on how to train YOLO for object detection on a custom dataset using Darknet and Python, including data preparation and model configuration.</description>
+      <pubDate>Mon, 23 Feb 2026 19:33:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>Watershed Segmentation Using OpenCV</title>
       <link>https://opencv.org/watershed-segmentation-using-opencv/</link>
       <description>A comprehensive technical guide to the watershed segmentation algorithm, with OpenCV implementation for separating touching objects and industrial defect detection.</description>
@@ -45,13 +52,6 @@
       <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
       <pubDate>Fri, 20 Feb 2026 19:11:59 -0000</pubDate>
       <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
-    </item>
-    <item>
-      <title>Outlier Detection With Autoencoders</title>
-      <link>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90</link>
-      <description>Learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
-      <pubDate>Fri, 20 Feb 2026 19:11:37 -0000</pubDate>
-      <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90</guid>
     </item>
   </channel>
 </rss>
