@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Toshiba Launches High-Speed Colour CCD Linear Image Sensor for AOI Equipment</title>
+      <link>https://metrology.news/toshiba-launches-high-speed-colour-ccd-linear-image-sensor-for-aoi-equipment/</link>
+      <description>Toshiba introduces the TCD2400DG, a high-speed linear image sensor specifically designed to increase throughput in industrial Automated Optical Inspection (AOI) systems.</description>
+      <pubDate>Mon, 23 Feb 2026 07:03:15 -0000</pubDate>
+      <guid>https://metrology.news/toshiba-launches-high-speed-colour-ccd-linear-image-sensor-for-aoi-equipment/</guid>
+    </item>
+    <item>
+      <title>Mahr Launches MarWin MarSurf3D for Fast Reliable Surface Roughness Analysis</title>
+      <link>https://metrology.news/mahr-launches-marwin-marsurf3d-for-fast-reliable-surface-roughness-analysis/</link>
+      <description>Mahr releases MarWin MarSurf3D, a software platform accelerating 3D surface roughness analysis for quality control in production environments.</description>
+      <pubDate>Mon, 23 Feb 2026 07:03:03 -0000</pubDate>
+      <guid>https://metrology.news/mahr-launches-marwin-marsurf3d-for-fast-reliable-surface-roughness-analysis/</guid>
+    </item>
+    <item>
       <title>Governing Artificial Intelligence in Conformity Assessment: The ISO/CASCO Perspective</title>
       <link>https://www.qualitymag.com/articles/99426-governing-artificial-intelligence-in-conformity-assessment-the-iso-casco-perspective</link>
       <description>ISO/CASCO standards now explicitly govern AI in conformity assessment, treating it as a technical resource requiring human oversight and validation, impacting AI-driven inspection systems.</description>
@@ -38,20 +52,6 @@
       <description>INSPECTIS launches a new dual-mode ring light for digital microscopes, enhancing detection of conformal coatings and contamination in electronics manufacturing.</description>
       <pubDate>Fri, 20 Feb 2026 07:20:32 -0000</pubDate>
       <guid>https://metrology.news/inspectis-launches-new-ring-light-with-dual-white-uv-light/</guid>
-    </item>
-    <item>
-      <title>Automated Optical Inspection System Market Size &amp; Share Analysis</title>
-      <link>https://www.openpr.com/news/4392284/automated-optical-inspection-system-market-size-share</link>
-      <description>The Automated Optical Inspection (AOI) market is projected to grow to $6.5 billion by 2035, driven by rising electronics manufacturing automation and stringent quality assurance standards.</description>
-      <pubDate>Thu, 19 Feb 2026 07:14:53 -0000</pubDate>
-      <guid>https://www.openpr.com/news/4392284/automated-optical-inspection-system-market-size-share</guid>
-    </item>
-    <item>
-      <title>Breaking the Data Bottleneck: Synthetic Data Accelerates AI-Driven Quality Control</title>
-      <link>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</link>
-      <description>Zetamotion and other companies are advancing synthetic data generation to overcome data scarcity in AI training for automated inspection, accelerating the deployment of defect detection models.</description>
-      <pubDate>Wed, 18 Feb 2026 07:07:52 -0000</pubDate>
-      <guid>https://metrology.news/breaking-the-data-bottleneck-synthetic-data-accelerates-ai-driven-quality-control/</guid>
     </item>
   </channel>
 </rss>
