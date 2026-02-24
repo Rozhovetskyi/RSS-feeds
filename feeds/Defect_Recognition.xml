@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How to Generate Synthetic Data?</title>
+      <link>https://hackernoon.com/how-to-generate-synthetic-data-fo3o3zik</link>
+      <description>A review of generative algorithms including WGAN and Deep Generative Networks for creating synthetic datasets.</description>
+      <pubDate>Tue, 24 Feb 2026 19:28:52 -0000</pubDate>
+      <guid>https://hackernoon.com/how-to-generate-synthetic-data-fo3o3zik</guid>
+    </item>
+    <item>
+      <title>Autoencoders — Deep Learning bits #1</title>
+      <link>https://hackernoon.com/autoencoders-deep-learning-bits-1-11731e200694</link>
+      <description>An introduction to autoencoders with code examples for image reconstruction and segmentation, relevant for anomaly detection.</description>
+      <pubDate>Tue, 24 Feb 2026 19:28:38 -0000</pubDate>
+      <guid>https://hackernoon.com/autoencoders-deep-learning-bits-1-11731e200694</guid>
+    </item>
+    <item>
       <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
       <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
       <description>A practical guide on how to train YOLO for object detection on a custom dataset using Darknet and Python, including data preparation and model configuration.</description>
@@ -38,20 +52,6 @@
       <description>A convolutional auto encoder based approach for semi-supervised anomaly detection in images, including a PyTorch implementation.</description>
       <pubDate>Sat, 21 Feb 2026 19:09:22 -0000</pubDate>
       <guid>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</guid>
-    </item>
-    <item>
-      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing — Part 2</title>
-      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-part-2-d18cb75337d4</link>
-      <description>Part 2 of the series on defect detection, focusing on PyTorch implementation details for training and inference in a manufacturing context.</description>
-      <pubDate>Fri, 20 Feb 2026 19:12:15 -0000</pubDate>
-      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-part-2-d18cb75337d4</guid>
-    </item>
-    <item>
-      <title>AI-Based Quality Control &amp; Defect Detection Using Computer Vision in Manufacturing</title>
-      <link>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</link>
-      <description>A practical guide to defect detection using YOLOv8 and synthetic data generation with OpenCV for industrial quality control.</description>
-      <pubDate>Fri, 20 Feb 2026 19:11:59 -0000</pubDate>
-      <guid>https://medium.com/@amitavamanna/ai-based-quality-control-defect-detection-using-computer-vision-in-manufacturing-ec616ca80d77</guid>
     </item>
   </channel>
 </rss>
