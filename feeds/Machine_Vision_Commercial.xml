@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Enhanced Machine Vision Powers the Next Generation of EV Battery Quality Control</title>
+      <link>https://metrology.news/ai-enhanced-machine-vision-powers-the-next-generation-of-ev-battery-quality-control/</link>
+      <description>Atlas Copco launches 'Smart Verification with AI' using specialized machine-vision cameras and AI to validate EV battery integrity and safety in real-time.</description>
+      <pubDate>Wed, 25 Feb 2026 07:33:36 -0000</pubDate>
+      <guid>https://metrology.news/ai-enhanced-machine-vision-powers-the-next-generation-of-ev-battery-quality-control/</guid>
+    </item>
+    <item>
+      <title>How AI at the Edge is Reinventing Manufacturing Quality</title>
+      <link>https://metrology.news/how-ai-at-the-edge-is-reinventing-manufacturing-quality/</link>
+      <description>Siemens leverages Arm-based edge AI platforms to embed intelligence directly into production environments, enabling real-time anomaly detection without cloud latency.</description>
+      <pubDate>Wed, 25 Feb 2026 07:33:24 -0000</pubDate>
+      <guid>https://metrology.news/how-ai-at-the-edge-is-reinventing-manufacturing-quality/</guid>
+    </item>
+    <item>
+      <title>AI-Powered End-of-Line Inspection Redefines Quality Control</title>
+      <link>https://metrology.news/ai-powered-end-of-line-inspection-redefines-quality-control/</link>
+      <description>Danube Dynamics and Aspöck Systems utilize IDS industrial cameras and AI to automate complex end-of-line inspections for vehicle multi-chamber lamps.</description>
+      <pubDate>Wed, 25 Feb 2026 07:33:14 -0000</pubDate>
+      <guid>https://metrology.news/ai-powered-end-of-line-inspection-redefines-quality-control/</guid>
+    </item>
+    <item>
+      <title>Next-Generation Shopfloor CMM Technology: Engineering Solutions for Production Environments</title>
+      <link>https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments</link>
+      <description>Ready Metrology introduces shopfloor CMMs featuring fixed portal architecture and full table extraction, bringing laboratory-grade precision directly to production.</description>
+      <pubDate>Wed, 25 Feb 2026 07:33:07 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments</guid>
+    </item>
+    <item>
       <title>Autodesk Invests $200 Million in World Labs to Advance Physical-World AI</title>
       <link>https://metrology.news/autodesk-invests-200-million-in-world-labs-to-advance-physical-world-ai/</link>
       <description>Autodesk invests $200 million in World Labs to advance physical-world AI for industrial applications.</description>
@@ -24,34 +52,6 @@
       <description>Midea Group launches MIRO U, a function-first industrial robot designed to redefine factory automation efficiency.</description>
       <pubDate>Tue, 24 Feb 2026 07:26:21 -0000</pubDate>
       <guid>https://metrology.news/function-first-robot-to-redefine-factory-automation/</guid>
-    </item>
-    <item>
-      <title>Humanoids on the Line: Toyota Canada Deploys ‘Digit’ to Enhance Production Efficiency</title>
-      <link>https://metrology.news/humanoids-on-the-line-toyota-canada-deploys-digit-to-enhance-production-efficiency/</link>
-      <description>Toyota Motor Manufacturing Canada deploys Agility Robotics' humanoid 'Digit' to enhance production efficiency.</description>
-      <pubDate>Tue, 24 Feb 2026 07:26:21 -0000</pubDate>
-      <guid>https://metrology.news/humanoids-on-the-line-toyota-canada-deploys-digit-to-enhance-production-efficiency/</guid>
-    </item>
-    <item>
-      <title>Toshiba Launches High-Speed Colour CCD Linear Image Sensor for AOI Equipment</title>
-      <link>https://metrology.news/toshiba-launches-high-speed-colour-ccd-linear-image-sensor-for-aoi-equipment/</link>
-      <description>Toshiba introduces the TCD2400DG, a high-speed linear image sensor specifically designed to increase throughput in industrial Automated Optical Inspection (AOI) systems.</description>
-      <pubDate>Mon, 23 Feb 2026 07:03:15 -0000</pubDate>
-      <guid>https://metrology.news/toshiba-launches-high-speed-colour-ccd-linear-image-sensor-for-aoi-equipment/</guid>
-    </item>
-    <item>
-      <title>Mahr Launches MarWin MarSurf3D for Fast Reliable Surface Roughness Analysis</title>
-      <link>https://metrology.news/mahr-launches-marwin-marsurf3d-for-fast-reliable-surface-roughness-analysis/</link>
-      <description>Mahr releases MarWin MarSurf3D, a software platform accelerating 3D surface roughness analysis for quality control in production environments.</description>
-      <pubDate>Mon, 23 Feb 2026 07:03:03 -0000</pubDate>
-      <guid>https://metrology.news/mahr-launches-marwin-marsurf3d-for-fast-reliable-surface-roughness-analysis/</guid>
-    </item>
-    <item>
-      <title>Governing Artificial Intelligence in Conformity Assessment: The ISO/CASCO Perspective</title>
-      <link>https://www.qualitymag.com/articles/99426-governing-artificial-intelligence-in-conformity-assessment-the-iso-casco-perspective</link>
-      <description>ISO/CASCO standards now explicitly govern AI in conformity assessment, treating it as a technical resource requiring human oversight and validation, impacting AI-driven inspection systems.</description>
-      <pubDate>Sun, 22 Feb 2026 07:21:18 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99426-governing-artificial-intelligence-in-conformity-assessment-the-iso-casco-perspective</guid>
     </item>
   </channel>
 </rss>
