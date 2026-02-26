@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Cognex launches In-Sight L38 3D Vision System</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/14305389/cognex-launches-insight-l38-3d-vision-system</link>
+      <description>Cognex releases the In-Sight L38, combining AI and 3D vision to simplify and improve reliability in automated manufacturing inspections.</description>
+      <pubDate>Thu, 26 Feb 2026 07:30:17 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/14305389/cognex-launches-insight-l38-3d-vision-system</guid>
+    </item>
+    <item>
+      <title>Teledyne FLIR introduces new high-speed swir camera</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/14305367/teledyne-flir-introduces-new-highspeed-swir-camera</link>
+      <description>Teledyne launches the SCION family of high-speed VIS-SWIR cameras targeting semiconductor and hyperspectral imaging applications.</description>
+      <pubDate>Thu, 26 Feb 2026 07:30:06 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/14305367/teledyne-flir-introduces-new-highspeed-swir-camera</guid>
+    </item>
+    <item>
+      <title>ZEISS Launches New Industrial CT System for Battery Inspection</title>
+      <link>https://www.qualitymag.com/articles/99426-zeiss-launches-new-industrial-ct-system-for-battery-inspection</link>
+      <description>ZEISS introduces a new industrial CT system tailored for EV battery inspection, enhancing non-destructive quality assurance.</description>
+      <pubDate>Thu, 26 Feb 2026 07:29:56 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99426-zeiss-launches-new-industrial-ct-system-for-battery-inspection</guid>
+    </item>
+    <item>
+      <title>Hexagon Partners With Nvidia to Transform Industrial Digital Twin Capabilities</title>
+      <link>https://www.qualitymag.com/articles/99427-hexagon-partners-with-nvidia-to-transform-industrial-digital-twin-capabilities</link>
+      <description>Hexagon deepens collaboration with NVIDIA to integrate reality capture and AI-enabled digital twins for optimized industrial workflows.</description>
+      <pubDate>Thu, 26 Feb 2026 07:29:45 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99427-hexagon-partners-with-nvidia-to-transform-industrial-digital-twin-capabilities</guid>
+    </item>
+    <item>
       <title>AI-Enhanced Machine Vision Powers the Next Generation of EV Battery Quality Control</title>
       <link>https://metrology.news/ai-enhanced-machine-vision-powers-the-next-generation-of-ev-battery-quality-control/</link>
       <description>Atlas Copco launches 'Smart Verification with AI' using specialized machine-vision cameras and AI to validate EV battery integrity and safety in real-time.</description>
@@ -24,34 +52,6 @@
       <description>Danube Dynamics and Aspöck Systems utilize IDS industrial cameras and AI to automate complex end-of-line inspections for vehicle multi-chamber lamps.</description>
       <pubDate>Wed, 25 Feb 2026 07:33:14 -0000</pubDate>
       <guid>https://metrology.news/ai-powered-end-of-line-inspection-redefines-quality-control/</guid>
-    </item>
-    <item>
-      <title>Next-Generation Shopfloor CMM Technology: Engineering Solutions for Production Environments</title>
-      <link>https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments</link>
-      <description>Ready Metrology introduces shopfloor CMMs featuring fixed portal architecture and full table extraction, bringing laboratory-grade precision directly to production.</description>
-      <pubDate>Wed, 25 Feb 2026 07:33:07 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments</guid>
-    </item>
-    <item>
-      <title>Autodesk Invests $200 Million in World Labs to Advance Physical-World AI</title>
-      <link>https://metrology.news/autodesk-invests-200-million-in-world-labs-to-advance-physical-world-ai/</link>
-      <description>Autodesk invests $200 million in World Labs to advance physical-world AI for industrial applications.</description>
-      <pubDate>Tue, 24 Feb 2026 07:26:22 -0000</pubDate>
-      <guid>https://metrology.news/autodesk-invests-200-million-in-world-labs-to-advance-physical-world-ai/</guid>
-    </item>
-    <item>
-      <title>Waygate Mentor Zoom Inspection Camera Launched for Enhanced Industrial Inspections</title>
-      <link>https://metrology.news/waygate-mentor-zoom-inspection-camera-launched-for-enhanced-industrial-inspections/</link>
-      <description>Waygate Technologies launches Mentor Zoom, a PTZ camera system for enhanced remote visual inspection in industrial environments.</description>
-      <pubDate>Tue, 24 Feb 2026 07:26:21 -0000</pubDate>
-      <guid>https://metrology.news/waygate-mentor-zoom-inspection-camera-launched-for-enhanced-industrial-inspections/</guid>
-    </item>
-    <item>
-      <title>Function-First Robot To Redefine Factory Automation</title>
-      <link>https://metrology.news/function-first-robot-to-redefine-factory-automation/</link>
-      <description>Midea Group launches MIRO U, a function-first industrial robot designed to redefine factory automation efficiency.</description>
-      <pubDate>Tue, 24 Feb 2026 07:26:21 -0000</pubDate>
-      <guid>https://metrology.news/function-first-robot-to-redefine-factory-automation/</guid>
     </item>
   </channel>
 </rss>
