@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How to Train A Custom Object Detection Model with YOLO v5</title>
+      <link>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
+      <description>A step-by-step guide on training a custom object detection model using YOLOv5, including data collection, annotation, and model configuration.</description>
+      <pubDate>Thu, 26 Feb 2026 19:43:07 -0000</pubDate>
+      <guid>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</guid>
+    </item>
+    <item>
       <title>How to Generate Synthetic Data?</title>
       <link>https://hackernoon.com/how-to-generate-synthetic-data-fo3o3zik</link>
       <description>A review of generative algorithms including WGAN and Deep Generative Networks for creating synthetic datasets.</description>
@@ -45,13 +52,6 @@
       <description>A step-by-step guide to deploying a custom YOLO object detection model on localhost using Flask and Python.</description>
       <pubDate>Sat, 21 Feb 2026 19:09:35 -0000</pubDate>
       <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Semi-supervised Anomaly Detection using Auto Encoders</title>
-      <link>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</link>
-      <description>A convolutional auto encoder based approach for semi-supervised anomaly detection in images, including a PyTorch implementation.</description>
-      <pubDate>Sat, 21 Feb 2026 19:09:22 -0000</pubDate>
-      <guid>https://towardsdatascience.com/semi-supervised-anomaly-detection-using-auto-encoders-b1b0a5d8aa56/</guid>
     </item>
   </channel>
 </rss>
