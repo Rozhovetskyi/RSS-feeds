@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Stochastics Metrology Drives Production Decisions at Top-Five Device Maker</title>
+      <link>https://metrology.news/automated-stochastics-metrology-drives-production-decisions-at-top-five-device-maker/</link>
+      <description>Fractilia's FAME 300 system has been adopted by a major semiconductor manufacturer, validating the commercial necessity of in-line stochastics metrology for advanced-node yield control.</description>
+      <pubDate>Fri, 27 Feb 2026 07:08:19 -0000</pubDate>
+      <guid>https://metrology.news/automated-stochastics-metrology-drives-production-decisions-at-top-five-device-maker/</guid>
+    </item>
+    <item>
+      <title>Nikon Expands Vision Robotics Strategy with Investment in Trener Robotics</title>
+      <link>https://metrology.news/nikon-expands-vision-robotics-strategy-with-investment-in-trener-robotics/</link>
+      <description>Nikon invests in Trener Robotics to integrate AI-driven natural language programming with its robot vision systems, strengthening its position in the autonomous manufacturing market.</description>
+      <pubDate>Fri, 27 Feb 2026 07:08:12 -0000</pubDate>
+      <guid>https://metrology.news/nikon-expands-vision-robotics-strategy-with-investment-in-trener-robotics/</guid>
+    </item>
+    <item>
       <title>Cognex launches In-Sight L38 3D Vision System</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/14305389/cognex-launches-insight-l38-3d-vision-system</link>
       <description>Cognex releases the In-Sight L38, combining AI and 3D vision to simplify and improve reliability in automated manufacturing inspections.</description>
@@ -38,20 +52,6 @@
       <description>Atlas Copco launches 'Smart Verification with AI' using specialized machine-vision cameras and AI to validate EV battery integrity and safety in real-time.</description>
       <pubDate>Wed, 25 Feb 2026 07:33:36 -0000</pubDate>
       <guid>https://metrology.news/ai-enhanced-machine-vision-powers-the-next-generation-of-ev-battery-quality-control/</guid>
-    </item>
-    <item>
-      <title>How AI at the Edge is Reinventing Manufacturing Quality</title>
-      <link>https://metrology.news/how-ai-at-the-edge-is-reinventing-manufacturing-quality/</link>
-      <description>Siemens leverages Arm-based edge AI platforms to embed intelligence directly into production environments, enabling real-time anomaly detection without cloud latency.</description>
-      <pubDate>Wed, 25 Feb 2026 07:33:24 -0000</pubDate>
-      <guid>https://metrology.news/how-ai-at-the-edge-is-reinventing-manufacturing-quality/</guid>
-    </item>
-    <item>
-      <title>AI-Powered End-of-Line Inspection Redefines Quality Control</title>
-      <link>https://metrology.news/ai-powered-end-of-line-inspection-redefines-quality-control/</link>
-      <description>Danube Dynamics and Aspöck Systems utilize IDS industrial cameras and AI to automate complex end-of-line inspections for vehicle multi-chamber lamps.</description>
-      <pubDate>Wed, 25 Feb 2026 07:33:14 -0000</pubDate>
-      <guid>https://metrology.news/ai-powered-end-of-line-inspection-redefines-quality-control/</guid>
     </item>
   </channel>
 </rss>
