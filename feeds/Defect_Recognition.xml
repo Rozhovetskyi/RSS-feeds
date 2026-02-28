@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Custom Training Pipeline for Object Detection Models</title>
+      <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
+      <description>A practical guide on how to implement a custom training pipeline for object detection models, including YOLO and PyTorch training loops.</description>
+      <pubDate>Sat, 28 Feb 2026 19:36:14 -0000</pubDate>
+      <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
+    </item>
+    <item>
       <title>How to Train A Custom Object Detection Model with YOLO v5</title>
       <link>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
       <description>A step-by-step guide on training a custom object detection model using YOLOv5, including data collection, annotation, and model configuration.</description>
@@ -45,13 +52,6 @@
       <description>A tutorial on creating synthetic data to train a model for object detection, using YOLOv5.</description>
       <pubDate>Sat, 21 Feb 2026 19:09:46 -0000</pubDate>
       <guid>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>A step-by-step guide to deploying a custom YOLO object detection model on localhost using Flask and Python.</description>
-      <pubDate>Sat, 21 Feb 2026 19:09:35 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
     </item>
   </channel>
 </rss>
