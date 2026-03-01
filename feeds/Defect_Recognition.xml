@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>Deploy your own custom YOLO model in localhost.</description>
+      <pubDate>Sun, 01 Mar 2026 19:19:31 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
       <title>Custom Training Pipeline for Object Detection Models</title>
       <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
       <description>A practical guide on how to implement a custom training pipeline for object detection models, including YOLO and PyTorch training loops.</description>
@@ -45,13 +52,6 @@
       <description>A comprehensive technical guide to the watershed segmentation algorithm, with OpenCV implementation for separating touching objects and industrial defect detection.</description>
       <pubDate>Sun, 22 Feb 2026 19:05:58 -0000</pubDate>
       <guid>https://opencv.org/watershed-segmentation-using-opencv/</guid>
-    </item>
-    <item>
-      <title>Creating Synthetic Data for Machine Learning</title>
-      <link>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</link>
-      <description>A tutorial on creating synthetic data to train a model for object detection, using YOLOv5.</description>
-      <pubDate>Sat, 21 Feb 2026 19:09:46 -0000</pubDate>
-      <guid>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</guid>
     </item>
   </channel>
 </rss>
