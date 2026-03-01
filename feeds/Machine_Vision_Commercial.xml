@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How Siemens/Nvidia Partnership for Industrial AI, Manufacturing Will Affect Machine Vision Industry</title>
+      <link>https://www.vision-systems.com/factory/article/55360419/how-siemens-nvidia-partnership-for-industrial-ai-manufacturing-will-affect-machine-vision-industry</link>
+      <description>Siemens and NVIDIA expand their alliance to build an industrial AI operating system that leverages digital twins and generative AI to accelerate advanced machine vision deployments.</description>
+      <pubDate>Sun, 01 Mar 2026 07:21:58 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55360419/how-siemens-nvidia-partnership-for-industrial-ai-manufacturing-will-affect-machine-vision-industry</guid>
+    </item>
+    <item>
       <title>Next-Gen Machine Vision: Anomaly Detection for High-Speed, High-Mix Production Environments</title>
       <link>https://www.vision-systems.com/nextgen/deep-learning-software/article/55359881/switchon-anomaly-detection-based-ai-visual-inspection-architecture-implementation-and-industrial-deployment</link>
       <description>SwitchOn explores AI-driven anomaly detection architectures to scale visual inspection across high-mix industrial production environments.</description>
@@ -45,13 +52,6 @@
       <description>ZEISS introduces a new industrial CT system tailored for EV battery inspection, enhancing non-destructive quality assurance.</description>
       <pubDate>Thu, 26 Feb 2026 07:29:56 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99426-zeiss-launches-new-industrial-ct-system-for-battery-inspection</guid>
-    </item>
-    <item>
-      <title>Hexagon Partners With Nvidia to Transform Industrial Digital Twin Capabilities</title>
-      <link>https://www.qualitymag.com/articles/99427-hexagon-partners-with-nvidia-to-transform-industrial-digital-twin-capabilities</link>
-      <description>Hexagon deepens collaboration with NVIDIA to integrate reality capture and AI-enabled digital twins for optimized industrial workflows.</description>
-      <pubDate>Thu, 26 Feb 2026 07:29:45 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99427-hexagon-partners-with-nvidia-to-transform-industrial-digital-twin-capabilities</guid>
     </item>
   </channel>
 </rss>
