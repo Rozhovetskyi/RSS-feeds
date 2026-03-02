@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>CMM Adaptation to Future Manufacturing Demands</title>
+      <link>https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/</link>
+      <description>Coordinate Measuring Machines are evolving into automated, shop-floor ready smart factory solutions for inline precision inspection.</description>
+      <pubDate>Mon, 02 Mar 2026 07:20:36 -0000</pubDate>
+      <guid>https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/</guid>
+    </item>
+    <item>
+      <title>Multisensor Metrology Automating Micron-Level Inspection in Micro Waterjet Cutting</title>
+      <link>https://metrology.news/multisensor-metrology-automating-micron-level-inspection-in-micro-waterjet-cutting/</link>
+      <description>WatAJet integrates Mitutoyo's Quick Vision Apex to revolutionize automated quality control in micro waterjet cutting.</description>
+      <pubDate>Mon, 02 Mar 2026 07:20:18 -0000</pubDate>
+      <guid>https://metrology.news/multisensor-metrology-automating-micron-level-inspection-in-micro-waterjet-cutting/</guid>
+    </item>
+    <item>
+      <title>AI-Enhanced 3D Profilometry Delivers Eightfold Measurement Precision in Lumber Inspection</title>
+      <link>https://metrology.news/ai-enhanced-3d-profilometry-delivers-eightfold-measurement-precision-in-lumber-inspection/</link>
+      <description>EBI Electric deploys Zebra Technologies' AltiZ 3D sensors to optimize yield and reduce waste in commercial lumber manufacturing.</description>
+      <pubDate>Mon, 02 Mar 2026 07:19:52 -0000</pubDate>
+      <guid>https://metrology.news/ai-enhanced-3d-profilometry-delivers-eightfold-measurement-precision-in-lumber-inspection/</guid>
+    </item>
+    <item>
       <title>How Siemens/Nvidia Partnership for Industrial AI, Manufacturing Will Affect Machine Vision Industry</title>
       <link>https://www.vision-systems.com/factory/article/55360419/how-siemens-nvidia-partnership-for-industrial-ai-manufacturing-will-affect-machine-vision-industry</link>
       <description>Siemens and NVIDIA expand their alliance to build an industrial AI operating system that leverages digital twins and generative AI to accelerate advanced machine vision deployments.</description>
@@ -31,27 +52,6 @@
       <description>Nikon invests in Trener Robotics to integrate AI-driven natural language programming with its robot vision systems, strengthening its position in the autonomous manufacturing market.</description>
       <pubDate>Fri, 27 Feb 2026 07:08:12 -0000</pubDate>
       <guid>https://metrology.news/nikon-expands-vision-robotics-strategy-with-investment-in-trener-robotics/</guid>
-    </item>
-    <item>
-      <title>Cognex launches In-Sight L38 3D Vision System</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/14305389/cognex-launches-insight-l38-3d-vision-system</link>
-      <description>Cognex releases the In-Sight L38, combining AI and 3D vision to simplify and improve reliability in automated manufacturing inspections.</description>
-      <pubDate>Thu, 26 Feb 2026 07:30:17 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/14305389/cognex-launches-insight-l38-3d-vision-system</guid>
-    </item>
-    <item>
-      <title>Teledyne FLIR introduces new high-speed swir camera</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/14305367/teledyne-flir-introduces-new-highspeed-swir-camera</link>
-      <description>Teledyne launches the SCION family of high-speed VIS-SWIR cameras targeting semiconductor and hyperspectral imaging applications.</description>
-      <pubDate>Thu, 26 Feb 2026 07:30:06 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/14305367/teledyne-flir-introduces-new-highspeed-swir-camera</guid>
-    </item>
-    <item>
-      <title>ZEISS Launches New Industrial CT System for Battery Inspection</title>
-      <link>https://www.qualitymag.com/articles/99426-zeiss-launches-new-industrial-ct-system-for-battery-inspection</link>
-      <description>ZEISS introduces a new industrial CT system tailored for EV battery inspection, enhancing non-destructive quality assurance.</description>
-      <pubDate>Thu, 26 Feb 2026 07:29:56 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99426-zeiss-launches-new-industrial-ct-system-for-battery-inspection</guid>
     </item>
   </channel>
 </rss>
