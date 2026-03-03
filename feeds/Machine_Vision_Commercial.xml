@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Engineering Tomorrow: Waygate Technologies Drives the Future of NDT with Integrated AI and Automation</title>
+      <link>https://www.qualitymag.com/articles/99434-engineering-tomorrow-waygate-technologies-drives-the-future-of-ndt-with-integrated-ai-and-automation</link>
+      <description>Waygate Technologies integrates AI and automation into its non-destructive testing systems, providing advanced turnkey solutions for industrial quality control.</description>
+      <pubDate>Tue, 03 Mar 2026 07:27:06 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99434-engineering-tomorrow-waygate-technologies-drives-the-future-of-ndt-with-integrated-ai-and-automation</guid>
+    </item>
+    <item>
+      <title>LUCID Atlas10 SWIR 10GigE RDMA Cameras</title>
+      <link>https://www.qualitymag.com/articles/99442-lucid-atlas10-swir-10gige-rdma-cameras</link>
+      <description>LUCID introduces its new Atlas10 SWIR 10GigE RDMA cameras, expanding high-speed machine vision hardware options for industrial inspection applications.</description>
+      <pubDate>Tue, 03 Mar 2026 07:26:48 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99442-lucid-atlas10-swir-10gige-rdma-cameras</guid>
+    </item>
+    <item>
       <title>CMM Adaptation to Future Manufacturing Demands</title>
       <link>https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/</link>
       <description>Coordinate Measuring Machines are evolving into automated, shop-floor ready smart factory solutions for inline precision inspection.</description>
@@ -38,20 +52,6 @@
       <description>SwitchOn explores AI-driven anomaly detection architectures to scale visual inspection across high-mix industrial production environments.</description>
       <pubDate>Sat, 28 Feb 2026 07:11:57 -0000</pubDate>
       <guid>https://www.vision-systems.com/nextgen/deep-learning-software/article/55359881/switchon-anomaly-detection-based-ai-visual-inspection-architecture-implementation-and-industrial-deployment</guid>
-    </item>
-    <item>
-      <title>Automated Stochastics Metrology Drives Production Decisions at Top-Five Device Maker</title>
-      <link>https://metrology.news/automated-stochastics-metrology-drives-production-decisions-at-top-five-device-maker/</link>
-      <description>Fractilia's FAME 300 system has been adopted by a major semiconductor manufacturer, validating the commercial necessity of in-line stochastics metrology for advanced-node yield control.</description>
-      <pubDate>Fri, 27 Feb 2026 07:08:19 -0000</pubDate>
-      <guid>https://metrology.news/automated-stochastics-metrology-drives-production-decisions-at-top-five-device-maker/</guid>
-    </item>
-    <item>
-      <title>Nikon Expands Vision Robotics Strategy with Investment in Trener Robotics</title>
-      <link>https://metrology.news/nikon-expands-vision-robotics-strategy-with-investment-in-trener-robotics/</link>
-      <description>Nikon invests in Trener Robotics to integrate AI-driven natural language programming with its robot vision systems, strengthening its position in the autonomous manufacturing market.</description>
-      <pubDate>Fri, 27 Feb 2026 07:08:12 -0000</pubDate>
-      <guid>https://metrology.news/nikon-expands-vision-robotics-strategy-with-investment-in-trener-robotics/</guid>
     </item>
   </channel>
 </rss>
