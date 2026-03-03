@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Python for Augmented Data Generation: Building Synthetic Datasets for Machine Learning</title>
+      <link>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</link>
+      <description>How Python libraries help create high-quality synthetic data to improve ML models.</description>
+      <pubDate>Tue, 03 Mar 2026 19:44:34 -0000</pubDate>
+      <guid>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</guid>
+    </item>
+    <item>
+      <title>Building a Real-Time Video Analytics Pipeline with OpenCV and Threading</title>
+      <link>https://medium.com/@sohail_saifi/building-a-real-time-video-analytics-pipeline-with-opencv-and-threading-d6f841c7b56b</link>
+      <description>Building a real-time video analytics pipeline with OpenCV and Threading for inspection applications.</description>
+      <pubDate>Tue, 03 Mar 2026 19:44:26 -0000</pubDate>
+      <guid>https://medium.com/@sohail_saifi/building-a-real-time-video-analytics-pipeline-with-opencv-and-threading-d6f841c7b56b</guid>
+    </item>
+    <item>
+      <title>Anomaly Detection in Video Game Sprites with Autoencoders (Pytorch)</title>
+      <link>https://medium.com/@annatn998/anomaly-detection-in-video-game-sprites-with-autoencoders-pytorch-1b2c9532c30e</link>
+      <description>Implementation of anomaly detection using Autoencoders in Pytorch.</description>
+      <pubDate>Tue, 03 Mar 2026 19:44:18 -0000</pubDate>
+      <guid>https://medium.com/@annatn998/anomaly-detection-in-video-game-sprites-with-autoencoders-pytorch-1b2c9532c30e</guid>
+    </item>
+    <item>
+      <title>Difference Between YOLO and Mask R-CNN</title>
+      <link>https://medium.com/@1saadfarooqawan/difference-between-yolo-and-mask-r-cnn-8998ba046341</link>
+      <description>A technical explanation of YOLO versus Mask R-CNN for object detection.</description>
+      <pubDate>Tue, 03 Mar 2026 19:44:12 -0000</pubDate>
+      <guid>https://medium.com/@1saadfarooqawan/difference-between-yolo-and-mask-r-cnn-8998ba046341</guid>
+    </item>
+    <item>
       <title>Synthetic Data Vault (SDV): A Python Library for Dataset Modeling</title>
       <link>https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398</link>
       <description>A deep dive into code snippets and implementation guides for synthetic data generation for defects using the Synthetic Data Vault library.</description>
@@ -24,34 +52,6 @@
       <description>A practical guide on building an Autoencoder anomaly detection code in Keras for rare event classification, relevant for defect detection.</description>
       <pubDate>Mon, 02 Mar 2026 19:51:30 -0000</pubDate>
       <guid>https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098</guid>
-    </item>
-    <item>
-      <title>YOLO: Real-Time object detection explained</title>
-      <link>https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006</link>
-      <description>Detailed technical implementation and explanation of YOLO for custom objects and object detection, outlining architecture and code strategies.</description>
-      <pubDate>Mon, 02 Mar 2026 19:51:30 -0000</pubDate>
-      <guid>https://towardsdatascience.com/yolo-you-only-look-once-real-time-object-detection-explained-492dc9230006</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>Deploy your own custom YOLO model in localhost.</description>
-      <pubDate>Sun, 01 Mar 2026 19:19:31 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Custom Training Pipeline for Object Detection Models</title>
-      <link>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</link>
-      <description>A practical guide on how to implement a custom training pipeline for object detection models, including YOLO and PyTorch training loops.</description>
-      <pubDate>Sat, 28 Feb 2026 19:36:14 -0000</pubDate>
-      <guid>https://towardsdatascience.com/custom-training-pipeline-for-object-detection-models/</guid>
-    </item>
-    <item>
-      <title>How to Train A Custom Object Detection Model with YOLO v5</title>
-      <link>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
-      <description>A step-by-step guide on training a custom object detection model using YOLOv5, including data collection, annotation, and model configuration.</description>
-      <pubDate>Thu, 26 Feb 2026 19:43:07 -0000</pubDate>
-      <guid>https://medium.com/data-science/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</guid>
     </item>
   </channel>
 </rss>
