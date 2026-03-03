@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
+      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
+      <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
+      <pubDate>Tue, 03 Mar 2026 19:07:40 -0000</pubDate>
+      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
+    </item>
+    <item>
+      <title>AI-Driven Defect Detection with Machine Vision</title>
+      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
+      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag # AI and hashtag # Machine hashtag # Vision are transforming defect detection into a proactive, data-driven strategy.</description>
+      <pubDate>Tue, 03 Mar 2026 19:07:31 -0000</pubDate>
+      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
+    </item>
+    <item>
       <title>HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection</title>
       <link>https://arxiv.org/abs/2602.09524v2</link>
       <description>Unsupervised industrial anomaly detection (UAD) is essential for modern manufacturing inspection, where defect samples are scarce and reliable detection is required. In this paper, we propose HLGFA, a high-low resolution guided feature alignment framework that learns normality by modeling cross-resolution feature consistency between high-resolution and low-resolution representations of normal samples, instead of relying on pixel-level reconstruction. Dual-resolution inputs are processed by a shared frozen backbone to extract multi-level features, and high-resolution representations are decomposed into structure and detail priors to guide the refinement of low-resolution features through conditional modulation and gated residual correction. During inference, anomalies are naturally identified as regions where cross-resolution alignment breaks down. In addition, a noise-aware data augmentation strategy is introduced to suppress nuisance-induced responses commonly observed in industrial environments. Extensive experiments on standard benchmarks demonstrate the effectiveness of HLGFA, achieving 97.9% pixel-level AUROC and 97.5% image-level AUROC on the MVTec AD dataset, outperforming representative reconstruction-based and feature-based methods.</description>
@@ -38,20 +52,6 @@
       <description>Max pooling is the de facto standard for converting anomaly score maps into image-level decisions in memory-bank-based unsupervised anomaly detection (UAD). However, because it relies on a single extreme response, it discards most information about how anomaly evidence is distributed and structured across the image, often causing normal and anomalous scores to overlap. We propose StructCore, a training-free, structure-aware image-level scoring method that goes beyond max pooling. Given an anomaly score map, StructCore computes a low-dimensional structural descriptor phi(S) that captures distributional and spatial characteristics, and refines image-level scoring via a diagonal Mahalanobis calibration estimated from train-good samples, without modifying pixel-level localization. StructCore achieves image-level AUROC scores of 99.6% on MVTec AD and 98.4% on VisA, demonstrating robust image-level anomaly detection by exploiting structural signatures missed by max pooling.</description>
       <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
       <guid>https://arxiv.org/abs/2602.17048v2</guid>
-    </item>
-    <item>
-      <title>Universal Transformation of One-Class Classifiers for Unsupervised Anomaly Detection</title>
-      <link>https://arxiv.org/abs/2602.13091v1</link>
-      <description>Detecting anomalies in images and video is an essential task for multiple real-world problems, including industrial inspection, computer-assisted diagnosis, and environmental monitoring. Anomaly detection is typically formulated as a one-class classification problem, where the training data consists solely of nominal values, leaving methods built on this assumption susceptible to training label noise. We present a dataset folding method that transforms an arbitrary one-class classifier-based anomaly detector into a fully unsupervised method. This is achieved by making a set of key weak assumptions: that anomalies are uncommon in the training dataset and generally heterogeneous. These assumptions enable us to utilize multiple independently trained instances of a one-class classifier to filter the training dataset for anomalies. This transformation requires no modifications to the underlying anomaly detector; the only changes are algorithmically selected data subsets used for training. We demonstrate that our method can transform a wide variety of one-class classifier anomaly detectors for both images and videos into unsupervised ones. Our method creates the first unsupervised logical anomaly detectors by transforming existing methods. We also demonstrate that our method achieves state-of-the-art performance for unsupervised anomaly detection on the MVTec AD, ViSA, and MVTec Loco AD datasets. As improvements to one-class classifiers are made, our method directly transfers those improvements to the unsupervised domain, linking the domains.</description>
-      <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.13091v1</guid>
-    </item>
-    <item>
-      <title>Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection</title>
-      <link>https://arxiv.org/abs/2602.09850v1</link>
-      <description>Industrial anomaly detection demands precise reasoning over fine-grained defect patterns. However, existing multimodal large language models (MLLMs), pretrained on general-domain data, often struggle to capture category-specific anomalies, thereby limiting both detection accuracy and interpretability. To address these limitations, we propose Reason-IAD, a knowledge-guided dynamic latent reasoning framework for explainable industrial anomaly detection. Reason-IAD comprises two core components. First, a retrieval-augmented knowledge module incorporates category-specific textual descriptions into the model input, enabling context-aware reasoning over domain-specific defects. Second, an entropy-driven latent reasoning mechanism conducts iterative exploration within a compact latent space using optimizable latent think tokens, guided by an entropy-based reward that encourages confident and stable predictions. Furthermore, a dynamic visual injection strategy selectively incorporates the most informative image patches into the latent sequence, directing the reasoning process toward regions critical for anomaly detection. Extensive experimental results demonstrate that Reason-IAD consistently outperforms state-of-the-art methods. The code will be publicly available at https://github.com/chenpeng052/Reason-IAD.</description>
-      <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.09850v1</guid>
     </item>
   </channel>
 </rss>
