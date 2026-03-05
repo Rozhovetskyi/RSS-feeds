@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar February 2026 | Enterprise Exclusive - Hammer Missions</title>
+      <link>https://www.hammermissions.com/enterprise-webinar-february-2026</link>
+      <description>This webinar explores how AI is being applied to real-world building envelope assessments , from automated defect detection to faster reporting and more consistent condition analysis. We'll focus on practical workflows, current limitations, and where AI genuinely adds value for engineers, surveyors, and inspection teams today.</description>
+      <pubDate>Thu, 05 Mar 2026 19:13:57 -0000</pubDate>
+      <guid>https://www.hammermissions.com/enterprise-webinar-february-2026</guid>
+    </item>
+    <item>
       <title>Expert-to-Expert Webinar on Zero-Defect Manufacturing</title>
       <link>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</link>
       <description>The webinar will explore how Zero-Defect Manufacturing strategies can help companies detect, predict, repair and prevent defects throughout the production process, improving efficiency and reliability across industrial sectors.</description>
@@ -45,13 +52,6 @@
       <description>Unsupervised Anomaly Detection (UAD) aims to identify abnormal regions by establishing correspondences between test images and normal templates. Existing methods primarily rely on image reconstruction or template retrieval but face a fundamental challenge: matching between test images and normal templates inevitably introduces noise due to intra-class variations, imperfect correspondences, and limited templates. Observing that Retrieval-Augmented Generation (RAG) leverages retrieved samples directly in the generation process, we reinterpret UAD through this lens and introduce \textbf{RAID}, a retrieval-augmented UAD framework designed for noise-resilient anomaly detection and localization. Unlike standard RAG that enriches context or knowledge, we focus on using retrieved normal samples to guide noise suppression in anomaly map generation. RAID retrieves class-, semantic-, and instance-level representations from a hierarchical vector database, forming a coarse-to-fine pipeline. A matching cost volume correlates the input with retrieved exemplars, followed by a guided Mixture-of-Experts (MoE) network that leverages the retrieved samples to adaptively suppress matching noise and produce fine-grained anomaly maps. RAID achieves state-of-the-art performance across full-shot, few-shot, and multi-dataset settings on MVTec, VisA, MPDD, and BTAD benchmarks. \href{https://github.com/Mingxiu-Cai/RAID}{https://github.com/Mingxiu-Cai/RAID}.</description>
       <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
       <guid>https://arxiv.org/abs/2602.19611v1</guid>
-    </item>
-    <item>
-      <title>EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models</title>
-      <link>https://arxiv.org/abs/2602.17419v2</link>
-      <description>Industrial anomaly detection is important for smart manufacturing, but many deep learning approaches produce only binary decisions and provide limited semantic explanations. Multimodal large language models (MLLMs) can potentially generate fine-grained, language-based analyses, yet existing methods often require costly fine-tuning and do not consistently improve anomaly detection accuracy compared to lightweight specialist detectors. We propose expert-augmented attention guidance for industrial anomaly detection in MLLMs (EAGLE), a tuning-free framework that integrates outputs from expert model to guide MLLMs toward both accurate detection and interpretable anomaly descriptions. We further study how EAGLE affects MLLMs internals by examining the attention distribution of MLLMs to the anomalous image regions in the intermediate layers. We observe that successful anomaly detection is associated with increased attention concentration on anomalous regions, and EAGLE tends to encourage this alignment. Experiments on MVTec-AD and VisA show that EAGLE improves anomaly detection performance across multiple MLLMs without any parameter updates, achieving results comparable to fine-tuning based methods. Code is available at</description>
-      <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.17419v2</guid>
     </item>
   </channel>
 </rss>
