@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Line-Scan Camera Delivers Unmatched Speed and Precision for Automated Sorting Systems</title>
+      <link>https://metrology.news/line-scan-camera-delivers-unmatched-speed-and-precision-for-automated-sorting-systems/</link>
+      <description>Allied Vision's allPIXA neo 6k 10GigE line-scan camera provides engineers with the tools to build faster, smarter, and more accurate automated sorting solutions.</description>
+      <pubDate>Thu, 05 Mar 2026 07:26:51 -0000</pubDate>
+      <guid>https://metrology.news/line-scan-camera-delivers-unmatched-speed-and-precision-for-automated-sorting-systems/</guid>
+    </item>
+    <item>
+      <title>Precision XY Gantry System Offers Configurable Motion for High-Throughput - High-Accuracy Applications</title>
+      <link>https://metrology.news/precision-xy-gantry-system-offers-configurable-motion-for-high-throughput-high-accuracy-applications/</link>
+      <description>The X-365 Precision XY Gantry System is a modular, robust Cartesian gantry solution engineered for demanding industrial automation and high-throughput applications.</description>
+      <pubDate>Thu, 05 Mar 2026 07:26:30 -0000</pubDate>
+      <guid>https://metrology.news/precision-xy-gantry-system-offers-configurable-motion-for-high-throughput-high-accuracy-applications/</guid>
+    </item>
+    <item>
+      <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
+      <link>https://www.vision-systems.com/home/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
+      <description>RDI Technologies' aiOne combines a high-speed industrial camera with accelerometer technology and AI software for industrial diagnostic applications requiring high-speed imaging.</description>
+      <pubDate>Thu, 05 Mar 2026 07:26:10 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</guid>
+    </item>
+    <item>
       <title>Force and Torque Sensor Integration Has Come a Long Way</title>
       <link>https://www.qualitymag.com/articles/99447-force-and-torque-sensor-integration-has-come-a-long-way</link>
       <description>Advancements in force and torque sensor integration now allow direct digital connections for improved inline measurements and quality control on production lines.</description>
@@ -31,27 +52,6 @@
       <description>Waygate Technologies integrates AI and automation into its non-destructive testing systems, providing advanced turnkey solutions for industrial quality control.</description>
       <pubDate>Tue, 03 Mar 2026 07:27:06 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99434-engineering-tomorrow-waygate-technologies-drives-the-future-of-ndt-with-integrated-ai-and-automation</guid>
-    </item>
-    <item>
-      <title>LUCID Atlas10 SWIR 10GigE RDMA Cameras</title>
-      <link>https://www.qualitymag.com/articles/99442-lucid-atlas10-swir-10gige-rdma-cameras</link>
-      <description>LUCID introduces its new Atlas10 SWIR 10GigE RDMA cameras, expanding high-speed machine vision hardware options for industrial inspection applications.</description>
-      <pubDate>Tue, 03 Mar 2026 07:26:48 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99442-lucid-atlas10-swir-10gige-rdma-cameras</guid>
-    </item>
-    <item>
-      <title>CMM Adaptation to Future Manufacturing Demands</title>
-      <link>https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/</link>
-      <description>Coordinate Measuring Machines are evolving into automated, shop-floor ready smart factory solutions for inline precision inspection.</description>
-      <pubDate>Mon, 02 Mar 2026 07:20:36 -0000</pubDate>
-      <guid>https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/</guid>
-    </item>
-    <item>
-      <title>Multisensor Metrology Automating Micron-Level Inspection in Micro Waterjet Cutting</title>
-      <link>https://metrology.news/multisensor-metrology-automating-micron-level-inspection-in-micro-waterjet-cutting/</link>
-      <description>WatAJet integrates Mitutoyo's Quick Vision Apex to revolutionize automated quality control in micro waterjet cutting.</description>
-      <pubDate>Mon, 02 Mar 2026 07:20:18 -0000</pubDate>
-      <guid>https://metrology.news/multisensor-metrology-automating-micron-level-inspection-in-micro-waterjet-cutting/</guid>
     </item>
   </channel>
 </rss>
