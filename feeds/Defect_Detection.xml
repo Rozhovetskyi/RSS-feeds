@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
+      <pubDate>Fri, 06 Mar 2026 19:35:29 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
       <title>Webinar February 2026 | Enterprise Exclusive - Hammer Missions</title>
       <link>https://www.hammermissions.com/enterprise-webinar-february-2026</link>
       <description>This webinar explores how AI is being applied to real-world building envelope assessments , from automated defect detection to faster reporting and more consistent condition analysis. We'll focus on practical workflows, current limitations, and where AI genuinely adds value for engineers, surveyors, and inspection teams today.</description>
@@ -45,13 +52,6 @@
       <description>Detecting visual anomalies in industrial inspection often requires training with only a few normal images per category. Recent few-shot methods achieve strong results employing foundation-model features, but typically rely on memory banks, auxiliary datasets, or multi-modal tuning of vision-language models. We therefore question whether such complexity is necessary given the feature representations of vision foundation models. To answer this question, we introduce SubspaceAD, a training-free method, that operates in two simple stages. First, patch-level features are extracted from a small set of normal images by a frozen DINOv2 backbone. Second, a Principal Component Analysis (PCA) model is fit to these features to estimate the low-dimensional subspace of normal variations. At inference, anomalies are detected via the reconstruction residual with respect to this subspace, producing interpretable and statistically grounded anomaly scores. Despite its simplicity, SubspaceAD achieves state-of-the-art performance across one-shot and few-shot settings without training, prompt tuning, or memory banks. In the one-shot anomaly detection setting, SubspaceAD achieves image-level and pixel-level AUROC of 98.0% and 97.6% on the MVTec-AD dataset, and 93.3% and 98.3% on the VisA dataset, respectively, surpassing prior state-of-the-art results. Code and demo are available at https://github.com/CLendering/SubspaceAD.</description>
       <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
       <guid>https://arxiv.org/abs/2602.23013v1</guid>
-    </item>
-    <item>
-      <title>RAID: Retrieval-Augmented Anomaly Detection</title>
-      <link>https://arxiv.org/abs/2602.19611v1</link>
-      <description>Unsupervised Anomaly Detection (UAD) aims to identify abnormal regions by establishing correspondences between test images and normal templates. Existing methods primarily rely on image reconstruction or template retrieval but face a fundamental challenge: matching between test images and normal templates inevitably introduces noise due to intra-class variations, imperfect correspondences, and limited templates. Observing that Retrieval-Augmented Generation (RAG) leverages retrieved samples directly in the generation process, we reinterpret UAD through this lens and introduce \textbf{RAID}, a retrieval-augmented UAD framework designed for noise-resilient anomaly detection and localization. Unlike standard RAG that enriches context or knowledge, we focus on using retrieved normal samples to guide noise suppression in anomaly map generation. RAID retrieves class-, semantic-, and instance-level representations from a hierarchical vector database, forming a coarse-to-fine pipeline. A matching cost volume correlates the input with retrieved exemplars, followed by a guided Mixture-of-Experts (MoE) network that leverages the retrieved samples to adaptively suppress matching noise and produce fine-grained anomaly maps. RAID achieves state-of-the-art performance across full-shot, few-shot, and multi-dataset settings on MVTec, VisA, MPDD, and BTAD benchmarks. \href{https://github.com/Mingxiu-Cai/RAID}{https://github.com/Mingxiu-Cai/RAID}.</description>
-      <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.19611v1</guid>
     </item>
   </channel>
 </rss>
