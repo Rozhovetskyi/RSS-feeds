@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>FARO Creaform CUBE-R M Series 3D Scanner</title>
+      <link>https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner</link>
+      <description>FARO Creaform has launched the CUBE-R M Series, a modular and automated 3D measurement cell designed to integrate advanced MetraSCAN 3D-R scanning for fast, high-accuracy at-line quality control in mass production environments.</description>
+      <pubDate>Fri, 06 Mar 2026 07:11:37 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner</guid>
+    </item>
+    <item>
+      <title>Royma Harnesses Excillum X-Ray Sources for Real-World Inline CT</title>
+      <link>https://metrology.news/royma-harnesses-excillum-x-ray-sources-for-real-world-inline-ct/</link>
+      <description>Royma has partnered with Excillum to integrate high-brightness MetalJet X-ray sources into their inline CT platform, improving inspection speeds and resolution for battery manufacturing.</description>
+      <pubDate>Fri, 06 Mar 2026 07:11:32 -0000</pubDate>
+      <guid>https://metrology.news/royma-harnesses-excillum-x-ray-sources-for-real-world-inline-ct/</guid>
+    </item>
+    <item>
       <title>Line-Scan Camera Delivers Unmatched Speed and Precision for Automated Sorting Systems</title>
       <link>https://metrology.news/line-scan-camera-delivers-unmatched-speed-and-precision-for-automated-sorting-systems/</link>
       <description>Allied Vision's allPIXA neo 6k 10GigE line-scan camera provides engineers with the tools to build faster, smarter, and more accurate automated sorting solutions.</description>
@@ -38,20 +52,6 @@
       <description>Hexagon AB's potential software spin-off, Octave, aims to deliver asset lifecycle intelligence and manage change across critical infrastructure.</description>
       <pubDate>Wed, 04 Mar 2026 07:05:04 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99443-octave-launches-new-brand-built-around-unleashing-intelligence-at-scale</guid>
-    </item>
-    <item>
-      <title>Report Highlights How AI and Digital Platforms Are Powering Manufacturing’s Future</title>
-      <link>https://metrology.news/report-highlights-how-ai-and-digital-platforms-are-powering-manufacturings-future/</link>
-      <description>A new report by Fictiv and MISUMI Global reveals that senior supply chain and manufacturing leaders are increasingly relying on AI and digital platforms to optimize operations.</description>
-      <pubDate>Wed, 04 Mar 2026 07:05:04 -0000</pubDate>
-      <guid>https://metrology.news/report-highlights-how-ai-and-digital-platforms-are-powering-manufacturings-future/</guid>
-    </item>
-    <item>
-      <title>Engineering Tomorrow: Waygate Technologies Drives the Future of NDT with Integrated AI and Automation</title>
-      <link>https://www.qualitymag.com/articles/99434-engineering-tomorrow-waygate-technologies-drives-the-future-of-ndt-with-integrated-ai-and-automation</link>
-      <description>Waygate Technologies integrates AI and automation into its non-destructive testing systems, providing advanced turnkey solutions for industrial quality control.</description>
-      <pubDate>Tue, 03 Mar 2026 07:27:06 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99434-engineering-tomorrow-waygate-technologies-drives-the-future-of-ndt-with-integrated-ai-and-automation</guid>
     </item>
   </channel>
 </rss>
