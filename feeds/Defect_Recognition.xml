@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Custom YOLO implementation for CPU real time face detection</title>
+      <link>https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602</link>
+      <description>Implementation details of YOLO for custom object detection on CPU.</description>
+      <pubDate>Fri, 06 Mar 2026 19:14:18 -0000</pubDate>
+      <guid>https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602</guid>
+    </item>
+    <item>
       <title>Python for Augmented Data Generation: Building Synthetic Datasets for Machine Learning</title>
       <link>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</link>
       <description>How Python libraries help create high-quality synthetic data to improve ML models.</description>
@@ -45,13 +52,6 @@
       <description>Showcase of OpenCV industrial inspection implementations and anomaly detection projects from the OpenCV AI competition.</description>
       <pubDate>Mon, 02 Mar 2026 19:51:30 -0000</pubDate>
       <guid>https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/</guid>
-    </item>
-    <item>
-      <title>Extreme Rare Event Classification Using Autoencoders in Keras</title>
-      <link>https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098</link>
-      <description>A practical guide on building an Autoencoder anomaly detection code in Keras for rare event classification, relevant for defect detection.</description>
-      <pubDate>Mon, 02 Mar 2026 19:51:30 -0000</pubDate>
-      <guid>https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098</guid>
     </item>
   </channel>
 </rss>
