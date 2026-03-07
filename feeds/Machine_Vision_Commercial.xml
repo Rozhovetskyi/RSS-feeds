@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Visions: A Machine Vision and Automation Solution Podcast</title>
+      <link>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</link>
+      <description>VSD Editor in Chief Sharon Spielman interviews experts from Shaw Industries and Accella AI about an AI vision system that replaced manual pallet checks to speed up loading dock verification, improve accuracy, and integrate with existing PLC, WMS, and ERP systems.</description>
+      <pubDate>Sat, 07 Mar 2026 07:19:03 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</guid>
+    </item>
+    <item>
       <title>FARO Creaform CUBE-R M Series 3D Scanner</title>
       <link>https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner</link>
       <description>FARO Creaform has launched the CUBE-R M Series, a modular and automated 3D measurement cell designed to integrate advanced MetraSCAN 3D-R scanning for fast, high-accuracy at-line quality control in mass production environments.</description>
@@ -45,13 +52,6 @@
       <description>Advancements in force and torque sensor integration now allow direct digital connections for improved inline measurements and quality control on production lines.</description>
       <pubDate>Wed, 04 Mar 2026 07:05:05 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99447-force-and-torque-sensor-integration-has-come-a-long-way</guid>
-    </item>
-    <item>
-      <title>Octave Launches New Brand Built Around Unleashing Intelligence at Scale</title>
-      <link>https://www.qualitymag.com/articles/99443-octave-launches-new-brand-built-around-unleashing-intelligence-at-scale</link>
-      <description>Hexagon AB's potential software spin-off, Octave, aims to deliver asset lifecycle intelligence and manage change across critical infrastructure.</description>
-      <pubDate>Wed, 04 Mar 2026 07:05:04 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99443-octave-launches-new-brand-built-around-unleashing-intelligence-at-scale</guid>
     </item>
   </channel>
 </rss>
