@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Anomaly Detection with Crosser's Low Code Platform</title>
+      <link>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</link>
+      <description>In this webinar, Crosser CTO Göran Appelquist (Ph.D.) will show you how a modern edge analytics platform is used to design, deploy and maintain edge IoT use cases in a centralized way. Topics include examples of anomalies and how these can be detected using streaming analytics; How the Crosser Edge Analytics solution simplifies the i</description>
+      <pubDate>Sat, 07 Mar 2026 19:18:27 -0000</pubDate>
+      <guid>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</guid>
+    </item>
+    <item>
       <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
@@ -45,13 +52,6 @@
       <description>Unsupervised industrial anomaly detection (UAD) is essential for modern manufacturing inspection, where defect samples are scarce and reliable detection is required. In this paper, we propose HLGFA, a high-low resolution guided feature alignment framework that learns normality by modeling cross-resolution feature consistency between high-resolution and low-resolution representations of normal samples, instead of relying on pixel-level reconstruction. Dual-resolution inputs are processed by a shared frozen backbone to extract multi-level features, and high-resolution representations are decomposed into structure and detail priors to guide the refinement of low-resolution features through conditional modulation and gated residual correction. During inference, anomalies are naturally identified as regions where cross-resolution alignment breaks down. In addition, a noise-aware data augmentation strategy is introduced to suppress nuisance-induced responses commonly observed in industrial environments. Extensive experiments on standard benchmarks demonstrate the effectiveness of HLGFA, achieving 97.9% pixel-level AUROC and 97.5% image-level AUROC on the MVTec AD dataset, outperforming representative reconstruction-based and feature-based methods.</description>
       <pubDate>Mon, 02 Mar 2026 19:38:17 -0000</pubDate>
       <guid>https://arxiv.org/abs/2602.09524v2</guid>
-    </item>
-    <item>
-      <title>SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling</title>
-      <link>https://arxiv.org/abs/2602.23013v1</link>
-      <description>Detecting visual anomalies in industrial inspection often requires training with only a few normal images per category. Recent few-shot methods achieve strong results employing foundation-model features, but typically rely on memory banks, auxiliary datasets, or multi-modal tuning of vision-language models. We therefore question whether such complexity is necessary given the feature representations of vision foundation models. To answer this question, we introduce SubspaceAD, a training-free method, that operates in two simple stages. First, patch-level features are extracted from a small set of normal images by a frozen DINOv2 backbone. Second, a Principal Component Analysis (PCA) model is fit to these features to estimate the low-dimensional subspace of normal variations. At inference, anomalies are detected via the reconstruction residual with respect to this subspace, producing interpretable and statistically grounded anomaly scores. Despite its simplicity, SubspaceAD achieves state-of-the-art performance across one-shot and few-shot settings without training, prompt tuning, or memory banks. In the one-shot anomaly detection setting, SubspaceAD achieves image-level and pixel-level AUROC of 98.0% and 97.6% on the MVTec-AD dataset, and 93.3% and 98.3% on the VisA dataset, respectively, surpassing prior state-of-the-art results. Code and demo are available at https://github.com/CLendering/SubspaceAD.</description>
-      <pubDate>Mon, 02 Mar 2026 19:35:18 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.23013v1</guid>
     </item>
   </channel>
 </rss>
