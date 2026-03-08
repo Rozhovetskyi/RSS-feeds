@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Efficient Implementation of MobileNet, YOLO Object Detectionfor Image Annotation</title>
+      <link>https://hackernoon.com/efficient-implementation-of-mobilenet-and-yolo-object-detection-algorithms-for-image-annotation-717e867fa27d</link>
+      <description>Efficient Implementation of MobileNet, YOLO Object Detectionfor Image Annotation</description>
+      <pubDate>Sun, 08 Mar 2026 19:19:08 -0000</pubDate>
+      <guid>https://hackernoon.com/efficient-implementation-of-mobilenet-and-yolo-object-detection-algorithms-for-image-annotation-717e867fa27d</guid>
+    </item>
+    <item>
       <title>Custom YOLO implementation for CPU real time face detection</title>
       <link>https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602</link>
       <description>Implementation details of YOLO for custom object detection on CPU.</description>
@@ -45,13 +52,6 @@
       <description>A deep dive into code snippets and implementation guides for synthetic data generation for defects using the Synthetic Data Vault library.</description>
       <pubDate>Mon, 02 Mar 2026 19:51:31 -0000</pubDate>
       <guid>https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398</guid>
-    </item>
-    <item>
-      <title>OpenCV AI Competition 2021 Highlights and Team Profiles Part 1</title>
-      <link>https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/</link>
-      <description>Showcase of OpenCV industrial inspection implementations and anomaly detection projects from the OpenCV AI competition.</description>
-      <pubDate>Mon, 02 Mar 2026 19:51:30 -0000</pubDate>
-      <guid>https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/</guid>
     </item>
   </channel>
 </rss>
