@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How AI is transforming Machine Vision I 1st webinar of series - SICK</title>
+      <link>https://s.sick.com/webinar-series-vision-2d?utm_source=linkedin</link>
+      <description>Powered by AI deep-learning technology, SICK Nova offers both on-device and cloud-based tools for complex defect detection, sorting and counting as well as classification tasks. By teaching the vision sensor using examples instead of manually setting up rules, users can quickly solve even complex applications with ease.</description>
+      <pubDate>Sun, 08 Mar 2026 19:30:28 -0000</pubDate>
+      <guid>https://s.sick.com/webinar-series-vision-2d?utm_source=linkedin</guid>
+    </item>
+    <item>
+      <title>A3 Webinar: AI-Powered Vision Inspection in Manufacturing</title>
+      <link>https://robotics.growbotics.ai/community/events/online/a3-ai-vision-inspection-webinar-feb-2026</link>
+      <description>Free webinar from the Association for Advancing Automation exploring how AI-driven machine vision systems are transforming quality inspection on the factory floor. Covers deep learning defect detection, real-time visual feedback loops, and integration with robotic pick-and-place systems.</description>
+      <pubDate>Sun, 08 Mar 2026 19:30:01 -0000</pubDate>
+      <guid>https://robotics.growbotics.ai/community/events/online/a3-ai-vision-inspection-webinar-feb-2026</guid>
+    </item>
+    <item>
       <title>Anomaly Detection with Crosser's Low Code Platform</title>
       <link>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</link>
       <description>In this webinar, Crosser CTO Göran Appelquist (Ph.D.) will show you how a modern edge analytics platform is used to design, deploy and maintain edge IoT use cases in a centralized way. Topics include examples of anomalies and how these can be detected using streaming analytics; How the Crosser Edge Analytics solution simplifies the i</description>
@@ -38,20 +52,6 @@
       <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
       <pubDate>Tue, 03 Mar 2026 19:07:40 -0000</pubDate>
       <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>AI-Driven Defect Detection with Machine Vision</title>
-      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
-      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag # AI and hashtag # Machine hashtag # Vision are transforming defect detection into a proactive, data-driven strategy.</description>
-      <pubDate>Tue, 03 Mar 2026 19:07:31 -0000</pubDate>
-      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
-    </item>
-    <item>
-      <title>HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection</title>
-      <link>https://arxiv.org/abs/2602.09524v2</link>
-      <description>Unsupervised industrial anomaly detection (UAD) is essential for modern manufacturing inspection, where defect samples are scarce and reliable detection is required. In this paper, we propose HLGFA, a high-low resolution guided feature alignment framework that learns normality by modeling cross-resolution feature consistency between high-resolution and low-resolution representations of normal samples, instead of relying on pixel-level reconstruction. Dual-resolution inputs are processed by a shared frozen backbone to extract multi-level features, and high-resolution representations are decomposed into structure and detail priors to guide the refinement of low-resolution features through conditional modulation and gated residual correction. During inference, anomalies are naturally identified as regions where cross-resolution alignment breaks down. In addition, a noise-aware data augmentation strategy is introduced to suppress nuisance-induced responses commonly observed in industrial environments. Extensive experiments on standard benchmarks demonstrate the effectiveness of HLGFA, achieving 97.9% pixel-level AUROC and 97.5% image-level AUROC on the MVTec AD dataset, outperforming representative reconstruction-based and feature-based methods.</description>
-      <pubDate>Mon, 02 Mar 2026 19:38:17 -0000</pubDate>
-      <guid>https://arxiv.org/abs/2602.09524v2</guid>
     </item>
   </channel>
 </rss>
