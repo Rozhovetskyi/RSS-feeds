@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>The 'Dark Factory' Myth</title>
+      <link>https://www.qualitymag.com/articles/99453-the-dark-factory-myth</link>
+      <description>The idea of the 'dark factory' has gained new attention as advances in robotics and AI accelerate, with stories ranging from fully automated automotive plants to experiments with humanoid robots.</description>
+      <pubDate>Sun, 08 Mar 2026 07:31:46 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99453-the-dark-factory-myth</guid>
+    </item>
+    <item>
+      <title>Digital Radiography Boosts Weld Inspection Precision at Bellows Systems</title>
+      <link>https://metrology.news/digital-radiography-boosts-weld-inspection-precision-at-bellows-systems/</link>
+      <description>The DRC 2430 digital detector from DÜRR NDT and the D-Tect X software ensure improved accuracy by providing superior image resolution.</description>
+      <pubDate>Sun, 08 Mar 2026 07:31:39 -0000</pubDate>
+      <guid>https://metrology.news/digital-radiography-boosts-weld-inspection-precision-at-bellows-systems/</guid>
+    </item>
+    <item>
       <title>Visions: A Machine Vision and Automation Solution Podcast</title>
       <link>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</link>
       <description>VSD Editor in Chief Sharon Spielman interviews experts from Shaw Industries and Accella AI about an AI vision system that replaced manual pallet checks to speed up loading dock verification, improve accuracy, and integrate with existing PLC, WMS, and ERP systems.</description>
@@ -38,20 +52,6 @@
       <description>The X-365 Precision XY Gantry System is a modular, robust Cartesian gantry solution engineered for demanding industrial automation and high-throughput applications.</description>
       <pubDate>Thu, 05 Mar 2026 07:26:30 -0000</pubDate>
       <guid>https://metrology.news/precision-xy-gantry-system-offers-configurable-motion-for-high-throughput-high-accuracy-applications/</guid>
-    </item>
-    <item>
-      <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
-      <link>https://www.vision-systems.com/home/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
-      <description>RDI Technologies' aiOne combines a high-speed industrial camera with accelerometer technology and AI software for industrial diagnostic applications requiring high-speed imaging.</description>
-      <pubDate>Thu, 05 Mar 2026 07:26:10 -0000</pubDate>
-      <guid>https://www.vision-systems.com/home/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</guid>
-    </item>
-    <item>
-      <title>Force and Torque Sensor Integration Has Come a Long Way</title>
-      <link>https://www.qualitymag.com/articles/99447-force-and-torque-sensor-integration-has-come-a-long-way</link>
-      <description>Advancements in force and torque sensor integration now allow direct digital connections for improved inline measurements and quality control on production lines.</description>
-      <pubDate>Wed, 04 Mar 2026 07:05:05 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99447-force-and-torque-sensor-integration-has-come-a-long-way</guid>
     </item>
   </channel>
 </rss>
