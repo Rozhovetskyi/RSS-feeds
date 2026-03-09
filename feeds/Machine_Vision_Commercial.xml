@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
+      <description>A new AI-powered industrial camera from RDI Technologies achieves high frame rates and precise displacement measurements for advanced high-speed diagnostics.</description>
+      <pubDate>Mon, 09 Mar 2026 07:07:47 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</guid>
+    </item>
+    <item>
+      <title>Inline Imaging-Ellipsometer Resets Speed Barrier for Thin-Film Quality Control in Roll-to-Roll Manufacturing</title>
+      <link>https://metrology.news/inline-imaging-ellipsometer-resets-speed-barrier-for-thin-film-quality-control-in-roll-to-roll-manufacturing/</link>
+      <description>An inline imaging-ellipsometer utilizing an Allied Vision EXO250ZU3 polarized camera enables real-time, full-area optical thickness measurement for roll-to-roll production.</description>
+      <pubDate>Mon, 09 Mar 2026 07:07:41 -0000</pubDate>
+      <guid>https://metrology.news/inline-imaging-ellipsometer-resets-speed-barrier-for-thin-film-quality-control-in-roll-to-roll-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Benchtop Automated Inspection Systems Lowers Barriers to AI in Manufacturing</title>
+      <link>https://metrology.news/benchtop-automated-inspection-systems-lowers-barriers-to-ai-in-manufacturing/</link>
+      <description>A new benchtop automated inspection platform by Sciotex reduces the cost and complexity barriers for small and mid-sized firms adopting AI-driven vision systems.</description>
+      <pubDate>Mon, 09 Mar 2026 07:07:35 -0000</pubDate>
+      <guid>https://metrology.news/benchtop-automated-inspection-systems-lowers-barriers-to-ai-in-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Nanoverse Introduces Advanced Packaging Tool Family with Integrated Real-Time Metrology</title>
+      <link>https://metrology.news/nanoverse-introduces-advanced-packaging-tool-family-with-integrated-real-time-metrology/</link>
+      <description>Nanoverse Technologies has launched a new line of advanced packaging tools featuring integrated real-time metrology and fast laser singulation.</description>
+      <pubDate>Mon, 09 Mar 2026 07:07:28 -0000</pubDate>
+      <guid>https://metrology.news/nanoverse-introduces-advanced-packaging-tool-family-with-integrated-real-time-metrology/</guid>
+    </item>
+    <item>
       <title>The 'Dark Factory' Myth</title>
       <link>https://www.qualitymag.com/articles/99453-the-dark-factory-myth</link>
       <description>The idea of the 'dark factory' has gained new attention as advances in robotics and AI accelerate, with stories ranging from fully automated automotive plants to experiments with humanoid robots.</description>
@@ -24,34 +52,6 @@
       <description>VSD Editor in Chief Sharon Spielman interviews experts from Shaw Industries and Accella AI about an AI vision system that replaced manual pallet checks to speed up loading dock verification, improve accuracy, and integrate with existing PLC, WMS, and ERP systems.</description>
       <pubDate>Sat, 07 Mar 2026 07:19:03 -0000</pubDate>
       <guid>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</guid>
-    </item>
-    <item>
-      <title>FARO Creaform CUBE-R M Series 3D Scanner</title>
-      <link>https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner</link>
-      <description>FARO Creaform has launched the CUBE-R M Series, a modular and automated 3D measurement cell designed to integrate advanced MetraSCAN 3D-R scanning for fast, high-accuracy at-line quality control in mass production environments.</description>
-      <pubDate>Fri, 06 Mar 2026 07:11:37 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner</guid>
-    </item>
-    <item>
-      <title>Royma Harnesses Excillum X-Ray Sources for Real-World Inline CT</title>
-      <link>https://metrology.news/royma-harnesses-excillum-x-ray-sources-for-real-world-inline-ct/</link>
-      <description>Royma has partnered with Excillum to integrate high-brightness MetalJet X-ray sources into their inline CT platform, improving inspection speeds and resolution for battery manufacturing.</description>
-      <pubDate>Fri, 06 Mar 2026 07:11:32 -0000</pubDate>
-      <guid>https://metrology.news/royma-harnesses-excillum-x-ray-sources-for-real-world-inline-ct/</guid>
-    </item>
-    <item>
-      <title>Line-Scan Camera Delivers Unmatched Speed and Precision for Automated Sorting Systems</title>
-      <link>https://metrology.news/line-scan-camera-delivers-unmatched-speed-and-precision-for-automated-sorting-systems/</link>
-      <description>Allied Vision's allPIXA neo 6k 10GigE line-scan camera provides engineers with the tools to build faster, smarter, and more accurate automated sorting solutions.</description>
-      <pubDate>Thu, 05 Mar 2026 07:26:51 -0000</pubDate>
-      <guid>https://metrology.news/line-scan-camera-delivers-unmatched-speed-and-precision-for-automated-sorting-systems/</guid>
-    </item>
-    <item>
-      <title>Precision XY Gantry System Offers Configurable Motion for High-Throughput - High-Accuracy Applications</title>
-      <link>https://metrology.news/precision-xy-gantry-system-offers-configurable-motion-for-high-throughput-high-accuracy-applications/</link>
-      <description>The X-365 Precision XY Gantry System is a modular, robust Cartesian gantry solution engineered for demanding industrial automation and high-throughput applications.</description>
-      <pubDate>Thu, 05 Mar 2026 07:26:30 -0000</pubDate>
-      <guid>https://metrology.news/precision-xy-gantry-system-offers-configurable-motion-for-high-throughput-high-accuracy-applications/</guid>
     </item>
   </channel>
 </rss>
