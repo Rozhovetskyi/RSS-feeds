@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Teledyne e2v’s Perciva 5D Targets Next-Generation Robotics and Smart Factory Vision Systems</title>
+      <link>https://metrology.news/teledyne-e2vs-perciva-5d-targets-next-generation-robotics-and-smart-factory-vision-systems/</link>
+      <description>Teledyne e2v launches the Perciva 5D camera, designed to make high-quality short-range 3D vision cost-effective, reliable, and easy to integrate.</description>
+      <pubDate>Tue, 10 Mar 2026 07:19:50 -0000</pubDate>
+      <guid>https://metrology.news/teledyne-e2vs-perciva-5d-targets-next-generation-robotics-and-smart-factory-vision-systems/</guid>
+    </item>
+    <item>
+      <title>Back to Hands-On CMM Metrology – Precision Without the Programming</title>
+      <link>https://metrology.news/back-to-hands-on-cmm-metrology-precision-without-the-programming/</link>
+      <description>Mitutoyo expands its coordinate metrology portfolio with the CRYSTA-KM 565 manual CMM, delivering reliable dimensional inspection with simplicity and cost efficiency.</description>
+      <pubDate>Tue, 10 Mar 2026 07:19:40 -0000</pubDate>
+      <guid>https://metrology.news/back-to-hands-on-cmm-metrology-precision-without-the-programming/</guid>
+    </item>
+    <item>
+      <title>AI Moves into the Control Loop – ABB Integrates Deep Learning Vision with Machine Automation</title>
+      <link>https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/</link>
+      <description>ABB seamlessly integrates AI-based machine vision directly into the machine control system, enabling vision data to feed advanced, real-time machine control loops.</description>
+      <pubDate>Tue, 10 Mar 2026 07:19:28 -0000</pubDate>
+      <guid>https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/</guid>
+    </item>
+    <item>
       <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
       <description>A new AI-powered industrial camera from RDI Technologies achieves high frame rates and precise displacement measurements for advanced high-speed diagnostics.</description>
@@ -31,27 +52,6 @@
       <description>Nanoverse Technologies has launched a new line of advanced packaging tools featuring integrated real-time metrology and fast laser singulation.</description>
       <pubDate>Mon, 09 Mar 2026 07:07:28 -0000</pubDate>
       <guid>https://metrology.news/nanoverse-introduces-advanced-packaging-tool-family-with-integrated-real-time-metrology/</guid>
-    </item>
-    <item>
-      <title>The 'Dark Factory' Myth</title>
-      <link>https://www.qualitymag.com/articles/99453-the-dark-factory-myth</link>
-      <description>The idea of the 'dark factory' has gained new attention as advances in robotics and AI accelerate, with stories ranging from fully automated automotive plants to experiments with humanoid robots.</description>
-      <pubDate>Sun, 08 Mar 2026 07:31:46 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99453-the-dark-factory-myth</guid>
-    </item>
-    <item>
-      <title>Digital Radiography Boosts Weld Inspection Precision at Bellows Systems</title>
-      <link>https://metrology.news/digital-radiography-boosts-weld-inspection-precision-at-bellows-systems/</link>
-      <description>The DRC 2430 digital detector from DÜRR NDT and the D-Tect X software ensure improved accuracy by providing superior image resolution.</description>
-      <pubDate>Sun, 08 Mar 2026 07:31:39 -0000</pubDate>
-      <guid>https://metrology.news/digital-radiography-boosts-weld-inspection-precision-at-bellows-systems/</guid>
-    </item>
-    <item>
-      <title>Visions: A Machine Vision and Automation Solution Podcast</title>
-      <link>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</link>
-      <description>VSD Editor in Chief Sharon Spielman interviews experts from Shaw Industries and Accella AI about an AI vision system that replaced manual pallet checks to speed up loading dock verification, improve accuracy, and integrate with existing PLC, WMS, and ERP systems.</description>
-      <pubDate>Sat, 07 Mar 2026 07:19:03 -0000</pubDate>
-      <guid>https://www.vision-systems.com/home/podcast/55361612/visions-a-machine-vision-and-automation-solution-podcast</guid>
     </item>
   </channel>
 </rss>
