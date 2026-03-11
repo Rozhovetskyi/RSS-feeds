@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Join Spotscale and Kiwa on the Future of Concrete Inspection</title>
+      <link>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</link>
+      <description>Spotscale will be speaking at Kiwa's upcoming webinar on October 10 at 13:00 CET. Together, we will dive deep into how AI and high-resolution 3D modeling are redefining the maintenance of critical infrastructure.</description>
+      <pubDate>Wed, 11 Mar 2026 19:10:42 -0000</pubDate>
+      <guid>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</guid>
+    </item>
+    <item>
+      <title>Page: inVISION Day – Metrology - Open Webinar World</title>
+      <link>https://openwebinarworld.com/en/events/invision-day-metrology/</link>
+      <description>The inVISION Day Metrology is a free online event</description>
+      <pubDate>Wed, 11 Mar 2026 19:10:22 -0000</pubDate>
+      <guid>https://openwebinarworld.com/en/events/invision-day-metrology/</guid>
+    </item>
+    <item>
       <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
       <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
       <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how AI pipelines achieve unmatched precision with minimal latency.</description>
@@ -38,20 +52,6 @@
       <description>In this webinar, Crosser CTO Göran Appelquist (Ph.D.) will show you how a modern edge analytics platform is used to design, deploy and maintain edge IoT use cases in a centralized way. Topics include examples of anomalies and how these can be detected using streaming analytics; How the Crosser Edge Analytics solution simplifies the i</description>
       <pubDate>Sat, 07 Mar 2026 19:18:27 -0000</pubDate>
       <guid>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</guid>
-    </item>
-    <item>
-      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
-      <pubDate>Fri, 06 Mar 2026 19:35:29 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Webinar February 2026 | Enterprise Exclusive - Hammer Missions</title>
-      <link>https://www.hammermissions.com/enterprise-webinar-february-2026</link>
-      <description>This webinar explores how AI is being applied to real-world building envelope assessments , from automated defect detection to faster reporting and more consistent condition analysis. We'll focus on practical workflows, current limitations, and where AI genuinely adds value for engineers, surveyors, and inspection teams today.</description>
-      <pubDate>Thu, 05 Mar 2026 19:13:57 -0000</pubDate>
-      <guid>https://www.hammermissions.com/enterprise-webinar-february-2026</guid>
     </item>
   </channel>
 </rss>
