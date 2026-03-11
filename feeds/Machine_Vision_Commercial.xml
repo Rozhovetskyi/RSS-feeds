@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Loop Technology Expands Automation Solutions to North America</title>
+      <link>https://metrology.news/loop-technology-expands-automation-solutions-to-north-america/</link>
+      <description>UK Based Loop Technology recently announced the launch of Loop Technology US Inc., marking a significant step in the company’s international expansion.</description>
+      <pubDate>Wed, 11 Mar 2026 07:22:12 -0000</pubDate>
+      <guid>https://metrology.news/loop-technology-expands-automation-solutions-to-north-america/</guid>
+    </item>
+    <item>
+      <title>Datalogic Unveils World’s First Single-Reader Solution for 1-Metre Conveyor Scanning</title>
+      <link>https://metrology.news/datalogic-unveils-worlds-first-single-reader-solution-for-1-metre-conveyor-scanning/</link>
+      <description>Datalogic has introduced the Matrix 830 and 930 series, the only 2D area imagers in the world that can scan conveyor belts up to 1 meter wide with a single device.</description>
+      <pubDate>Wed, 11 Mar 2026 07:21:51 -0000</pubDate>
+      <guid>https://metrology.news/datalogic-unveils-worlds-first-single-reader-solution-for-1-metre-conveyor-scanning/</guid>
+    </item>
+    <item>
       <title>Teledyne e2v’s Perciva 5D Targets Next-Generation Robotics and Smart Factory Vision Systems</title>
       <link>https://metrology.news/teledyne-e2vs-perciva-5d-targets-next-generation-robotics-and-smart-factory-vision-systems/</link>
       <description>Teledyne e2v launches the Perciva 5D camera, designed to make high-quality short-range 3D vision cost-effective, reliable, and easy to integrate.</description>
@@ -38,20 +52,6 @@
       <description>An inline imaging-ellipsometer utilizing an Allied Vision EXO250ZU3 polarized camera enables real-time, full-area optical thickness measurement for roll-to-roll production.</description>
       <pubDate>Mon, 09 Mar 2026 07:07:41 -0000</pubDate>
       <guid>https://metrology.news/inline-imaging-ellipsometer-resets-speed-barrier-for-thin-film-quality-control-in-roll-to-roll-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Benchtop Automated Inspection Systems Lowers Barriers to AI in Manufacturing</title>
-      <link>https://metrology.news/benchtop-automated-inspection-systems-lowers-barriers-to-ai-in-manufacturing/</link>
-      <description>A new benchtop automated inspection platform by Sciotex reduces the cost and complexity barriers for small and mid-sized firms adopting AI-driven vision systems.</description>
-      <pubDate>Mon, 09 Mar 2026 07:07:35 -0000</pubDate>
-      <guid>https://metrology.news/benchtop-automated-inspection-systems-lowers-barriers-to-ai-in-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Nanoverse Introduces Advanced Packaging Tool Family with Integrated Real-Time Metrology</title>
-      <link>https://metrology.news/nanoverse-introduces-advanced-packaging-tool-family-with-integrated-real-time-metrology/</link>
-      <description>Nanoverse Technologies has launched a new line of advanced packaging tools featuring integrated real-time metrology and fast laser singulation.</description>
-      <pubDate>Mon, 09 Mar 2026 07:07:28 -0000</pubDate>
-      <guid>https://metrology.news/nanoverse-introduces-advanced-packaging-tool-family-with-integrated-real-time-metrology/</guid>
     </item>
   </channel>
 </rss>
