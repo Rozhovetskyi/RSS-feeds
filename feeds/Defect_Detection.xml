@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
+      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4</link>
+      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how AI pipelines achieve unmatched precision with minimal latency.</description>
+      <pubDate>Thu, 12 Mar 2026 19:33:29 -0000</pubDate>
+      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4</guid>
+    </item>
+    <item>
+      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026 - Zetamotion</title>
+      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
+      <description>Defect detection is only one piece of modern machine vision. In this webinar recap, we unpack the 2026 trends shaping AI quality control, from data bottlenecks to synthetic data and edge deployment.</description>
+      <pubDate>Thu, 12 Mar 2026 19:31:39 -0000</pubDate>
+      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
+    </item>
+    <item>
       <title>Join Spotscale and Kiwa on the Future of Concrete Inspection</title>
       <link>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</link>
       <description>Spotscale will be speaking at Kiwa's upcoming webinar on October 10 at 13:00 CET. Together, we will dive deep into how AI and high-resolution 3D modeling are redefining the maintenance of critical infrastructure.</description>
@@ -38,20 +52,6 @@
       <description>Powered by AI deep-learning technology, SICK Nova offers both on-device and cloud-based tools for complex defect detection, sorting and counting as well as classification tasks. By teaching the vision sensor using examples instead of manually setting up rules, users can quickly solve even complex applications with ease.</description>
       <pubDate>Sun, 08 Mar 2026 19:30:28 -0000</pubDate>
       <guid>https://s.sick.com/webinar-series-vision-2d?utm_source=linkedin</guid>
-    </item>
-    <item>
-      <title>A3 Webinar: AI-Powered Vision Inspection in Manufacturing</title>
-      <link>https://robotics.growbotics.ai/community/events/online/a3-ai-vision-inspection-webinar-feb-2026</link>
-      <description>Free webinar from the Association for Advancing Automation exploring how AI-driven machine vision systems are transforming quality inspection on the factory floor. Covers deep learning defect detection, real-time visual feedback loops, and integration with robotic pick-and-place systems.</description>
-      <pubDate>Sun, 08 Mar 2026 19:30:01 -0000</pubDate>
-      <guid>https://robotics.growbotics.ai/community/events/online/a3-ai-vision-inspection-webinar-feb-2026</guid>
-    </item>
-    <item>
-      <title>Anomaly Detection with Crosser's Low Code Platform</title>
-      <link>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</link>
-      <description>In this webinar, Crosser CTO Göran Appelquist (Ph.D.) will show you how a modern edge analytics platform is used to design, deploy and maintain edge IoT use cases in a centralized way. Topics include examples of anomalies and how these can be detected using streaming analytics; How the Crosser Edge Analytics solution simplifies the i</description>
-      <pubDate>Sat, 07 Mar 2026 19:18:27 -0000</pubDate>
-      <guid>https://crosser.io/resources/webinars-and-videos/webinars/iot/anomaly-detection-with-crossers-low-code-platform/</guid>
     </item>
   </channel>
 </rss>
