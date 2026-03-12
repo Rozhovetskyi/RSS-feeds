@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Camera Sets New Standard in High-Speed Industrial 3D Scanning</title>
+      <link>https://metrology.news/camera-sets-new-standard-in-high-speed-industrial-3d-scanning/</link>
+      <description>AT Sensors introduced a new C7 triangulation camera to improve high-speed industrial 3D measurement operations.</description>
+      <pubDate>Thu, 12 Mar 2026 07:19:18 -0000</pubDate>
+      <guid>https://metrology.news/camera-sets-new-standard-in-high-speed-industrial-3d-scanning/</guid>
+    </item>
+    <item>
+      <title>Physik Instrumente Expands Portfolio of Piezo Flexure Stages for Ultra-Precise Motion Control</title>
+      <link>https://metrology.news/physik-instrumente-expands-portfolio-of-piezo-flexure-stages-for-ultra-precise-motion-control/</link>
+      <description>Physik Instrumente offers an extensive portfolio of piezo flexure stages designed to deliver ultra-precise positioning in machine vision control technologies.</description>
+      <pubDate>Thu, 12 Mar 2026 07:19:05 -0000</pubDate>
+      <guid>https://metrology.news/physik-instrumente-expands-portfolio-of-piezo-flexure-stages-for-ultra-precise-motion-control/</guid>
+    </item>
+    <item>
       <title>Loop Technology Expands Automation Solutions to North America</title>
       <link>https://metrology.news/loop-technology-expands-automation-solutions-to-north-america/</link>
       <description>UK Based Loop Technology recently announced the launch of Loop Technology US Inc., marking a significant step in the company’s international expansion.</description>
@@ -38,20 +52,6 @@
       <description>ABB seamlessly integrates AI-based machine vision directly into the machine control system, enabling vision data to feed advanced, real-time machine control loops.</description>
       <pubDate>Tue, 10 Mar 2026 07:19:28 -0000</pubDate>
       <guid>https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/</guid>
-    </item>
-    <item>
-      <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
-      <description>A new AI-powered industrial camera from RDI Technologies achieves high frame rates and precise displacement measurements for advanced high-speed diagnostics.</description>
-      <pubDate>Mon, 09 Mar 2026 07:07:47 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</guid>
-    </item>
-    <item>
-      <title>Inline Imaging-Ellipsometer Resets Speed Barrier for Thin-Film Quality Control in Roll-to-Roll Manufacturing</title>
-      <link>https://metrology.news/inline-imaging-ellipsometer-resets-speed-barrier-for-thin-film-quality-control-in-roll-to-roll-manufacturing/</link>
-      <description>An inline imaging-ellipsometer utilizing an Allied Vision EXO250ZU3 polarized camera enables real-time, full-area optical thickness measurement for roll-to-roll production.</description>
-      <pubDate>Mon, 09 Mar 2026 07:07:41 -0000</pubDate>
-      <guid>https://metrology.news/inline-imaging-ellipsometer-resets-speed-barrier-for-thin-film-quality-control-in-roll-to-roll-manufacturing/</guid>
     </item>
   </channel>
 </rss>
