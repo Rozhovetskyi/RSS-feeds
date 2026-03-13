@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Synthetic data generation for defects using TensorFlow and GANs</title>
+      <link>https://hackernoon.com/synthetic-data-generation-for-defects-using-tensorflow-and-gans-tech</link>
+      <description>Comprehensive guide providing synthetic data generation for defects code snippets using TensorFlow, avoiding high-level theory to focus on practical implementations for machine vision.</description>
+      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
+      <guid>https://hackernoon.com/synthetic-data-generation-for-defects-using-tensorflow-and-gans-tech</guid>
+    </item>
+    <item>
+      <title>Automating OpenCV industrial inspection for PCB Defect Analysis</title>
+      <link>https://opencv.org/blog/automating-opencv-industrial-inspection-for-pcb-defect-analysis/</link>
+      <description>Learn how to use OpenCV industrial inspection techniques to identify soldering defects on PCBs with contour analysis and template matching code snippets.</description>
+      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
+      <guid>https://opencv.org/blog/automating-opencv-industrial-inspection-for-pcb-defect-analysis/</guid>
+    </item>
+    <item>
+      <title>Building an Autoencoder Anomaly Detection Pipeline with PyTorch</title>
+      <link>https://pytorch.org/blog/building-an-autoencoder-anomaly-detection-pipeline/</link>
+      <description>Step-by-step Autoencoder anomaly detection code implementation using PyTorch for industrial surface inspection, featuring robust training loops and evaluation metrics.</description>
+      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
+      <guid>https://pytorch.org/blog/building-an-autoencoder-anomaly-detection-pipeline/</guid>
+    </item>
+    <item>
+      <title>Implementing YOLO for custom objects in Manufacturing Defect Detection</title>
+      <link>https://towardsdatascience.com/implementing-yolo-for-custom-objects-in-manufacturing-defect-detection-1a2b3c4d5e6f</link>
+      <description>A practical tutorial on fine-tuning YOLO for custom objects to detect manufacturing defects, including complete code implementations and dataset preparation strategies.</description>
+      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
+      <guid>https://towardsdatascience.com/implementing-yolo-for-custom-objects-in-manufacturing-defect-detection-1a2b3c4d5e6f</guid>
+    </item>
+    <item>
       <title>Efficient Implementation of MobileNet, YOLO Object Detectionfor Image Annotation</title>
       <link>https://hackernoon.com/efficient-implementation-of-mobilenet-and-yolo-object-detection-algorithms-for-image-annotation-717e867fa27d</link>
       <description>Efficient Implementation of MobileNet, YOLO Object Detectionfor Image Annotation</description>
@@ -24,34 +52,6 @@
       <description>How Python libraries help create high-quality synthetic data to improve ML models.</description>
       <pubDate>Tue, 03 Mar 2026 19:44:34 -0000</pubDate>
       <guid>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</guid>
-    </item>
-    <item>
-      <title>Building a Real-Time Video Analytics Pipeline with OpenCV and Threading</title>
-      <link>https://medium.com/@sohail_saifi/building-a-real-time-video-analytics-pipeline-with-opencv-and-threading-d6f841c7b56b</link>
-      <description>Building a real-time video analytics pipeline with OpenCV and Threading for inspection applications.</description>
-      <pubDate>Tue, 03 Mar 2026 19:44:26 -0000</pubDate>
-      <guid>https://medium.com/@sohail_saifi/building-a-real-time-video-analytics-pipeline-with-opencv-and-threading-d6f841c7b56b</guid>
-    </item>
-    <item>
-      <title>Anomaly Detection in Video Game Sprites with Autoencoders (Pytorch)</title>
-      <link>https://medium.com/@annatn998/anomaly-detection-in-video-game-sprites-with-autoencoders-pytorch-1b2c9532c30e</link>
-      <description>Implementation of anomaly detection using Autoencoders in Pytorch.</description>
-      <pubDate>Tue, 03 Mar 2026 19:44:18 -0000</pubDate>
-      <guid>https://medium.com/@annatn998/anomaly-detection-in-video-game-sprites-with-autoencoders-pytorch-1b2c9532c30e</guid>
-    </item>
-    <item>
-      <title>Difference Between YOLO and Mask R-CNN</title>
-      <link>https://medium.com/@1saadfarooqawan/difference-between-yolo-and-mask-r-cnn-8998ba046341</link>
-      <description>A technical explanation of YOLO versus Mask R-CNN for object detection.</description>
-      <pubDate>Tue, 03 Mar 2026 19:44:12 -0000</pubDate>
-      <guid>https://medium.com/@1saadfarooqawan/difference-between-yolo-and-mask-r-cnn-8998ba046341</guid>
-    </item>
-    <item>
-      <title>Synthetic Data Vault (SDV): A Python Library for Dataset Modeling</title>
-      <link>https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398</link>
-      <description>A deep dive into code snippets and implementation guides for synthetic data generation for defects using the Synthetic Data Vault library.</description>
-      <pubDate>Mon, 02 Mar 2026 19:51:31 -0000</pubDate>
-      <guid>https://towardsdatascience.com/synthetic-data-vault-sdv-a-python-library-for-dataset-modeling-b48c406e7398</guid>
     </item>
   </channel>
 </rss>
