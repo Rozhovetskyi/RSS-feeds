@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>IDS, Prophesee Deepen Collaboration to Advance Next-Generation Event-Based Industrial Vision Systems</title>
+      <link>https://www.qualitymag.com/articles/99463-ids-prophesee-deepen-collaboration-to-advance-next-generation-event-based-industrial-vision-systems</link>
+      <description>IDS and Prophesee expand their partnership to develop next-generation event-based industrial vision cameras.</description>
+      <pubDate>Fri, 13 Mar 2026 07:23:34 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99463-ids-prophesee-deepen-collaboration-to-advance-next-generation-event-based-industrial-vision-systems</guid>
+    </item>
+    <item>
+      <title>Automated Inspection and Packaging of 36,000 Syringes per Hour</title>
+      <link>https://metrology.news/automated-inspection-and-packaging-of-36000-syringes-per-hour/</link>
+      <description>New automated turnkey system enables immediate identification and replacement of defective syringes without disrupting workflow.</description>
+      <pubDate>Fri, 13 Mar 2026 07:23:18 -0000</pubDate>
+      <guid>https://metrology.news/automated-inspection-and-packaging-of-36000-syringes-per-hour/</guid>
+    </item>
+    <item>
       <title>Camera Sets New Standard in High-Speed Industrial 3D Scanning</title>
       <link>https://metrology.news/camera-sets-new-standard-in-high-speed-industrial-3d-scanning/</link>
       <description>AT Sensors introduced a new C7 triangulation camera to improve high-speed industrial 3D measurement operations.</description>
@@ -38,20 +52,6 @@
       <description>Teledyne e2v launches the Perciva 5D camera, designed to make high-quality short-range 3D vision cost-effective, reliable, and easy to integrate.</description>
       <pubDate>Tue, 10 Mar 2026 07:19:50 -0000</pubDate>
       <guid>https://metrology.news/teledyne-e2vs-perciva-5d-targets-next-generation-robotics-and-smart-factory-vision-systems/</guid>
-    </item>
-    <item>
-      <title>Back to Hands-On CMM Metrology – Precision Without the Programming</title>
-      <link>https://metrology.news/back-to-hands-on-cmm-metrology-precision-without-the-programming/</link>
-      <description>Mitutoyo expands its coordinate metrology portfolio with the CRYSTA-KM 565 manual CMM, delivering reliable dimensional inspection with simplicity and cost efficiency.</description>
-      <pubDate>Tue, 10 Mar 2026 07:19:40 -0000</pubDate>
-      <guid>https://metrology.news/back-to-hands-on-cmm-metrology-precision-without-the-programming/</guid>
-    </item>
-    <item>
-      <title>AI Moves into the Control Loop – ABB Integrates Deep Learning Vision with Machine Automation</title>
-      <link>https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/</link>
-      <description>ABB seamlessly integrates AI-based machine vision directly into the machine control system, enabling vision data to feed advanced, real-time machine control loops.</description>
-      <pubDate>Tue, 10 Mar 2026 07:19:28 -0000</pubDate>
-      <guid>https://metrology.news/ai-moves-into-the-control-loop-abb-integrates-deep-learning-vision-with-machine-automation/</guid>
     </item>
   </channel>
 </rss>
