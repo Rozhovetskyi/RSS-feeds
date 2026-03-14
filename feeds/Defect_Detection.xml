@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar Kistler: Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
+      <link>https://www.kistler.com/CH/en/webinars/C00000635</link>
+      <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE).</description>
+      <pubDate>Sat, 14 Mar 2026 19:29:28 -0000</pubDate>
+      <guid>https://www.kistler.com/CH/en/webinars/C00000635</guid>
+    </item>
+    <item>
+      <title>PCB Defect Detection: Computer Vision with Raspberry Pi - Elektor Magazine</title>
+      <link>https://www.elektormagazine.com/articles/pcb-defect-detection-computer-vision-raspberry-pi</link>
+      <description>Machine learning enables real-time PCB defect detection using a FOMO model on a Raspberry Pi. Learn how with this straightforward approach.</description>
+      <pubDate>Sat, 14 Mar 2026 19:29:19 -0000</pubDate>
+      <guid>https://www.elektormagazine.com/articles/pcb-defect-detection-computer-vision-raspberry-pi</guid>
+    </item>
+    <item>
       <title>AI Transforming NDT through Automated Defect Recognition</title>
       <link>https://education.asnt.org/catalog/?subject=Radiographic%20Testing%20(RT)</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
@@ -38,20 +52,6 @@
       <description>The inVISION Day Metrology is a free online event</description>
       <pubDate>Wed, 11 Mar 2026 19:10:22 -0000</pubDate>
       <guid>https://openwebinarworld.com/en/events/invision-day-metrology/</guid>
-    </item>
-    <item>
-      <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
-      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
-      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how AI pipelines achieve unmatched precision with minimal latency.</description>
-      <pubDate>Tue, 10 Mar 2026 19:06:49 -0000</pubDate>
-      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
-    </item>
-    <item>
-      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
-      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
-      <description>Join us for this exclusive webinar where we'll demonstrate how AeroMegh's advanced GeoAI platform revolutionizes power line inspection and maintenance. Discover how AI-powered drone technology can dramatically improve grid reliability while reducing operational costs.</description>
-      <pubDate>Mon, 09 Mar 2026 19:20:10 -0000</pubDate>
-      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
     </item>
   </channel>
 </rss>
