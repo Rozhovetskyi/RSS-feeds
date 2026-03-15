@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
+      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
+      <description>Join this exclusive webinar to discover how AeroMegh's advanced GeoAI platform and AI-powered drone technology automatically identify corrosion, damaged insulators, and structural defects with 95%+ accuracy. Learn practical implementation strategies to predict equipment failures and enhance grid reliability.</description>
+      <pubDate>Sun, 15 Mar 2026 19:21:33 -0000</pubDate>
+      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
+    </item>
+    <item>
       <title>Webinar Kistler: Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
       <link>https://www.kistler.com/CH/en/webinars/C00000635</link>
       <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE).</description>
@@ -45,13 +52,6 @@
       <description>Spotscale will be speaking at Kiwa's upcoming webinar on October 10 at 13:00 CET. Together, we will dive deep into how AI and high-resolution 3D modeling are redefining the maintenance of critical infrastructure.</description>
       <pubDate>Wed, 11 Mar 2026 19:10:42 -0000</pubDate>
       <guid>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</guid>
-    </item>
-    <item>
-      <title>Page: inVISION Day – Metrology - Open Webinar World</title>
-      <link>https://openwebinarworld.com/en/events/invision-day-metrology/</link>
-      <description>The inVISION Day Metrology is a free online event</description>
-      <pubDate>Wed, 11 Mar 2026 19:10:22 -0000</pubDate>
-      <guid>https://openwebinarworld.com/en/events/invision-day-metrology/</guid>
     </item>
   </channel>
 </rss>
