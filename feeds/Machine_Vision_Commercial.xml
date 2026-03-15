@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Why U.S. Businesses Are Reconsidering Section 301 Tariff Refunds</title>
+      <link>https://www.vision-systems.com/home/article/55363515/why-us-businesses-are-reconsidering-section-301-tariff-refunds</link>
+      <description>U.S. machine vision integrators and automation companies are revisiting Section 301 tariff refunds due to ongoing supply chain pressures.</description>
+      <pubDate>Sun, 15 Mar 2026 07:09:46 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/article/55363515/why-us-businesses-are-reconsidering-section-301-tariff-refunds</guid>
+    </item>
+    <item>
+      <title>Visions: A Machine Vision and Automation Solutions Podcast, Part 2</title>
+      <link>https://www.vision-systems.com/factory/podcast/55362804/visions-a-machine-vision-and-automation-solutions-podcast</link>
+      <description>An AI vision system replaces manual pallet checks at Shaw Industries, demonstrating a turnkey solution for loading dock verification and automated quality control.</description>
+      <pubDate>Sun, 15 Mar 2026 07:09:40 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55362804/visions-a-machine-vision-and-automation-solutions-podcast</guid>
+    </item>
+    <item>
       <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
       <description>The camera is designed to achieve a frame rate of up to 1,400 fps in full resolution and up to 29,000 fps at reduced resolution.</description>
@@ -38,20 +52,6 @@
       <description>AT Sensors introduced a new C7 triangulation camera to improve high-speed industrial 3D measurement operations.</description>
       <pubDate>Thu, 12 Mar 2026 07:19:18 -0000</pubDate>
       <guid>https://metrology.news/camera-sets-new-standard-in-high-speed-industrial-3d-scanning/</guid>
-    </item>
-    <item>
-      <title>Physik Instrumente Expands Portfolio of Piezo Flexure Stages for Ultra-Precise Motion Control</title>
-      <link>https://metrology.news/physik-instrumente-expands-portfolio-of-piezo-flexure-stages-for-ultra-precise-motion-control/</link>
-      <description>Physik Instrumente offers an extensive portfolio of piezo flexure stages designed to deliver ultra-precise positioning in machine vision control technologies.</description>
-      <pubDate>Thu, 12 Mar 2026 07:19:05 -0000</pubDate>
-      <guid>https://metrology.news/physik-instrumente-expands-portfolio-of-piezo-flexure-stages-for-ultra-precise-motion-control/</guid>
-    </item>
-    <item>
-      <title>Loop Technology Expands Automation Solutions to North America</title>
-      <link>https://metrology.news/loop-technology-expands-automation-solutions-to-north-america/</link>
-      <description>UK Based Loop Technology recently announced the launch of Loop Technology US Inc., marking a significant step in the company’s international expansion.</description>
-      <pubDate>Wed, 11 Mar 2026 07:22:12 -0000</pubDate>
-      <guid>https://metrology.news/loop-technology-expands-automation-solutions-to-north-america/</guid>
     </item>
   </channel>
 </rss>
