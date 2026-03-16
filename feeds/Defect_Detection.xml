@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Void inspection in manufacturing with AXI: everything you need to know.</title>
+      <link>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/void-inspection-in-manufacturing-with-axi-everything-you-need-to-know</link>
+      <description>Discover how Multi Line AXI reliably detects voids in 3D volumes, identifies defects at an early stage and makes your production more efficient and secure. State-of-the-art AXI technology for maximum quality in electronics production!</description>
+      <pubDate>Mon, 16 Mar 2026 19:16:16 -0000</pubDate>
+      <guid>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/void-inspection-in-manufacturing-with-axi-everything-you-need-to-know</guid>
+    </item>
+    <item>
+      <title>From voids to head-in-pillow: reliably detecting BGA defects with AXI</title>
+      <link>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/from-voids-to-head-in-pillow-reliably-detecting-bga-defects-with-axi</link>
+      <description>Inspect BGAs reliably in line with the production cycle: Experience how Multi Line AXI tests BGAs in 3D volume, automatically detects voids, head-in-pillow and short circuits, thereby reducing scrap – for stable processes and maximum manufacturing quality.</description>
+      <pubDate>Mon, 16 Mar 2026 19:16:16 -0000</pubDate>
+      <guid>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/from-voids-to-head-in-pillow-reliably-detecting-bga-defects-with-axi</guid>
+    </item>
+    <item>
+      <title>Altus and Koh Young to Host Webinar Showcasing AI Applications in Inspection Software - What's New in Electronics</title>
+      <link>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</link>
+      <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and [...]</description>
+      <pubDate>Mon, 16 Mar 2026 19:16:15 -0000</pubDate>
+      <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
+    </item>
+    <item>
       <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
       <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
       <description>Join this exclusive webinar to discover how AeroMegh's advanced GeoAI platform and AI-powered drone technology automatically identify corrosion, damaged insulators, and structural defects with 95%+ accuracy. Learn practical implementation strategies to predict equipment failures and enhance grid reliability.</description>
@@ -31,27 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
       <pubDate>Fri, 13 Mar 2026 19:20:55 -0000</pubDate>
       <guid>https://education.asnt.org/catalog/?subject=Radiographic%20Testing%20(RT)</guid>
-    </item>
-    <item>
-      <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
-      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4</link>
-      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how AI pipelines achieve unmatched precision with minimal latency.</description>
-      <pubDate>Thu, 12 Mar 2026 19:33:29 -0000</pubDate>
-      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4</guid>
-    </item>
-    <item>
-      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026 - Zetamotion</title>
-      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
-      <description>Defect detection is only one piece of modern machine vision. In this webinar recap, we unpack the 2026 trends shaping AI quality control, from data bottlenecks to synthetic data and edge deployment.</description>
-      <pubDate>Thu, 12 Mar 2026 19:31:39 -0000</pubDate>
-      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>Join Spotscale and Kiwa on the Future of Concrete Inspection</title>
-      <link>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</link>
-      <description>Spotscale will be speaking at Kiwa's upcoming webinar on October 10 at 13:00 CET. Together, we will dive deep into how AI and high-resolution 3D modeling are redefining the maintenance of critical infrastructure.</description>
-      <pubDate>Wed, 11 Mar 2026 19:10:42 -0000</pubDate>
-      <guid>https://www.spotscale.com/news/join-spotscale-and-kiwa-on-the-future-of-concrete-inspection</guid>
     </item>
   </channel>
 </rss>
