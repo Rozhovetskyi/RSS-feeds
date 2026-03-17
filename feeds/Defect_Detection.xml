@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
+      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
+      <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
+      <pubDate>Tue, 17 Mar 2026 19:16:13 -0000</pubDate>
+      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
+    </item>
+    <item>
+      <title>Expert-to-Expert Webinar on Zero-Defect Manufacturing</title>
+      <link>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</link>
+      <description>The IDEALIST project is organising a new Expert-to-Expert webinar focused on Zero-Defect Manufacturing, bringing together industry professionals to discuss innovative approaches to advanced quality assurance in manufacturing. Expert-to-Expert webinars are one of the key formats through which IDEALIST supports manufacturing companies in exploring advanced technologies through peer-to-peer knowledge exchange. Hosted on the AGORA platform, these online sessions provide a space for experts and practitioners to share real use cases and practical solutions for industrial production.</description>
+      <pubDate>Tue, 17 Mar 2026 19:16:05 -0000</pubDate>
+      <guid>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</guid>
+    </item>
+    <item>
       <title>Void inspection in manufacturing with AXI: everything you need to know.</title>
       <link>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/void-inspection-in-manufacturing-with-axi-everything-you-need-to-know</link>
       <description>Discover how Multi Line AXI reliably detects voids in 3D volumes, identifies defects at an early stage and makes your production more efficient and secure. State-of-the-art AXI technology for maximum quality in electronics production!</description>
@@ -38,20 +52,6 @@
       <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE).</description>
       <pubDate>Sat, 14 Mar 2026 19:29:28 -0000</pubDate>
       <guid>https://www.kistler.com/CH/en/webinars/C00000635</guid>
-    </item>
-    <item>
-      <title>PCB Defect Detection: Computer Vision with Raspberry Pi - Elektor Magazine</title>
-      <link>https://www.elektormagazine.com/articles/pcb-defect-detection-computer-vision-raspberry-pi</link>
-      <description>Machine learning enables real-time PCB defect detection using a FOMO model on a Raspberry Pi. Learn how with this straightforward approach.</description>
-      <pubDate>Sat, 14 Mar 2026 19:29:19 -0000</pubDate>
-      <guid>https://www.elektormagazine.com/articles/pcb-defect-detection-computer-vision-raspberry-pi</guid>
-    </item>
-    <item>
-      <title>AI Transforming NDT through Automated Defect Recognition</title>
-      <link>https://education.asnt.org/catalog/?subject=Radiographic%20Testing%20(RT)</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
-      <pubDate>Fri, 13 Mar 2026 19:20:55 -0000</pubDate>
-      <guid>https://education.asnt.org/catalog/?subject=Radiographic%20Testing%20(RT)</guid>
     </item>
   </channel>
 </rss>
