@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Bridging Virtual and Real Manufacturing with Physical AI</title>
+      <link>https://metrology.news/bridging-virtual-and-real-manufacturing-with-physical-ai/</link>
+      <description>ABB Robotics has announced it is integrating NVIDIA Omniverse libraries into ABB Robotics’ RobotStudio to help manufacturers deploy physical AI in real world robotics applications.</description>
+      <pubDate>Tue, 17 Mar 2026 07:33:13 -0000</pubDate>
+      <guid>https://metrology.news/bridging-virtual-and-real-manufacturing-with-physical-ai/</guid>
+    </item>
+    <item>
+      <title>Weaving the Digital Thread – The Interoperability Standards Powering Smart Manufacturing</title>
+      <link>https://metrology.news/weaving-the-digital-thread-the-interoperability-standards-powering-smart-manufacturing/</link>
+      <description>As manufacturing continues its shift toward digital transformation, the concept of the digital thread has become central to initiatives around smart manufacturing, Industry 4.0, and data-driven quality.</description>
+      <pubDate>Tue, 17 Mar 2026 07:33:13 -0000</pubDate>
+      <guid>https://metrology.news/weaving-the-digital-thread-the-interoperability-standards-powering-smart-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Robot Accuracy – The Missing Link in Smart Manufacturing</title>
+      <link>https://metrology.news/robot-accuracy-the-missing-link-in-smart-manufacturing/</link>
+      <description>The Renishaw RCS portfolio includes portable toolkits and in-process probing solutions designed specifically for six-axis industrial robots, allowing manufacturers to validate robot performance, improve positional accuracy and reduce downtime.</description>
+      <pubDate>Tue, 17 Mar 2026 07:33:12 -0000</pubDate>
+      <guid>https://metrology.news/robot-accuracy-the-missing-link-in-smart-manufacturing/</guid>
+    </item>
+    <item>
       <title>PiXARGUS Optimizes Inline Plastic Profile Inspection with ProfilControl 7 PlastX</title>
       <link>https://metrology.news/pixargus-optimizes-inline-plastic-profile-inspection-with-profilcontrol-7-plastx/</link>
       <description>By adapting its proven ProfilControl 7 technology specifically to the needs of plastics processing, the company delivers a system that balances high performance with cost efficiency—qualities that make it particularly well suited to the window construction industry.</description>
@@ -31,27 +52,6 @@
       <description>This growing gap between production capability and inspection practicality has created a clear demand for measurement systems that combine the power of 3D inspection with the simplicity and affordability required for everyday shop-floor use.</description>
       <pubDate>Mon, 16 Mar 2026 07:08:24 -0000</pubDate>
       <guid>https://metrology.news/measur3d-simplifies-shop-floor-3d-measurements/</guid>
-    </item>
-    <item>
-      <title>Why U.S. Businesses Are Reconsidering Section 301 Tariff Refunds</title>
-      <link>https://www.vision-systems.com/home/article/55363515/why-us-businesses-are-reconsidering-section-301-tariff-refunds</link>
-      <description>U.S. machine vision integrators and automation companies are revisiting Section 301 tariff refunds due to ongoing supply chain pressures.</description>
-      <pubDate>Sun, 15 Mar 2026 07:09:46 -0000</pubDate>
-      <guid>https://www.vision-systems.com/home/article/55363515/why-us-businesses-are-reconsidering-section-301-tariff-refunds</guid>
-    </item>
-    <item>
-      <title>Visions: A Machine Vision and Automation Solutions Podcast, Part 2</title>
-      <link>https://www.vision-systems.com/factory/podcast/55362804/visions-a-machine-vision-and-automation-solutions-podcast</link>
-      <description>An AI vision system replaces manual pallet checks at Shaw Industries, demonstrating a turnkey solution for loading dock verification and automated quality control.</description>
-      <pubDate>Sun, 15 Mar 2026 07:09:40 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55362804/visions-a-machine-vision-and-automation-solutions-podcast</guid>
-    </item>
-    <item>
-      <title>AI-Powered Industrial Camera Platform Made for High-Speed Diagnostics</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</link>
-      <description>The camera is designed to achieve a frame rate of up to 1,400 fps in full resolution and up to 29,000 fps at reduced resolution.</description>
-      <pubDate>Sat, 14 Mar 2026 07:24:58 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55361838/rdi-technologies-ai-powered-industrial-camera-platform-made-for-high-speed-diagnostics</guid>
     </item>
   </channel>
 </rss>
