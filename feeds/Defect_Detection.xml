@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition &amp;amp; AI in Digital Radiography</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>Explore the latest in Automated Defect Recognition and AI in Digital Radiography. Enhance inspection accuracy and efficiency. Register now!</description>
+      <pubDate>Wed, 18 Mar 2026 19:23:28 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
+      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
+      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
+      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection.</description>
+      <pubDate>Wed, 18 Mar 2026 19:23:23 -0000</pubDate>
+      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
+    </item>
+    <item>
       <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
       <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
       <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
@@ -38,20 +52,6 @@
       <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and [...]</description>
       <pubDate>Mon, 16 Mar 2026 19:16:15 -0000</pubDate>
       <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
-    </item>
-    <item>
-      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
-      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
-      <description>Join this exclusive webinar to discover how AeroMegh's advanced GeoAI platform and AI-powered drone technology automatically identify corrosion, damaged insulators, and structural defects with 95%+ accuracy. Learn practical implementation strategies to predict equipment failures and enhance grid reliability.</description>
-      <pubDate>Sun, 15 Mar 2026 19:21:33 -0000</pubDate>
-      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
-    </item>
-    <item>
-      <title>Webinar Kistler: Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
-      <link>https://www.kistler.com/CH/en/webinars/C00000635</link>
-      <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE).</description>
-      <pubDate>Sat, 14 Mar 2026 19:29:28 -0000</pubDate>
-      <guid>https://www.kistler.com/CH/en/webinars/C00000635</guid>
     </item>
   </channel>
 </rss>
