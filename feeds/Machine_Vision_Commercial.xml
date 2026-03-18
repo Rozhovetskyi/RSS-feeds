@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Major Aerospace Manufacturer Scales AI Inspection with KITOV.ai</title>
+      <link>https://metrology.news/major-aerospace-manufacturer-scales-ai-inspection-with-kitov-ai/</link>
+      <description>KITOV.ai, a leading provider of AI-Powered Quality Discovery solutions, has announced a follow-on order for an additional visual inspection system from a major American aerospace and defense manufacturer.</description>
+      <pubDate>Wed, 18 Mar 2026 07:29:39 -0000</pubDate>
+      <guid>https://metrology.news/major-aerospace-manufacturer-scales-ai-inspection-with-kitov-ai/</guid>
+    </item>
+    <item>
       <title>Bridging Virtual and Real Manufacturing with Physical AI</title>
       <link>https://metrology.news/bridging-virtual-and-real-manufacturing-with-physical-ai/</link>
       <description>ABB Robotics has announced it is integrating NVIDIA Omniverse libraries into ABB Robotics’ RobotStudio to help manufacturers deploy physical AI in real world robotics applications.</description>
@@ -45,13 +52,6 @@
       <description>The ability to look inside complex components without cutting them open or dismantling them lies at the heart of nondestructive testing (NDT).</description>
       <pubDate>Mon, 16 Mar 2026 07:08:38 -0000</pubDate>
       <guid>https://metrology.news/gianteye-project-aims-to-transform-large-scale-industrial-ct-inspection/</guid>
-    </item>
-    <item>
-      <title>Measur3D Simplifies Shop Floor 3D Measurements</title>
-      <link>https://metrology.news/measur3d-simplifies-shop-floor-3d-measurements/</link>
-      <description>This growing gap between production capability and inspection practicality has created a clear demand for measurement systems that combine the power of 3D inspection with the simplicity and affordability required for everyday shop-floor use.</description>
-      <pubDate>Mon, 16 Mar 2026 07:08:24 -0000</pubDate>
-      <guid>https://metrology.news/measur3d-simplifies-shop-floor-3d-measurements/</guid>
     </item>
   </channel>
 </rss>
