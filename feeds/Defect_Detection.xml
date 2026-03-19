@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>See It, Hear It, Sense It - Anomaly Detection Webinar for Real-world Industrial Applications</title>
+      <link>https://www.edgeimpulse.com/all-events/see-it-hear-it-sense-it----360deg-anomaly-detection-webinar-for-real-world-industrial-applications</link>
+      <description>If you’re ready to move beyond traditional, centralized systems for industrial monitoring, join Edge Impulse for a webinar on how to transform your anomaly detection capabilities with production-ready ML solutions that work across visual, audio, vibration, and temperature.</description>
+      <pubDate>Thu, 19 Mar 2026 19:19:13 -0000</pubDate>
+      <guid>https://www.edgeimpulse.com/all-events/see-it-hear-it-sense-it----360deg-anomaly-detection-webinar-for-real-world-industrial-applications</guid>
+    </item>
+    <item>
       <title>Automated Defect Recognition &amp;amp; AI in Digital Radiography</title>
       <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
       <description>Explore the latest in Automated Defect Recognition and AI in Digital Radiography. Enhance inspection accuracy and efficiency. Register now!</description>
@@ -45,13 +52,6 @@
       <description>Inspect BGAs reliably in line with the production cycle: Experience how Multi Line AXI tests BGAs in 3D volume, automatically detects voids, head-in-pillow and short circuits, thereby reducing scrap – for stable processes and maximum manufacturing quality.</description>
       <pubDate>Mon, 16 Mar 2026 19:16:16 -0000</pubDate>
       <guid>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/from-voids-to-head-in-pillow-reliably-detecting-bga-defects-with-axi</guid>
-    </item>
-    <item>
-      <title>Altus and Koh Young to Host Webinar Showcasing AI Applications in Inspection Software - What's New in Electronics</title>
-      <link>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</link>
-      <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and [...]</description>
-      <pubDate>Mon, 16 Mar 2026 19:16:15 -0000</pubDate>
-      <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
     </item>
   </channel>
 </rss>
