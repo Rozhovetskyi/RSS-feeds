@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Illumination Strategies for Reliable Defect Detection in High-Speed Quality Inspection</title>
+      <link>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</link>
+      <description>Every second counts on high-speed conveyor lines.</description>
+      <pubDate>Thu, 19 Mar 2026 07:06:48 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</guid>
+    </item>
+    <item>
+      <title>Wagon Automotive Implements Inline Metrology Cell for Complex Chassis Components</title>
+      <link>https://metrology.news/wagon-automotive-implements-inline-metrology-cell-for-complex-chassis-components/</link>
+      <description>Wagon Automotive’s production environment involves highly complex parts with varied geometries that must be inspected with tight tolerances.</description>
+      <pubDate>Thu, 19 Mar 2026 07:06:27 -0000</pubDate>
+      <guid>https://metrology.news/wagon-automotive-implements-inline-metrology-cell-for-complex-chassis-components/</guid>
+    </item>
+    <item>
+      <title>High-Speed CMOS X-ray Detection for AI Chip Inspection Launched</title>
+      <link>https://metrology.news/high-speed-cmos-x-ray-detection-for-ai-chip-inspection-launched/</link>
+      <description>Korean digital X-ray detector specialist Rayence has introduced its industrial high-speed CMOS X-ray detector platform, the Flash Series, designed specifically for semiconductor AXI and high-speed 3D X-ray CT inspection systems.</description>
+      <pubDate>Thu, 19 Mar 2026 07:06:10 -0000</pubDate>
+      <guid>https://metrology.news/high-speed-cmos-x-ray-detection-for-ai-chip-inspection-launched/</guid>
+    </item>
+    <item>
       <title>Major Aerospace Manufacturer Scales AI Inspection with KITOV.ai</title>
       <link>https://metrology.news/major-aerospace-manufacturer-scales-ai-inspection-with-kitov-ai/</link>
       <description>KITOV.ai, a leading provider of AI-Powered Quality Discovery solutions, has announced a follow-on order for an additional visual inspection system from a major American aerospace and defense manufacturer.</description>
@@ -31,27 +52,6 @@
       <description>The Renishaw RCS portfolio includes portable toolkits and in-process probing solutions designed specifically for six-axis industrial robots, allowing manufacturers to validate robot performance, improve positional accuracy and reduce downtime.</description>
       <pubDate>Tue, 17 Mar 2026 07:33:12 -0000</pubDate>
       <guid>https://metrology.news/robot-accuracy-the-missing-link-in-smart-manufacturing/</guid>
-    </item>
-    <item>
-      <title>PiXARGUS Optimizes Inline Plastic Profile Inspection with ProfilControl 7 PlastX</title>
-      <link>https://metrology.news/pixargus-optimizes-inline-plastic-profile-inspection-with-profilcontrol-7-plastx/</link>
-      <description>By adapting its proven ProfilControl 7 technology specifically to the needs of plastics processing, the company delivers a system that balances high performance with cost efficiency—qualities that make it particularly well suited to the window construction industry.</description>
-      <pubDate>Mon, 16 Mar 2026 07:09:02 -0000</pubDate>
-      <guid>https://metrology.news/pixargus-optimizes-inline-plastic-profile-inspection-with-profilcontrol-7-plastx/</guid>
-    </item>
-    <item>
-      <title>ZEISS and Verus Metrology Partner to Advance Metrology Automation</title>
-      <link>https://metrology.news/zeiss-and-verus-metrology-partner-to-advance-metrology-automation/</link>
-      <description>Automation continues to reshape the manufacturing landscape, placing increasing demands on metrology systems to deliver faster, more reliable, and seamlessly integrated measurement processes.</description>
-      <pubDate>Mon, 16 Mar 2026 07:08:49 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-and-verus-metrology-partner-to-advance-metrology-automation/</guid>
-    </item>
-    <item>
-      <title>GiantEye Project Aims to Transform Large-Scale Industrial CT Inspection</title>
-      <link>https://metrology.news/gianteye-project-aims-to-transform-large-scale-industrial-ct-inspection/</link>
-      <description>The ability to look inside complex components without cutting them open or dismantling them lies at the heart of nondestructive testing (NDT).</description>
-      <pubDate>Mon, 16 Mar 2026 07:08:38 -0000</pubDate>
-      <guid>https://metrology.news/gianteye-project-aims-to-transform-large-scale-industrial-ct-inspection/</guid>
     </item>
   </channel>
 </rss>
