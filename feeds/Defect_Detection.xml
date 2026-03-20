@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar: Defect Detection and Optical Inspection Technology</title>
+      <link>https://www.youtube.com/watch?v=yLlvW0ctdck</link>
+      <description>Registered users can watch the full webinar here: https://www.lumerical.com/support/vid...  Optical inspection technology has been evolving to address the ongoing shrinking of device dimensions and op</description>
+      <pubDate>Fri, 20 Mar 2026 19:23:54 -0000</pubDate>
+      <guid>https://www.youtube.com/watch?v=yLlvW0ctdck</guid>
+    </item>
+    <item>
+      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
+      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
+      <description>Join us for this exclusive webinar where we'll demonstrate how AeroMegh's advanced GeoAI platform revolutionizes power line inspection and maintenance. Discover how AI-powered drone technology can dramatically improve grid reliability while reducing operational costs. What You'll Learn. AI-Powered Defect Detection Learn how machine learning algorithms automatically identify corrosion, damaged insulators, vegetation encroachment, and structural defects with 95%+ accuracy.</description>
+      <pubDate>Fri, 20 Mar 2026 19:23:39 -0000</pubDate>
+      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
+    </item>
+    <item>
       <title>See It, Hear It, Sense It - Anomaly Detection Webinar for Real-world Industrial Applications</title>
       <link>https://www.edgeimpulse.com/all-events/see-it-hear-it-sense-it----360deg-anomaly-detection-webinar-for-real-world-industrial-applications</link>
       <description>If you’re ready to move beyond traditional, centralized systems for industrial monitoring, join Edge Impulse for a webinar on how to transform your anomaly detection capabilities with production-ready ML solutions that work across visual, audio, vibration, and temperature.</description>
@@ -38,20 +52,6 @@
       <description>The IDEALIST project is organising a new Expert-to-Expert webinar focused on Zero-Defect Manufacturing, bringing together industry professionals to discuss innovative approaches to advanced quality assurance in manufacturing. Expert-to-Expert webinars are one of the key formats through which IDEALIST supports manufacturing companies in exploring advanced technologies through peer-to-peer knowledge exchange. Hosted on the AGORA platform, these online sessions provide a space for experts and practitioners to share real use cases and practical solutions for industrial production.</description>
       <pubDate>Tue, 17 Mar 2026 19:16:05 -0000</pubDate>
       <guid>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</guid>
-    </item>
-    <item>
-      <title>Void inspection in manufacturing with AXI: everything you need to know.</title>
-      <link>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/void-inspection-in-manufacturing-with-axi-everything-you-need-to-know</link>
-      <description>Discover how Multi Line AXI reliably detects voids in 3D volumes, identifies defects at an early stage and makes your production more efficient and secure. State-of-the-art AXI technology for maximum quality in electronics production!</description>
-      <pubDate>Mon, 16 Mar 2026 19:16:16 -0000</pubDate>
-      <guid>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/void-inspection-in-manufacturing-with-axi-everything-you-need-to-know</guid>
-    </item>
-    <item>
-      <title>From voids to head-in-pillow: reliably detecting BGA defects with AXI</title>
-      <link>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/from-voids-to-head-in-pillow-reliably-detecting-bga-defects-with-axi</link>
-      <description>Inspect BGAs reliably in line with the production cycle: Experience how Multi Line AXI tests BGAs in 3D volume, automatically detects voids, head-in-pillow and short circuits, thereby reducing scrap – for stable processes and maximum manufacturing quality.</description>
-      <pubDate>Mon, 16 Mar 2026 19:16:16 -0000</pubDate>
-      <guid>https://www.goepel.com/en/embedded-jtag-solutions/news/events/details-1/from-voids-to-head-in-pillow-reliably-detecting-bga-defects-with-axi</guid>
     </item>
   </channel>
 </rss>
