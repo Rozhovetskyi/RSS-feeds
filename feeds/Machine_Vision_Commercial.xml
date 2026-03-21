@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Lumafield Expands Industrial CT Platform with High-Speed Metrology, Large-Part and Inline Inspection Solutions</title>
+      <link>https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/</link>
+      <description>Industrial X-ray computed tomography (CT) continues to reshape the way manufacturers understand product quality.</description>
+      <pubDate>Sat, 21 Mar 2026 07:06:19 -0000</pubDate>
+      <guid>https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/</guid>
+    </item>
+    <item>
+      <title>AT Sensors Launches High-Performance 3D Cameras for Next-Gen Machine Vision</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55364669/at-sensors-launches-high-performance-3d-cameras-for-next-gen-machine-vision</link>
+      <description>Designed for machine vision and industrial imaging applications such as high-speed automated inspections, these 3D industrial cameras offer exceptional profile speeds, advanced data fusion, and flexible optical alignment, enhancing accuracy and efficiency in complex industrial environments.</description>
+      <pubDate>Sat, 21 Mar 2026 07:06:05 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55364669/at-sensors-launches-high-performance-3d-cameras-for-next-gen-machine-vision</guid>
+    </item>
+    <item>
       <title>Illumination Strategies for Reliable Defect Detection in High-Speed Quality Inspection</title>
       <link>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</link>
       <description>Every second counts on high-speed conveyor lines.</description>
@@ -38,20 +52,6 @@
       <description>ABB Robotics has announced it is integrating NVIDIA Omniverse libraries into ABB Robotics’ RobotStudio to help manufacturers deploy physical AI in real world robotics applications.</description>
       <pubDate>Tue, 17 Mar 2026 07:33:13 -0000</pubDate>
       <guid>https://metrology.news/bridging-virtual-and-real-manufacturing-with-physical-ai/</guid>
-    </item>
-    <item>
-      <title>Weaving the Digital Thread – The Interoperability Standards Powering Smart Manufacturing</title>
-      <link>https://metrology.news/weaving-the-digital-thread-the-interoperability-standards-powering-smart-manufacturing/</link>
-      <description>As manufacturing continues its shift toward digital transformation, the concept of the digital thread has become central to initiatives around smart manufacturing, Industry 4.0, and data-driven quality.</description>
-      <pubDate>Tue, 17 Mar 2026 07:33:13 -0000</pubDate>
-      <guid>https://metrology.news/weaving-the-digital-thread-the-interoperability-standards-powering-smart-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Robot Accuracy – The Missing Link in Smart Manufacturing</title>
-      <link>https://metrology.news/robot-accuracy-the-missing-link-in-smart-manufacturing/</link>
-      <description>The Renishaw RCS portfolio includes portable toolkits and in-process probing solutions designed specifically for six-axis industrial robots, allowing manufacturers to validate robot performance, improve positional accuracy and reduce downtime.</description>
-      <pubDate>Tue, 17 Mar 2026 07:33:12 -0000</pubDate>
-      <guid>https://metrology.news/robot-accuracy-the-missing-link-in-smart-manufacturing/</guid>
     </item>
   </channel>
 </rss>
