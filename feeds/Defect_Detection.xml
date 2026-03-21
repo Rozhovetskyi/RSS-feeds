@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Live Webinar – AI for Automatic Inspection: Fasteners and a New Standard in Quality Control</title>
+      <link>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</link>
+      <description>Explore how AI-powered vision systems are redefining fastener inspection — not just in theory, but in practice. Discover how machine learning enhances defect detection, reduces pseudo-rejects, and supports compliance with industry standards.</description>
+      <pubDate>Sat, 21 Mar 2026 19:31:47 -0000</pubDate>
+      <guid>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</guid>
+    </item>
+    <item>
       <title>Webinar: Defect Detection and Optical Inspection Technology</title>
       <link>https://www.youtube.com/watch?v=yLlvW0ctdck</link>
       <description>Registered users can watch the full webinar here: https://www.lumerical.com/support/vid...  Optical inspection technology has been evolving to address the ongoing shrinking of device dimensions and op</description>
@@ -45,13 +52,6 @@
       <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
       <pubDate>Tue, 17 Mar 2026 19:16:13 -0000</pubDate>
       <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>Expert-to-Expert Webinar on Zero-Defect Manufacturing</title>
-      <link>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</link>
-      <description>The IDEALIST project is organising a new Expert-to-Expert webinar focused on Zero-Defect Manufacturing, bringing together industry professionals to discuss innovative approaches to advanced quality assurance in manufacturing. Expert-to-Expert webinars are one of the key formats through which IDEALIST supports manufacturing companies in exploring advanced technologies through peer-to-peer knowledge exchange. Hosted on the AGORA platform, these online sessions provide a space for experts and practitioners to share real use cases and practical solutions for industrial production.</description>
-      <pubDate>Tue, 17 Mar 2026 19:16:05 -0000</pubDate>
-      <guid>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</guid>
     </item>
   </channel>
 </rss>
