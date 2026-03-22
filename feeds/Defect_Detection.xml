@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
+      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
+      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag#AI and hashtag#Machine hashtag#Vision are transforming defect detection into a proactive, data-driven strategy.</description>
+      <pubDate>Sun, 22 Mar 2026 19:25:21 -0000</pubDate>
+      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
+    </item>
+    <item>
       <title>Live Webinar – AI for Automatic Inspection: Fasteners and a New Standard in Quality Control</title>
       <link>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</link>
       <description>Explore how AI-powered vision systems are redefining fastener inspection — not just in theory, but in practice. Discover how machine learning enhances defect detection, reduces pseudo-rejects, and supports compliance with industry standards.</description>
@@ -45,13 +52,6 @@
       <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection.</description>
       <pubDate>Wed, 18 Mar 2026 19:23:23 -0000</pubDate>
       <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
-    </item>
-    <item>
-      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
-      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
-      <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
-      <pubDate>Tue, 17 Mar 2026 19:16:13 -0000</pubDate>
-      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
     </item>
   </channel>
 </rss>
