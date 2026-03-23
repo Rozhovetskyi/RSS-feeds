@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar on Tackling Quality Control with AI Vision - Elementary</title>
+      <link>https://www.elementaryml.com/blog/tackling-quality-control-with-ai-vision-webinar</link>
+      <description>Many manufacturers are exploring AI for quality control—but getting it working in production is still a challenge. From manual labeling to complex setup, traditional AI workflows can slow teams down. In this on-demand webinar, we share what we've learned from real-world deployments and show how self-supervised AI can simplify the process.</description>
+      <pubDate>Mon, 23 Mar 2026 19:19:24 -0000</pubDate>
+      <guid>https://www.elementaryml.com/blog/tackling-quality-control-with-ai-vision-webinar</guid>
+    </item>
+    <item>
       <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
       <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
       <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag#AI and hashtag#Machine hashtag#Vision are transforming defect detection into a proactive, data-driven strategy.</description>
@@ -45,13 +52,6 @@
       <description>Explore the latest in Automated Defect Recognition and AI in Digital Radiography. Enhance inspection accuracy and efficiency. Register now!</description>
       <pubDate>Wed, 18 Mar 2026 19:23:28 -0000</pubDate>
       <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
-    </item>
-    <item>
-      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
-      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
-      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection.</description>
-      <pubDate>Wed, 18 Mar 2026 19:23:23 -0000</pubDate>
-      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
     </item>
   </channel>
 </rss>
