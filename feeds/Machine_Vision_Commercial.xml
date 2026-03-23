@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Renault to Deploy 350 Humanoid Robots in Industrial Automation Push – Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/renault-to-deploy-350-humanoid-robots-in-industrial-automation-push/</link>
+      <description>Rollout represents clear indication that humanoid robotics is moving beyond the prototype stage and into practical industrial use.</description>
+      <pubDate>Mon, 23 Mar 2026 07:08:45 -0000</pubDate>
+      <guid>https://metrology.news/renault-to-deploy-350-humanoid-robots-in-industrial-automation-push/</guid>
+    </item>
+    <item>
       <title>Inspection Equipment Trends Rebound as Machinery Orders Surge in 2025</title>
       <link>https://www.qualitymag.com/articles/99483-inspection-equipment-trends-rebound-as-machinery-orders-surge-in-2025</link>
       <description>After three years of reduced demand, orders of metalworking machinery had a strong rebound in 2025.</description>
@@ -45,13 +52,6 @@
       <description>Every second counts on high-speed conveyor lines.</description>
       <pubDate>Thu, 19 Mar 2026 07:06:48 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</guid>
-    </item>
-    <item>
-      <title>Wagon Automotive Implements Inline Metrology Cell for Complex Chassis Components</title>
-      <link>https://metrology.news/wagon-automotive-implements-inline-metrology-cell-for-complex-chassis-components/</link>
-      <description>Wagon Automotive’s production environment involves highly complex parts with varied geometries that must be inspected with tight tolerances.</description>
-      <pubDate>Thu, 19 Mar 2026 07:06:27 -0000</pubDate>
-      <guid>https://metrology.news/wagon-automotive-implements-inline-metrology-cell-for-complex-chassis-components/</guid>
     </item>
   </channel>
 </rss>
