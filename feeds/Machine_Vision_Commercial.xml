@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Real-Time Simulation Integration Drives Quality and Control in Robotics Engineering – Metrology and Quality News</title>
+      <link>https://metrology.news/real-time-simulation-integration-drives-quality-and-control-in-robotics-engineering/</link>
+      <description>PTC has announced a new robotics design-to-simulation workflow that connects PTC’s cloud-native Onshape computer-aided design (CAD) and product data management (PDM) platform with NVIDIA Isaac Sim open simulation framework.</description>
+      <pubDate>Tue, 24 Mar 2026 07:26:21 -0000</pubDate>
+      <guid>https://metrology.news/real-time-simulation-integration-drives-quality-and-control-in-robotics-engineering/</guid>
+    </item>
+    <item>
+      <title>Nikon Boosts Throughput and Automation with Next-Generation NEXIV Software – Metrology and Quality News</title>
+      <link>https://metrology.news/nikon-boosts-throughput-and-automation-with-next-generation-nexiv-software/</link>
+      <description>Nikon Corporation has announced major advancements across its NEXIV software lineup with the release of the newest versions of AutoMeasure and Advanced Measure, designed to significantly simplify program creation, automate operator tasks, and accelerate high‑volume measurement workflows.</description>
+      <pubDate>Tue, 24 Mar 2026 07:25:51 -0000</pubDate>
+      <guid>https://metrology.news/nikon-boosts-throughput-and-automation-with-next-generation-nexiv-software/</guid>
+    </item>
+    <item>
+      <title>Intelligent Automation-Led Manufacturing Emerges as a Strategic Imperative for Automakers – Metrology and Quality News</title>
+      <link>https://metrology.news/intelligent-automation-led-manufacturing-emerges-as-a-strategic-imperative-for-automakers/</link>
+      <description>“The intelligent factory is no longer a future ambition – it has become essential for manufacturers looking to stay competitive in a challenging and fast-moving environment,” said Joerg Reger, Managing Director of ABB Robotics Automotive Business Line.</description>
+      <pubDate>Tue, 24 Mar 2026 07:25:17 -0000</pubDate>
+      <guid>https://metrology.news/intelligent-automation-led-manufacturing-emerges-as-a-strategic-imperative-for-automakers/</guid>
+    </item>
+    <item>
       <title>Renault to Deploy 350 Humanoid Robots in Industrial Automation Push – Metrology and Quality News - Online Magazine</title>
       <link>https://metrology.news/renault-to-deploy-350-humanoid-robots-in-industrial-automation-push/</link>
       <description>Rollout represents clear indication that humanoid robotics is moving beyond the prototype stage and into practical industrial use.</description>
@@ -31,27 +52,6 @@
       <description>As environments grow more unpredictable, machines need more than accuracy; they need intelligence, the ability to adapt and respond to real-time challenges.</description>
       <pubDate>Sun, 22 Mar 2026 07:09:29 -0000</pubDate>
       <guid>https://www.vision-systems.com/nextgen/article/55357131/teledyne-vision-systems-smarter-vision-at-the-edge-merging-ai-depth-and-motion</guid>
-    </item>
-    <item>
-      <title>Lumafield Expands Industrial CT Platform with High-Speed Metrology, Large-Part and Inline Inspection Solutions</title>
-      <link>https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/</link>
-      <description>Industrial X-ray computed tomography (CT) continues to reshape the way manufacturers understand product quality.</description>
-      <pubDate>Sat, 21 Mar 2026 07:06:19 -0000</pubDate>
-      <guid>https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/</guid>
-    </item>
-    <item>
-      <title>AT Sensors Launches High-Performance 3D Cameras for Next-Gen Machine Vision</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55364669/at-sensors-launches-high-performance-3d-cameras-for-next-gen-machine-vision</link>
-      <description>Designed for machine vision and industrial imaging applications such as high-speed automated inspections, these 3D industrial cameras offer exceptional profile speeds, advanced data fusion, and flexible optical alignment, enhancing accuracy and efficiency in complex industrial environments.</description>
-      <pubDate>Sat, 21 Mar 2026 07:06:05 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55364669/at-sensors-launches-high-performance-3d-cameras-for-next-gen-machine-vision</guid>
-    </item>
-    <item>
-      <title>Illumination Strategies for Reliable Defect Detection in High-Speed Quality Inspection</title>
-      <link>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</link>
-      <description>Every second counts on high-speed conveyor lines.</description>
-      <pubDate>Thu, 19 Mar 2026 07:06:48 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99473-illumination-strategies-for-reliable-defect-detection-in-high-speed-quality-inspection</guid>
     </item>
   </channel>
 </rss>
