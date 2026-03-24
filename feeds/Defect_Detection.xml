@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Quality Control for Roof Shingle Manufacturing with AI Visual Inspection</title>
+      <link>https://zetamotion.com/automated-quality-control-for-roof-shingle-manufacturing-with-ai-visual-inspection/</link>
+      <description>This was the first in our new industry-focused webinar series, where we dive deep into how Zetamotion’s AI-powered inspection technology tackles real-world bottlenecks in specific manufacturing sectors. By applying our Spectron platform and synthetic data capabilities, we show manufacturers practical ways to move from manual, inconsistent checks to reliable, real-time automated quality control, by boosting yield, cutting scrap, and delivering measurable ROI.</description>
+      <pubDate>Tue, 24 Mar 2026 19:09:17 -0000</pubDate>
+      <guid>https://zetamotion.com/automated-quality-control-for-roof-shingle-manufacturing-with-ai-visual-inspection/</guid>
+    </item>
+    <item>
+      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026 - Zetamotion</title>
+      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
+      <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
+      <pubDate>Tue, 24 Mar 2026 19:08:37 -0000</pubDate>
+      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
+    </item>
+    <item>
       <title>Webinar on Tackling Quality Control with AI Vision - Elementary</title>
       <link>https://www.elementaryml.com/blog/tackling-quality-control-with-ai-vision-webinar</link>
       <description>Many manufacturers are exploring AI for quality control—but getting it working in production is still a challenge. From manual labeling to complex setup, traditional AI workflows can slow teams down. In this on-demand webinar, we share what we've learned from real-world deployments and show how self-supervised AI can simplify the process.</description>
@@ -38,20 +52,6 @@
       <description>Join us for this exclusive webinar where we'll demonstrate how AeroMegh's advanced GeoAI platform revolutionizes power line inspection and maintenance. Discover how AI-powered drone technology can dramatically improve grid reliability while reducing operational costs. What You'll Learn. AI-Powered Defect Detection Learn how machine learning algorithms automatically identify corrosion, damaged insulators, vegetation encroachment, and structural defects with 95%+ accuracy.</description>
       <pubDate>Fri, 20 Mar 2026 19:23:39 -0000</pubDate>
       <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
-    </item>
-    <item>
-      <title>See It, Hear It, Sense It - Anomaly Detection Webinar for Real-world Industrial Applications</title>
-      <link>https://www.edgeimpulse.com/all-events/see-it-hear-it-sense-it----360deg-anomaly-detection-webinar-for-real-world-industrial-applications</link>
-      <description>If you’re ready to move beyond traditional, centralized systems for industrial monitoring, join Edge Impulse for a webinar on how to transform your anomaly detection capabilities with production-ready ML solutions that work across visual, audio, vibration, and temperature.</description>
-      <pubDate>Thu, 19 Mar 2026 19:19:13 -0000</pubDate>
-      <guid>https://www.edgeimpulse.com/all-events/see-it-hear-it-sense-it----360deg-anomaly-detection-webinar-for-real-world-industrial-applications</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition &amp;amp; AI in Digital Radiography</title>
-      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
-      <description>Explore the latest in Automated Defect Recognition and AI in Digital Radiography. Enhance inspection accuracy and efficiency. Register now!</description>
-      <pubDate>Wed, 18 Mar 2026 19:23:28 -0000</pubDate>
-      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
     </item>
   </channel>
 </rss>
