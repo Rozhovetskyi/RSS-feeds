@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Optotherm Launches MWIR Thermal Imaging Camera</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55365431/optotherm-launches-mwir-thermal-imaging-camera</link>
+      <description>Camera designed for machine vision applications such as semiconductor failure analysis and microscopic temperature measurements.</description>
+      <pubDate>Wed, 25 Mar 2026 07:54:34 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55365431/optotherm-launches-mwir-thermal-imaging-camera</guid>
+    </item>
+    <item>
+      <title>InnovMetric Announces Global Aberlink Partnership</title>
+      <link>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</link>
+      <description>InnovMetric, the independent software development company that empowers manufacturers of every size to digitally transform their 3D measurement processes, has announced a new global partnership agreement with Aberlink.</description>
+      <pubDate>Wed, 25 Mar 2026 07:54:14 -0000</pubDate>
+      <guid>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</guid>
+    </item>
+    <item>
       <title>Real-Time Simulation Integration Drives Quality and Control in Robotics Engineering – Metrology and Quality News</title>
       <link>https://metrology.news/real-time-simulation-integration-drives-quality-and-control-in-robotics-engineering/</link>
       <description>PTC has announced a new robotics design-to-simulation workflow that connects PTC’s cloud-native Onshape computer-aided design (CAD) and product data management (PDM) platform with NVIDIA Isaac Sim open simulation framework.</description>
@@ -38,20 +52,6 @@
       <description>After three years of reduced demand, orders of metalworking machinery had a strong rebound in 2025.</description>
       <pubDate>Sun, 22 Mar 2026 07:10:21 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99483-inspection-equipment-trends-rebound-as-machinery-orders-surge-in-2025</guid>
-    </item>
-    <item>
-      <title>LUCID RGB-D Time-of-Flight Cameras</title>
-      <link>https://www.qualitymag.com/articles/99479-lucid-rgb-d-time-of-flight-cameras</link>
-      <description>The new Chroma models combine 3D depth sensing with a 3.2 MP Triton® RGB camera in a rugged, space-saving housing.</description>
-      <pubDate>Sun, 22 Mar 2026 07:09:58 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99479-lucid-rgb-d-time-of-flight-cameras</guid>
-    </item>
-    <item>
-      <title>Advancing Robotics with 3D Vision, AI, and Edge Computing for Smarter Automation</title>
-      <link>https://www.vision-systems.com/nextgen/article/55357131/teledyne-vision-systems-smarter-vision-at-the-edge-merging-ai-depth-and-motion</link>
-      <description>As environments grow more unpredictable, machines need more than accuracy; they need intelligence, the ability to adapt and respond to real-time challenges.</description>
-      <pubDate>Sun, 22 Mar 2026 07:09:29 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/article/55357131/teledyne-vision-systems-smarter-vision-at-the-edge-merging-ai-depth-and-motion</guid>
     </item>
   </channel>
 </rss>
