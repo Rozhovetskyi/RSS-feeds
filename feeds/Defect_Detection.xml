@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
+      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
+      <pubDate>Wed, 25 Mar 2026 19:19:08 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
+    </item>
+    <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
+      <pubDate>Wed, 25 Mar 2026 19:18:58 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
       <title>Automated Quality Control for Roof Shingle Manufacturing with AI Visual Inspection</title>
       <link>https://zetamotion.com/automated-quality-control-for-roof-shingle-manufacturing-with-ai-visual-inspection/</link>
       <description>This was the first in our new industry-focused webinar series, where we dive deep into how Zetamotion’s AI-powered inspection technology tackles real-world bottlenecks in specific manufacturing sectors. By applying our Spectron platform and synthetic data capabilities, we show manufacturers practical ways to move from manual, inconsistent checks to reliable, real-time automated quality control, by boosting yield, cutting scrap, and delivering measurable ROI.</description>
@@ -38,20 +52,6 @@
       <description>Explore how AI-powered vision systems are redefining fastener inspection — not just in theory, but in practice. Discover how machine learning enhances defect detection, reduces pseudo-rejects, and supports compliance with industry standards.</description>
       <pubDate>Sat, 21 Mar 2026 19:31:47 -0000</pubDate>
       <guid>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</guid>
-    </item>
-    <item>
-      <title>Webinar: Defect Detection and Optical Inspection Technology</title>
-      <link>https://www.youtube.com/watch?v=yLlvW0ctdck</link>
-      <description>Registered users can watch the full webinar here: https://www.lumerical.com/support/vid...  Optical inspection technology has been evolving to address the ongoing shrinking of device dimensions and op</description>
-      <pubDate>Fri, 20 Mar 2026 19:23:54 -0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=yLlvW0ctdck</guid>
-    </item>
-    <item>
-      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar - AeroMegh</title>
-      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
-      <description>Join us for this exclusive webinar where we'll demonstrate how AeroMegh's advanced GeoAI platform revolutionizes power line inspection and maintenance. Discover how AI-powered drone technology can dramatically improve grid reliability while reducing operational costs. What You'll Learn. AI-Powered Defect Detection Learn how machine learning algorithms automatically identify corrosion, damaged insulators, vegetation encroachment, and structural defects with 95%+ accuracy.</description>
-      <pubDate>Fri, 20 Mar 2026 19:23:39 -0000</pubDate>
-      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
     </item>
   </channel>
 </rss>
