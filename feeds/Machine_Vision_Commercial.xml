@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Interlayer Control System Advances Quality Assurance in Industrial 3D Printing</title>
+      <link>https://metrology.news/interlayer-control-system-advances-quality-assurance-in-industrial-3d-printing/</link>
+      <description>Interlayer Control System represents a significant step forward in 3D printing quality assurance delivering real-time thermal insight.</description>
+      <pubDate>Sat, 28 Mar 2026 07:10:34 -0000</pubDate>
+      <guid>https://metrology.news/interlayer-control-system-advances-quality-assurance-in-industrial-3d-printing/</guid>
+    </item>
+    <item>
+      <title>Industry Trends in AI Adoption for Machine Vision</title>
+      <link>https://www.vision-systems.com/nextgen/video/55366517/industry-trends-in-ai-adoption-for-machine-vision</link>
+      <description>Cognex CEO Matt Moschner highlights how sectors like logistics, consumer electronics, and automotive are leading AI adoption, driven by the need for improved vision system performance...</description>
+      <pubDate>Sat, 28 Mar 2026 07:10:05 -0000</pubDate>
+      <guid>https://www.vision-systems.com/nextgen/video/55366517/industry-trends-in-ai-adoption-for-machine-vision</guid>
+    </item>
+    <item>
       <title>Inspection Equipment Trends Rebound as Machinery Orders Surge in 2025</title>
       <link>https://www.qualitymag.com/articles/99483-inspection-equipment-trends-rebound-as-machinery-orders-surge-in-2025</link>
       <description>After three years of reduced demand, orders of metalworking machinery had a strong rebound in 2025.</description>
@@ -38,20 +52,6 @@
       <description>Renishaw, a global leader in precision engineering technologies, has unveiled a new multi-degree-of-freedom (multi-DoF) optical encoder system, designed to deliver advanced position measurement in up to six degrees of freedom (6DoF).</description>
       <pubDate>Fri, 27 Mar 2026 07:16:17 -0000</pubDate>
       <guid>https://metrology.news/renishaw-introduces-true-absolute-multi-dof-encoder-system-for-high-performance-motion-control/</guid>
-    </item>
-    <item>
-      <title>What Should You Consider When Choosing a Ring Light for Optical Inspection and Quality Control with Digital Microscopes?</title>
-      <link>https://www.qualitymag.com/articles/99487-what-should-you-consider-when-choosing-a-ring-light-for-optical-inspection-and-quality-control-with-digital-microscopes</link>
-      <description>Lighting is arguably one of the most critical factors in the optical inspection tasks using modern 4K digital microscopes.</description>
-      <pubDate>Thu, 26 Mar 2026 07:15:18 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99487-what-should-you-consider-when-choosing-a-ring-light-for-optical-inspection-and-quality-control-with-digital-microscopes</guid>
-    </item>
-    <item>
-      <title>Futureproofing Quality: Trends in Digital Color and Appearance Management</title>
-      <link>https://www.qualitymag.com/articles/99489-futureproofing-quality-trends-in-digital-color-and-appearance-management</link>
-      <description>As digital transformation reshapes every segment of manufacturing, color and appearance management is undergoing a fundamental shift.</description>
-      <pubDate>Thu, 26 Mar 2026 07:14:59 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99489-futureproofing-quality-trends-in-digital-color-and-appearance-management</guid>
     </item>
   </channel>
 </rss>
