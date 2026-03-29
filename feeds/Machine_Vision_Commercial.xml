@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>InnovMetric Announces Global Aberlink Partnership</title>
+      <link>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</link>
+      <description>Partnership combines the powerful capabilities of PolyWorks|Inspector with Aberlink’s CMM an advanced solution for precision 3D metrology.</description>
+      <pubDate>Sun, 29 Mar 2026 06:11:47 -0000</pubDate>
+      <guid>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</guid>
+    </item>
+    <item>
+      <title>Measuring the Impact of AI in Machine Vision</title>
+      <link>https://www.vision-systems.com/nextgen/video/55367009/measuring-the-impact-of-ai-in-machine-vision</link>
+      <description>Evaluating AI vision systems requires a balanced approach that considers traditional operational metrics, user interaction, system costs, and long-term benefits, with a focus ...</description>
+      <pubDate>Sun, 29 Mar 2026 06:11:09 -0000</pubDate>
+      <guid>https://www.vision-systems.com/nextgen/video/55367009/measuring-the-impact-of-ai-in-machine-vision</guid>
+    </item>
+    <item>
       <title>Interlayer Control System Advances Quality Assurance in Industrial 3D Printing</title>
       <link>https://metrology.news/interlayer-control-system-advances-quality-assurance-in-industrial-3d-printing/</link>
       <description>Interlayer Control System represents a significant step forward in 3D printing quality assurance delivering real-time thermal insight.</description>
@@ -38,20 +52,6 @@
       <description>“The intelligent factory is no longer a future ambition – it has become essential for manufacturers looking to stay competitive in a challenging and fast-moving environment,” said Joerg Reger, Managing Director of ABB Robotics Automotive Business Line.</description>
       <pubDate>Fri, 27 Mar 2026 07:17:00 -0000</pubDate>
       <guid>https://metrology.news/intelligent-automation-led-manufacturing-emerges-as-a-strategic-imperative-for-automakers/</guid>
-    </item>
-    <item>
-      <title>Real-Time Measurement Reduces Scrap in Plastic Profiles</title>
-      <link>https://metrology.news/real-time-measurement-reduces-scrap-in-plastic-profiles/</link>
-      <description>A new measurement technology reduces scrap in fiber‑reinforced plastic (FRP) profiles and enables cost‑effective, real-time process control for small and medium-sized enterprises.</description>
-      <pubDate>Fri, 27 Mar 2026 07:16:40 -0000</pubDate>
-      <guid>https://metrology.news/real-time-measurement-reduces-scrap-in-plastic-profiles/</guid>
-    </item>
-    <item>
-      <title>Renishaw Introduces True-Absolute Multi-DoF Encoder System for High-Performance Motion Control</title>
-      <link>https://metrology.news/renishaw-introduces-true-absolute-multi-dof-encoder-system-for-high-performance-motion-control/</link>
-      <description>Renishaw, a global leader in precision engineering technologies, has unveiled a new multi-degree-of-freedom (multi-DoF) optical encoder system, designed to deliver advanced position measurement in up to six degrees of freedom (6DoF).</description>
-      <pubDate>Fri, 27 Mar 2026 07:16:17 -0000</pubDate>
-      <guid>https://metrology.news/renishaw-introduces-true-absolute-multi-dof-encoder-system-for-high-performance-motion-control/</guid>
     </item>
   </channel>
 </rss>
