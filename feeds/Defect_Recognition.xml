@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python | Towards Data Science</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>Learn about Yolov4 and Darknet to train a Custom Object Detector</description>
+      <pubDate>Sun, 29 Mar 2026 18:19:43 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>Synthetic data generation for defects using TensorFlow and GANs</title>
       <link>https://hackernoon.com/synthetic-data-generation-for-defects-using-tensorflow-and-gans-tech</link>
       <description>Comprehensive guide providing synthetic data generation for defects code snippets using TensorFlow, avoiding high-level theory to focus on practical implementations for machine vision.</description>
@@ -45,13 +52,6 @@
       <description>Implementation details of YOLO for custom object detection on CPU.</description>
       <pubDate>Fri, 06 Mar 2026 19:14:18 -0000</pubDate>
       <guid>https://towardsdatascience.com/faced-cpu-real-time-face-detection-using-deep-learning-1488681c1602</guid>
-    </item>
-    <item>
-      <title>Python for Augmented Data Generation: Building Synthetic Datasets for Machine Learning</title>
-      <link>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</link>
-      <description>How Python libraries help create high-quality synthetic data to improve ML models.</description>
-      <pubDate>Tue, 03 Mar 2026 19:44:34 -0000</pubDate>
-      <guid>https://medium.com/@shouke.wei/python-for-augmented-data-generation-building-synthetic-datasets-for-machine-learning-888bf48e149c</guid>
     </item>
   </channel>
 </rss>
