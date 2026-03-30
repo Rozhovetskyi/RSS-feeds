@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Starrett Unveils Next-Generation Digital Comparator for Precision Manufacturing</title>
+      <link>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</link>
+      <description>The HDV250 modernizes the optical comparator by replacing a traditional projection screen with a high-resolution camera and digital monitor.</description>
+      <pubDate>Mon, 30 Mar 2026 06:09:08 -0000</pubDate>
+      <guid>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</guid>
+    </item>
+    <item>
+      <title>SmartRay Expands ECCO X Range with 3D Sensor for Reflective and Glass Surfaces</title>
+      <link>https://metrology.news/smartray-expands-ecco-x-range-with-3d-sensor-for-reflective-and-glass-surfaces/</link>
+      <description>The new SmartRay sensor features a typical vertical resolution of 2.2–2.9 µm and a lateral resolution of 11–13 µm.</description>
+      <pubDate>Mon, 30 Mar 2026 06:08:42 -0000</pubDate>
+      <guid>https://metrology.news/smartray-expands-ecco-x-range-with-3d-sensor-for-reflective-and-glass-surfaces/</guid>
+    </item>
+    <item>
+      <title>APOLLO Introduces Predictive Intelligence for CMMs</title>
+      <link>https://metrology.news/apollo-introduces-predictive-intelligence-for-cmms/</link>
+      <description>APOLLO provides real-time predictive condition monitoring for Coordinate Measuring Machines (CMMs) and machine tools.</description>
+      <pubDate>Mon, 30 Mar 2026 06:08:19 -0000</pubDate>
+      <guid>https://metrology.news/apollo-introduces-predictive-intelligence-for-cmms/</guid>
+    </item>
+    <item>
       <title>InnovMetric Announces Global Aberlink Partnership</title>
       <link>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</link>
       <description>Partnership combines the powerful capabilities of PolyWorks|Inspector with Aberlink’s CMM an advanced solution for precision 3D metrology.</description>
@@ -31,27 +52,6 @@
       <description>Cognex CEO Matt Moschner highlights how sectors like logistics, consumer electronics, and automotive are leading AI adoption, driven by the need for improved vision system performance...</description>
       <pubDate>Sat, 28 Mar 2026 07:10:05 -0000</pubDate>
       <guid>https://www.vision-systems.com/nextgen/video/55366517/industry-trends-in-ai-adoption-for-machine-vision</guid>
-    </item>
-    <item>
-      <title>Inspection Equipment Trends Rebound as Machinery Orders Surge in 2025</title>
-      <link>https://www.qualitymag.com/articles/99483-inspection-equipment-trends-rebound-as-machinery-orders-surge-in-2025</link>
-      <description>After three years of reduced demand, orders of metalworking machinery had a strong rebound in 2025.</description>
-      <pubDate>Fri, 27 Mar 2026 07:17:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99483-inspection-equipment-trends-rebound-as-machinery-orders-surge-in-2025</guid>
-    </item>
-    <item>
-      <title>AI-Powered Machine Vision Technologies Are Revolutionizing Industrial Applications</title>
-      <link>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</link>
-      <description>The advancements introduced by artificial intelligence (AI) mark the beginning of a new era in machine vision.</description>
-      <pubDate>Fri, 27 Mar 2026 07:17:20 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</guid>
-    </item>
-    <item>
-      <title>Intelligent Automation-Led Manufacturing Emerges as a Strategic Imperative for Automakers</title>
-      <link>https://metrology.news/intelligent-automation-led-manufacturing-emerges-as-a-strategic-imperative-for-automakers/</link>
-      <description>“The intelligent factory is no longer a future ambition – it has become essential for manufacturers looking to stay competitive in a challenging and fast-moving environment,” said Joerg Reger, Managing Director of ABB Robotics Automotive Business Line.</description>
-      <pubDate>Fri, 27 Mar 2026 07:17:00 -0000</pubDate>
-      <guid>https://metrology.news/intelligent-automation-led-manufacturing-emerges-as-a-strategic-imperative-for-automakers/</guid>
     </item>
   </channel>
 </rss>
