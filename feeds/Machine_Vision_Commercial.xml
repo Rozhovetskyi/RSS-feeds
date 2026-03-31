@@ -5,53 +5,53 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Powered Machine Vision Technologies Are Revolutionizing Industrial Applications</title>
+      <link>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</link>
+      <description>No two eggs are identical, yet all are edible. This principle applies equally to industrial manufacturing: the diversity of produced parts and potential defects is virtually limitless. The added challenge for quality assurance and identification tasks?</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:53 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</guid>
+    </item>
+    <item>
+      <title>Critical Manufacturing Brings Real-Time Intelligence to the Shopfloor</title>
+      <link>https://metrology.news/critical-manufacturing-brings-real-time-intelligence-to-the-shopfloor/</link>
+      <description>MES is the foundation of an Industrial Operations Platform where execution, data, and intelligence are continuously connected.</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:45 -0000</pubDate>
+      <guid>https://metrology.news/critical-manufacturing-brings-real-time-intelligence-to-the-shopfloor/</guid>
+    </item>
+    <item>
+      <title>Additive Assurance Brings Real-Time Quality to Metal AM Builds</title>
+      <link>https://metrology.news/additive-assurance-brings-real-time-quality-to-metal-am-builds/</link>
+      <description>AMiRIS is a fully integrable sensor and software designed for OEMs of L-PBF systems transforming open-loop systems into data-driven platforms.</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:38 -0000</pubDate>
+      <guid>https://metrology.news/additive-assurance-brings-real-time-quality-to-metal-am-builds/</guid>
+    </item>
+    <item>
+      <title>Redefining In-Line Inspection for High-Volume Manufacturing</title>
+      <link>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</link>
+      <description>AM-Quality provides real-time, automated feedback loops to minimize the risk of defective parts continuing down the production line.</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:31 -0000</pubDate>
+      <guid>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Robot-Assisted 3D Laser Scanning Redefines Inline Quality Inspection</title>
+      <link>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</link>
+      <description>FlexScan 3D scanning combines technology to enable 100% inline inspection without affecting production flow.</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:23 -0000</pubDate>
+      <guid>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</guid>
+    </item>
+    <item>
+      <title>Sentinel Vision and Zebra Technologies Launch AI, 3D Automated Inspection System</title>
+      <link>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</link>
+      <description>Sentinel Vision and Zebra Technologies have developed an AI-driven 3D inspection system that improves automotive door assembly quality by replacing manual checks with automated...</description>
+      <pubDate>Tue, 31 Mar 2026 06:35:15 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</guid>
+    </item>
+    <item>
       <title>Starrett Unveils Next-Generation Digital Comparator for Precision Manufacturing</title>
       <link>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</link>
       <description>The HDV250 modernizes the optical comparator by replacing a traditional projection screen with a high-resolution camera and digital monitor.</description>
       <pubDate>Mon, 30 Mar 2026 06:09:08 -0000</pubDate>
       <guid>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</guid>
-    </item>
-    <item>
-      <title>SmartRay Expands ECCO X Range with 3D Sensor for Reflective and Glass Surfaces</title>
-      <link>https://metrology.news/smartray-expands-ecco-x-range-with-3d-sensor-for-reflective-and-glass-surfaces/</link>
-      <description>The new SmartRay sensor features a typical vertical resolution of 2.2–2.9 µm and a lateral resolution of 11–13 µm.</description>
-      <pubDate>Mon, 30 Mar 2026 06:08:42 -0000</pubDate>
-      <guid>https://metrology.news/smartray-expands-ecco-x-range-with-3d-sensor-for-reflective-and-glass-surfaces/</guid>
-    </item>
-    <item>
-      <title>APOLLO Introduces Predictive Intelligence for CMMs</title>
-      <link>https://metrology.news/apollo-introduces-predictive-intelligence-for-cmms/</link>
-      <description>APOLLO provides real-time predictive condition monitoring for Coordinate Measuring Machines (CMMs) and machine tools.</description>
-      <pubDate>Mon, 30 Mar 2026 06:08:19 -0000</pubDate>
-      <guid>https://metrology.news/apollo-introduces-predictive-intelligence-for-cmms/</guid>
-    </item>
-    <item>
-      <title>InnovMetric Announces Global Aberlink Partnership</title>
-      <link>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</link>
-      <description>Partnership combines the powerful capabilities of PolyWorks|Inspector with Aberlink’s CMM an advanced solution for precision 3D metrology.</description>
-      <pubDate>Sun, 29 Mar 2026 06:11:47 -0000</pubDate>
-      <guid>https://metrology.news/innovmetric-announces-global-aberlink-partnership/</guid>
-    </item>
-    <item>
-      <title>Measuring the Impact of AI in Machine Vision</title>
-      <link>https://www.vision-systems.com/nextgen/video/55367009/measuring-the-impact-of-ai-in-machine-vision</link>
-      <description>Evaluating AI vision systems requires a balanced approach that considers traditional operational metrics, user interaction, system costs, and long-term benefits, with a focus ...</description>
-      <pubDate>Sun, 29 Mar 2026 06:11:09 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/video/55367009/measuring-the-impact-of-ai-in-machine-vision</guid>
-    </item>
-    <item>
-      <title>Interlayer Control System Advances Quality Assurance in Industrial 3D Printing</title>
-      <link>https://metrology.news/interlayer-control-system-advances-quality-assurance-in-industrial-3d-printing/</link>
-      <description>Interlayer Control System represents a significant step forward in 3D printing quality assurance delivering real-time thermal insight.</description>
-      <pubDate>Sat, 28 Mar 2026 07:10:34 -0000</pubDate>
-      <guid>https://metrology.news/interlayer-control-system-advances-quality-assurance-in-industrial-3d-printing/</guid>
-    </item>
-    <item>
-      <title>Industry Trends in AI Adoption for Machine Vision</title>
-      <link>https://www.vision-systems.com/nextgen/video/55366517/industry-trends-in-ai-adoption-for-machine-vision</link>
-      <description>Cognex CEO Matt Moschner highlights how sectors like logistics, consumer electronics, and automotive are leading AI adoption, driven by the need for improved vision system performance...</description>
-      <pubDate>Sat, 28 Mar 2026 07:10:05 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/video/55366517/industry-trends-in-ai-adoption-for-machine-vision</guid>
     </item>
   </channel>
 </rss>
