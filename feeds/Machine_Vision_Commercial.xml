@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Visions Podcast: From Legacy to Lightning</title>
+      <link>https://www.vision-systems.com/factory/podcast/55367666/upgrading-legacy-vision-systems-to-ai</link>
+      <description>This episode explores integrating AI into legacy inspection systems, highlighting Elementary's approach to augmenting cameras with AI classification to improve manufacturing quality...</description>
+      <pubDate>Wed, 01 Apr 2026 06:18:48 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55367666/upgrading-legacy-vision-systems-to-ai</guid>
+    </item>
+    <item>
+      <title>Upgraded PULSE Delivers Advanced Real-Time Environmental Monitoring for Shop-Floor Metrology</title>
+      <link>https://metrology.news/upgraded-pulse-delivers-advanced-real-time-environmental-monitoring-for-shop-floor-metrology/</link>
+      <description>The upgraded PULSE introduces several hardware and platform enhancements aligned with modern manufacturing and automation trends.</description>
+      <pubDate>Wed, 01 Apr 2026 06:18:20 -0000</pubDate>
+      <guid>https://metrology.news/upgraded-pulse-delivers-advanced-real-time-environmental-monitoring-for-shop-floor-metrology/</guid>
+    </item>
+    <item>
+      <title>Stepping into Metrology Automation – How 3D Scanners Bridge the Gap for Manufacturers</title>
+      <link>https://metrology.news/stepping-into-metrology-automation-how-3d-scanners-bridge-the-gap-for-manufacturers/</link>
+      <description>Investment in 3D scanning lays the foundation for scalable growth, ensuring user can adapt and thrive with emerging automation technologies.</description>
+      <pubDate>Wed, 01 Apr 2026 06:17:52 -0000</pubDate>
+      <guid>https://metrology.news/stepping-into-metrology-automation-how-3d-scanners-bridge-the-gap-for-manufacturers/</guid>
+    </item>
+    <item>
       <title>AI-Powered Machine Vision Technologies Are Revolutionizing Industrial Applications</title>
       <link>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</link>
       <description>No two eggs are identical, yet all are edible. This principle applies equally to industrial manufacturing: the diversity of produced parts and potential defects is virtually limitless. The added challenge for quality assurance and identification tasks?</description>
@@ -31,27 +52,6 @@
       <description>AM-Quality provides real-time, automated feedback loops to minimize the risk of defective parts continuing down the production line.</description>
       <pubDate>Tue, 31 Mar 2026 06:35:31 -0000</pubDate>
       <guid>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Robot-Assisted 3D Laser Scanning Redefines Inline Quality Inspection</title>
-      <link>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</link>
-      <description>FlexScan 3D scanning combines technology to enable 100% inline inspection without affecting production flow.</description>
-      <pubDate>Tue, 31 Mar 2026 06:35:23 -0000</pubDate>
-      <guid>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</guid>
-    </item>
-    <item>
-      <title>Sentinel Vision and Zebra Technologies Launch AI, 3D Automated Inspection System</title>
-      <link>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</link>
-      <description>Sentinel Vision and Zebra Technologies have developed an AI-driven 3D inspection system that improves automotive door assembly quality by replacing manual checks with automated...</description>
-      <pubDate>Tue, 31 Mar 2026 06:35:15 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</guid>
-    </item>
-    <item>
-      <title>Starrett Unveils Next-Generation Digital Comparator for Precision Manufacturing</title>
-      <link>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</link>
-      <description>The HDV250 modernizes the optical comparator by replacing a traditional projection screen with a high-resolution camera and digital monitor.</description>
-      <pubDate>Mon, 30 Mar 2026 06:09:08 -0000</pubDate>
-      <guid>https://metrology.news/starrett-unveils-next-generation-digital-comparator-for-precision-manufacturing/</guid>
     </item>
   </channel>
 </rss>
