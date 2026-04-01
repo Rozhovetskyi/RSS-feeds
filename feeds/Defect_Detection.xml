@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
+      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
+      <pubDate>Wed, 01 Apr 2026 18:44:36 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
+    </item>
+    <item>
       <title>AI-Driven Defect Detection with Machine Vision</title>
       <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
       <description>Is your quality control still manual? It’s time for a reality check. 🚗💡 The ASQ Automotive Division of the American Society for Quality is proud to present an exciting series of high-impact webinars featuring Global Quality and Industry Experts from across the manufacturing landscape. Traditional inspection is slow, prone to error, and costly. But the future of manufacturing isn't just about automation—it’s about intelligence. Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag # AI and hashtag # Machine hashtag # Vision are transforming defect detection into a proactive, data-driven strategy.</description>
@@ -45,13 +52,6 @@
       <description>Join us as we demonstrate the latest software capabilities and surface characterisation: New defect detection analysis function Radius of curvature Surface roughness Profile roughness Dimensional measurements Particle detection  This is a recording of the main webinar demonstration.</description>
       <pubDate>Fri, 27 Mar 2026 19:09:01 -0000</pubDate>
       <guid>https://www.youtube.com/watch?v=uR-_PBfSfbw</guid>
-    </item>
-    <item>
-      <title>Webinar - AI-Driven Automation for Power T&amp;D Line Inspection, Defect Detection</title>
-      <link>https://www.youtube.com/watch?v=yAlXSWmckjM</link>
-      <description>Discover how AI is revolutionizing power line inspections, enabling utilities to predict failures before they happen and prevent costly outages.</description>
-      <pubDate>Fri, 27 Mar 2026 19:08:31 -0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=yAlXSWmckjM</guid>
     </item>
   </channel>
 </rss>
