@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Direct Scanning Laser Trackers – A New Era for Quality Control</title>
+      <link>https://metrology.news/direct-scanning-laser-trackers-a-new-era-for-quality-control/</link>
+      <description>Precision drives the success of every modern manufacturing line with mounting pressure to deliver flawless components while managing limited factory space and a shortage of skilled operators.</description>
+      <pubDate>Thu, 02 Apr 2026 06:41:28 -0000</pubDate>
+      <guid>https://metrology.news/direct-scanning-laser-trackers-a-new-era-for-quality-control/</guid>
+    </item>
+    <item>
+      <title>Next‑Gen Vision and OCR for Supply Chain Operations</title>
+      <link>https://www.vision-systems.com/nextgen/article/55368147/nextgen-vision-and-ocr-for-supply-chain-operations</link>
+      <description>AmbiVision by Ambi Robotics leverages AI and cognitive OCR to automate item identification, tracking, and inspection in logistics environments, even when labels are damaged or missing, boosting accuracy and efficiency.</description>
+      <pubDate>Thu, 02 Apr 2026 06:40:35 -0000</pubDate>
+      <guid>https://www.vision-systems.com/nextgen/article/55368147/nextgen-vision-and-ocr-for-supply-chain-operations</guid>
+    </item>
+    <item>
+      <title>Is Smartphone-Based Visual Inspection the Future of Quality Control?</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</link>
+      <description>The piece discusses the rapid advancements in smartphone camera technology and edge AI processing, predicting a future where accessible, democratized visual inspection tools enable any factory worker to perform quality checks, driving industry-wide improvements.</description>
+      <pubDate>Thu, 02 Apr 2026 06:39:41 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</guid>
+    </item>
+    <item>
       <title>Visions Podcast: From Legacy to Lightning</title>
       <link>https://www.vision-systems.com/factory/podcast/55367666/upgrading-legacy-vision-systems-to-ai</link>
       <description>This episode explores integrating AI into legacy inspection systems, highlighting Elementary's approach to augmenting cameras with AI classification to improve manufacturing quality...</description>
@@ -31,27 +52,6 @@
       <description>No two eggs are identical, yet all are edible. This principle applies equally to industrial manufacturing: the diversity of produced parts and potential defects is virtually limitless. The added challenge for quality assurance and identification tasks?</description>
       <pubDate>Tue, 31 Mar 2026 06:35:53 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99490-ai-powered-machine-vision-technologies-are-revolutionizing-industrial-applications</guid>
-    </item>
-    <item>
-      <title>Critical Manufacturing Brings Real-Time Intelligence to the Shopfloor</title>
-      <link>https://metrology.news/critical-manufacturing-brings-real-time-intelligence-to-the-shopfloor/</link>
-      <description>MES is the foundation of an Industrial Operations Platform where execution, data, and intelligence are continuously connected.</description>
-      <pubDate>Tue, 31 Mar 2026 06:35:45 -0000</pubDate>
-      <guid>https://metrology.news/critical-manufacturing-brings-real-time-intelligence-to-the-shopfloor/</guid>
-    </item>
-    <item>
-      <title>Additive Assurance Brings Real-Time Quality to Metal AM Builds</title>
-      <link>https://metrology.news/additive-assurance-brings-real-time-quality-to-metal-am-builds/</link>
-      <description>AMiRIS is a fully integrable sensor and software designed for OEMs of L-PBF systems transforming open-loop systems into data-driven platforms.</description>
-      <pubDate>Tue, 31 Mar 2026 06:35:38 -0000</pubDate>
-      <guid>https://metrology.news/additive-assurance-brings-real-time-quality-to-metal-am-builds/</guid>
-    </item>
-    <item>
-      <title>Redefining In-Line Inspection for High-Volume Manufacturing</title>
-      <link>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</link>
-      <description>AM-Quality provides real-time, automated feedback loops to minimize the risk of defective parts continuing down the production line.</description>
-      <pubDate>Tue, 31 Mar 2026 06:35:31 -0000</pubDate>
-      <guid>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</guid>
     </item>
   </channel>
 </rss>
