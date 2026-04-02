@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Sensofar webinars - Our knowledge and expertise available for you</title>
+      <link>https://www.sensofar.com/metrology/webinars/</link>
+      <description>Upcoming and recording webinars from all of the presented sessions. You will find interesting information here. Watch them!</description>
+      <pubDate>Thu, 02 Apr 2026 18:35:01 -0000</pubDate>
+      <guid>https://www.sensofar.com/metrology/webinars/</guid>
+    </item>
+    <item>
+      <title>Altus and Koh Young to Host Webinar Showcasing AI Applications in Inspection Software - What's New in Electronics</title>
+      <link>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</link>
+      <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and […]</description>
+      <pubDate>Thu, 02 Apr 2026 18:34:41 -0000</pubDate>
+      <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
+    </item>
+    <item>
+      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
+      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
+      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection.</description>
+      <pubDate>Thu, 02 Apr 2026 18:31:10 -0000</pubDate>
+      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
+    </item>
+    <item>
       <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
       <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
@@ -31,27 +52,6 @@
       <description>A recap of Zetamotion’s first 2026 webinar on machine vision trends, the data bottleneck, synthetic data, edge AI, and what it takes to scale AI quality control beyond pilots.</description>
       <pubDate>Sun, 29 Mar 2026 18:14:01 -0000</pubDate>
       <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>Webinar on Tackling Quality Control with AI Vision - Elementary</title>
-      <link>https://www.elementaryml.com/blog/tackling-quality-control-with-ai-vision-webinar</link>
-      <description>Many manufacturers are exploring AI for quality control—but getting it working in production is still a challenge. From manual labeling to complex setup, traditional AI workflows can slow teams down.</description>
-      <pubDate>Sat, 28 Mar 2026 19:11:59 -0000</pubDate>
-      <guid>https://www.elementaryml.com/blog/tackling-quality-control-with-ai-vision-webinar</guid>
-    </item>
-    <item>
-      <title>Live Webinar - AI for Automatic Inspection: Fasteners and a New Standard in Quality Control</title>
-      <link>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</link>
-      <description>Register for the IFI webinar to learn about AI-powered vision systems transforming fastener inspection and defect detection.</description>
-      <pubDate>Sat, 28 Mar 2026 19:11:33 -0000</pubDate>
-      <guid>https://www.dimacsrl.com/archives/live-webinar-ai-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control/</guid>
-    </item>
-    <item>
-      <title>GelSight Webinar - Surface Inspection &amp; Automatic Defect Detection</title>
-      <link>https://www.youtube.com/watch?v=uR-_PBfSfbw</link>
-      <description>Join us as we demonstrate the latest software capabilities and surface characterisation: New defect detection analysis function Radius of curvature Surface roughness Profile roughness Dimensional measurements Particle detection  This is a recording of the main webinar demonstration.</description>
-      <pubDate>Fri, 27 Mar 2026 19:09:01 -0000</pubDate>
-      <guid>https://www.youtube.com/watch?v=uR-_PBfSfbw</guid>
     </item>
   </channel>
 </rss>
