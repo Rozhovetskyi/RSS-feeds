@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI Agents in Nondestructive Testing: From Concept to Implementation</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=224</link>
+      <description>Discover how to build practical no-code AI agents to streamline workflows, improve decision-making, and increase efficiency for NDT professionals, quality managers, and inspection engineers.</description>
+      <pubDate>Fri, 03 Apr 2026 18:17:23 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=224</guid>
+    </item>
+    <item>
       <title>Sensofar webinars - Our knowledge and expertise available for you</title>
       <link>https://www.sensofar.com/metrology/webinars/</link>
       <description>Upcoming and recording webinars from all of the presented sessions. You will find interesting information here. Watch them!</description>
@@ -45,13 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
       <pubDate>Mon, 30 Mar 2026 18:24:13 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
-      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
-      <description>A recap of Zetamotion’s first 2026 webinar on machine vision trends, the data bottleneck, synthetic data, edge AI, and what it takes to scale AI quality control beyond pilots.</description>
-      <pubDate>Sun, 29 Mar 2026 18:14:01 -0000</pubDate>
-      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
     </item>
   </channel>
 </rss>
