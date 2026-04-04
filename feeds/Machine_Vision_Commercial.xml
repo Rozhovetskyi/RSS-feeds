@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Stepping into Metrology Automation – How 3D Scanners Bridge the Gap for Manufacturers</title>
+      <link>https://metrology.news/stepping-into-metrology-automation-how-3d-scanners-bridge-the-gap-for-manufacturers/</link>
+      <description>This article provides insights into how manufacturing companies can harness the potential of 3D scanners within automated environments. It also offers guidance for adopting approaches that balance initial technology investments with future scalability toward end-to-end automation.</description>
+      <pubDate>Sat, 04 Apr 2026 06:16:48 -0000</pubDate>
+      <guid>https://metrology.news/stepping-into-metrology-automation-how-3d-scanners-bridge-the-gap-for-manufacturers/</guid>
+    </item>
+    <item>
+      <title>Upgraded PULSE Delivers Advanced Real-Time Environmental Monitoring for Shop-Floor Metrology</title>
+      <link>https://metrology.news/upgraded-pulse-delivers-advanced-real-time-environmental-monitoring-for-shop-floor-metrology/</link>
+      <description>Hexagon’s Manufacturing Intelligence division has announced an evolved version of PULSE, its real-time environmental monitoring solution for coordinate measuring machine (CMM) environments, designed to help manufacturers improve measurement quality and reliability.</description>
+      <pubDate>Sat, 04 Apr 2026 06:16:18 -0000</pubDate>
+      <guid>https://metrology.news/upgraded-pulse-delivers-advanced-real-time-environmental-monitoring-for-shop-floor-metrology/</guid>
+    </item>
+    <item>
       <title>Sentinel Vision and Zebra Technologies Launch AI, 3D Automated Inspection System</title>
       <link>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</link>
       <description>Sentinel Vision and Zebra Technologies have developed an AI-driven 3D inspection system that improves automotive door assembly quality by replacing manual checks with automated, scalable solutions, reducing errors and increasing efficiency.</description>
@@ -38,20 +52,6 @@
       <description>AmbiVision by Ambi Robotics leverages AI and cognitive OCR to automate item identification, tracking, and inspection in logistics environments, even when labels are damaged or missing, boosting accuracy and efficiency.</description>
       <pubDate>Thu, 02 Apr 2026 06:40:35 -0000</pubDate>
       <guid>https://www.vision-systems.com/nextgen/article/55368147/nextgen-vision-and-ocr-for-supply-chain-operations</guid>
-    </item>
-    <item>
-      <title>Is Smartphone-Based Visual Inspection the Future of Quality Control?</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</link>
-      <description>The piece discusses the rapid advancements in smartphone camera technology and edge AI processing, predicting a future where accessible, democratized visual inspection tools enable any factory worker to perform quality checks, driving industry-wide improvements.</description>
-      <pubDate>Thu, 02 Apr 2026 06:39:41 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</guid>
-    </item>
-    <item>
-      <title>Visions Podcast: From Legacy to Lightning</title>
-      <link>https://www.vision-systems.com/factory/podcast/55367666/upgrading-legacy-vision-systems-to-ai</link>
-      <description>This episode explores integrating AI into legacy inspection systems, highlighting Elementary's approach to augmenting cameras with AI classification to improve manufacturing quality...</description>
-      <pubDate>Wed, 01 Apr 2026 06:18:48 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55367666/upgrading-legacy-vision-systems-to-ai</guid>
     </item>
   </channel>
 </rss>
