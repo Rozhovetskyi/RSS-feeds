@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>VisiConsult's AI Defect Detection in Aerospace Webinar</title>
+      <link>https://www.onestopndt.com/ndt-webinars/ai-in-aerospace-ndt</link>
+      <description>Discover how AI transforms aerospace NDT in VisiConsult’s webinar on 11th November 2025 with experts from PFW Aerospace and VisiConsult. Register Now!</description>
+      <pubDate>Sat, 04 Apr 2026 18:27:12 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/ai-in-aerospace-ndt</guid>
+    </item>
+    <item>
+      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar</title>
+      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
+      <description>Learn AI-powered drone inspection for power transmission lines. Join our expert webinar on automated defect detection with AeroMegh GeoAI platform.</description>
+      <pubDate>Sat, 04 Apr 2026 18:26:30 -0000</pubDate>
+      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
+    </item>
+    <item>
       <title>AI Agents in Nondestructive Testing: From Concept to Implementation</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=224</link>
       <description>Discover how to build practical no-code AI agents to streamline workflows, improve decision-making, and increase efficiency for NDT professionals, quality managers, and inspection engineers.</description>
@@ -38,20 +52,6 @@
       <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
       <pubDate>Wed, 01 Apr 2026 18:44:36 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
-    </item>
-    <item>
-      <title>AI-Driven Defect Detection with Machine Vision</title>
-      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
-      <description>Is your quality control still manual? It’s time for a reality check. 🚗💡 The ASQ Automotive Division of the American Society for Quality is proud to present an exciting series of high-impact webinars featuring Global Quality and Industry Experts from across the manufacturing landscape. Traditional inspection is slow, prone to error, and costly. But the future of manufacturing isn't just about automation—it’s about intelligence. Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how hashtag # AI and hashtag # Machine hashtag # Vision are transforming defect detection into a proactive, data-driven strategy.</description>
-      <pubDate>Tue, 31 Mar 2026 18:19:01 -0000</pubDate>
-      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
-    </item>
-    <item>
-      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability | ASNT Education</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
-      <pubDate>Mon, 30 Mar 2026 18:24:13 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
     </item>
   </channel>
 </rss>
