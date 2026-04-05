@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Designing Inspection Systems for Challenging Surfaces</title>
+      <link>https://www.qualitymag.com/articles/99502-designing-inspection-systems-for-challenging-surfaces</link>
+      <description>Modern manufacturing increasingly relies on full in-line inspections to maintain quality standards, reduce scrap, and improve traceability.</description>
+      <pubDate>Sun, 05 Apr 2026 06:15:47 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99502-designing-inspection-systems-for-challenging-surfaces</guid>
+    </item>
+    <item>
+      <title>Evolution Toward Multi-Sensor Measurement Reflects a Broader Transformation in Industrial Metrology</title>
+      <link>https://metrology.news/evolution-toward-multi-sensor-measurement-reflects-a-broader-transformation-in-industrial-metrology/</link>
+      <description>As manufacturing continues to demand higher precision and greater flexibility, the limits of single-technology measurement systems are becoming increasingly apparent.</description>
+      <pubDate>Sun, 05 Apr 2026 06:15:17 -0000</pubDate>
+      <guid>https://metrology.news/evolution-toward-multi-sensor-measurement-reflects-a-broader-transformation-in-industrial-metrology/</guid>
+    </item>
+    <item>
+      <title>Is Smartphone-Based Visual Inspection the Future of Quality Control?</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</link>
+      <description>The piece discusses the rapid advancements in smartphone camera technology and edge AI processing, predicting a future where accessible, democratized visual inspection tools enable any factory worker to perform quality checks, driving industry-wide improvements.</description>
+      <pubDate>Sun, 05 Apr 2026 06:14:48 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</guid>
+    </item>
+    <item>
       <title>Stepping into Metrology Automation – How 3D Scanners Bridge the Gap for Manufacturers</title>
       <link>https://metrology.news/stepping-into-metrology-automation-how-3d-scanners-bridge-the-gap-for-manufacturers/</link>
       <description>This article provides insights into how manufacturing companies can harness the potential of 3D scanners within automated environments. It also offers guidance for adopting approaches that balance initial technology investments with future scalability toward end-to-end automation.</description>
@@ -31,27 +52,6 @@
       <description>Traditional quality control methods are becoming outdated due to inefficiencies, reliance on manual labor, subjective assessments, tooling obstructions, and human error. In additive manufacturing, the challenges of complex geometries, tight tolerances, and scalability demands make quality control even more difficult. AM-Flow aims to solve this with fully automated, lights-out production powered by cutting-edge technology.</description>
       <pubDate>Fri, 03 Apr 2026 06:07:42 -0000</pubDate>
       <guid>https://metrology.news/redefining-in-line-inspection-for-high-volume-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Robot-Assisted 3D Laser Scanning Redefines Inline Quality Inspection</title>
-      <link>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</link>
-      <description>AT Sensors, in collaboration with LASS Technology and EVT Eye Vision Technology, has enabled fully automated, 100% inline inspection of industrial components - delivering stable, operator-independent measurement results directly on the production line.</description>
-      <pubDate>Fri, 03 Apr 2026 06:07:10 -0000</pubDate>
-      <guid>https://metrology.news/robot-assisted-3d-laser-scanning-redefines-inline-quality-inspection/</guid>
-    </item>
-    <item>
-      <title>Direct Scanning Laser Trackers – A New Era for Quality Control</title>
-      <link>https://metrology.news/direct-scanning-laser-trackers-a-new-era-for-quality-control/</link>
-      <description>Precision drives the success of every modern manufacturing line with mounting pressure to deliver flawless components while managing limited factory space and a shortage of skilled operators.</description>
-      <pubDate>Thu, 02 Apr 2026 06:41:28 -0000</pubDate>
-      <guid>https://metrology.news/direct-scanning-laser-trackers-a-new-era-for-quality-control/</guid>
-    </item>
-    <item>
-      <title>Next‑Gen Vision and OCR for Supply Chain Operations</title>
-      <link>https://www.vision-systems.com/nextgen/article/55368147/nextgen-vision-and-ocr-for-supply-chain-operations</link>
-      <description>AmbiVision by Ambi Robotics leverages AI and cognitive OCR to automate item identification, tracking, and inspection in logistics environments, even when labels are damaged or missing, boosting accuracy and efficiency.</description>
-      <pubDate>Thu, 02 Apr 2026 06:40:35 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/article/55368147/nextgen-vision-and-ocr-for-supply-chain-operations</guid>
     </item>
   </channel>
 </rss>
