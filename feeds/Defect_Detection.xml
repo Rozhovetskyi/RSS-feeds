@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar: Advanced Building Envelope Inspections - default - BOMA / CHICAGO</title>
+      <link>https://bomachicagogzcms.growthzoneapp.com/event-calendar/details/webinar-advanced-building-envelope-inspections-1685561</link>
+      <description>Building envelope inspection methods are advancing rapidly, offering new ways to assess building performance, durability, and risk.</description>
+      <pubDate>Sun, 05 Apr 2026 18:17:13 -0000</pubDate>
+      <guid>https://bomachicagogzcms.growthzoneapp.com/event-calendar/details/webinar-advanced-building-envelope-inspections-1685561</guid>
+    </item>
+    <item>
+      <title>Viewing Defects in Compound Semiconductor Materials with Electron Channelling Contrast Imaging</title>
+      <link>https://www.zeiss.co.uk/microscopy/l/events/2026/viewing-defects-in-compound-semiconductor-materials-with-electron-channelling-contrast-imaging-.html</link>
+      <description>Join us for an in-depth exploration of Electron Channelling Contrast Imaging (ECCI), a powerful scanning electron microscopy technique that enables direct visualization of crystallographic defects in compound semiconductors.</description>
+      <pubDate>Sun, 05 Apr 2026 18:16:33 -0000</pubDate>
+      <guid>https://www.zeiss.co.uk/microscopy/l/events/2026/viewing-defects-in-compound-semiconductor-materials-with-electron-channelling-contrast-imaging-.html</guid>
+    </item>
+    <item>
       <title>VisiConsult's AI Defect Detection in Aerospace Webinar</title>
       <link>https://www.onestopndt.com/ndt-webinars/ai-in-aerospace-ndt</link>
       <description>Discover how AI transforms aerospace NDT in VisiConsult’s webinar on 11th November 2025 with experts from PFW Aerospace and VisiConsult. Register Now!</description>
@@ -38,20 +52,6 @@
       <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and […]</description>
       <pubDate>Thu, 02 Apr 2026 18:34:41 -0000</pubDate>
       <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
-    </item>
-    <item>
-      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
-      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
-      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection.</description>
-      <pubDate>Thu, 02 Apr 2026 18:31:10 -0000</pubDate>
-      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
-      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
-      <pubDate>Wed, 01 Apr 2026 18:44:36 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
     </item>
   </channel>
 </rss>
