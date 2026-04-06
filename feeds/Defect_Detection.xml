@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
+      <link>https://www.kistler.com/INT/en/webinars/C00000635</link>
+      <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE)</description>
+      <pubDate>Mon, 06 Apr 2026 18:19:28 -0000</pubDate>
+      <guid>https://www.kistler.com/INT/en/webinars/C00000635</guid>
+    </item>
+    <item>
       <title>Webinar: Advanced Building Envelope Inspections - default - BOMA / CHICAGO</title>
       <link>https://bomachicagogzcms.growthzoneapp.com/event-calendar/details/webinar-advanced-building-envelope-inspections-1685561</link>
       <description>Building envelope inspection methods are advancing rapidly, offering new ways to assess building performance, durability, and risk.</description>
@@ -45,13 +52,6 @@
       <description>Upcoming and recording webinars from all of the presented sessions. You will find interesting information here. Watch them!</description>
       <pubDate>Thu, 02 Apr 2026 18:35:01 -0000</pubDate>
       <guid>https://www.sensofar.com/metrology/webinars/</guid>
-    </item>
-    <item>
-      <title>Altus and Koh Young to Host Webinar Showcasing AI Applications in Inspection Software - What's New in Electronics</title>
-      <link>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</link>
-      <description>Altus Group, a distributor of capital equipment for the electronics manufacturing industry in the UK and Ireland, and Koh Young Technology, a global provider of True 3D measurement-based inspection systems, will host a technical webinar on 28 April 2026 showcasing how artificial intelligence (AI) is being applied within inspection software to improve process control and […]</description>
-      <pubDate>Thu, 02 Apr 2026 18:34:41 -0000</pubDate>
-      <guid>https://www.wnie.online/altus-and-koh-young-to-host-webinar-showcasing-ai-applications-in-inspection-software/</guid>
     </item>
   </channel>
 </rss>
