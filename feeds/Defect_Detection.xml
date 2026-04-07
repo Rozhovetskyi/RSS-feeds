@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Engineering confidence in Precision Manufacturing</title>
+      <link>https://www.sensofar.com/webinar-precision-manufacturing/</link>
+      <description>Join us and explore how advanced optical 3D metrology helps evaluate complex parts as: geometry, surface functionality, and durability.</description>
+      <pubDate>Tue, 07 Apr 2026 18:06:57 -0000</pubDate>
+      <guid>https://www.sensofar.com/webinar-precision-manufacturing/</guid>
+    </item>
+    <item>
       <title>Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
       <link>https://www.kistler.com/INT/en/webinars/C00000635</link>
       <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE)</description>
@@ -45,13 +52,6 @@
       <description>Discover how to build practical no-code AI agents to streamline workflows, improve decision-making, and increase efficiency for NDT professionals, quality managers, and inspection engineers.</description>
       <pubDate>Fri, 03 Apr 2026 18:17:23 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=224</guid>
-    </item>
-    <item>
-      <title>Sensofar webinars - Our knowledge and expertise available for you</title>
-      <link>https://www.sensofar.com/metrology/webinars/</link>
-      <description>Upcoming and recording webinars from all of the presented sessions. You will find interesting information here. Watch them!</description>
-      <pubDate>Thu, 02 Apr 2026 18:35:01 -0000</pubDate>
-      <guid>https://www.sensofar.com/metrology/webinars/</guid>
     </item>
   </channel>
 </rss>
