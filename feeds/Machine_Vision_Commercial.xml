@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Radiant Vision Systems Merges with Konica Minolta Sensing Americas to Expand Global Sensing Solutions</title>
+      <link>https://www.qualitymag.com/articles/99505-radiant-vision-systems-merges-with-konica-minolta-sensing-americas-to-expand-global-sensing-solutions</link>
+      <description>Radiant Vision Systems, a leading provider of imaging systems for scientific evaluation of light sources and displays, announced the merger with its sister company, Konica Minolta Sensing Americas, to form a new company.</description>
+      <pubDate>Wed, 08 Apr 2026 06:06:12 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99505-radiant-vision-systems-merges-with-konica-minolta-sensing-americas-to-expand-global-sensing-solutions</guid>
+    </item>
+    <item>
+      <title>InnovMetric Announces the Acquisition of  Digisens’ Intellectual Property</title>
+      <link>https://metrology.news/innovmetric-announces-the-acquisition-of-digisens-intellectual-property/</link>
+      <description>InnovMetric, the leading provider of 3D metrology solutions for the manufacturing industry, has announced that it has acquired the intellectual property of French company Digisens.</description>
+      <pubDate>Wed, 08 Apr 2026 06:05:40 -0000</pubDate>
+      <guid>https://metrology.news/innovmetric-announces-the-acquisition-of-digisens-intellectual-property/</guid>
+    </item>
+    <item>
       <title>Nion ToF Camera Brings High-Resolution 3D Vision to Industry</title>
       <link>https://metrology.news/nion-tof-camera-brings-high-resolution-3d-vision-to-industry/</link>
       <description>Nion provides stable depth data even under variable lighting conditions for automation processes that rely on fast and accurate 3D data.</description>
@@ -38,20 +52,6 @@
       <description>Modern manufacturing increasingly relies on full in-line inspections to maintain quality standards, reduce scrap, and improve traceability.</description>
       <pubDate>Sun, 05 Apr 2026 06:15:47 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99502-designing-inspection-systems-for-challenging-surfaces</guid>
-    </item>
-    <item>
-      <title>Evolution Toward Multi-Sensor Measurement Reflects a Broader Transformation in Industrial Metrology</title>
-      <link>https://metrology.news/evolution-toward-multi-sensor-measurement-reflects-a-broader-transformation-in-industrial-metrology/</link>
-      <description>As manufacturing continues to demand higher precision and greater flexibility, the limits of single-technology measurement systems are becoming increasingly apparent.</description>
-      <pubDate>Sun, 05 Apr 2026 06:15:17 -0000</pubDate>
-      <guid>https://metrology.news/evolution-toward-multi-sensor-measurement-reflects-a-broader-transformation-in-industrial-metrology/</guid>
-    </item>
-    <item>
-      <title>Is Smartphone-Based Visual Inspection the Future of Quality Control?</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</link>
-      <description>The piece discusses the rapid advancements in smartphone camera technology and edge AI processing, predicting a future where accessible, democratized visual inspection tools enable any factory worker to perform quality checks, driving industry-wide improvements.</description>
-      <pubDate>Sun, 05 Apr 2026 06:14:48 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55368033/is-smartphone-based-visual-inspection-the-future-of-quality-control</guid>
     </item>
   </channel>
 </rss>
