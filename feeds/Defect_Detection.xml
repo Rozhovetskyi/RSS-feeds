@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Expert-to-Expert Webinar on Zero-Defect Manufacturing | European Cluster Collaboration Platform</title>
+      <link>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</link>
+      <description>The IDEALIST project is organising a new Expert-to-Expert webinar focused on Zero-Defect Manufacturing, bringing together industry professionals to discuss innovative approaches to advanced quality assurance in manufacturing. Expert-to-Expert webinars are one of the key formats through which IDEALIST supports manufacturing companies in exploring advanced technologies through peer-to-peer knowledge exchange. Hosted on the AGORA platform, these online sessions provide a space for experts and practitioners to share real use cases and practical solutions for industrial production.</description>
+      <pubDate>Fri, 10 Apr 2026 18:16:30 -0000</pubDate>
+      <guid>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</guid>
+    </item>
+    <item>
       <title>Engineering confidence in Precision Manufacturing</title>
       <link>https://www.sensofar.com/webinar-precision-manufacturing/</link>
       <description>Join us and explore how advanced optical 3D metrology helps evaluate complex parts as: geometry, surface functionality, and durability.</description>
@@ -45,13 +52,6 @@
       <description>Learn AI-powered drone inspection for power transmission lines. Join our expert webinar on automated defect detection with AeroMegh GeoAI platform.</description>
       <pubDate>Sat, 04 Apr 2026 18:26:30 -0000</pubDate>
       <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
-    </item>
-    <item>
-      <title>AI Agents in Nondestructive Testing: From Concept to Implementation</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=224</link>
-      <description>Discover how to build practical no-code AI agents to streamline workflows, improve decision-making, and increase efficiency for NDT professionals, quality managers, and inspection engineers.</description>
-      <pubDate>Fri, 03 Apr 2026 18:17:23 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=224</guid>
     </item>
   </channel>
 </rss>
