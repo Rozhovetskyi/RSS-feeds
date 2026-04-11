@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Top QMS Trends for 2026: AI, eQMS, Predictive Quality &amp; Industry 4.0</title>
+      <link>https://www.qualitymag.com/articles/99510-top-qms-trends-for-2026-ai-eqms-predictive-quality-and-industry-40</link>
+      <description>The landscape of quality management systems (QMS) in manufacturing is undergoing a profound transformation, driven by the imperatives of Industry 4.0, rising product complexity, and the need for greater operational resilience.</description>
+      <pubDate>Sat, 11 Apr 2026 06:09:06 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99510-top-qms-trends-for-2026-ai-eqms-predictive-quality-and-industry-40</guid>
+    </item>
+    <item>
       <title>Baker Hughes’ Waygate Technologies, GE Aerospace Drive the Future of Automated Engine Maintenance</title>
       <link>https://www.qualitymag.com/articles/99513-baker-hughes-waygate-technologies-ge-aerospace-drive-the-future-of-automated-engine-maintenance</link>
       <description>The automated MDI templates represent the latest developments through an ongoing Joint Technology Development Agreement (JTDA) between the two companies that began in 2023.</description>
@@ -45,13 +52,6 @@
       <description>Radiant Vision Systems, a leading provider of imaging systems for scientific evaluation of light sources and displays, announced the merger with its sister company, Konica Minolta Sensing Americas, to form a new company.</description>
       <pubDate>Wed, 08 Apr 2026 06:06:12 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99505-radiant-vision-systems-merges-with-konica-minolta-sensing-americas-to-expand-global-sensing-solutions</guid>
-    </item>
-    <item>
-      <title>InnovMetric Announces the Acquisition of  Digisens’ Intellectual Property</title>
-      <link>https://metrology.news/innovmetric-announces-the-acquisition-of-digisens-intellectual-property/</link>
-      <description>InnovMetric, the leading provider of 3D metrology solutions for the manufacturing industry, has announced that it has acquired the intellectual property of French company Digisens.</description>
-      <pubDate>Wed, 08 Apr 2026 06:05:40 -0000</pubDate>
-      <guid>https://metrology.news/innovmetric-announces-the-acquisition-of-digisens-intellectual-property/</guid>
     </item>
   </channel>
 </rss>
