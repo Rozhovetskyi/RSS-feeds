@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Accessible Multi-Sensor CMM Bridges Skills Gap</title>
+      <link>https://metrology.news/accessible-multi-sensor-cmm-bridges-skills-gap/</link>
+      <description>The recent introduction of the VISIUS multi-sensor coordinate measuring machine (CMM) by Hexagon addresses critical challenges facing European manufacturers.</description>
+      <pubDate>Mon, 13 Apr 2026 06:25:48 -0000</pubDate>
+      <guid>https://metrology.news/accessible-multi-sensor-cmm-bridges-skills-gap/</guid>
+    </item>
+    <item>
+      <title>Hexagon To Expand into NDT with Waygate Technologies Aquisition</title>
+      <link>https://metrology.news/hexagon-to-expand-into-ndt-with-waygate-technologies-aquisition/</link>
+      <description>Hexagon AB has announced that it has signed a definitive agreement to acquire Waygate Technologies, a leading provider of non-destructive testing solutions, from Baker Hughes.</description>
+      <pubDate>Mon, 13 Apr 2026 06:25:07 -0000</pubDate>
+      <guid>https://metrology.news/hexagon-to-expand-into-ndt-with-waygate-technologies-aquisition/</guid>
+    </item>
+    <item>
       <title>Top QMS Trends for 2026: AI, eQMS, Predictive Quality &amp; Industry 4.0</title>
       <link>https://www.qualitymag.com/articles/99510-top-qms-trends-for-2026-ai-eqms-predictive-quality-and-industry-40</link>
       <description>The landscape of quality management systems (QMS) in manufacturing is undergoing a profound transformation, driven by the imperatives of Industry 4.0, rising product complexity, and the need for greater operational resilience.</description>
@@ -38,20 +52,6 @@
       <description>InnovMetric, a leading provider of 3D metrology solutions for the manufacturing industry, announced it has acquired the intellectual property of French company Digisens.</description>
       <pubDate>Thu, 09 Apr 2026 06:17:25 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99509-innovmetric-announces-acquisition-of-digisens-intellectual-property</guid>
-    </item>
-    <item>
-      <title>Strategic Collaboration Brings Multi-Modal Inspection to Battery Gigafactories</title>
-      <link>https://metrology.news/strategic-collaboration-brings-multi-modal-inspection-to-battery-gigafactories/</link>
-      <description>Waygate Technologies, a Baker Hughes business and global leader in non-destructive testing (NDT) solutions for industrial and energy infrastructure inspection, and Liminal Insights, a pioneer in AI-driven ultrasound inspection for batteries, have announced a strategic technology and channel collaboration to deliver the industry's first integrated multi-modal inspection solution for battery manufacturing. The post Strategic Collaboration Brings Multi-Modal Inspection to Battery Gigafactories appeared first on Metrology and Quality News - Online Magazine .</description>
-      <pubDate>Thu, 09 Apr 2026 06:15:25 -0000</pubDate>
-      <guid>https://metrology.news/strategic-collaboration-brings-multi-modal-inspection-to-battery-gigafactories/</guid>
-    </item>
-    <item>
-      <title>Radiant Vision Systems Merges with Konica Minolta Sensing Americas to Expand Global Sensing Solutions</title>
-      <link>https://www.qualitymag.com/articles/99505-radiant-vision-systems-merges-with-konica-minolta-sensing-americas-to-expand-global-sensing-solutions</link>
-      <description>Radiant Vision Systems, a leading provider of imaging systems for scientific evaluation of light sources and displays, announced the merger with its sister company, Konica Minolta Sensing Americas, to form a new company.</description>
-      <pubDate>Wed, 08 Apr 2026 06:06:12 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99505-radiant-vision-systems-merges-with-konica-minolta-sensing-americas-to-expand-global-sensing-solutions</guid>
     </item>
   </channel>
 </rss>
