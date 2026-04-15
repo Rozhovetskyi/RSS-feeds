@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Peak Technologies Peak Automation Intelligence | Quality Magazine</title>
+      <link>https://www.qualitymag.com/articles/99520-peak-technologies-peak-automation-intelligence</link>
+      <description>Peak Technologies, a global provider of smart technologies, automated supply chain and mobile workforce solutions, announced the launch of Peak Automation Intelligence, an integrated AI-powered platform designed to help manufacturers and operators of warehouses and distribution centers modernize their operations with real-time visibility, automated data capture and high-speed material flow intelligence.</description>
+      <pubDate>Wed, 15 Apr 2026 06:14:43 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99520-peak-technologies-peak-automation-intelligence</guid>
+    </item>
+    <item>
+      <title>Sonibel Instruments Secures Funding to Advance AI-Driven Real-Time Weld Quality Control &amp;#8211; Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/</link>
+      <description>Sonibel Instruments is developing a system that applies machine learning and acoustic sensing to monitor weld quality in real time.</description>
+      <pubDate>Wed, 15 Apr 2026 06:14:30 -0000</pubDate>
+      <guid>https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/</guid>
+    </item>
+    <item>
+      <title>FARO CREAFORM Cuts Laser Line Probe Time to Data on Challenging Surfaces &amp;#8211; Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/faro-creaform-cuts-laser-line-probe-time-to-data-on-challenging-surfaces/</link>
+      <description>Update addresses challenges by improving how Laser Line Probe image data is processed obtaining cleaner, more consistent point clouds.</description>
+      <pubDate>Wed, 15 Apr 2026 06:14:19 -0000</pubDate>
+      <guid>https://metrology.news/faro-creaform-cuts-laser-line-probe-time-to-data-on-challenging-surfaces/</guid>
+    </item>
+    <item>
+      <title>InnovMetric Acquires Strategic Partner Duwe-3d &amp;#8211; Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/innovmetric-acquires-strategic-partner-duwe-3d/</link>
+      <description>InnovMetric and Duwe-3d share many core values, including a strong commitment to providing an exceptional customer experience.</description>
+      <pubDate>Wed, 15 Apr 2026 06:14:08 -0000</pubDate>
+      <guid>https://metrology.news/innovmetric-acquires-strategic-partner-duwe-3d/</guid>
+    </item>
+    <item>
       <title>Transcat Expands Global Footprint with Acquisition of Costa Rica-Based SCM Metrology</title>
       <link>https://metrology.news/transcat-expands-global-footprint-with-acquisition-of-costa-rica-based-scm-metrology/</link>
       <description>Transcat, Inc. has announced the acquisition of SCM Metrology and Laboratories S.A., marking a significant step in its international growth strategy.</description>
@@ -24,34 +52,6 @@
       <description>The recent introduction of the VISIUS multi-sensor coordinate measuring machine (CMM) by Hexagon addresses critical challenges facing European manufacturers.</description>
       <pubDate>Mon, 13 Apr 2026 06:25:48 -0000</pubDate>
       <guid>https://metrology.news/accessible-multi-sensor-cmm-bridges-skills-gap/</guid>
-    </item>
-    <item>
-      <title>Hexagon To Expand into NDT with Waygate Technologies Aquisition</title>
-      <link>https://metrology.news/hexagon-to-expand-into-ndt-with-waygate-technologies-aquisition/</link>
-      <description>Hexagon AB has announced that it has signed a definitive agreement to acquire Waygate Technologies, a leading provider of non-destructive testing solutions, from Baker Hughes.</description>
-      <pubDate>Mon, 13 Apr 2026 06:25:07 -0000</pubDate>
-      <guid>https://metrology.news/hexagon-to-expand-into-ndt-with-waygate-technologies-aquisition/</guid>
-    </item>
-    <item>
-      <title>Top QMS Trends for 2026: AI, eQMS, Predictive Quality &amp; Industry 4.0</title>
-      <link>https://www.qualitymag.com/articles/99510-top-qms-trends-for-2026-ai-eqms-predictive-quality-and-industry-40</link>
-      <description>The landscape of quality management systems (QMS) in manufacturing is undergoing a profound transformation, driven by the imperatives of Industry 4.0, rising product complexity, and the need for greater operational resilience.</description>
-      <pubDate>Sat, 11 Apr 2026 06:09:06 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99510-top-qms-trends-for-2026-ai-eqms-predictive-quality-and-industry-40</guid>
-    </item>
-    <item>
-      <title>Baker Hughes’ Waygate Technologies, GE Aerospace Drive the Future of Automated Engine Maintenance</title>
-      <link>https://www.qualitymag.com/articles/99513-baker-hughes-waygate-technologies-ge-aerospace-drive-the-future-of-automated-engine-maintenance</link>
-      <description>The automated MDI templates represent the latest developments through an ongoing Joint Technology Development Agreement (JTDA) between the two companies that began in 2023.</description>
-      <pubDate>Fri, 10 Apr 2026 06:30:54 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99513-baker-hughes-waygate-technologies-ge-aerospace-drive-the-future-of-automated-engine-maintenance</guid>
-    </item>
-    <item>
-      <title>Compact 3D Scanners Target GD&amp;T-Driven Inspection Demands</title>
-      <link>https://metrology.news/compact-3d-scanners-target-gdt-driven-inspection-demands/</link>
-      <description>The system combines updated optics with revised processing algorithms to achieve a stated accuracy of 0.015 mm.</description>
-      <pubDate>Fri, 10 Apr 2026 06:30:20 -0000</pubDate>
-      <guid>https://metrology.news/compact-3d-scanners-target-gdt-driven-inspection-demands/</guid>
     </item>
   </channel>
 </rss>
