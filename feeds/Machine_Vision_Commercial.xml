@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>InnovMetric Acquires Strategic Partner Duwe-3d</title>
+      <link>https://www.qualitymag.com/articles/99521-innovmetric-acquires-strategic-partner-duwe-3d</link>
+      <description>Following 27 years of fruitful collaboration that enabled PolyWorks\302\256 to become the universal 3D metrology platform in German-speaking markets, InnovMetric has completed the acquisition of its German business partner Duwe-3d.</description>
+      <pubDate>Thu, 16 Apr 2026 06:28:04 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99521-innovmetric-acquires-strategic-partner-duwe-3d</guid>
+    </item>
+    <item>
       <title>Peak Technologies Peak Automation Intelligence | Quality Magazine</title>
       <link>https://www.qualitymag.com/articles/99520-peak-technologies-peak-automation-intelligence</link>
       <description>Peak Technologies, a global provider of smart technologies, automated supply chain and mobile workforce solutions, announced the launch of Peak Automation Intelligence, an integrated AI-powered platform designed to help manufacturers and operators of warehouses and distribution centers modernize their operations with real-time visibility, automated data capture and high-speed material flow intelligence.</description>
@@ -45,13 +52,6 @@
       <description>SiLC Technologies (SiLC) has announced the launch of Eyeonic Trace Ultra, the next generation of its Laser Line Scanner product family with 3x better accuracy.</description>
       <pubDate>Tue, 14 Apr 2026 06:43:51 -0000</pubDate>
       <guid>https://metrology.news/eyeonic-trace-ultra-sets-new-benchmark-with-3x-accuracy-in-industrial-scanning/</guid>
-    </item>
-    <item>
-      <title>Accessible Multi-Sensor CMM Bridges Skills Gap</title>
-      <link>https://metrology.news/accessible-multi-sensor-cmm-bridges-skills-gap/</link>
-      <description>The recent introduction of the VISIUS multi-sensor coordinate measuring machine (CMM) by Hexagon addresses critical challenges facing European manufacturers.</description>
-      <pubDate>Mon, 13 Apr 2026 06:25:48 -0000</pubDate>
-      <guid>https://metrology.news/accessible-multi-sensor-cmm-bridges-skills-gap/</guid>
     </item>
   </channel>
 </rss>
