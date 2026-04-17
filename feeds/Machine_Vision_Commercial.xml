@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>FARO CREAFORM Cuts Laser Line Probe Time to Data on Challenging Surfaces</title>
+      <link>https://www.qualitymag.com/articles/99524-faro-creaform-cuts-laser-line-probe-time-to-data-on-challenging-surfaces</link>
+      <description>FARO CREAFORM, a business of AMETEK, Inc., announced an update for its Laser Line Probe (LLP) portfolio used with the Quantum X FaroArm\xc2\xae Series and Quantum Max FaroArm Series.</description>
+      <pubDate>Fri, 17 Apr 2026 06:11:42 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99524-faro-creaform-cuts-laser-line-probe-time-to-data-on-challenging-surfaces</guid>
+    </item>
+    <item>
+      <title>Optris Expands CTi Pyrometer Portfolio with High-Speed Industrial Models</title>
+      <link>https://metrology.news/optris-expands-cti-pyrometer-portfolio-with-high-speed-industrial-models/</link>
+      <description>Optris GmbH &amp; Co. KG has announced the expansion of its successful CTi pyrometer lineup with the introduction of the CTi 1M and CTi 2M models, designed to deliver highly accurate, non-contact temperature measurement in demanding industrial environments.</description>
+      <pubDate>Fri, 17 Apr 2026 06:11:10 -0000</pubDate>
+      <guid>https://metrology.news/optris-expands-cti-pyrometer-portfolio-with-high-speed-industrial-models/</guid>
+    </item>
+    <item>
       <title>InnovMetric Acquires Strategic Partner Duwe-3d</title>
       <link>https://www.qualitymag.com/articles/99521-innovmetric-acquires-strategic-partner-duwe-3d</link>
       <description>Following 27 years of fruitful collaboration that enabled PolyWorks\302\256 to become the universal 3D metrology platform in German-speaking markets, InnovMetric has completed the acquisition of its German business partner Duwe-3d.</description>
@@ -38,20 +52,6 @@
       <description>InnovMetric and Duwe-3d share many core values, including a strong commitment to providing an exceptional customer experience.</description>
       <pubDate>Wed, 15 Apr 2026 06:14:08 -0000</pubDate>
       <guid>https://metrology.news/innovmetric-acquires-strategic-partner-duwe-3d/</guid>
-    </item>
-    <item>
-      <title>Transcat Expands Global Footprint with Acquisition of Costa Rica-Based SCM Metrology</title>
-      <link>https://metrology.news/transcat-expands-global-footprint-with-acquisition-of-costa-rica-based-scm-metrology/</link>
-      <description>Transcat, Inc. has announced the acquisition of SCM Metrology and Laboratories S.A., marking a significant step in its international growth strategy.</description>
-      <pubDate>Tue, 14 Apr 2026 06:46:09 -0000</pubDate>
-      <guid>https://metrology.news/transcat-expands-global-footprint-with-acquisition-of-costa-rica-based-scm-metrology/</guid>
-    </item>
-    <item>
-      <title>Eyeonic Trace Ultra Sets New Benchmark with 3\303\227 Accuracy in Industrial Scanning</title>
-      <link>https://metrology.news/eyeonic-trace-ultra-sets-new-benchmark-with-3x-accuracy-in-industrial-scanning/</link>
-      <description>SiLC Technologies (SiLC) has announced the launch of Eyeonic Trace Ultra, the next generation of its Laser Line Scanner product family with 3x better accuracy.</description>
-      <pubDate>Tue, 14 Apr 2026 06:43:51 -0000</pubDate>
-      <guid>https://metrology.news/eyeonic-trace-ultra-sets-new-benchmark-with-3x-accuracy-in-industrial-scanning/</guid>
     </item>
   </channel>
 </rss>
