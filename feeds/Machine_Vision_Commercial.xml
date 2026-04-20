@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Turning Inspection Data into Action &amp;#8211; Metrologic DCS Introduces \xe2\x80\x98Inspection Flow\xe2\x80\x99</title>
+      <link>https://metrology.news/turning-inspection-data-into-action-metrologic-dcs-introduces-inspection-flow/</link>
+      <description>\xe2\x80\x98Inspection Flow\xe2\x80\x99 interprets inspection data in context - tolerances, criticality, inspection intent, and process history.</description>
+      <pubDate>Mon, 20 Apr 2026 06:39:13 -0000</pubDate>
+      <guid>https://metrology.news/turning-inspection-data-into-action-metrologic-dcs-introduces-inspection-flow/</guid>
+    </item>
+    <item>
+      <title>Vision Systems as Part of a Larger Quality Architecture</title>
+      <link>https://metrology.news/vision-systems-as-part-of-a-larger-quality-architecture/</link>
+      <description>The role of solution providers is evolving working with manufacturers to define failure modes, identify risks and implement tailored solutions.</description>
+      <pubDate>Mon, 20 Apr 2026 06:37:57 -0000</pubDate>
+      <guid>https://metrology.news/vision-systems-as-part-of-a-larger-quality-architecture/</guid>
+    </item>
+    <item>
       <title>Automated Optical Inspection (AOI) Equipment Market Report</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOakR3akwzZUFMQmNrTFY5bDZjNWpDaklZOEFHa2FVel82Ylhld1ZMVWlmQl9HQ3RnYUJqQndjazhMU0xJZFBkT29HRnV3LWtyOXZKMmRIaVVXVF8zRHNXMnRmU2JTeHhsTFpoTmFQRThZU0JORWVZaDdtT1JVZGVHeXg4REwtTkdPRWJGRnVral8yb1FKZEVFT3RR?oc=5</link>
       <description>A recent market report highlights the growing Automated Optical Inspection (AOI) equipment market and its commercial impact on quality control.</description>
@@ -38,20 +52,6 @@
       <description>Following 27 years of fruitful collaboration that enabled PolyWorks\302\256 to become the universal 3D metrology platform in German-speaking markets, InnovMetric has completed the acquisition of its German business partner Duwe-3d.</description>
       <pubDate>Thu, 16 Apr 2026 06:28:04 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99521-innovmetric-acquires-strategic-partner-duwe-3d</guid>
-    </item>
-    <item>
-      <title>Peak Technologies Peak Automation Intelligence | Quality Magazine</title>
-      <link>https://www.qualitymag.com/articles/99520-peak-technologies-peak-automation-intelligence</link>
-      <description>Peak Technologies, a global provider of smart technologies, automated supply chain and mobile workforce solutions, announced the launch of Peak Automation Intelligence, an integrated AI-powered platform designed to help manufacturers and operators of warehouses and distribution centers modernize their operations with real-time visibility, automated data capture and high-speed material flow intelligence.</description>
-      <pubDate>Wed, 15 Apr 2026 06:14:43 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99520-peak-technologies-peak-automation-intelligence</guid>
-    </item>
-    <item>
-      <title>Sonibel Instruments Secures Funding to Advance AI-Driven Real-Time Weld Quality Control &amp;#8211; Metrology and Quality News - Online Magazine</title>
-      <link>https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/</link>
-      <description>Sonibel Instruments is developing a system that applies machine learning and acoustic sensing to monitor weld quality in real time.</description>
-      <pubDate>Wed, 15 Apr 2026 06:14:30 -0000</pubDate>
-      <guid>https://metrology.news/sonibel-instruments-secures-funding-to-advance-ai-driven-real-time-weld-quality-control/</guid>
     </item>
   </channel>
 </rss>
