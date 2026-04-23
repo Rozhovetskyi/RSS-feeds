@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>High-Speed Data Capture and AI Analytics Drive Peak\xe2\x80\x99s New Automation Ecosystem</title>
+      <link>https://metrology.news/high-speed-data-capture-and-ai-analytics-drive-peaks-new-automation-ecosystem/</link>
+      <description>New AI-powered platform for modernizing logistics and automated warehouse systems.</description>
+      <pubDate>Thu, 23 Apr 2026 06:14:39 -0000</pubDate>
+      <guid>https://metrology.news/high-speed-data-capture-and-ai-analytics-drive-peaks-new-automation-ecosystem/</guid>
+    </item>
+    <item>
       <title>Basler CoaXPress-over-Fiber TDI Vision System</title>
       <link>https://www.qualitymag.com/articles/99531-basler-coaxpress-over-fiber-tdi-vision-system</link>
       <description>Basler AG announced a CoaXPress-over-Fiber TDI vision system with a bandwidth of up to dual 100 Gbps.</description>
@@ -14,7 +21,7 @@
     <item>
       <title>Onto Innovation and Rigaku Partner to Advance Semiconductor X-ray Process Control</title>
       <link>https://metrology.news/onto-innovation-and-rigaku-partner-to-advance-semiconductor-x-ray-process-control/</link>
-      <description>Onto Innovation is collaborating with Rigaku to develop X\xe2\x80\x91ray solutions integrating Ai Diffract analysis software with X\xe2\x80\x91ray scattering platforms.</description>
+      <description>Partnership advancing next-generation process control solutions for semiconductor manufacturing.</description>
       <pubDate>Wed, 22 Apr 2026 07:06:55 -0000</pubDate>
       <guid>https://metrology.news/onto-innovation-and-rigaku-partner-to-advance-semiconductor-x-ray-process-control/</guid>
     </item>
@@ -28,7 +35,7 @@
     <item>
       <title>AI-Powered Hyperspectral Textile Inspection Solution Identifies Fabrics, Detects Flaws</title>
       <link>https://www.vision-systems.com/factory/article/55371885/ai-powered-hyperspectral-textile-inspection-solution-identifies-fabrics-detects-flaws</link>
-      <description>Automated inspection system designed to overcome challenges of fiber variability and complex blends, offering real-time, accurate material classification with minimal setup</description>
+      <description>Automated inspection system designed to classify materials and detect fabric defects.</description>
       <pubDate>Wed, 22 Apr 2026 06:57:36 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/article/55371885/ai-powered-hyperspectral-textile-inspection-solution-identifies-fabrics-detects-flaws</guid>
     </item>
@@ -45,13 +52,6 @@
       <description>Automation 1.0 remains as the backbone, while Automation 2.0 adds new flexibility to factory automation according to KUKA robotics.</description>
       <pubDate>Tue, 21 Apr 2026 06:44:43 -0000</pubDate>
       <guid>https://metrology.news/rise-of-physical-ai-kuka-and-nvidia-partner-to-launch-automation-2-0/</guid>
-    </item>
-    <item>
-      <title>Nikon Corporation Launches Compact Laser Radar for Fast High-Precision Measurement</title>
-      <link>https://metrology.news/nikon-corporation-launches-compact-laser-radar-for-fast-high-precision-measurement/</link>
-      <description>Up to six times faster scanning than previous Nikon Laser Radar models with fast and efficient feature measurement is available.</description>
-      <pubDate>Tue, 21 Apr 2026 06:43:39 -0000</pubDate>
-      <guid>https://metrology.news/nikon-corporation-launches-compact-laser-radar-for-fast-high-precision-measurement/</guid>
     </item>
   </channel>
 </rss>
