@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Visions Podcast: Fixed Scanners, Big Gains</title>
+      <link>https://www.vision-systems.com/factory/podcast/55372465/fixed-barcode-scanner-machine-vision-solution-ups-logistics-productivity-by-50</link>
+      <description>This episode explores how Royal Canin improved safety and increased loading efficiency by 50% through Zebra Technologies' fixed-scanner system, eliminating manual barcode scans</description>
+      <pubDate>Fri, 24 Apr 2026 06:31:08 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55372465/fixed-barcode-scanner-machine-vision-solution-ups-logistics-productivity-by-50</guid>
+    </item>
+    <item>
+      <title>Laying the Groundwork for Industrial AI Leadership in Europe</title>
+      <link>https://metrology.news/laying-the-groundwork-for-industrial-ai-leadership-in-europe/</link>
+      <description>Industrial AI realizes its full potential when integrated into industrial processes, established architectures, and entire value chains to advance manufacturing leadership.</description>
+      <pubDate>Fri, 24 Apr 2026 06:27:03 -0000</pubDate>
+      <guid>https://metrology.news/laying-the-groundwork-for-industrial-ai-leadership-in-europe/</guid>
+    </item>
+    <item>
+      <title>Process-Stable Colour Measurement for Dynamic Industrial Applications</title>
+      <link>https://metrology.news/process-stable-colour-measurement-for-dynamic-industrial-applications/</link>
+      <description>The sensor ensures realistic and reproducible colour detection across a wide range of materials and surface conditions for dynamic industrial processes.</description>
+      <pubDate>Fri, 24 Apr 2026 06:25:06 -0000</pubDate>
+      <guid>https://metrology.news/process-stable-colour-measurement-for-dynamic-industrial-applications/</guid>
+    </item>
+    <item>
       <title>High-Speed Data Capture and AI Analytics Drive Peak\xe2\x80\x99s New Automation Ecosystem</title>
       <link>https://metrology.news/high-speed-data-capture-and-ai-analytics-drive-peaks-new-automation-ecosystem/</link>
       <description>New AI-powered platform for modernizing logistics and automated warehouse systems.</description>
@@ -31,27 +52,6 @@
       <description>Demonstration clearly illustrates the potential that lies in combining the digital process chain, robotics and 3D image processing.</description>
       <pubDate>Wed, 22 Apr 2026 07:04:16 -0000</pubDate>
       <guid>https://metrology.news/3d-vision-meets-the-digital-thread-in-next-gen-aircraft-assembly/</guid>
-    </item>
-    <item>
-      <title>AI-Powered Hyperspectral Textile Inspection Solution Identifies Fabrics, Detects Flaws</title>
-      <link>https://www.vision-systems.com/factory/article/55371885/ai-powered-hyperspectral-textile-inspection-solution-identifies-fabrics-detects-flaws</link>
-      <description>Automated inspection system designed to classify materials and detect fabric defects.</description>
-      <pubDate>Wed, 22 Apr 2026 06:57:36 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55371885/ai-powered-hyperspectral-textile-inspection-solution-identifies-fabrics-detects-flaws</guid>
-    </item>
-    <item>
-      <title>Inline 3D Metrology Transforms Shipbuilding by Enabling Real-Time Forming Accuracy</title>
-      <link>https://metrology.news/inline-3d-metrology-transforms-shipbuilding-by-enabling-real-time-forming-accuracy/</link>
-      <description>Fraunhofer IOF developed a high-speed inline 3D measurement system to digitally capture the workpiece enabling precise target/actual comparisons.</description>
-      <pubDate>Tue, 21 Apr 2026 06:48:01 -0000</pubDate>
-      <guid>https://metrology.news/inline-3d-metrology-transforms-shipbuilding-by-enabling-real-time-forming-accuracy/</guid>
-    </item>
-    <item>
-      <title>Rise of Physical AI - KUKA and NVIDIA Partner to Launch Automation 2.0</title>
-      <link>https://metrology.news/rise-of-physical-ai-kuka-and-nvidia-partner-to-launch-automation-2-0/</link>
-      <description>Automation 1.0 remains as the backbone, while Automation 2.0 adds new flexibility to factory automation according to KUKA robotics.</description>
-      <pubDate>Tue, 21 Apr 2026 06:44:43 -0000</pubDate>
-      <guid>https://metrology.news/rise-of-physical-ai-kuka-and-nvidia-partner-to-launch-automation-2-0/</guid>
     </item>
   </channel>
 </rss>
