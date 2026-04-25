@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Mitutoyo Expands in Florida with New Lakeland Metrology Service Center</title>
+      <link>https://www.qualitymag.com/articles/99541-mitutoyo-expands-in-florida-with-new-lakeland-metrology-service-center</link>
+      <description>Mitutoyo America Corporation expands its commercial presence in the Southeast by opening an 11,200-square-foot Metrology Service Center in Lakeland, Florida.</description>
+      <pubDate>Sat, 25 Apr 2026 06:20:18 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99541-mitutoyo-expands-in-florida-with-new-lakeland-metrology-service-center</guid>
+    </item>
+    <item>
       <title>Visions Podcast: Fixed Scanners, Big Gains</title>
       <link>https://www.vision-systems.com/factory/podcast/55372465/fixed-barcode-scanner-machine-vision-solution-ups-logistics-productivity-by-50</link>
       <description>This episode explores how Royal Canin improved safety and increased loading efficiency by 50% through Zebra Technologies' fixed-scanner system, eliminating manual barcode scans</description>
@@ -45,13 +52,6 @@
       <description>Partnership advancing next-generation process control solutions for semiconductor manufacturing.</description>
       <pubDate>Wed, 22 Apr 2026 07:06:55 -0000</pubDate>
       <guid>https://metrology.news/onto-innovation-and-rigaku-partner-to-advance-semiconductor-x-ray-process-control/</guid>
-    </item>
-    <item>
-      <title>3D Vision Meets the Digital Thread in Next-Gen Aircraft Assembly</title>
-      <link>https://metrology.news/3d-vision-meets-the-digital-thread-in-next-gen-aircraft-assembly/</link>
-      <description>Demonstration clearly illustrates the potential that lies in combining the digital process chain, robotics and 3D image processing.</description>
-      <pubDate>Wed, 22 Apr 2026 07:04:16 -0000</pubDate>
-      <guid>https://metrology.news/3d-vision-meets-the-digital-thread-in-next-gen-aircraft-assembly/</guid>
     </item>
   </channel>
 </rss>
