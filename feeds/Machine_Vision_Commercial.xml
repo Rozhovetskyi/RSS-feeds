@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Precision Gaging for New Energy Vehicle Motors</title>
+      <link>https://www.qualitymag.com/articles/99545-precision-gaging-for-new-energy-vehicle-motors</link>
+      <description>The rapid expansion of New Energy Vehicles (NEVs), including battery-electric, hybrid, and plug-in hybrid platforms, has fundamentally reshaped the metrology requirements for rotating powertrain components.</description>
+      <pubDate>Sun, 26 Apr 2026 06:10:34 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99545-precision-gaging-for-new-energy-vehicle-motors</guid>
+    </item>
+    <item>
+      <title>Bruker Alicona Celebrate 25 Years of Advancing Focus Variation in Industrial Metrology</title>
+      <link>https://metrology.news/bruker-alicona-celebrate-25-years-of-advancing-focus-variation-in-industrial-metrology/</link>
+      <description>Measurement systems transitioned from labs into production, increasingly becoming integrated within automated manufacturing processes.</description>
+      <pubDate>Sun, 26 Apr 2026 06:10:01 -0000</pubDate>
+      <guid>https://metrology.news/bruker-alicona-celebrate-25-years-of-advancing-focus-variation-in-industrial-metrology/</guid>
+    </item>
+    <item>
       <title>Mitutoyo Expands in Florida with New Lakeland Metrology Service Center</title>
       <link>https://www.qualitymag.com/articles/99541-mitutoyo-expands-in-florida-with-new-lakeland-metrology-service-center</link>
       <description>Mitutoyo America Corporation expands its commercial presence in the Southeast by opening an 11,200-square-foot Metrology Service Center in Lakeland, Florida.</description>
@@ -38,20 +52,6 @@
       <description>New AI-powered platform for modernizing logistics and automated warehouse systems.</description>
       <pubDate>Thu, 23 Apr 2026 06:14:39 -0000</pubDate>
       <guid>https://metrology.news/high-speed-data-capture-and-ai-analytics-drive-peaks-new-automation-ecosystem/</guid>
-    </item>
-    <item>
-      <title>Basler CoaXPress-over-Fiber TDI Vision System</title>
-      <link>https://www.qualitymag.com/articles/99531-basler-coaxpress-over-fiber-tdi-vision-system</link>
-      <description>Basler AG announced a CoaXPress-over-Fiber TDI vision system with a bandwidth of up to dual 100 Gbps.</description>
-      <pubDate>Wed, 22 Apr 2026 07:10:44 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99531-basler-coaxpress-over-fiber-tdi-vision-system</guid>
-    </item>
-    <item>
-      <title>Onto Innovation and Rigaku Partner to Advance Semiconductor X-ray Process Control</title>
-      <link>https://metrology.news/onto-innovation-and-rigaku-partner-to-advance-semiconductor-x-ray-process-control/</link>
-      <description>Partnership advancing next-generation process control solutions for semiconductor manufacturing.</description>
-      <pubDate>Wed, 22 Apr 2026 07:06:55 -0000</pubDate>
-      <guid>https://metrology.news/onto-innovation-and-rigaku-partner-to-advance-semiconductor-x-ray-process-control/</guid>
     </item>
   </channel>
 </rss>
