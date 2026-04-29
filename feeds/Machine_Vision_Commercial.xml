@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Renishaw to Showcase Robot Efficiency Solutions, Advanced Gaging Systems at Automate 2026</title>
+      <link>https://www.qualitymag.com/articles/99548-renishaw-to-showcase-robot-efficiency-solutions-advanced-gaging-systems-at-automate-2026</link>
+      <description>Renishaw will highlight its latest solutions for maximizing robot performance and manufacturing efficiency at Automate 2026, taking place June 22–25 at McCormick Place in Chicago.</description>
+      <pubDate>Wed, 29 Apr 2026 06:50:55 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99548-renishaw-to-showcase-robot-efficiency-solutions-advanced-gaging-systems-at-automate-2026</guid>
+    </item>
+    <item>
+      <title>From Inline Inspection to AI Automation - The Evolution of Laser Sensors &amp;#8211; Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/from-inline-inspection-to-ai-automation-the-evolution-of-laser-sensors/</link>
+      <description>Inline inspection changes the mindset. Instead of verifying parts, you start watching the process while it’s happening.</description>
+      <pubDate>Wed, 29 Apr 2026 06:50:23 -0000</pubDate>
+      <guid>https://metrology.news/from-inline-inspection-to-ai-automation-the-evolution-of-laser-sensors/</guid>
+    </item>
+    <item>
+      <title>Cognex’s Brian Benoit Answers Our Questions about the In-Sight 6900 Vision Controller</title>
+      <link>https://www.vision-systems.com/factory/article/55373493/cognexs-brian-benoit-answers-our-questions-about-the-in-sight-6900-vision-controller</link>
+      <description>Cognex’s In-Sight 6900 introduces a modular, AI-powered vision controller designed for flexible industrial inspection. Powered by NVIDIA Jetson, it enables real-time, edge AI</description>
+      <pubDate>Wed, 29 Apr 2026 06:47:48 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55373493/cognexs-brian-benoit-answers-our-questions-about-the-in-sight-6900-vision-controller</guid>
+    </item>
+    <item>
       <title>Smarter Surface Inspection Through Integrated Robotics</title>
       <link>https://metrology.news/smarter-surface-inspection-through-integrated-robotics/</link>
       <description>The combination of robotics and production metrology opens up a whole new range of applications for customers.</description>
@@ -31,27 +52,6 @@
       <description>The ATS800 can identify and &amp;#039;lock on&amp;#039; to a sphere target to establish its position in a coordinate system and begin measurement unattended.</description>
       <pubDate>Mon, 27 Apr 2026 06:46:42 -0000</pubDate>
       <guid>https://metrology.news/ai-and-laser-tracking-drive-new-era-of-industrial-inspection/</guid>
-    </item>
-    <item>
-      <title>Partnership to Advance Automated Inspection in Smart Manufacturing</title>
-      <link>https://metrology.news/partnership-to-advance-automated-inspection-in-smart-manufacturing/</link>
-      <description>Partners highlight operational benefits by adopting the system, including faster inspection cycles and improved measurement consistency.</description>
-      <pubDate>Mon, 27 Apr 2026 06:44:05 -0000</pubDate>
-      <guid>https://metrology.news/partnership-to-advance-automated-inspection-in-smart-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Precision Gaging for New Energy Vehicle Motors</title>
-      <link>https://www.qualitymag.com/articles/99545-precision-gaging-for-new-energy-vehicle-motors</link>
-      <description>The rapid expansion of New Energy Vehicles (NEVs), including battery-electric, hybrid, and plug-in hybrid platforms, has fundamentally reshaped the metrology requirements for rotating powertrain components.</description>
-      <pubDate>Sun, 26 Apr 2026 06:10:34 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99545-precision-gaging-for-new-energy-vehicle-motors</guid>
-    </item>
-    <item>
-      <title>Bruker Alicona Celebrate 25 Years of Advancing Focus Variation in Industrial Metrology</title>
-      <link>https://metrology.news/bruker-alicona-celebrate-25-years-of-advancing-focus-variation-in-industrial-metrology/</link>
-      <description>Measurement systems transitioned from labs into production, increasingly becoming integrated within automated manufacturing processes.</description>
-      <pubDate>Sun, 26 Apr 2026 06:10:01 -0000</pubDate>
-      <guid>https://metrology.news/bruker-alicona-celebrate-25-years-of-advancing-focus-variation-in-industrial-metrology/</guid>
     </item>
   </channel>
 </rss>
