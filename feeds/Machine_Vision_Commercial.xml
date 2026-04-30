@@ -5,6 +5,41 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>InnovMetric PolyWorks 2026</title>
+      <link>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</link>
+      <description>InnovMetric announced the launch of PolyWorks® 2026.</description>
+      <pubDate>Thu, 30 Apr 2026 06:38:49 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</guid>
+    </item>
+    <item>
+      <title>PolyWorks 2026 Launch Elevates 3D Measurement with Cloud Technology, AI, and Universal Compatibility</title>
+      <link>https://metrology.news/polyworks-2026-launch-elevates-3d-measurement-with-cloud-technology-ai-and-universal-compatibility/</link>
+      <description>InnovMetric, the independent software development company that empowers manufacturers of every size to digitally transform their 3D measurement processes, has launched PolyWorks 2026.</description>
+      <pubDate>Thu, 30 Apr 2026 06:38:01 -0000</pubDate>
+      <guid>https://metrology.news/polyworks-2026-launch-elevates-3d-measurement-with-cloud-technology-ai-and-universal-compatibility/</guid>
+    </item>
+    <item>
+      <title>High-Precision 3D Measurement in a New Ultra-Compact Form</title>
+      <link>https://metrology.news/high-precision-3d-measurement-in-a-new-ultra-compact-form/</link>
+      <description>The scanCONTROL 8500 laser scanners from Micro-Epsilon redefine industrial 3D measurement technology.</description>
+      <pubDate>Thu, 30 Apr 2026 06:37:20 -0000</pubDate>
+      <guid>https://metrology.news/high-precision-3d-measurement-in-a-new-ultra-compact-form/</guid>
+    </item>
+    <item>
+      <title>Pleora and imavix Partner to Advance GigE Vision 3.0 with High-Speed, Deterministic Ethernet Solution</title>
+      <link>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</link>
+      <description>Collaboration introduces an integrated solution combining FPGA-based GigE Vision 3.0 IP cores with Pleora’s SDK, </description>
+      <pubDate>Thu, 30 Apr 2026 06:34:23 -0000</pubDate>
+      <guid>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</guid>
+    </item>
+    <item>
+      <title>AI-Powered Robots Bring Automated Defect Removal to Auto Manufacturing</title>
+      <link>https://metrology.news/ai-powered-robots-bring-automated-defect-removal-to-auto-manufacturing/</link>
+      <description>Global digital transformation company GFT Technologies has launched its new AI-powered robotic arms designed for automotive manufacturing.</description>
+      <pubDate>Thu, 30 Apr 2026 06:27:49 -0000</pubDate>
+      <guid>https://metrology.news/ai-powered-robots-bring-automated-defect-removal-to-auto-manufacturing/</guid>
+    </item>
+    <item>
       <title>Renishaw to Showcase Robot Efficiency Solutions, Advanced Gaging Systems at Automate 2026</title>
       <link>https://www.qualitymag.com/articles/99548-renishaw-to-showcase-robot-efficiency-solutions-advanced-gaging-systems-at-automate-2026</link>
       <description>Renishaw will highlight its latest solutions for maximizing robot performance and manufacturing efficiency at Automate 2026, taking place June 22–25 at McCormick Place in Chicago.</description>
@@ -17,41 +52,6 @@
       <description>Inline inspection changes the mindset. Instead of verifying parts, you start watching the process while it’s happening.</description>
       <pubDate>Wed, 29 Apr 2026 06:50:23 -0000</pubDate>
       <guid>https://metrology.news/from-inline-inspection-to-ai-automation-the-evolution-of-laser-sensors/</guid>
-    </item>
-    <item>
-      <title>Cognex’s Brian Benoit Answers Our Questions about the In-Sight 6900 Vision Controller</title>
-      <link>https://www.vision-systems.com/factory/article/55373493/cognexs-brian-benoit-answers-our-questions-about-the-in-sight-6900-vision-controller</link>
-      <description>Cognex’s In-Sight 6900 introduces a modular, AI-powered vision controller designed for flexible industrial inspection. Powered by NVIDIA Jetson, it enables real-time, edge AI</description>
-      <pubDate>Wed, 29 Apr 2026 06:47:48 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55373493/cognexs-brian-benoit-answers-our-questions-about-the-in-sight-6900-vision-controller</guid>
-    </item>
-    <item>
-      <title>Smarter Surface Inspection Through Integrated Robotics</title>
-      <link>https://metrology.news/smarter-surface-inspection-through-integrated-robotics/</link>
-      <description>The combination of robotics and production metrology opens up a whole new range of applications for customers.</description>
-      <pubDate>Tue, 28 Apr 2026 06:35:49 -0000</pubDate>
-      <guid>https://metrology.news/smarter-surface-inspection-through-integrated-robotics/</guid>
-    </item>
-    <item>
-      <title>Physical AI Comes of Age on the Manufacturing Floor</title>
-      <link>https://metrology.news/physical-ai-comes-of-age-on-the-manufacturing-floor/</link>
-      <description>A humanoid robot&amp;#039;s true value is in becoming a fully integrated, collaborative asset on the shop floor with real-time data exchange.</description>
-      <pubDate>Tue, 28 Apr 2026 06:29:51 -0000</pubDate>
-      <guid>https://metrology.news/physical-ai-comes-of-age-on-the-manufacturing-floor/</guid>
-    </item>
-    <item>
-      <title>Revopoint Expands 3D Scanning Portfolio with MetroY Ultra and POP 4 Launches</title>
-      <link>https://metrology.news/revopoint-expands-3d-scanning-portfolio-with-metroy-ultra-and-pop-4-launches/</link>
-      <description>Inclusion of verification functionality reflects a broader industry trend toward closed-loop metrology and validate performance in real time.</description>
-      <pubDate>Tue, 28 Apr 2026 06:26:57 -0000</pubDate>
-      <guid>https://metrology.news/revopoint-expands-3d-scanning-portfolio-with-metroy-ultra-and-pop-4-launches/</guid>
-    </item>
-    <item>
-      <title>AI and Laser Tracking Drive New Era of Inspection</title>
-      <link>https://metrology.news/ai-and-laser-tracking-drive-new-era-of-industrial-inspection/</link>
-      <description>The ATS800 can identify and &amp;#039;lock on&amp;#039; to a sphere target to establish its position in a coordinate system and begin measurement unattended.</description>
-      <pubDate>Mon, 27 Apr 2026 06:46:42 -0000</pubDate>
-      <guid>https://metrology.news/ai-and-laser-tracking-drive-new-era-of-industrial-inspection/</guid>
     </item>
   </channel>
 </rss>
