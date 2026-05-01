@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>FANUC America Ultra Lightweight CRX-3iA Collaborative Robot</title>
+      <link>https://www.qualitymag.com/articles/99554-fanuc-america-ultra-lightweight-crx-3ia-collaborative-robot</link>
+      <description>FANUC America has expanded its popular CRX collaborative robot series with the introduction of the CRX-3iA , an ultra lightweight cobot designed for fast redeployment across small, high mix tasks.</description>
+      <pubDate>Fri, 01 May 2026 06:43:32 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99554-fanuc-america-ultra-lightweight-crx-3ia-collaborative-robot</guid>
+    </item>
+    <item>
+      <title>Aeva and Nikon Bring High-Precision Sensing to Automated Metrology</title>
+      <link>https://metrology.news/aeva-and-nikon-bring-high-precision-sensing-to-automated-metrology/</link>
+      <description>The Nikon APDIS MV5X Laser Radar represents the next generation of high-precision, non-contact measurement systems.</description>
+      <pubDate>Fri, 01 May 2026 06:43:06 -0000</pubDate>
+      <guid>https://metrology.news/aeva-and-nikon-bring-high-precision-sensing-to-automated-metrology/</guid>
+    </item>
+    <item>
+      <title>Deva Electronic Controls Announces Native CNC Integration with PolyWorks&amp;#124;Inspector</title>
+      <link>https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/</link>
+      <description>The integration combines Deva’s high-performance CMM control with PolyWorks|Inspector, InnovMetric’s universal metrology software platform.</description>
+      <pubDate>Fri, 01 May 2026 06:42:40 -0000</pubDate>
+      <guid>https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/</guid>
+    </item>
+    <item>
       <title>InnovMetric PolyWorks 2026</title>
       <link>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</link>
       <description>InnovMetric announced the launch of PolyWorks® 2026.</description>
@@ -31,27 +52,6 @@
       <description>Collaboration introduces an integrated solution combining FPGA-based GigE Vision 3.0 IP cores with Pleora’s SDK, </description>
       <pubDate>Thu, 30 Apr 2026 06:34:23 -0000</pubDate>
       <guid>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</guid>
-    </item>
-    <item>
-      <title>AI-Powered Robots Bring Automated Defect Removal to Auto Manufacturing</title>
-      <link>https://metrology.news/ai-powered-robots-bring-automated-defect-removal-to-auto-manufacturing/</link>
-      <description>Global digital transformation company GFT Technologies has launched its new AI-powered robotic arms designed for automotive manufacturing.</description>
-      <pubDate>Thu, 30 Apr 2026 06:27:49 -0000</pubDate>
-      <guid>https://metrology.news/ai-powered-robots-bring-automated-defect-removal-to-auto-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Renishaw to Showcase Robot Efficiency Solutions, Advanced Gaging Systems at Automate 2026</title>
-      <link>https://www.qualitymag.com/articles/99548-renishaw-to-showcase-robot-efficiency-solutions-advanced-gaging-systems-at-automate-2026</link>
-      <description>Renishaw will highlight its latest solutions for maximizing robot performance and manufacturing efficiency at Automate 2026, taking place June 22–25 at McCormick Place in Chicago.</description>
-      <pubDate>Wed, 29 Apr 2026 06:50:55 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99548-renishaw-to-showcase-robot-efficiency-solutions-advanced-gaging-systems-at-automate-2026</guid>
-    </item>
-    <item>
-      <title>From Inline Inspection to AI Automation - The Evolution of Laser Sensors &amp;#8211; Metrology and Quality News - Online Magazine</title>
-      <link>https://metrology.news/from-inline-inspection-to-ai-automation-the-evolution-of-laser-sensors/</link>
-      <description>Inline inspection changes the mindset. Instead of verifying parts, you start watching the process while it’s happening.</description>
-      <pubDate>Wed, 29 Apr 2026 06:50:23 -0000</pubDate>
-      <guid>https://metrology.news/from-inline-inspection-to-ai-automation-the-evolution-of-laser-sensors/</guid>
     </item>
   </channel>
 </rss>
