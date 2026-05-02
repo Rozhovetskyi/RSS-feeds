@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Western Gage Designs &amp; Manufactures Dimensional Air Gages</title>
+      <link>https://www.qualitymag.com/articles/99557-western-gage-designs-and-manufactures-dimensional-air-gages</link>
+      <description>Western Gage Corporation offers accurate, easy-to-use dimensional air gages for 100% inspections of production parts.</description>
+      <pubDate>Sat, 02 May 2026 06:16:41 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99557-western-gage-designs-and-manufactures-dimensional-air-gages</guid>
+    </item>
+    <item>
+      <title>Live Data Streaming with Renishaw’s Reporter App</title>
+      <link>https://metrology.news/live-data-streaming-with-renishaws-reporter-app/</link>
+      <description>Renishaw's Reporter app enables live data streaming and real-time process monitoring for component measurement data.</description>
+      <pubDate>Sat, 02 May 2026 06:15:49 -0000</pubDate>
+      <guid>https://metrology.news/live-data-streaming-with-renishaws-reporter-app/</guid>
+    </item>
+    <item>
+      <title>The Ultimate Inspection Lab</title>
+      <link>https://metrology.news/the-ultimate-inspection-lab/</link>
+      <description>The Ultimate Dimensional Inspection Lab powered by PolyWorks 2026 standardizes quality control processes and streamlines inter-site collaboration for manufacturers.</description>
+      <pubDate>Sat, 02 May 2026 06:14:52 -0000</pubDate>
+      <guid>https://metrology.news/the-ultimate-inspection-lab/</guid>
+    </item>
+    <item>
       <title>FANUC America Ultra Lightweight CRX-3iA Collaborative Robot</title>
       <link>https://www.qualitymag.com/articles/99554-fanuc-america-ultra-lightweight-crx-3ia-collaborative-robot</link>
       <description>FANUC America has expanded its popular CRX collaborative robot series with the introduction of the CRX-3iA , an ultra lightweight cobot designed for fast redeployment across small, high mix tasks.</description>
@@ -31,27 +52,6 @@
       <description>InnovMetric announced the launch of PolyWorks® 2026.</description>
       <pubDate>Thu, 30 Apr 2026 06:38:49 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</guid>
-    </item>
-    <item>
-      <title>PolyWorks 2026 Launch Elevates 3D Measurement with Cloud Technology, AI, and Universal Compatibility</title>
-      <link>https://metrology.news/polyworks-2026-launch-elevates-3d-measurement-with-cloud-technology-ai-and-universal-compatibility/</link>
-      <description>InnovMetric, the independent software development company that empowers manufacturers of every size to digitally transform their 3D measurement processes, has launched PolyWorks 2026.</description>
-      <pubDate>Thu, 30 Apr 2026 06:38:01 -0000</pubDate>
-      <guid>https://metrology.news/polyworks-2026-launch-elevates-3d-measurement-with-cloud-technology-ai-and-universal-compatibility/</guid>
-    </item>
-    <item>
-      <title>High-Precision 3D Measurement in a New Ultra-Compact Form</title>
-      <link>https://metrology.news/high-precision-3d-measurement-in-a-new-ultra-compact-form/</link>
-      <description>The scanCONTROL 8500 laser scanners from Micro-Epsilon redefine industrial 3D measurement technology.</description>
-      <pubDate>Thu, 30 Apr 2026 06:37:20 -0000</pubDate>
-      <guid>https://metrology.news/high-precision-3d-measurement-in-a-new-ultra-compact-form/</guid>
-    </item>
-    <item>
-      <title>Pleora and imavix Partner to Advance GigE Vision 3.0 with High-Speed, Deterministic Ethernet Solution</title>
-      <link>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</link>
-      <description>Collaboration introduces an integrated solution combining FPGA-based GigE Vision 3.0 IP cores with Pleora’s SDK, </description>
-      <pubDate>Thu, 30 Apr 2026 06:34:23 -0000</pubDate>
-      <guid>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</guid>
     </item>
   </channel>
 </rss>
