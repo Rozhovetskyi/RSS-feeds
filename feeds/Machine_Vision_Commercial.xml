@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Scaling Battery Production: The Growing Importance of Quality Assurance and Multi-Modal Inspection</title>
+      <link>https://www.qualitymag.com/articles/99559-scaling-battery-production-the-growing-importance-of-quality-assurance-and-multi-modal-inspection</link>
+      <description>The scaling of global battery production underscores the growing commercial demand for automated multi-modal inspection systems.</description>
+      <pubDate>Sun, 03 May 2026 06:13:28 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99559-scaling-battery-production-the-growing-importance-of-quality-assurance-and-multi-modal-inspection</guid>
+    </item>
+    <item>
+      <title>Pleora and imavix Partner to Advance GigE Vision 3.0 with High-Speed, Deterministic Ethernet Solution</title>
+      <link>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</link>
+      <description>The partnership between Pleora and imavix advances GigE Vision 3.0, promising high-speed deterministic Ethernet solutions for the industrial market.</description>
+      <pubDate>Sun, 03 May 2026 06:11:54 -0000</pubDate>
+      <guid>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</guid>
+    </item>
+    <item>
       <title>Western Gage Designs &amp; Manufactures Dimensional Air Gages</title>
       <link>https://www.qualitymag.com/articles/99557-western-gage-designs-and-manufactures-dimensional-air-gages</link>
       <description>Western Gage Corporation offers accurate, easy-to-use dimensional air gages for 100% inspections of production parts.</description>
@@ -38,20 +52,6 @@
       <description>The Nikon APDIS MV5X Laser Radar represents the next generation of high-precision, non-contact measurement systems.</description>
       <pubDate>Fri, 01 May 2026 06:43:06 -0000</pubDate>
       <guid>https://metrology.news/aeva-and-nikon-bring-high-precision-sensing-to-automated-metrology/</guid>
-    </item>
-    <item>
-      <title>Deva Electronic Controls Announces Native CNC Integration with PolyWorks&amp;#124;Inspector</title>
-      <link>https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/</link>
-      <description>The integration combines Deva’s high-performance CMM control with PolyWorks|Inspector, InnovMetric’s universal metrology software platform.</description>
-      <pubDate>Fri, 01 May 2026 06:42:40 -0000</pubDate>
-      <guid>https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/</guid>
-    </item>
-    <item>
-      <title>InnovMetric PolyWorks 2026</title>
-      <link>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</link>
-      <description>InnovMetric announced the launch of PolyWorks® 2026.</description>
-      <pubDate>Thu, 30 Apr 2026 06:38:49 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99551-innovmetric-polyworks-2026</guid>
     </item>
   </channel>
 </rss>
