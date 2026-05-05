@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Manufacturers Must Unify Data Now to Meet First Digital Product Passport Deadlines | Quality Magazine</title>
+      <link>https://www.qualitymag.com/articles/99560-manufacturers-must-unify-data-now-to-meet-first-digital-product-passport-deadlines</link>
+      <description>Manufacturers must unify their data to meet the first digital product passport deadlines.</description>
+      <pubDate>Tue, 05 May 2026 06:09:56 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99560-manufacturers-must-unify-data-now-to-meet-first-digital-product-passport-deadlines</guid>
+    </item>
+    <item>
+      <title>Advanced Vision System Enhances Quality Control and Precision at RB Industrial Manufacturing &amp;#8211; Metrology and Quality News - Online Magazine</title>
+      <link>https://metrology.news/advanced-vision-system-enhances-quality-control-and-precision-at-rb-industrial-manufacturing/</link>
+      <description>System will support first article inspection, in-process quality checks, and final inspection and verification of finished parts.</description>
+      <pubDate>Tue, 05 May 2026 06:09:39 -0000</pubDate>
+      <guid>https://metrology.news/advanced-vision-system-enhances-quality-control-and-precision-at-rb-industrial-manufacturing/</guid>
+    </item>
+    <item>
       <title>Sentinel Vision and Zebra Technologies Launch AI, 3D Automated Inspection System</title>
       <link>https://www.vision-systems.com/factory/article/55366965/sentinel-zebra-partner-to-develop-ai-3d-inspection-system</link>
       <description>Sentinel Vision and Zebra Technologies have developed an AI-driven 3D inspection system that improves automotive door assembly quality by replacing manual checks with automated</description>
@@ -38,20 +52,6 @@
       <description>The partnership between Pleora and imavix advances GigE Vision 3.0, promising high-speed deterministic Ethernet solutions for the industrial market.</description>
       <pubDate>Sun, 03 May 2026 06:11:54 -0000</pubDate>
       <guid>https://www.vision-systems.com/embedded/article/55374038/pleora-imavix-develop-gige-vision-30-high-speed-ethernet-solution</guid>
-    </item>
-    <item>
-      <title>Western Gage Designs &amp; Manufactures Dimensional Air Gages</title>
-      <link>https://www.qualitymag.com/articles/99557-western-gage-designs-and-manufactures-dimensional-air-gages</link>
-      <description>Western Gage Corporation offers accurate, easy-to-use dimensional air gages for 100% inspections of production parts.</description>
-      <pubDate>Sat, 02 May 2026 06:16:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99557-western-gage-designs-and-manufactures-dimensional-air-gages</guid>
-    </item>
-    <item>
-      <title>Live Data Streaming with Renishaw’s Reporter App</title>
-      <link>https://metrology.news/live-data-streaming-with-renishaws-reporter-app/</link>
-      <description>Renishaw's Reporter app enables live data streaming and real-time process monitoring for component measurement data.</description>
-      <pubDate>Sat, 02 May 2026 06:15:49 -0000</pubDate>
-      <guid>https://metrology.news/live-data-streaming-with-renishaws-reporter-app/</guid>
     </item>
   </channel>
 </rss>
