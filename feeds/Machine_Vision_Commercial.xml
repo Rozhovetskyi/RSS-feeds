@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>A3 Officially Releases GigE Vision 3.0, Opening New Possibilities in Machine Vision</title>
+      <link>https://www.qualitymag.com/articles/99577-a3-officially-releases-gige-vision-30-opening-new-possibilities-in-machine-vision</link>
+      <description>The release of GigE Vision 3.0 introduces new standards and possibilities for machine vision applications.</description>
+      <pubDate>Thu, 14 May 2026 06:16:25 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99577-a3-officially-releases-gige-vision-30-opening-new-possibilities-in-machine-vision</guid>
+    </item>
+    <item>
       <title>Sereact Raises $110M to Scale Physical AI and Bring ‘Thinking’ Robots to Industry</title>
       <link>https://metrology.news/sereact-raises-110m-to-scale-physical-ai-and-bring-thinking-robots-to-industry/</link>
       <description>Sereact secured $110 million in Series B funding to expand its predictive AI robotic platforms for industrial automation into the US market.</description>
@@ -45,13 +52,6 @@
       <description>3D Infotech announces a 40% year-over-year revenue increase driven by strong demand from automotive and aerospace manufacturers.</description>
       <pubDate>Sun, 10 May 2026 06:36:41 -0000</pubDate>
       <guid>https://metrology.news/3d-infotech-announces-40-percent-metrology-automation-revenue-growth/</guid>
-    </item>
-    <item>
-      <title>Renishaw Achieves Strongest Ever Q3 Performance on Global Manufacturing Demand</title>
-      <link>https://metrology.news/renishaw-achieves-strongest-ever-q3-performance-on-global-manufacturing-demand/</link>
-      <description>Strong global demand from semiconductor and electronics sectors drives record Q3 revenue for metrology specialist Renishaw.</description>
-      <pubDate>Sun, 10 May 2026 06:35:44 -0000</pubDate>
-      <guid>https://metrology.news/renishaw-achieves-strongest-ever-q3-performance-on-global-manufacturing-demand/</guid>
     </item>
   </channel>
 </rss>
