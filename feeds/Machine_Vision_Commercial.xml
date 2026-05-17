@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI Is Getting Funded. ROI Still Has to Be Earned: How Manufacturers Can Break Through</title>
+      <link>https://www.qualitymag.com/articles/99583-ai-is-getting-funded-roi-still-has-to-be-earned-how-manufacturers-can-break-through</link>
+      <description>Insights on how manufacturers can achieve commercial ROI from their machine vision and AI defect detection investments.</description>
+      <pubDate>Sun, 17 May 2026 06:11:34 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99583-ai-is-getting-funded-roi-still-has-to-be-earned-how-manufacturers-can-break-through</guid>
+    </item>
+    <item>
       <title>Techman Robot Selects NVIDIA Isaac Sim to Optimize Automated Optical Inspection - NVIDIA Blog</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRGVyV0V0YzZycjI3aExUZWsybTNSbUItdkpXVDZ6U09wSG4tUzNLY0d4RXEzNFJwSUk5dlNEakM5OTQ4WFhVQ2FRZTdKV3lfcVJ0U1BCVVR5MlUxY2gtR3VOVUk?oc=5</link>
       <description>Techman Robot partners with NVIDIA, leveraging advanced simulation tools to enhance and market their commercial automated optical inspection systems.</description>
@@ -45,13 +52,6 @@
       <description>An overview of how intelligent vision technology is automating and improving the commercial efficiency of robotic pick-and-place systems.</description>
       <pubDate>Fri, 15 May 2026 06:18:32 -0000</pubDate>
       <guid>https://metrology.news/automating-robotic-pick-and-place-calibration-with-intelligent-vision-technology/</guid>
-    </item>
-    <item>
-      <title>Europe's Machine Vision Future: Insights from Industry Leaders</title>
-      <link>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</link>
-      <description>Industry leaders discuss the commercial future of the European machine vision market.</description>
-      <pubDate>Fri, 15 May 2026 06:18:00 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</guid>
     </item>
   </channel>
 </rss>
