@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Nikon NEXIV VMF-K6561 Measuring System</title>
+      <link>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</link>
+      <description>Nikon launches the NEXIV VMF-K6561, the latest addition to its 3D Confocal series.</description>
+      <pubDate>Mon, 18 May 2026 06:14:02 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</guid>
+    </item>
+    <item>
+      <title>Europe's Machine Vision Future: Insights from Industry Leaders</title>
+      <link>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</link>
+      <description>European leaders emphasize partnerships and breaking silos for machine vision innovation and competitiveness.</description>
+      <pubDate>Mon, 18 May 2026 06:13:38 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</guid>
+    </item>
+    <item>
+      <title>Zeiss Integrates MVTec HALCON into Blockwise for Next-Generation Automated Microscopy</title>
+      <link>https://metrology.news/zeiss-integrates-mvtec-halcon-into-blockwise-for-next-generation-automated-microscopy/</link>
+      <description>Zeiss and MVTec collaborate to integrate HALCON software into Zeiss automated microscopy systems.</description>
+      <pubDate>Mon, 18 May 2026 06:13:03 -0000</pubDate>
+      <guid>https://metrology.news/zeiss-integrates-mvtec-halcon-into-blockwise-for-next-generation-automated-microscopy/</guid>
+    </item>
+    <item>
+      <title>Nikon Introduces Large-Stage Optical Measurement System for Advanced Packaging</title>
+      <link>https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/</link>
+      <description>Nikon expands its NEXIV 3D Confocal series with a new system for large-format advanced packaging measurement.</description>
+      <pubDate>Mon, 18 May 2026 06:12:35 -0000</pubDate>
+      <guid>https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/</guid>
+    </item>
+    <item>
       <title>AI Is Getting Funded. ROI Still Has to Be Earned: How Manufacturers Can Break Through</title>
       <link>https://www.qualitymag.com/articles/99583-ai-is-getting-funded-roi-still-has-to-be-earned-how-manufacturers-can-break-through</link>
       <description>Insights on how manufacturers can achieve commercial ROI from their machine vision and AI defect detection investments.</description>
@@ -24,34 +52,6 @@
       <description>A new commercial data-driven metrology solution aims to bring greater transparency and efficiency to CNC manufacturing processes.</description>
       <pubDate>Sat, 16 May 2026 06:24:49 -0000</pubDate>
       <guid>https://metrology.news/klingelnberg-unveils-smart-tracing-to-bring-data-driven-transparency-to-cnc-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Embedded Vision Summit to Join Photonics West in 2027</title>
-      <link>https://www.vision-systems.com/embedded/news/55377541/embedded-vision-summit-to-join-photonics-west-in-2027</link>
-      <description>This integration creates a major commercial event for the machine vision and photonics industries, fostering broader exposure and collaboration.</description>
-      <pubDate>Sat, 16 May 2026 06:24:49 -0000</pubDate>
-      <guid>https://www.vision-systems.com/embedded/news/55377541/embedded-vision-summit-to-join-photonics-west-in-2027</guid>
-    </item>
-    <item>
-      <title>Nikon NEXIV VMF-K6561 Measuring System</title>
-      <link>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</link>
-      <description>Nikon releases a new commercial video measuring system featuring advanced optical metrology capabilities.</description>
-      <pubDate>Fri, 15 May 2026 06:20:13 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</guid>
-    </item>
-    <item>
-      <title>Twyn AR Platform Enhances Quality Assurance and Reduces Rework at WISAG</title>
-      <link>https://metrology.news/twyn-ar-platform-enhances-quality-assurance-and-reduces-rework-at-wisag/</link>
-      <description>WISAG deploys the Twyn AR platform to modernize visual inspection and commercial quality assurance processes.</description>
-      <pubDate>Fri, 15 May 2026 06:19:28 -0000</pubDate>
-      <guid>https://metrology.news/twyn-ar-platform-enhances-quality-assurance-and-reduces-rework-at-wisag/</guid>
-    </item>
-    <item>
-      <title>Automating Robotic Pick-and-Place Calibration with Intelligent Vision Technology</title>
-      <link>https://metrology.news/automating-robotic-pick-and-place-calibration-with-intelligent-vision-technology/</link>
-      <description>An overview of how intelligent vision technology is automating and improving the commercial efficiency of robotic pick-and-place systems.</description>
-      <pubDate>Fri, 15 May 2026 06:18:32 -0000</pubDate>
-      <guid>https://metrology.news/automating-robotic-pick-and-place-calibration-with-intelligent-vision-technology/</guid>
     </item>
   </channel>
 </rss>
