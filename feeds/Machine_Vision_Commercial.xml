@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>The Real ROI of Quality Automation Is Not Headcount Reduction</title>
+      <link>https://www.qualitymag.com/articles/99588-the-real-roi-of-quality-automation-is-not-headcount-reduction</link>
+      <description>Explores the value proposition of quality automation beyond simple headcount reduction.</description>
+      <pubDate>Tue, 19 May 2026 06:20:12 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99588-the-real-roi-of-quality-automation-is-not-headcount-reduction</guid>
+    </item>
+    <item>
+      <title>Integrated Inspection for Smarter Manufacturing</title>
+      <link>https://metrology.news/integrated-inspection-for-smarter-manufacturing/</link>
+      <description>On Machine Inspection technologies enable real-time measurement directly during machining, preventing costly defects earlier in production.</description>
+      <pubDate>Tue, 19 May 2026 06:20:04 -0000</pubDate>
+      <guid>https://metrology.news/integrated-inspection-for-smarter-manufacturing/</guid>
+    </item>
+    <item>
+      <title>GelSight Mobile 4.4 Release Advances Guided Surface Inspection</title>
+      <link>https://metrology.news/gelsight-mobile-4-4-release-advances-guided-surface-inspection/</link>
+      <description>GelSight updates its software to streamline surface analysis workflows, directly impacting commercial quality control efficiency.</description>
+      <pubDate>Tue, 19 May 2026 06:19:48 -0000</pubDate>
+      <guid>https://metrology.news/gelsight-mobile-4-4-release-advances-guided-surface-inspection/</guid>
+    </item>
+    <item>
       <title>Nikon NEXIV VMF-K6561 Measuring System</title>
       <link>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</link>
       <description>Nikon launches the NEXIV VMF-K6561, the latest addition to its 3D Confocal series.</description>
@@ -31,27 +52,6 @@
       <description>Nikon expands its NEXIV 3D Confocal series with a new system for large-format advanced packaging measurement.</description>
       <pubDate>Mon, 18 May 2026 06:12:35 -0000</pubDate>
       <guid>https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/</guid>
-    </item>
-    <item>
-      <title>AI Is Getting Funded. ROI Still Has to Be Earned: How Manufacturers Can Break Through</title>
-      <link>https://www.qualitymag.com/articles/99583-ai-is-getting-funded-roi-still-has-to-be-earned-how-manufacturers-can-break-through</link>
-      <description>Insights on how manufacturers can achieve commercial ROI from their machine vision and AI defect detection investments.</description>
-      <pubDate>Sun, 17 May 2026 06:11:34 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99583-ai-is-getting-funded-roi-still-has-to-be-earned-how-manufacturers-can-break-through</guid>
-    </item>
-    <item>
-      <title>Techman Robot Selects NVIDIA Isaac Sim to Optimize Automated Optical Inspection - NVIDIA Blog</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRGVyV0V0YzZycjI3aExUZWsybTNSbUItdkpXVDZ6U09wSG4tUzNLY0d4RXEzNFJwSUk5dlNEakM5OTQ4WFhVQ2FRZTdKV3lfcVJ0U1BCVVR5MlUxY2gtR3VOVUk?oc=5</link>
-      <description>Techman Robot partners with NVIDIA, leveraging advanced simulation tools to enhance and market their commercial automated optical inspection systems.</description>
-      <pubDate>Sat, 16 May 2026 06:24:49 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtRGVyV0V0YzZycjI3aExUZWsybTNSbUItdkpXVDZ6U09wSG4tUzNLY0d4RXEzNFJwSUk5dlNEakM5OTQ4WFhVQ2FRZTdKV3lfcVJ0U1BCVVR5MlUxY2gtR3VOVUk?oc=5</guid>
-    </item>
-    <item>
-      <title>KLINGELNBERG Unveils Smart Tracing To Bring Data-Driven Transparency To CNC Manufacturing</title>
-      <link>https://metrology.news/klingelnberg-unveils-smart-tracing-to-bring-data-driven-transparency-to-cnc-manufacturing/</link>
-      <description>A new commercial data-driven metrology solution aims to bring greater transparency and efficiency to CNC manufacturing processes.</description>
-      <pubDate>Sat, 16 May 2026 06:24:49 -0000</pubDate>
-      <guid>https://metrology.news/klingelnberg-unveils-smart-tracing-to-bring-data-driven-transparency-to-cnc-manufacturing/</guid>
     </item>
   </channel>
 </rss>
