@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Flexible AI Inspection: How Learning Systems Are Changing Visual Quality Control</title>
+      <link>https://www.qualitymag.com/articles/99591-flexible-ai-inspection-how-learning-systems-are-changing-visual-quality-control</link>
+      <description>Learning systems are driving flexible AI inspection, revolutionizing visual quality control in manufacturing.</description>
+      <pubDate>Thu, 21 May 2026 06:40:41 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99591-flexible-ai-inspection-how-learning-systems-are-changing-visual-quality-control</guid>
+    </item>
+    <item>
+      <title>NMi Group Expands into Defence and Aerospace Testing with Acquisition of Berlin’s TechnoLab</title>
+      <link>https://metrology.news/nmi-group-expands-into-defence-and-aerospace-testing-with-acquisition-of-berlins-technolab/</link>
+      <description>NMi Group acquires TechnoLab to expand its testing and certification capabilities into the defense and aerospace sectors.</description>
+      <pubDate>Thu, 21 May 2026 06:38:40 -0000</pubDate>
+      <guid>https://metrology.news/nmi-group-expands-into-defence-and-aerospace-testing-with-acquisition-of-berlins-technolab/</guid>
+    </item>
+    <item>
+      <title>Smart 3D Scanner Spots Problems Before They Leave The Shop</title>
+      <link>https://metrology.news/smart-3d-scanner-spots-problems-before-they-leave-the-shop/</link>
+      <description>GM is adopting the 3D MetraSCAN system to enhance manufacturing quality control before products leave the shop floor.</description>
+      <pubDate>Thu, 21 May 2026 06:34:57 -0000</pubDate>
+      <guid>https://metrology.news/smart-3d-scanner-spots-problems-before-they-leave-the-shop/</guid>
+    </item>
+    <item>
       <title>The Real ROI of Quality Automation Is Not Headcount Reduction</title>
       <link>https://www.qualitymag.com/articles/99588-the-real-roi-of-quality-automation-is-not-headcount-reduction</link>
       <description>Explores the value proposition of quality automation beyond simple headcount reduction.</description>
@@ -31,27 +52,6 @@
       <description>Nikon launches the NEXIV VMF-K6561, the latest addition to its 3D Confocal series.</description>
       <pubDate>Mon, 18 May 2026 06:14:02 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</guid>
-    </item>
-    <item>
-      <title>Europe's Machine Vision Future: Insights from Industry Leaders</title>
-      <link>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</link>
-      <description>European leaders emphasize partnerships and breaking silos for machine vision innovation and competitiveness.</description>
-      <pubDate>Mon, 18 May 2026 06:13:38 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55377458/europes-machine-vision-future-insights-from-industry-leaders</guid>
-    </item>
-    <item>
-      <title>Zeiss Integrates MVTec HALCON into Blockwise for Next-Generation Automated Microscopy</title>
-      <link>https://metrology.news/zeiss-integrates-mvtec-halcon-into-blockwise-for-next-generation-automated-microscopy/</link>
-      <description>Zeiss and MVTec collaborate to integrate HALCON software into Zeiss automated microscopy systems.</description>
-      <pubDate>Mon, 18 May 2026 06:13:03 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-integrates-mvtec-halcon-into-blockwise-for-next-generation-automated-microscopy/</guid>
-    </item>
-    <item>
-      <title>Nikon Introduces Large-Stage Optical Measurement System for Advanced Packaging</title>
-      <link>https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/</link>
-      <description>Nikon expands its NEXIV 3D Confocal series with a new system for large-format advanced packaging measurement.</description>
-      <pubDate>Mon, 18 May 2026 06:12:35 -0000</pubDate>
-      <guid>https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/</guid>
     </item>
   </channel>
 </rss>
