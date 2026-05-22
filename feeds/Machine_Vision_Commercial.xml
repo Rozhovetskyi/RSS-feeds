@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Airy3D Integrates DepthIQ SDK with MediaTek Genio Series</title>
+      <link>https://metrology.news/airy3d-integrates-depthiq-sdk-with-mediatek-genio-series/</link>
+      <description>Airy3D has integrated its DepthIQ SDK with the MediaTek Genio Series, enabling compact and cost-efficient passive 3D vision solutions for embedded AI applications.</description>
+      <pubDate>Fri, 22 May 2026 06:30:21 -0000</pubDate>
+      <guid>https://metrology.news/airy3d-integrates-depthiq-sdk-with-mediatek-genio-series/</guid>
+    </item>
+    <item>
+      <title>Mitsubishi Electric Develops CNC Error Compensation Digital Twin</title>
+      <link>https://metrology.news/mitsubishi-electric-develops-cnc-error-compensation-digital-twin/</link>
+      <description>Mitsubishi Electric has developed a new edge-based digital twin technology to correct machining errors in real time on CNC machine tools.</description>
+      <pubDate>Fri, 22 May 2026 06:29:50 -0000</pubDate>
+      <guid>https://metrology.news/mitsubishi-electric-develops-cnc-error-compensation-digital-twin/</guid>
+    </item>
+    <item>
       <title>Flexible AI Inspection: How Learning Systems Are Changing Visual Quality Control</title>
       <link>https://www.qualitymag.com/articles/99591-flexible-ai-inspection-how-learning-systems-are-changing-visual-quality-control</link>
       <description>Learning systems are driving flexible AI inspection, revolutionizing visual quality control in manufacturing.</description>
@@ -38,20 +52,6 @@
       <description>On Machine Inspection technologies enable real-time measurement directly during machining, preventing costly defects earlier in production.</description>
       <pubDate>Tue, 19 May 2026 06:20:04 -0000</pubDate>
       <guid>https://metrology.news/integrated-inspection-for-smarter-manufacturing/</guid>
-    </item>
-    <item>
-      <title>GelSight Mobile 4.4 Release Advances Guided Surface Inspection</title>
-      <link>https://metrology.news/gelsight-mobile-4-4-release-advances-guided-surface-inspection/</link>
-      <description>GelSight updates its software to streamline surface analysis workflows, directly impacting commercial quality control efficiency.</description>
-      <pubDate>Tue, 19 May 2026 06:19:48 -0000</pubDate>
-      <guid>https://metrology.news/gelsight-mobile-4-4-release-advances-guided-surface-inspection/</guid>
-    </item>
-    <item>
-      <title>Nikon NEXIV VMF-K6561 Measuring System</title>
-      <link>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</link>
-      <description>Nikon launches the NEXIV VMF-K6561, the latest addition to its 3D Confocal series.</description>
-      <pubDate>Mon, 18 May 2026 06:14:02 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99579-nikon-nexiv-vmf-k6561-measuring-system</guid>
     </item>
   </channel>
 </rss>
