@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Bitsensing Launches 4D Imaging Radar for Autonomous Vehicles</title>
+      <link>https://www.vision-systems.com/non-factory/security-surveillance-transportation/article/55378665/bitsensing-launches-4d-imaging-radar-for-autonomous-vehicles</link>
+      <description>Bitsensing has released the AIR4D Imaging Radar to advance self-driving vehicle technology with highly detailed environmental sensing.</description>
+      <pubDate>Sat, 23 May 2026 06:15:16 -0000</pubDate>
+      <guid>https://www.vision-systems.com/non-factory/security-surveillance-transportation/article/55378665/bitsensing-launches-4d-imaging-radar-for-autonomous-vehicles</guid>
+    </item>
+    <item>
+      <title>Get It Right: Why Lens Selection Makes or Breaks Machine Vision Precision</title>
+      <link>https://www.qualitymag.com/articles/99597-get-it-right-why-lens-selection-makes-or-breaks-machine-vision-precision</link>
+      <description>Proper lens selection is critical for capturing high-quality images and ensuring overall system accuracy in machine vision, robotics, and factory automation.</description>
+      <pubDate>Sat, 23 May 2026 06:15:16 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99597-get-it-right-why-lens-selection-makes-or-breaks-machine-vision-precision</guid>
+    </item>
+    <item>
+      <title>Automated Optical Inspection (AOI) Equipment Market Is Going</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOakR3akwzZUFMQmNrTFY5bDZjNWpDaklZOEFHa2FVel82Ylhld1ZMVWlmQl9HQ3RnYUJqQndjazhMU0xJZFBkT29HRnV3LWtyOXZKMmRIaVVXVF8zRHNXMnRmU2JTeHhsTFpoTmFQRThZU0JORWVZaDdtT1JVZGVHeXg4REwtTkdPRWJGRnVral8yb1FKZEVFT3RR?oc=5</link>
+      <description>The Automated Optical Inspection (AOI) equipment market is projected to see significant growth, driven by manufacturing quality demands.</description>
+      <pubDate>Sat, 23 May 2026 06:13:50 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMimgFBVV95cUxOakR3akwzZUFMQmNrTFY5bDZjNWpDaklZOEFHa2FVel82Ylhld1ZMVWlmQl9HQ3RnYUJqQndjazhMU0xJZFBkT29HRnV3LWtyOXZKMmRIaVVXVF8zRHNXMnRmU2JTeHhsTFpoTmFQRThZU0JORWVZaDdtT1JVZGVHeXg4REwtTkdPRWJGRnVral8yb1FKZEVFT3RR?oc=5</guid>
+    </item>
+    <item>
       <title>Airy3D Integrates DepthIQ SDK with MediaTek Genio Series</title>
       <link>https://metrology.news/airy3d-integrates-depthiq-sdk-with-mediatek-genio-series/</link>
       <description>Airy3D has integrated its DepthIQ SDK with the MediaTek Genio Series, enabling compact and cost-efficient passive 3D vision solutions for embedded AI applications.</description>
@@ -31,27 +52,6 @@
       <description>NMi Group acquires TechnoLab to expand its testing and certification capabilities into the defense and aerospace sectors.</description>
       <pubDate>Thu, 21 May 2026 06:38:40 -0000</pubDate>
       <guid>https://metrology.news/nmi-group-expands-into-defence-and-aerospace-testing-with-acquisition-of-berlins-technolab/</guid>
-    </item>
-    <item>
-      <title>Smart 3D Scanner Spots Problems Before They Leave The Shop</title>
-      <link>https://metrology.news/smart-3d-scanner-spots-problems-before-they-leave-the-shop/</link>
-      <description>GM is adopting the 3D MetraSCAN system to enhance manufacturing quality control before products leave the shop floor.</description>
-      <pubDate>Thu, 21 May 2026 06:34:57 -0000</pubDate>
-      <guid>https://metrology.news/smart-3d-scanner-spots-problems-before-they-leave-the-shop/</guid>
-    </item>
-    <item>
-      <title>The Real ROI of Quality Automation Is Not Headcount Reduction</title>
-      <link>https://www.qualitymag.com/articles/99588-the-real-roi-of-quality-automation-is-not-headcount-reduction</link>
-      <description>Explores the value proposition of quality automation beyond simple headcount reduction.</description>
-      <pubDate>Tue, 19 May 2026 06:20:12 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99588-the-real-roi-of-quality-automation-is-not-headcount-reduction</guid>
-    </item>
-    <item>
-      <title>Integrated Inspection for Smarter Manufacturing</title>
-      <link>https://metrology.news/integrated-inspection-for-smarter-manufacturing/</link>
-      <description>On Machine Inspection technologies enable real-time measurement directly during machining, preventing costly defects earlier in production.</description>
-      <pubDate>Tue, 19 May 2026 06:20:04 -0000</pubDate>
-      <guid>https://metrology.news/integrated-inspection-for-smarter-manufacturing/</guid>
     </item>
   </channel>
 </rss>
