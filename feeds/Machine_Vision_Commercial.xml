@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>QCFlex Delivers Automated AI Acoustic Defect Testing</title>
+      <link>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</link>
+      <description>RESONIKS launches the fully automated QCFlex system for AI-powered acoustic defect testing, targeting rapid 100% inspection of complex manufactured parts.</description>
+      <pubDate>Mon, 25 May 2026 06:12:30 -0000</pubDate>
+      <guid>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</guid>
+    </item>
+    <item>
+      <title>New µCMM NEO Combines Dimensional, Form and Surface Analysis in One Optical Platform</title>
+      <link>https://metrology.news/new-%c2%b5cmm-neo-combines-dimensional-form-and-surface-analysis-in-one-optical-platform/</link>
+      <description>Bruker Alicona has unveiled the µCMM NEO optical coordinate measuring machine, enabling dimensional, form and surface analysis in one platform for precision manufacturing.</description>
+      <pubDate>Mon, 25 May 2026 06:12:30 -0000</pubDate>
+      <guid>https://metrology.news/new-%c2%b5cmm-neo-combines-dimensional-form-and-surface-analysis-in-one-optical-platform/</guid>
+    </item>
+    <item>
       <title>Bitsensing Launches 4D Imaging Radar for Autonomous Vehicles</title>
       <link>https://www.vision-systems.com/non-factory/security-surveillance-transportation/article/55378665/bitsensing-launches-4d-imaging-radar-for-autonomous-vehicles</link>
       <description>Bitsensing has released the AIR4D Imaging Radar to advance self-driving vehicle technology with highly detailed environmental sensing.</description>
@@ -38,20 +52,6 @@
       <description>Mitsubishi Electric has developed a new edge-based digital twin technology to correct machining errors in real time on CNC machine tools.</description>
       <pubDate>Fri, 22 May 2026 06:29:50 -0000</pubDate>
       <guid>https://metrology.news/mitsubishi-electric-develops-cnc-error-compensation-digital-twin/</guid>
-    </item>
-    <item>
-      <title>Flexible AI Inspection: How Learning Systems Are Changing Visual Quality Control</title>
-      <link>https://www.qualitymag.com/articles/99591-flexible-ai-inspection-how-learning-systems-are-changing-visual-quality-control</link>
-      <description>Learning systems are driving flexible AI inspection, revolutionizing visual quality control in manufacturing.</description>
-      <pubDate>Thu, 21 May 2026 06:40:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99591-flexible-ai-inspection-how-learning-systems-are-changing-visual-quality-control</guid>
-    </item>
-    <item>
-      <title>NMi Group Expands into Defence and Aerospace Testing with Acquisition of Berlin’s TechnoLab</title>
-      <link>https://metrology.news/nmi-group-expands-into-defence-and-aerospace-testing-with-acquisition-of-berlins-technolab/</link>
-      <description>NMi Group acquires TechnoLab to expand its testing and certification capabilities into the defense and aerospace sectors.</description>
-      <pubDate>Thu, 21 May 2026 06:38:40 -0000</pubDate>
-      <guid>https://metrology.news/nmi-group-expands-into-defence-and-aerospace-testing-with-acquisition-of-berlins-technolab/</guid>
     </item>
   </channel>
 </rss>
