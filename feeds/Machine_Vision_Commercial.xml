@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Plug-and-Play AI Inspection System Simplifies Industrial Quality Control</title>
+      <link>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</link>
+      <description>A new plug-and-play AI inspection system reduces complex integration costs for automotive and electronics manufacturing.</description>
+      <pubDate>Wed, 27 May 2026 06:31:14 -0000</pubDate>
+      <guid>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</guid>
+    </item>
+    <item>
+      <title>Line Scan Cameras Seamlessly Deliver 3D Data and Color Information in Single Acquisition</title>
+      <link>https://metrology.news/line-scan-cameras-seamlessly-deliver-3d-data-and-color-information-in-single-acquisition/</link>
+      <description>Allied Vision releases compact 3D stereo cameras for rapid and robust automated machine vision inspection.</description>
+      <pubDate>Wed, 27 May 2026 06:30:51 -0000</pubDate>
+      <guid>https://metrology.news/line-scan-cameras-seamlessly-deliver-3d-data-and-color-information-in-single-acquisition/</guid>
+    </item>
+    <item>
       <title>QCFlex Delivers Automated AI Acoustic Defect Testing</title>
       <link>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</link>
       <description>RESONIKS launches the fully automated QCFlex system for AI-powered acoustic defect testing, targeting rapid 100% inspection of complex manufactured parts.</description>
@@ -38,20 +52,6 @@
       <description>The Automated Optical Inspection (AOI) equipment market is projected to see significant growth, driven by manufacturing quality demands.</description>
       <pubDate>Sat, 23 May 2026 06:13:50 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMimgFBVV95cUxOakR3akwzZUFMQmNrTFY5bDZjNWpDaklZOEFHa2FVel82Ylhld1ZMVWlmQl9HQ3RnYUJqQndjazhMU0xJZFBkT29HRnV3LWtyOXZKMmRIaVVXVF8zRHNXMnRmU2JTeHhsTFpoTmFQRThZU0JORWVZaDdtT1JVZGVHeXg4REwtTkdPRWJGRnVral8yb1FKZEVFT3RR?oc=5</guid>
-    </item>
-    <item>
-      <title>Airy3D Integrates DepthIQ SDK with MediaTek Genio Series</title>
-      <link>https://metrology.news/airy3d-integrates-depthiq-sdk-with-mediatek-genio-series/</link>
-      <description>Airy3D has integrated its DepthIQ SDK with the MediaTek Genio Series, enabling compact and cost-efficient passive 3D vision solutions for embedded AI applications.</description>
-      <pubDate>Fri, 22 May 2026 06:30:21 -0000</pubDate>
-      <guid>https://metrology.news/airy3d-integrates-depthiq-sdk-with-mediatek-genio-series/</guid>
-    </item>
-    <item>
-      <title>Mitsubishi Electric Develops CNC Error Compensation Digital Twin</title>
-      <link>https://metrology.news/mitsubishi-electric-develops-cnc-error-compensation-digital-twin/</link>
-      <description>Mitsubishi Electric has developed a new edge-based digital twin technology to correct machining errors in real time on CNC machine tools.</description>
-      <pubDate>Fri, 22 May 2026 06:29:50 -0000</pubDate>
-      <guid>https://metrology.news/mitsubishi-electric-develops-cnc-error-compensation-digital-twin/</guid>
     </item>
   </channel>
 </rss>
