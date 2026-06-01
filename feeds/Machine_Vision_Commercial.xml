@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Plug-and-Play AI Inspection System Simplifies Industrial Quality Control</title>
+      <link>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</link>
+      <description>A new plug-and-play AI inspection system was released to simplify and automate industrial quality control for manufacturing.</description>
+      <pubDate>Mon, 01 Jun 2026 06:41:47 -0000</pubDate>
+      <guid>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</guid>
+    </item>
+    <item>
+      <title>KITOV.ai Redefines Robotic Inspection with AI-Driven 360° Vision Metrology</title>
+      <link>https://metrology.news/kitov-ai-redefines-robotic-inspection-with-ai-driven-360-vision-metrology/</link>
+      <description>KITOV.ai announced the integration of CMM-Manager metrology software as the geometric dimensioning engine for its Core+ robotic inspection platform.</description>
+      <pubDate>Mon, 01 Jun 2026 06:33:33 -0000</pubDate>
+      <guid>https://metrology.news/kitov-ai-redefines-robotic-inspection-with-ai-driven-360-vision-metrology/</guid>
+    </item>
+    <item>
+      <title>Geomagic Control X 2026.1 Advances Scan-Based Inspection and Metrology Automation</title>
+      <link>https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/</link>
+      <description>Hexagon's Manufacturing Intelligence released Geomagic Control X 2026.1, a 3D metrology software to capture, analyze, and validate scan-based inspection data.</description>
+      <pubDate>Mon, 01 Jun 2026 06:32:59 -0000</pubDate>
+      <guid>https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/</guid>
+    </item>
+    <item>
+      <title>Nikon Launches One Click Automated Microscope</title>
+      <link>https://metrology.news/nikon-launches-one-click-automated-microscope/</link>
+      <description>Nikon launched ECLIPSE LV100AMS, a new automated microscope combining inspection with AI-powered image analysis for industrial quality control.</description>
+      <pubDate>Mon, 01 Jun 2026 06:31:51 -0000</pubDate>
+      <guid>https://metrology.news/nikon-launches-one-click-automated-microscope/</guid>
+    </item>
+    <item>
       <title>QCFlex Delivers Automated AI Acoustic Defect Testing</title>
       <link>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</link>
       <description>Signalysis launches the QCFlex inspection system, automating AI acoustic defect detection on factory floors to replace manual testing.</description>
@@ -24,34 +52,6 @@
       <description>The resolution of 3D automated optical inspection machines has increased four-fold, enabling better quality control.</description>
       <pubDate>Sat, 30 May 2026 06:32:25 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMimgFBVV95cUxQQm8yZjRPamg3ZEhmd2ttQ0J5NExhZk1KYkNHWVVFRDNkWklOaWRmbzR3dVY3UFl5SllqMVltYl95NFRCN21tV1VQR21GQXFhWG5PazBrYndaaGctSmcwS2lCNk8yU3VWS29HSFRLZ0dENHlxZ0pvbDhvNGxXTkEtZDJ0NnZ1Nm90ckJkUFhEdUF1UFN4bjJZcW9R?oc=5</guid>
-    </item>
-    <item>
-      <title>AI-Powered Optical Inspection Can Find Nanoscale PCB Defects - Tech Briefs</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3FnYzhBcFVYZmtMSk9kUG9ZSE8tVVN6SUVDeHhEVGFYeUNOUVdHZmlqTkxucHBaUXNVOTBwZ1h2YTBqbVpJczdjakc1LVBvS1Q1Q1BHdEI3TVdyMnFvY1ljTFFOdWMtZGJYUGt3NS1TSG5IdXpaN3VMNmFacTktWm5valVWNVBWRGxkb1Y1elZ4WW0xVmo3VEdHNjZwbU9DTXR1VkptelhjbWNHVTJZaGdwS0w3NW5PQnV3?oc=5</link>
-      <description>AI-powered optical inspection solutions are advancing to detect nanoscale defects in printed circuit boards.</description>
-      <pubDate>Sat, 30 May 2026 06:32:25 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMiuwFBVV95cUxON3FnYzhBcFVYZmtMSk9kUG9ZSE8tVVN6SUVDeHhEVGFYeUNOUVdHZmlqTkxucHBaUXNVOTBwZ1h2YTBqbVpJczdjakc1LVBvS1Q1Q1BHdEI3TVdyMnFvY1ljTFFOdWMtZGJYUGt3NS1TSG5IdXpaN3VMNmFacTktWm5valVWNVBWRGxkb1Y1elZ4WW0xVmo3VEdHNjZwbU9DTXR1VkptelhjbWNHVTJZaGdwS0w3NW5PQnV3?oc=5</guid>
-    </item>
-    <item>
-      <title>Laser-based automated optical inspection for edge small defect detection in photovoltaic silicon wafers with complex backgrounds - ScienceDirect.com</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9naDVWX0tIcktFZkdlaUdNX2xwS2xQYmZHN2kyWlJIUk9zTE82dFFHUmJFbGlkUkZzN2FYZWo2WnJxRWlJOVFMY1loY2dPNzczX3FpUnMwR2hoQUhaWFF4Rk90UFVYdHBDOEhjWU01bzdXVnFiT1R0eVRmcw?oc=5</link>
-      <description>A new laser-based automated optical inspection system improves edge defect detection in complex photovoltaic silicon wafers.</description>
-      <pubDate>Sat, 30 May 2026 06:32:25 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMie0FVX3lxTE9naDVWX0tIcktFZkdlaUdNX2xwS2xQYmZHN2kyWlJIUk9zTE82dFFHUmJFbGlkUkZzN2FYZWo2WnJxRWlJOVFMY1loY2dPNzczX3FpUnMwR2hoQUhaWFF4Rk90UFVYdHBDOEhjWU01bzdXVnFiT1R0eVRmcw?oc=5</guid>
-    </item>
-    <item>
-      <title>Four-Camera OptimScan Q12 HD Advances High-Resolution Optical Metrology</title>
-      <link>https://metrology.news/four-camera-optimscan-q12-hd-advances-high-resolution-optical-metrology/</link>
-      <description>Launch of the Four-Camera OptimScan Q12 HD system, advancing high-resolution optical metrology for quality control.</description>
-      <pubDate>Thu, 28 May 2026 06:30:16 -0000</pubDate>
-      <guid>https://metrology.news/four-camera-optimscan-q12-hd-advances-high-resolution-optical-metrology/</guid>
-    </item>
-    <item>
-      <title>Swiss Delvitech raises ₹354-crore, to open mfg plant for optical inspection machines in India - ET Telecom</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2Ntb1RCb2hSYjI5UXlYQW9mMkY4dWJfS1hvbGVfVXA1R1NwbUg3SnFDNkw5bmFnNlpScmpQck9aU1pGN3RhQjBrSHhLM0xlRmg2MndfeU9OaHAyZS1zb3VEcXFZUFlYbFdGSXdoT2xDS09DWmRoczZhOEp3V0Nzek1ZSlh6bE11dEVHeVRud2tPTkdWZ1BLMHNpekFONGUyb1hEU0duZkJqUnBLeUNfRFQ0aHZIeENqYmpCR08wODFRSWpaMDU5YlFyVUI2MVJUdEY2WHVWMXhyT0RI0gHiAUFVX3lxTE9mXzdUY2VyQ1JReUg3c0JUWTQwQU0tNTlmMmFwT1lGc1J0ZWRHRm53RmZDTEtqWHMzVHZfTVhjSVBDa0lzaXRKR3pQV1kwa1ZzWC04X3pxUFFLRGtNdzB2ZmdZa2NBR3E0ZnhPc2ZFUHhHY1VUVHdBYkFqTU8wVHBKSHVPQWdlMnJzMWoybS1PNUw5RDZXVDZTNUNWeUlFVmV4Q1U3WGRWazFTZFVGcmJiRlpTWkhWTjhqSk5OMl9UZ3h6UUh4UzFXak4xQUxaOU94ZVJoemczYXF0UFRpcDQ5WHc?oc=5</link>
-      <description>Swiss Delvitech raises funding to open a manufacturing plant for optical inspection machines in India.</description>
-      <pubDate>Thu, 28 May 2026 06:30:16 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2Ntb1RCb2hSYjI5UXlYQW9mMkY4dWJfS1hvbGVfVXA1R1NwbUg3SnFDNkw5bmFnNlpScmpQck9aU1pGN3RhQjBrSHhLM0xlRmg2MndfeU9OaHAyZS1zb3VEcXFZUFlYbFdGSXdoT2xDS09DWmRoczZhOEp3V0Nzek1ZSlh6bE11dEVHeVRud2tPTkdWZ1BLMHNpekFONGUyb1hEU0duZkJqUnBLeUNfRFQ0aHZIeENqYmpCR08wODFRSWpaMDU5YlFyVUI2MVJUdEY2WHVWMXhyT0RI0gHiAUFVX3lxTE9mXzdUY2VyQ1JReUg3c0JUWTQwQU0tNTlmMmFwT1lGc1J0ZWRHRm53RmZDTEtqWHMzVHZfTVhjSVBDa0lzaXRKR3pQV1kwa1ZzWC04X3pxUFFLRGtNdzB2ZmdZa2NBR3E0ZnhPc2ZFUHhHY1VUVHdBYkFqTU8wVHBKSHVPQWdlMnJzMWoybS1PNUw5RDZXVDZTNUNWeUlFVmV4Q1U3WGRWazFTZFVGcmJiRlpTWkhWTjhqSk5OMl9UZ3h6UUh4UzFXak4xQUxaOU94ZVJoemczYXF0UFRpcDQ5WHc?oc=5</guid>
     </item>
   </channel>
 </rss>
