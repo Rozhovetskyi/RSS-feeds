@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Teledyne AxCIS Contact Image Sensors</title>
+      <link>https://www.qualitymag.com/articles/99617-teledyne-axcis-contact-image-sensors</link>
+      <description>Teledyne DALSA expanded its AxCIS™ family of fully integrated line scan imaging modules, enhancing high-speed defect inspection capabilities for machine vision applications.</description>
+      <pubDate>Tue, 02 Jun 2026 06:33:18 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99617-teledyne-axcis-contact-image-sensors</guid>
+    </item>
+    <item>
+      <title>Laser Projection Technology Reduces Errors While Improving Manufacturing Quality</title>
+      <link>https://metrology.news/laser-projection-technology-reduces-errors-while-improving-manufacturing-quality/</link>
+      <description>SL Laser expands laser projection technology in manufacturing with new solutions to improve positioning accuracy, reduce setup times, and eliminate manual production errors.</description>
+      <pubDate>Tue, 02 Jun 2026 06:32:43 -0000</pubDate>
+      <guid>https://metrology.news/laser-projection-technology-reduces-errors-while-improving-manufacturing-quality/</guid>
+    </item>
+    <item>
       <title>Plug-and-Play AI Inspection System Simplifies Industrial Quality Control</title>
       <link>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</link>
       <description>A new plug-and-play AI inspection system was released to simplify and automate industrial quality control for manufacturing.</description>
@@ -38,20 +52,6 @@
       <description>Signalysis launches the QCFlex inspection system, automating AI acoustic defect detection on factory floors to replace manual testing.</description>
       <pubDate>Sun, 31 May 2026 06:23:30 -0000</pubDate>
       <guid>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</guid>
-    </item>
-    <item>
-      <title>Bitsensing Launches 4D Imaging Radar for Autonomous Vehicles</title>
-      <link>https://www.vision-systems.com/non-factory/security-surveillance-transportation/article/55378665/bitsensing-launches-4d-imaging-radar-for-autonomous-vehicles</link>
-      <description>Bitsensing launches AIR4D, a 4D imaging radar designed to integrate with camera systems for improved large-scale autonomous vehicle deployment.</description>
-      <pubDate>Sun, 31 May 2026 06:23:19 -0000</pubDate>
-      <guid>https://www.vision-systems.com/non-factory/security-surveillance-transportation/article/55378665/bitsensing-launches-4d-imaging-radar-for-autonomous-vehicles</guid>
-    </item>
-    <item>
-      <title>3D Automated Optical Inspection Machine Resolution Increased Four Fold - Metrology and Quality News</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQQm8yZjRPamg3ZEhmd2ttQ0J5NExhZk1KYkNHWVVFRDNkWklOaWRmbzR3dVY3UFl5SllqMVltYl95NFRCN21tV1VQR21GQXFhWG5PazBrYndaaGctSmcwS2lCNk8yU3VWS29HSFRLZ0dENHlxZ0pvbDhvNGxXTkEtZDJ0NnZ1Nm90ckJkUFhEdUF1UFN4bjJZcW9R?oc=5</link>
-      <description>The resolution of 3D automated optical inspection machines has increased four-fold, enabling better quality control.</description>
-      <pubDate>Sat, 30 May 2026 06:32:25 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMimgFBVV95cUxQQm8yZjRPamg3ZEhmd2ttQ0J5NExhZk1KYkNHWVVFRDNkWklOaWRmbzR3dVY3UFl5SllqMVltYl95NFRCN21tV1VQR21GQXFhWG5PazBrYndaaGctSmcwS2lCNk8yU3VWS29HSFRLZ0dENHlxZ0pvbDhvNGxXTkEtZDJ0NnZ1Nm90ckJkUFhEdUF1UFN4bjJZcW9R?oc=5</guid>
     </item>
   </channel>
 </rss>
