@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Robotic Inspection Platform Combines AI Defect Detection with Precision Surface Metrology</title>
+      <link>https://metrology.news/robotic-inspection-platform-combines-ai-defect-detection-with-precision-surface-metrology/</link>
+      <description>AURA's integration of the 4D InSpec provides a new turnkey robotic inspection platform combining AI defect detection with precision surface metrology, enhancing automated industrial quality control.</description>
+      <pubDate>Wed, 03 Jun 2026 06:06:27 -0000</pubDate>
+      <guid>https://metrology.news/robotic-inspection-platform-combines-ai-defect-detection-with-precision-surface-metrology/</guid>
+    </item>
+    <item>
+      <title>Audi Expands AR-Based Visual Inspection</title>
+      <link>https://metrology.news/audi-expands-ar-based-visual-inspection/</link>
+      <description>Audi's expansion of the AR-based SuPAR visual inspection solution demonstrates growing automotive market adoption of augmented reality for streamlining production defect detection.</description>
+      <pubDate>Wed, 03 Jun 2026 06:06:27 -0000</pubDate>
+      <guid>https://metrology.news/audi-expands-ar-based-visual-inspection/</guid>
+    </item>
+    <item>
+      <title>UTEX Scientific Announces Acquisition of PA-CAT Inc. from Holloway NDT &amp; Engineering</title>
+      <link>https://www.qualitymag.com/articles/99616-utex-scientific-announces-acquisition-of-pa-cat-inc-from-holloway-ndt-and-engineering</link>
+      <description>UTEX Scientific's acquisition of PA-CAT Inc. consolidates the nondestructive testing market by expanding its automated inspection systems portfolio.</description>
+      <pubDate>Wed, 03 Jun 2026 06:06:27 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99616-utex-scientific-announces-acquisition-of-pa-cat-inc-from-holloway-ndt-and-engineering</guid>
+    </item>
+    <item>
+      <title>Invisix Raises €20M Seed Round to Advance Soft X-Ray Semiconductor Metrology</title>
+      <link>https://metrology.news/invisix-raises-e20m-seed-round-to-advance-soft-x-ray-semiconductor-metrology/</link>
+      <description>Invisix's successful €20M seed round, backed by Hitachi, highlights significant market investment and growth in advanced soft X-ray semiconductor metrology solutions.</description>
+      <pubDate>Wed, 03 Jun 2026 06:06:27 -0000</pubDate>
+      <guid>https://metrology.news/invisix-raises-e20m-seed-round-to-advance-soft-x-ray-semiconductor-metrology/</guid>
+    </item>
+    <item>
       <title>Teledyne AxCIS Contact Image Sensors</title>
       <link>https://www.qualitymag.com/articles/99617-teledyne-axcis-contact-image-sensors</link>
       <description>Teledyne DALSA expanded its AxCIS™ family of fully integrated line scan imaging modules, enhancing high-speed defect inspection capabilities for machine vision applications.</description>
@@ -24,34 +52,6 @@
       <description>A new plug-and-play AI inspection system was released to simplify and automate industrial quality control for manufacturing.</description>
       <pubDate>Mon, 01 Jun 2026 06:41:47 -0000</pubDate>
       <guid>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</guid>
-    </item>
-    <item>
-      <title>KITOV.ai Redefines Robotic Inspection with AI-Driven 360° Vision Metrology</title>
-      <link>https://metrology.news/kitov-ai-redefines-robotic-inspection-with-ai-driven-360-vision-metrology/</link>
-      <description>KITOV.ai announced the integration of CMM-Manager metrology software as the geometric dimensioning engine for its Core+ robotic inspection platform.</description>
-      <pubDate>Mon, 01 Jun 2026 06:33:33 -0000</pubDate>
-      <guid>https://metrology.news/kitov-ai-redefines-robotic-inspection-with-ai-driven-360-vision-metrology/</guid>
-    </item>
-    <item>
-      <title>Geomagic Control X 2026.1 Advances Scan-Based Inspection and Metrology Automation</title>
-      <link>https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/</link>
-      <description>Hexagon's Manufacturing Intelligence released Geomagic Control X 2026.1, a 3D metrology software to capture, analyze, and validate scan-based inspection data.</description>
-      <pubDate>Mon, 01 Jun 2026 06:32:59 -0000</pubDate>
-      <guid>https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/</guid>
-    </item>
-    <item>
-      <title>Nikon Launches One Click Automated Microscope</title>
-      <link>https://metrology.news/nikon-launches-one-click-automated-microscope/</link>
-      <description>Nikon launched ECLIPSE LV100AMS, a new automated microscope combining inspection with AI-powered image analysis for industrial quality control.</description>
-      <pubDate>Mon, 01 Jun 2026 06:31:51 -0000</pubDate>
-      <guid>https://metrology.news/nikon-launches-one-click-automated-microscope/</guid>
-    </item>
-    <item>
-      <title>QCFlex Delivers Automated AI Acoustic Defect Testing</title>
-      <link>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</link>
-      <description>Signalysis launches the QCFlex inspection system, automating AI acoustic defect detection on factory floors to replace manual testing.</description>
-      <pubDate>Sun, 31 May 2026 06:23:30 -0000</pubDate>
-      <guid>https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/</guid>
     </item>
   </channel>
 </rss>
