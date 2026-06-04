@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>From Humanoids to AI Vision: Automate 2026 Signals a More Integrated Future</title>
+      <link>https://www.vision-systems.com/factory/robotics/article/55381130/what-to-expect-at-automate-2026-machine-vision-ai-robotics-and-humanoids</link>
+      <description>Automate 2026 highlights a significant commercial shift towards intelligent machine vision systems powered by AI and deeply integrated with robotics.</description>
+      <pubDate>Thu, 04 Jun 2026 06:21:52 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/robotics/article/55381130/what-to-expect-at-automate-2026-machine-vision-ai-robotics-and-humanoids</guid>
+    </item>
+    <item>
+      <title>Harnessing VLMs for Real-Time Factory Decision-Making</title>
+      <link>https://www.vision-systems.com/factory/podcast/55381445/visions-podcast-vision-language-models-in-manufacturing</link>
+      <description>Vision Language Models are increasingly adopted in manufacturing to integrate visual data with natural language for enhanced real-time decision-making.</description>
+      <pubDate>Thu, 04 Jun 2026 06:21:26 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55381445/visions-podcast-vision-language-models-in-manufacturing</guid>
+    </item>
+    <item>
       <title>Robotic Inspection Platform Combines AI Defect Detection with Precision Surface Metrology</title>
       <link>https://metrology.news/robotic-inspection-platform-combines-ai-defect-detection-with-precision-surface-metrology/</link>
       <description>AURA's integration of the 4D InSpec provides a new turnkey robotic inspection platform combining AI defect detection with precision surface metrology, enhancing automated industrial quality control.</description>
@@ -38,20 +52,6 @@
       <description>Teledyne DALSA expanded its AxCIS™ family of fully integrated line scan imaging modules, enhancing high-speed defect inspection capabilities for machine vision applications.</description>
       <pubDate>Tue, 02 Jun 2026 06:33:18 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99617-teledyne-axcis-contact-image-sensors</guid>
-    </item>
-    <item>
-      <title>Laser Projection Technology Reduces Errors While Improving Manufacturing Quality</title>
-      <link>https://metrology.news/laser-projection-technology-reduces-errors-while-improving-manufacturing-quality/</link>
-      <description>SL Laser expands laser projection technology in manufacturing with new solutions to improve positioning accuracy, reduce setup times, and eliminate manual production errors.</description>
-      <pubDate>Tue, 02 Jun 2026 06:32:43 -0000</pubDate>
-      <guid>https://metrology.news/laser-projection-technology-reduces-errors-while-improving-manufacturing-quality/</guid>
-    </item>
-    <item>
-      <title>Plug-and-Play AI Inspection System Simplifies Industrial Quality Control</title>
-      <link>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</link>
-      <description>A new plug-and-play AI inspection system was released to simplify and automate industrial quality control for manufacturing.</description>
-      <pubDate>Mon, 01 Jun 2026 06:41:47 -0000</pubDate>
-      <guid>https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/</guid>
     </item>
   </channel>
 </rss>
