@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability | ASNT Education</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
+      <pubDate>Thu, 04 Jun 2026 18:32:33 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
       <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026 - Zetamotion</title>
       <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
       <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
@@ -45,13 +52,6 @@
       <description>Join us for an in-depth exploration of Electron Channelling Contrast Imaging (ECCI), a powerful scanning electron microscopy technique that enables direct visualization of crystallographic defects in compound semiconductors.</description>
       <pubDate>Sun, 05 Apr 2026 18:16:33 -0000</pubDate>
       <guid>https://www.zeiss.co.uk/microscopy/l/events/2026/viewing-defects-in-compound-semiconductor-materials-with-electron-channelling-contrast-imaging-.html</guid>
-    </item>
-    <item>
-      <title>VisiConsult's AI Defect Detection in Aerospace Webinar</title>
-      <link>https://www.onestopndt.com/ndt-webinars/ai-in-aerospace-ndt</link>
-      <description>Discover how AI transforms aerospace NDT in VisiConsult’s webinar on 11th November 2025 with experts from PFW Aerospace and VisiConsult. Register Now!</description>
-      <pubDate>Sat, 04 Apr 2026 18:27:12 -0000</pubDate>
-      <guid>https://www.onestopndt.com/ndt-webinars/ai-in-aerospace-ndt</guid>
     </item>
   </channel>
 </rss>
