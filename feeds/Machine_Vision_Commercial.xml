@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>JAI Wave Series SWIR Line Scan Cameras</title>
+      <link>https://www.qualitymag.com/articles/99634-jai-wave-series-swir-line-scan-cameras</link>
+      <description>The introduction of the new JAI Wave Series SWIR line scan cameras provides enhanced hardware capabilities for industrial machine vision and defect recognition systems.</description>
+      <pubDate>Sat, 06 Jun 2026 06:17:33 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99634-jai-wave-series-swir-line-scan-cameras</guid>
+    </item>
+    <item>
       <title>Robotiq Introduces IQ Platform to Automate Robotic Workcell Integration</title>
       <link>https://metrology.news/robotiq-introduces-iq-platform-to-automate-robotic-workcell-integration/</link>
       <description>Robotiq's new IQ Platform provides a commercial turnkey solution to automate robotic workcell integration, advancing factory automation capabilities.</description>
@@ -45,13 +52,6 @@
       <description>Vision Language Models are increasingly adopted in manufacturing to integrate visual data with natural language for enhanced real-time decision-making.</description>
       <pubDate>Thu, 04 Jun 2026 06:21:26 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/podcast/55381445/visions-podcast-vision-language-models-in-manufacturing</guid>
-    </item>
-    <item>
-      <title>Robotic Inspection Platform Combines AI Defect Detection with Precision Surface Metrology</title>
-      <link>https://metrology.news/robotic-inspection-platform-combines-ai-defect-detection-with-precision-surface-metrology/</link>
-      <description>AURA's integration of the 4D InSpec provides a new turnkey robotic inspection platform combining AI defect detection with precision surface metrology, enhancing automated industrial quality control.</description>
-      <pubDate>Wed, 03 Jun 2026 06:06:27 -0000</pubDate>
-      <guid>https://metrology.news/robotic-inspection-platform-combines-ai-defect-detection-with-precision-surface-metrology/</guid>
     </item>
   </channel>
 </rss>
