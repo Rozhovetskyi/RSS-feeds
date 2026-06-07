@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>KAIS Unveils Automation Solutions Integrated with AI Technology... Targeting 3D Measurement and Inspection</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3VqaFRlS1RBalJQVWk2YUoyX25ZdllxQS10blh2cm1IMkdXTWZuSGNHOU9nQ19BZWk3V0F6ZXNyTl9rQmx2bnk0VFYxTXZpWEZKeTdlZzdOTnh0SkhRalhsamQ</link>
+      <description>KAIS introduces new AI-integrated automation solutions focused on 3D measurement and inspection, expanding turnkey offerings for defect detection.</description>
+      <pubDate>Sun, 07 Jun 2026 06:30:16 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXS3VqaFRlS1RBalJQVWk2YUoyX25ZdllxQS10blh2cm1IMkdXTWZuSGNHOU9nQ19BZWk3V0F6ZXNyTl9rQmx2bnk0VFYxTXZpWEZKeTdlZzdOTnh0SkhRalhsamQ</guid>
+    </item>
+    <item>
       <title>JAI Wave Series SWIR Line Scan Cameras</title>
       <link>https://www.qualitymag.com/articles/99634-jai-wave-series-swir-line-scan-cameras</link>
       <description>The introduction of the new JAI Wave Series SWIR line scan cameras provides enhanced hardware capabilities for industrial machine vision and defect recognition systems.</description>
@@ -45,13 +52,6 @@
       <description>Automate 2026 highlights a significant commercial shift towards intelligent machine vision systems powered by AI and deeply integrated with robotics.</description>
       <pubDate>Thu, 04 Jun 2026 06:21:52 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/robotics/article/55381130/what-to-expect-at-automate-2026-machine-vision-ai-robotics-and-humanoids</guid>
-    </item>
-    <item>
-      <title>Harnessing VLMs for Real-Time Factory Decision-Making</title>
-      <link>https://www.vision-systems.com/factory/podcast/55381445/visions-podcast-vision-language-models-in-manufacturing</link>
-      <description>Vision Language Models are increasingly adopted in manufacturing to integrate visual data with natural language for enhanced real-time decision-making.</description>
-      <pubDate>Thu, 04 Jun 2026 06:21:26 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55381445/visions-podcast-vision-language-models-in-manufacturing</guid>
     </item>
   </channel>
 </rss>
