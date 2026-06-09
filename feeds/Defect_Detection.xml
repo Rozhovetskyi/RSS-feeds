@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition &amp; AI in Digital Radiography - OnestopNDT</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
+      <pubDate>Tue, 09 Jun 2026 18:07:37 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
+      <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
+      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
+      <pubDate>Tue, 09 Jun 2026 18:07:31 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
+    </item>
+    <item>
       <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability | ASNT Education</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
@@ -38,20 +52,6 @@
       <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE)</description>
       <pubDate>Mon, 06 Apr 2026 18:19:28 -0000</pubDate>
       <guid>https://www.kistler.com/INT/en/webinars/C00000635</guid>
-    </item>
-    <item>
-      <title>Webinar: Advanced Building Envelope Inspections - default - BOMA / CHICAGO</title>
-      <link>https://bomachicagogzcms.growthzoneapp.com/event-calendar/details/webinar-advanced-building-envelope-inspections-1685561</link>
-      <description>Building envelope inspection methods are advancing rapidly, offering new ways to assess building performance, durability, and risk.</description>
-      <pubDate>Sun, 05 Apr 2026 18:17:13 -0000</pubDate>
-      <guid>https://bomachicagogzcms.growthzoneapp.com/event-calendar/details/webinar-advanced-building-envelope-inspections-1685561</guid>
-    </item>
-    <item>
-      <title>Viewing Defects in Compound Semiconductor Materials with Electron Channelling Contrast Imaging</title>
-      <link>https://www.zeiss.co.uk/microscopy/l/events/2026/viewing-defects-in-compound-semiconductor-materials-with-electron-channelling-contrast-imaging-.html</link>
-      <description>Join us for an in-depth exploration of Electron Channelling Contrast Imaging (ECCI), a powerful scanning electron microscopy technique that enables direct visualization of crystallographic defects in compound semiconductors.</description>
-      <pubDate>Sun, 05 Apr 2026 18:16:33 -0000</pubDate>
-      <guid>https://www.zeiss.co.uk/microscopy/l/events/2026/viewing-defects-in-compound-semiconductor-materials-with-electron-channelling-contrast-imaging-.html</guid>
     </item>
   </channel>
 </rss>
