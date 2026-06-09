@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Generating/Expanding your datasets with synthetic data</title>
+      <link>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</link>
+      <description>Generating/Expanding your datasets with synthetic data, providing implementation details for Synthetic data generation for defects.</description>
+      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
+      <guid>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</guid>
+    </item>
+    <item>
+      <title>OpenCV G-API: From Imperative to Declarative Pipelines</title>
+      <link>https://opencv.org/opencv-g-api/</link>
+      <description>OpenCV G-API: From Imperative to Declarative Pipelines, useful for OpenCV industrial inspection pipelines.</description>
+      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
+      <guid>https://opencv.org/opencv-g-api/</guid>
+    </item>
+    <item>
+      <title>Hands-on Time Series Anomaly Detection using Autoencoders</title>
+      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
+      <description>Hands-on Time Series Anomaly Detection using Autoencoders, with Python code for anomaly detection.</description>
+      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
+      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
+    </item>
+    <item>
       <title>Custom Object Detection using YOLOv7</title>
       <link>https://medium.com/@vrajp1706/mastering-object-detection-building-a-custom-dataset-with-yolov7-ce953c00f5f9?source=rss------custom_object_detection-5</link>
       <description>In this blog, we will embark on a step-by-step exploration of mastering object detection by constructing a custom dataset.</description>
@@ -31,27 +52,6 @@
       <description>Learn about Yolov4 and Darknet to train a Custom Object Detector</description>
       <pubDate>Sun, 29 Mar 2026 18:19:43 -0000</pubDate>
       <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
-    </item>
-    <item>
-      <title>Synthetic data generation for defects using TensorFlow and GANs</title>
-      <link>https://hackernoon.com/synthetic-data-generation-for-defects-using-tensorflow-and-gans-tech</link>
-      <description>Comprehensive guide providing synthetic data generation for defects code snippets using TensorFlow, avoiding high-level theory to focus on practical implementations for machine vision.</description>
-      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
-      <guid>https://hackernoon.com/synthetic-data-generation-for-defects-using-tensorflow-and-gans-tech</guid>
-    </item>
-    <item>
-      <title>Automating OpenCV industrial inspection for PCB Defect Analysis</title>
-      <link>https://opencv.org/blog/automating-opencv-industrial-inspection-for-pcb-defect-analysis/</link>
-      <description>Learn how to use OpenCV industrial inspection techniques to identify soldering defects on PCBs with contour analysis and template matching code snippets.</description>
-      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
-      <guid>https://opencv.org/blog/automating-opencv-industrial-inspection-for-pcb-defect-analysis/</guid>
-    </item>
-    <item>
-      <title>Building an Autoencoder Anomaly Detection Pipeline with PyTorch</title>
-      <link>https://pytorch.org/blog/building-an-autoencoder-anomaly-detection-pipeline/</link>
-      <description>Step-by-step Autoencoder anomaly detection code implementation using PyTorch for industrial surface inspection, featuring robust training loops and evaluation metrics.</description>
-      <pubDate>Fri, 13 Mar 2026 19:22:34 -0000</pubDate>
-      <guid>https://pytorch.org/blog/building-an-autoencoder-anomaly-detection-pipeline/</guid>
     </item>
   </channel>
 </rss>
