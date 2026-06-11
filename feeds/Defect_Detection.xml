@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Defect Detection with Machine Vision</title>
+      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
+      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how to bridge the gap between AI promises and real-world production line deployment.</description>
+      <pubDate>Thu, 11 Jun 2026 18:26:03 -0000</pubDate>
+      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
+    </item>
+    <item>
       <title>Automated Defect Recognition &amp; AI in Digital Radiography - OnestopNDT</title>
       <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
       <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
@@ -45,13 +52,6 @@
       <description>Join us and explore how advanced optical 3D metrology helps evaluate complex parts as: geometry, surface functionality, and durability.</description>
       <pubDate>Tue, 07 Apr 2026 18:06:57 -0000</pubDate>
       <guid>https://www.sensofar.com/webinar-precision-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Advanced sensors &amp; software for smarter manufacturing &amp; process monitoring</title>
-      <link>https://www.kistler.com/INT/en/webinars/C00000635</link>
-      <description>This webinar explores how intelligent, application-specific sensors and software deliver real-time process visibility, enabling early defect detection, minimizing rework, and improving overall equipment effectiveness (OEE)</description>
-      <pubDate>Mon, 06 Apr 2026 18:19:28 -0000</pubDate>
-      <guid>https://www.kistler.com/INT/en/webinars/C00000635</guid>
     </item>
   </channel>
 </rss>
