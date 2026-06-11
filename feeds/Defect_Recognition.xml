@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>An Overview of Log-Based Anomaly Detection Techniques</title>
+      <link>https://hackernoon.com/an-overview-of-log-based-anomaly-detection-techniques</link>
+      <description>An Overview of Log-Based Anomaly Detection Techniques</description>
+      <pubDate>Thu, 11 Jun 2026 18:30:32 -0000</pubDate>
+      <guid>https://hackernoon.com/an-overview-of-log-based-anomaly-detection-techniques</guid>
+    </item>
+    <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step | Towards Data Science</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>Implementation details for YOLO for custom objects.</description>
+      <pubDate>Thu, 11 Jun 2026 18:29:55 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
       <title>Generating/Expanding your datasets with synthetic data</title>
       <link>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</link>
       <description>Generating/Expanding your datasets with synthetic data, providing implementation details for Synthetic data generation for defects.</description>
@@ -38,20 +52,6 @@
       <description>If you’ve found your way here, chances are you’re struggling with the intricacies of object detection. I promise to you that by the end of…</description>
       <pubDate>Mon, 30 Mar 2026 18:36:11 -0000</pubDate>
       <guid>https://medium.com/@mgupta70/computer-vision-blogs-object-detection-with-yolov8-train-your-own-custom-object-detection-model-4a0fd3aaee59?source=rss------custom_object_detection-5</guid>
-    </item>
-    <item>
-      <title>Building a High-Speed Deep Autoencoder for HL-LHC Anomaly Detection</title>
-      <link>https://medium.com/@furkanonur.ds/building-a-high-speed-deep-autoencoder-for-hl-lhc-anomaly-detection-aff0ac9e25c0?source=rss------pytorch-5</link>
-      <description>In the world of High Energy Physics (HEP), particularly at CERN’s High-Luminosity Large Hadron Collider (HL-LHC), the sheer volume of data…</description>
-      <pubDate>Mon, 30 Mar 2026 18:35:42 -0000</pubDate>
-      <guid>https://medium.com/@furkanonur.ds/building-a-high-speed-deep-autoencoder-for-hl-lhc-anomaly-detection-aff0ac9e25c0?source=rss------pytorch-5</guid>
-    </item>
-    <item>
-      <title>Train YOLO for Object Detection on a Custom Dataset using Python | Towards Data Science</title>
-      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
-      <description>Learn about Yolov4 and Darknet to train a Custom Object Detector</description>
-      <pubDate>Sun, 29 Mar 2026 18:19:43 -0000</pubDate>
-      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
     </item>
   </channel>
 </rss>
