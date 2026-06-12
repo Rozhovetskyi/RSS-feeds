@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How Visual AI Minimizes Defects and Boosts Yield in Manufacturing</title>
+      <link>https://tech-stack.com/blog/visual-ai-reduces-defects-boosts-manufacturing-yield/</link>
+      <description>Nov 20, 2025 · Real-Time Defect Detection in Action. The practical implementation of visual inspection manufacturing systems delivers several core advantages</description>
+      <pubDate>Fri, 12 Jun 2026 18:10:08 -0000</pubDate>
+      <guid>https://tech-stack.com/blog/visual-ai-reduces-defects-boosts-manufacturing-yield/</guid>
+    </item>
+    <item>
+      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
+      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
+      <description>May 6, 2026 - In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
+      <pubDate>Fri, 12 Jun 2026 18:10:01 -0000</pubDate>
+      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
+    </item>
+    <item>
       <title>AI-Driven Defect Detection with Machine Vision</title>
       <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
       <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how to bridge the gap between AI promises and real-world production line deployment.</description>
@@ -38,20 +52,6 @@
       <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
       <pubDate>Wed, 03 Jun 2026 18:16:43 -0000</pubDate>
       <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>Expert-to-Expert Webinar on Zero-Defect Manufacturing | European Cluster Collaboration Platform</title>
-      <link>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</link>
-      <description>The IDEALIST project is organising a new Expert-to-Expert webinar focused on Zero-Defect Manufacturing, bringing together industry professionals to discuss innovative approaches to advanced quality assurance in manufacturing. Expert-to-Expert webinars are one of the key formats through which IDEALIST supports manufacturing companies in exploring advanced technologies through peer-to-peer knowledge exchange. Hosted on the AGORA platform, these online sessions provide a space for experts and practitioners to share real use cases and practical solutions for industrial production.</description>
-      <pubDate>Fri, 10 Apr 2026 18:16:30 -0000</pubDate>
-      <guid>https://www.clustercollaboration.eu/content/expert-expert-webinar-zero-defect-manufacturing</guid>
-    </item>
-    <item>
-      <title>Engineering confidence in Precision Manufacturing</title>
-      <link>https://www.sensofar.com/webinar-precision-manufacturing/</link>
-      <description>Join us and explore how advanced optical 3D metrology helps evaluate complex parts as: geometry, surface functionality, and durability.</description>
-      <pubDate>Tue, 07 Apr 2026 18:06:57 -0000</pubDate>
-      <guid>https://www.sensofar.com/webinar-precision-manufacturing/</guid>
     </item>
   </channel>
 </rss>
