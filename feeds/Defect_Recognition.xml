@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How to Create a Simple Object Detection System with Python and ImageAI</title>
+      <link>https://towardsdatascience.com/how-to-create-a-simple-object-detection-system-with-python-and-imageai-ee1bcaf6b111/</link>
+      <description>As you have seen, ImageAI library enables us to build an object detection system without having to deal with the complexity behind object detection model like ResNet or YOLO for custom objects.</description>
+      <pubDate>Fri, 12 Jun 2026 18:28:54 -0000</pubDate>
+      <guid>https://towardsdatascience.com/how-to-create-a-simple-object-detection-system-with-python-and-imageai-ee1bcaf6b111/</guid>
+    </item>
+    <item>
+      <title>Classifying objects from 3D CAD files - OpenCV Forum</title>
+      <link>https://forum.opencv.org/t/classifying-objects-from-3d-cad-files/8849</link>
+      <description>Industrial inspection talks about “Machine Vision”. OpenCV industrial inspection.</description>
+      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
+      <guid>https://forum.opencv.org/t/classifying-objects-from-3d-cad-files/8849</guid>
+    </item>
+    <item>
+      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation | HackerNoon</title>
+      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
+      <description>Synthetic data is transforming AI by solving privacy, bias, and scalability challenges. Learn methods, use cases, and key risks for Synthetic data generation for defects.</description>
+      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
+      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
+    </item>
+    <item>
+      <title>Intro to Autoencoders | TensorFlow Core</title>
+      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
+      <description>This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection. Autoencoder anomaly detection code implementation.</description>
+      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
+      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
+    </item>
+    <item>
       <title>An Overview of Log-Based Anomaly Detection Techniques</title>
       <link>https://hackernoon.com/an-overview-of-log-based-anomaly-detection-techniques</link>
       <description>An Overview of Log-Based Anomaly Detection Techniques</description>
@@ -24,34 +52,6 @@
       <description>Generating/Expanding your datasets with synthetic data, providing implementation details for Synthetic data generation for defects.</description>
       <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
       <guid>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</guid>
-    </item>
-    <item>
-      <title>OpenCV G-API: From Imperative to Declarative Pipelines</title>
-      <link>https://opencv.org/opencv-g-api/</link>
-      <description>OpenCV G-API: From Imperative to Declarative Pipelines, useful for OpenCV industrial inspection pipelines.</description>
-      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
-      <guid>https://opencv.org/opencv-g-api/</guid>
-    </item>
-    <item>
-      <title>Hands-on Time Series Anomaly Detection using Autoencoders</title>
-      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
-      <description>Hands-on Time Series Anomaly Detection using Autoencoders, with Python code for anomaly detection.</description>
-      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
-      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
-    </item>
-    <item>
-      <title>Custom Object Detection using YOLOv7</title>
-      <link>https://medium.com/@vrajp1706/mastering-object-detection-building-a-custom-dataset-with-yolov7-ce953c00f5f9?source=rss------custom_object_detection-5</link>
-      <description>In this blog, we will embark on a step-by-step exploration of mastering object detection by constructing a custom dataset.</description>
-      <pubDate>Mon, 30 Mar 2026 18:36:44 -0000</pubDate>
-      <guid>https://medium.com/@vrajp1706/mastering-object-detection-building-a-custom-dataset-with-yolov7-ce953c00f5f9?source=rss------custom_object_detection-5</guid>
-    </item>
-    <item>
-      <title>Computer Vision Blogs: Object Detection with Yolov8 — Train your own custom object detection model</title>
-      <link>https://medium.com/@mgupta70/computer-vision-blogs-object-detection-with-yolov8-train-your-own-custom-object-detection-model-4a0fd3aaee59?source=rss------custom_object_detection-5</link>
-      <description>If you’ve found your way here, chances are you’re struggling with the intricacies of object detection. I promise to you that by the end of…</description>
-      <pubDate>Mon, 30 Mar 2026 18:36:11 -0000</pubDate>
-      <guid>https://medium.com/@mgupta70/computer-vision-blogs-object-detection-with-yolov8-train-your-own-custom-object-detection-model-4a0fd3aaee59?source=rss------custom_object_detection-5</guid>
     </item>
   </channel>
 </rss>
