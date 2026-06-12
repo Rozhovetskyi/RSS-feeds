@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation</title>
+      <link>https://metrology.news/automate-2026-to-spotlight-ai-robotics-and-the-future-of-industrial-automation/</link>
+      <description>The upcoming AUTOMATE 2026 exhibition will showcase new commercial AI and robotics solutions for industrial automation.</description>
+      <pubDate>Fri, 12 Jun 2026 06:13:02 -0000</pubDate>
+      <guid>https://metrology.news/automate-2026-to-spotlight-ai-robotics-and-the-future-of-industrial-automation/</guid>
+    </item>
+    <item>
+      <title>Automation Fuels Strong Start to 2026 Manufacturing Technology Orders</title>
+      <link>https://www.qualitymag.com/articles/99658-automation-fuels-strong-start-to-2026-manufacturing-technology-orders</link>
+      <description>Strong growth in manufacturing technology orders highlights increasing commercial adoption of factory automation systems.</description>
+      <pubDate>Fri, 12 Jun 2026 06:12:48 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99658-automation-fuels-strong-start-to-2026-manufacturing-technology-orders</guid>
+    </item>
+    <item>
+      <title>Allied Vision FPGA IP Core Implementing GigE Vision 3.0</title>
+      <link>https://www.qualitymag.com/articles/99659-allied-vision-fpga-ip-core-implementing-gige-vision-30</link>
+      <description>Allied Vision releases an FPGA IP core for GigE Vision 3.0, enabling high-speed commercial machine vision applications.</description>
+      <pubDate>Fri, 12 Jun 2026 06:12:42 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99659-allied-vision-fpga-ip-core-implementing-gige-vision-30</guid>
+    </item>
+    <item>
       <title>Swiss Delvitech raises ₹354-crore, to open mfg plant for optical inspection machines in India</title>
       <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2Ntb1RCb2hSYjI5UXlYQW9mMkY4dWJfS1hvbGVfVXA1R1NwbUg3SnFDNkw5bmFnNlpScmpQck9aU1pGN3RhQjBrSHhLM0xlRmg2MndfeU9OaHAyZS1zb3VEcXFZUFlYbFdGSXdoT2xDS09DWmRoczZhOEp3V0Nzek1ZSlh6bE11dEVHeVRud2tPTkdWZ1BLMHNpekFONGUyb1hEU0duZkJqUnBLeUNfRFQ0aHZIeENqYmpCR08wODFRSWpaMDU5YlFyVUI2MVJUdEY2WHVWMXhyT0RI?oc=5</link>
       <description>Swiss Delvitech secures major funding to expand manufacturing of optical inspection machines.</description>
@@ -31,27 +52,6 @@
       <description>Onto Innovation has released the 4Di InSpec SR System, aimed at bringing precision surface roughness measurement to the shop floor.</description>
       <pubDate>Wed, 10 Jun 2026 06:28:35 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99646-onto-innovations-4d-technology-4di-inspec-sr-system-for-shop-floor-surface-roughness</guid>
-    </item>
-    <item>
-      <title>High-performance inspection gets faster, higher-quality imaging with Iris™ 3D AOI vision technology from Mycronic - Cision News</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxORm1vM2FDMkdoVDhvbDIyRGNzTlFfUUJ0YVFsYi1XczVnSkNudWlQNy1EMVJmdEtCTEZTd0hnbXZuTWY3YW1kejdfQW40S3ZoXzVIZ3IyRTNnQ1I2MVNuSWZUUm5mZXp1NzZXMURwcnNvS1p0SGFpRS1JTW9aRDE1QUxaMVgyNFYtMXgwaVhhSTZaWVRrb1h3dlVVTmtyMUxYZDZrcjktSTV3LTBSV2lzQklLV0JxS3IxUV9WcXdQZkRBZHduaUlORzJoRzNLeWJxaGhfbVJQcmJNc2djcmJDRQ?oc=5</link>
-      <description>Mycronic's new Iris 3D AOI vision technology enhances hardware capabilities for high-performance industrial inspection.</description>
-      <pubDate>Tue, 09 Jun 2026 06:10:21 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMi4AFBVV95cUxORm1vM2FDMkdoVDhvbDIyRGNzTlFfUUJ0YVFsYi1XczVnSkNudWlQNy1EMVJmdEtCTEZTd0hnbXZuTWY3YW1kejdfQW40S3ZoXzVIZ3IyRTNnQ1I2MVNuSWZUUm5mZXp1NzZXMURwcnNvS1p0SGFpRS1JTW9aRDE1QUxaMVgyNFYtMXgwaVhhSTZaWVRrb1h3dlVVTmtyMUxYZDZrcjktSTV3LTBSV2lzQklLV0JxS3IxUV9WcXdQZkRBZHduaUlORzJoRzNLeWJxaGhfbVJQcmJNc2djcmJDRQ?oc=5</guid>
-    </item>
-    <item>
-      <title>Using Automatic Defect Classification To Reduce The Escape Rate Of Defects - Semiconductor Engineering</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVVtTkFIaGlma0F6d0hsQW5GdVMtVkk2UlFRVzVuSE9xQS1YQ3ZEQzExT3hvakE2dzk4NzVfeWV0aTY0aU9TNF84TVBfSThmaW5tbGFzR2JuM3NUb1lKbUkxeGtNRU5XMDFTWGFOUWVTUnNyQnpsQ0FtMzJkQlMwVkNFNnVPM0hJdEpOVUkzdGZCUWd0LWN0bWVHNkxLVXhVLVNQbjB3?oc=5</link>
-      <description>Commercial application of automatic defect classification to improve quality control in semiconductor manufacturing.</description>
-      <pubDate>Tue, 09 Jun 2026 06:10:21 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVVtTkFIaGlma0F6d0hsQW5GdVMtVkk2UlFRVzVuSE9xQS1YQ3ZEQzExT3hvakE2dzk4NzVfeWV0aTY0aU9TNF84TVBfSThmaW5tbGFzR2JuM3NUb1lKbUkxeGtNRU5XMDFTWGFOUWVTUnNyQnpsQ0FtMzJkQlMwVkNFNnVPM0hJdEpOVUkzdGZCUWd0LWN0bWVHNkxLVXhVLVNQbjB3?oc=5</guid>
-    </item>
-    <item>
-      <title>All-In-One AI Cobot Series With Smart Vision Launched - Metrology and Quality News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTE4WUtfWmQ2SklKSlIyMlg3UXRXU2xQRUpDazlWY1NycTNPZ1ZjTm1LRnpkZWxWc1hEWVZlSVFJWjk0ZWVuZ2JQMXZ6SmhRVlVKRkFNOHplM09BbEY1a19jVkhIcUxfekNfaWduMjUxajVWa09ua1RhcFlwNE1fczhWVQ?oc=5</link>
-      <description>Launch of a new all-in-one AI cobot series with integrated smart vision, providing a turnkey solution for factory automation.</description>
-      <pubDate>Tue, 09 Jun 2026 06:10:21 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTE4WUtfWmQ2SklKSlIyMlg3UXRXU2xQRUpDazlWY1NycTNPZ1ZjTm1LRnpkZWxWc1hEWVZlSVFJWjk0ZWVuZ2JQMXZ6SmhRVlVKRkFNOHplM09BbEY1a19jVkhIcUxfekNfaWduMjUxajVWa09ua1RhcFlwNE1fczhWVQ?oc=5</guid>
     </item>
   </channel>
 </rss>
