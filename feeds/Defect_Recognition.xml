@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>OpenCV G-API: From Imperative to Declarative Pipelines</title>
+      <link>https://opencv.org/opencv-g-api/</link>
+      <description>Complex Computer Vision Systems: Useful for surveillance, autonomous vehicles, and industrial inspection, where many processing stages need to be combined and optimized. 2. The G-API Architecture: 3-Layer Powerhouse G-API isn’t just a library of functions; it’s a framework with a unified API for image-processing pipelines across multiple ...</description>
+      <pubDate>Sat, 13 Jun 2026 18:17:35 -0000</pubDate>
+      <guid>https://opencv.org/opencv-g-api/</guid>
+    </item>
+    <item>
+      <title>How CUMAD Accumulates Evidence to Unmask Compromised IoT Devices</title>
+      <link>https://hackernoon.com/how-cumad-accumulates-evidence-to-unmask-compromised-iot-devices</link>
+      <description>In this paper we develop an effective and efficient framework to detect compromised IoT devices, named CUMAD (cumulative anomaly detection). In essence, CUMAD integrates an autoencoder-based anomaly detection subsystem with a sequential probability ratio test (SPRT)-based sequential hypothesis testing subsystem [6], [7]. In CUMAD, the normal behavior of each IoT device is learnt and modeled by an autoencoder.</description>
+      <pubDate>Sat, 13 Jun 2026 18:17:22 -0000</pubDate>
+      <guid>https://hackernoon.com/how-cumad-accumulates-evidence-to-unmask-compromised-iot-devices</guid>
+    </item>
+    <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>YOLO expects to find certain files and folders set up correctly in order to do the training on your custom dataset. First, you will need to open the file in the darknet/data/obj.names path where you put write your labels.</description>
+      <pubDate>Sat, 13 Jun 2026 18:17:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>How to Create a Simple Object Detection System with Python and ImageAI</title>
       <link>https://towardsdatascience.com/how-to-create-a-simple-object-detection-system-with-python-and-imageai-ee1bcaf6b111/</link>
       <description>As you have seen, ImageAI library enables us to build an object detection system without having to deal with the complexity behind object detection model like ResNet or YOLO for custom objects.</description>
@@ -31,27 +52,6 @@
       <description>This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection. Autoencoder anomaly detection code implementation.</description>
       <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
       <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
-    </item>
-    <item>
-      <title>An Overview of Log-Based Anomaly Detection Techniques</title>
-      <link>https://hackernoon.com/an-overview-of-log-based-anomaly-detection-techniques</link>
-      <description>An Overview of Log-Based Anomaly Detection Techniques</description>
-      <pubDate>Thu, 11 Jun 2026 18:30:32 -0000</pubDate>
-      <guid>https://hackernoon.com/an-overview-of-log-based-anomaly-detection-techniques</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step | Towards Data Science</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>Implementation details for YOLO for custom objects.</description>
-      <pubDate>Thu, 11 Jun 2026 18:29:55 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Generating/Expanding your datasets with synthetic data</title>
-      <link>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</link>
-      <description>Generating/Expanding your datasets with synthetic data, providing implementation details for Synthetic data generation for defects.</description>
-      <pubDate>Tue, 09 Jun 2026 18:33:25 -0000</pubDate>
-      <guid>https://towardsdatascience.com/generating-expanding-your-datasets-with-synthetic-data-4e27716be218/</guid>
     </item>
   </channel>
 </rss>
