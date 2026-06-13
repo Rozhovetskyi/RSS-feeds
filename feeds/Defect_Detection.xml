@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Powered Vision Inspection: Practical Paths to Better Quality and Faster Decisions</title>
+      <link>https://www.automate.org/webinars/ai-powered-vision-inspection-practical-paths-to-better-quality-and-faster-decisions</link>
+      <description>Discover practical implementations of AI-powered vision inspection to improve defect detection and production quality.</description>
+      <pubDate>Sat, 13 Jun 2026 18:10:30 -0000</pubDate>
+      <guid>https://www.automate.org/webinars/ai-powered-vision-inspection-practical-paths-to-better-quality-and-faster-decisions</guid>
+    </item>
+    <item>
       <title>How Visual AI Minimizes Defects and Boosts Yield in Manufacturing</title>
       <link>https://tech-stack.com/blog/visual-ai-reduces-defects-boosts-manufacturing-yield/</link>
       <description>Nov 20, 2025 · Real-Time Defect Detection in Action. The practical implementation of visual inspection manufacturing systems delivers several core advantages</description>
@@ -45,13 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
       <pubDate>Thu, 04 Jun 2026 18:32:33 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026 - Zetamotion</title>
-      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
-      <description>We kicked off 2026 with our first webinar of the year, Beyond Defect Detection: The New Rules of AI Quality Control in 2026. The goal was simple. Look ahead at what is changing in machine vision, and talk honestly about why so many AI inspection projects still struggle to move beyond pilots and into full scale production.</description>
-      <pubDate>Wed, 03 Jun 2026 18:16:43 -0000</pubDate>
-      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
     </item>
   </channel>
 </rss>
