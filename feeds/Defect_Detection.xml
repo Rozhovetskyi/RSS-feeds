@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
+      <pubDate>Mon, 15 Jun 2026 18:09:22 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
       <title>Using Computer Vision and edge AI for Defect Detection</title>
       <link>https://app.webinar.net/eldY4nkWnRj?mcc=AMWebsite</link>
       <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
@@ -45,13 +52,6 @@
       <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
       <pubDate>Tue, 09 Jun 2026 18:07:37 -0000</pubDate>
       <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=53</link>
-      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering applications, standards, and regulatory considerations in NDT.</description>
-      <pubDate>Tue, 09 Jun 2026 18:07:31 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=53</guid>
     </item>
   </channel>
 </rss>
