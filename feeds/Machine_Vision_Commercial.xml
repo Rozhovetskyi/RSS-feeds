@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AT Sensors Advances Inline Metrology with Ultra-High-Resolution C7 XCS 3070</title>
+      <link>https://metrology.news/at-sensors-advances-inline-metrology-with-ultra-high-resolution-c7-xcs-3070/</link>
+      <description>AT Sensors developed the C7 XCS 3070 3D laser profile sensor for ultra-high-resolution inline metrology, capturing precise surface structures.</description>
+      <pubDate>Mon, 15 Jun 2026 06:31:56 -0000</pubDate>
+      <guid>https://metrology.news/at-sensors-advances-inline-metrology-with-ultra-high-resolution-c7-xcs-3070/</guid>
+    </item>
+    <item>
+      <title>Visometry Expands Mobile AR Quality Inspection Capabilities with Twyn 2.6</title>
+      <link>https://metrology.news/visometry-expands-mobile-ar-quality-inspection-capabilities-with-twyn-2-6/</link>
+      <description>Visometry releases Twyn 2.6 mobile AR-based inspection system to make component inspection faster and more flexible for quality professionals.</description>
+      <pubDate>Mon, 15 Jun 2026 06:31:56 -0000</pubDate>
+      <guid>https://metrology.news/visometry-expands-mobile-ar-quality-inspection-capabilities-with-twyn-2-6/</guid>
+    </item>
+    <item>
+      <title>Portable Inspection Adapts to Smart Manufacturing</title>
+      <link>https://metrology.news/portable-inspection-adapts-to-smart-manufacturing/</link>
+      <description>Portable inspection systems are evolving into connected, intelligent components within the digital manufacturing ecosystem to improve quality control and reduce downtime.</description>
+      <pubDate>Mon, 15 Jun 2026 06:31:56 -0000</pubDate>
+      <guid>https://metrology.news/portable-inspection-adapts-to-smart-manufacturing/</guid>
+    </item>
+    <item>
       <title>IMTS Announces 2026 Conferences Lineup</title>
       <link>https://www.qualitymag.com/articles/99661-imts-announces-2026-conferences-lineup</link>
       <description>The upcoming IMTS 2026 conference lineup reveals key commercial themes in manufacturing technology and quality control systems.</description>
@@ -31,27 +52,6 @@
       <description>TemperChip introduces intelligent temperature control hardware for CNC machining, addressing critical variables in dimensional accuracy.</description>
       <pubDate>Sat, 13 Jun 2026 06:19:48 -0000</pubDate>
       <guid>https://metrology.news/temperchip-brings-intelligent-temperature-control-to-cnc-machining/</guid>
-    </item>
-    <item>
-      <title>AUTOMATE 2026 to Spotlight AI, Robotics and the Future of Industrial Automation</title>
-      <link>https://metrology.news/automate-2026-to-spotlight-ai-robotics-and-the-future-of-industrial-automation/</link>
-      <description>The upcoming AUTOMATE 2026 exhibition will showcase new commercial AI and robotics solutions for industrial automation.</description>
-      <pubDate>Fri, 12 Jun 2026 06:13:02 -0000</pubDate>
-      <guid>https://metrology.news/automate-2026-to-spotlight-ai-robotics-and-the-future-of-industrial-automation/</guid>
-    </item>
-    <item>
-      <title>Automation Fuels Strong Start to 2026 Manufacturing Technology Orders</title>
-      <link>https://www.qualitymag.com/articles/99658-automation-fuels-strong-start-to-2026-manufacturing-technology-orders</link>
-      <description>Strong growth in manufacturing technology orders highlights increasing commercial adoption of factory automation systems.</description>
-      <pubDate>Fri, 12 Jun 2026 06:12:48 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99658-automation-fuels-strong-start-to-2026-manufacturing-technology-orders</guid>
-    </item>
-    <item>
-      <title>Allied Vision FPGA IP Core Implementing GigE Vision 3.0</title>
-      <link>https://www.qualitymag.com/articles/99659-allied-vision-fpga-ip-core-implementing-gige-vision-30</link>
-      <description>Allied Vision releases an FPGA IP core for GigE Vision 3.0, enabling high-speed commercial machine vision applications.</description>
-      <pubDate>Fri, 12 Jun 2026 06:12:42 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99659-allied-vision-fpga-ip-core-implementing-gige-vision-30</guid>
     </item>
   </channel>
 </rss>
