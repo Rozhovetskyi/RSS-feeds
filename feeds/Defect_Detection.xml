@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Informative Session on Building AI Defect Recognition for Industrial Radiography in Die Casting</title>
+      <link>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</link>
+      <description>The session is designed to provide insights into how AI-driven approaches can enhance defect detection accuracy in radiographic inspection, with a strong emphasis on a data-first methodology. It will highlight the importance of high-quality annotation, effective training practices, and robust performance measurement in real-world industrial environments for the diecasting industry.</description>
+      <pubDate>Tue, 16 Jun 2026 18:03:54 -0000</pubDate>
+      <guid>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</guid>
+    </item>
+    <item>
       <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
@@ -45,13 +52,6 @@
       <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how to bridge the gap between AI promises and real-world production line deployment.</description>
       <pubDate>Thu, 11 Jun 2026 18:26:03 -0000</pubDate>
       <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition &amp; AI in Digital Radiography - OnestopNDT</title>
-      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
-      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
-      <pubDate>Tue, 09 Jun 2026 18:07:37 -0000</pubDate>
-      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
     </item>
   </channel>
 </rss>
