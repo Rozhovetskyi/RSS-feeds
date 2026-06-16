@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Hands-on Time Series Anomaly Detection using Autoencoders, with Python</title>
+      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
+      <description>This blog post is to guide the reader towards the idea of anomaly detection with Neural Networks, combining the two subjects in one unique piece of code.</description>
+      <pubDate>Tue, 16 Jun 2026 18:36:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
+    </item>
+    <item>
+      <title>The Comprehensive Guide to Training and Running YOLOv8 Models on Custom Datasets</title>
+      <link>https://towardsdatascience.com/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3/</link>
+      <description>This guide will act as a comprehensive tutorial covering the many different ways to train and run YOLOv8 models, as well as the strengths and limitations of ...</description>
+      <pubDate>Tue, 16 Jun 2026 18:36:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3/</guid>
+    </item>
+    <item>
       <title>OpenCV G-API: From Imperative to Declarative Pipelines</title>
       <link>https://opencv.org/opencv-g-api/</link>
       <description>Complex Computer Vision Systems: Useful for surveillance, autonomous vehicles, and industrial inspection, where many processing stages need to be combined and optimized. 2. The G-API Architecture: 3-Layer Powerhouse G-API isn’t just a library of functions; it’s a framework with a unified API for image-processing pipelines across multiple ...</description>
@@ -38,20 +52,6 @@
       <description>Industrial inspection talks about “Machine Vision”. OpenCV industrial inspection.</description>
       <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
       <guid>https://forum.opencv.org/t/classifying-objects-from-3d-cad-files/8849</guid>
-    </item>
-    <item>
-      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation | HackerNoon</title>
-      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
-      <description>Synthetic data is transforming AI by solving privacy, bias, and scalability challenges. Learn methods, use cases, and key risks for Synthetic data generation for defects.</description>
-      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
-      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
-    </item>
-    <item>
-      <title>Intro to Autoencoders | TensorFlow Core</title>
-      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
-      <description>This tutorial introduces autoencoders with three examples: the basics, image denoising, and anomaly detection. Autoencoder anomaly detection code implementation.</description>
-      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
-      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
     </item>
   </channel>
 </rss>
