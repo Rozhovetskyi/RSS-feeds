@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Live Webinar - ASNT Education</title>
+      <link>https://education.asnt.org/catalog/?format=Webinars</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
+      <pubDate>Thu, 18 Jun 2026 18:36:24 -0000</pubDate>
+      <guid>https://education.asnt.org/catalog/?format=Webinars</guid>
+    </item>
+    <item>
       <title>Informative Session on Building AI Defect Recognition for Industrial Radiography in Die Casting</title>
       <link>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</link>
       <description>The session is designed to provide insights into how AI-driven approaches can enhance defect detection accuracy in radiographic inspection, with a strong emphasis on a data-first methodology. It will highlight the importance of high-quality annotation, effective training practices, and robust performance measurement in real-world industrial environments for the diecasting industry.</description>
@@ -45,13 +52,6 @@
       <description>May 6, 2026 - In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
       <pubDate>Fri, 12 Jun 2026 18:10:01 -0000</pubDate>
       <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
-    </item>
-    <item>
-      <title>AI-Driven Defect Detection with Machine Vision</title>
-      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
-      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how AI and Machine Vision are transforming defect detection into a proactive, data-driven strategy. Learn how to bridge the gap between AI promises and real-world production line deployment.</description>
-      <pubDate>Thu, 11 Jun 2026 18:26:03 -0000</pubDate>
-      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
     </item>
   </channel>
 </rss>
