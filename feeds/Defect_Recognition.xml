@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Intro to Autoencoders | TensorFlow Core</title>
+      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
+      <description>Intro to autoencoder anomaly detection code implementation.</description>
+      <pubDate>Thu, 18 Jun 2026 18:08:40 -0000</pubDate>
+      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
+    </item>
+    <item>
+      <title>Creating Synthetic Data for Machine Learning</title>
+      <link>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</link>
+      <description>Implementation guide on synthetic data generation for defects in machine learning models.</description>
+      <pubDate>Thu, 18 Jun 2026 18:08:30 -0000</pubDate>
+      <guid>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</guid>
+    </item>
+    <item>
+      <title>How Do Grayscale Images Affect Visual Anomaly Detection?</title>
+      <link>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</link>
+      <description>Using grayscale images with OpenCV industrial inspection techniques to identify defects.</description>
+      <pubDate>Thu, 18 Jun 2026 18:08:29 -0000</pubDate>
+      <guid>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</guid>
+    </item>
+    <item>
+      <title>How to Train an Object Detection Model Using a Custom Dataset with MinIO and YOLO</title>
+      <link>https://hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</link>
+      <description>Practical guide for implementing YOLO for custom objects using MinIO.</description>
+      <pubDate>Thu, 18 Jun 2026 18:08:29 -0000</pubDate>
+      <guid>https://hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</guid>
+    </item>
+    <item>
       <title>Hands-on Time Series Anomaly Detection using Autoencoders, with Python</title>
       <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
       <description>This blog post is to guide the reader towards the idea of anomaly detection with Neural Networks, combining the two subjects in one unique piece of code.</description>
@@ -24,34 +52,6 @@
       <description>Complex Computer Vision Systems: Useful for surveillance, autonomous vehicles, and industrial inspection, where many processing stages need to be combined and optimized. 2. The G-API Architecture: 3-Layer Powerhouse G-API isn’t just a library of functions; it’s a framework with a unified API for image-processing pipelines across multiple ...</description>
       <pubDate>Sat, 13 Jun 2026 18:17:35 -0000</pubDate>
       <guid>https://opencv.org/opencv-g-api/</guid>
-    </item>
-    <item>
-      <title>How CUMAD Accumulates Evidence to Unmask Compromised IoT Devices</title>
-      <link>https://hackernoon.com/how-cumad-accumulates-evidence-to-unmask-compromised-iot-devices</link>
-      <description>In this paper we develop an effective and efficient framework to detect compromised IoT devices, named CUMAD (cumulative anomaly detection). In essence, CUMAD integrates an autoencoder-based anomaly detection subsystem with a sequential probability ratio test (SPRT)-based sequential hypothesis testing subsystem [6], [7]. In CUMAD, the normal behavior of each IoT device is learnt and modeled by an autoencoder.</description>
-      <pubDate>Sat, 13 Jun 2026 18:17:22 -0000</pubDate>
-      <guid>https://hackernoon.com/how-cumad-accumulates-evidence-to-unmask-compromised-iot-devices</guid>
-    </item>
-    <item>
-      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
-      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
-      <description>YOLO expects to find certain files and folders set up correctly in order to do the training on your custom dataset. First, you will need to open the file in the darknet/data/obj.names path where you put write your labels.</description>
-      <pubDate>Sat, 13 Jun 2026 18:17:09 -0000</pubDate>
-      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
-    </item>
-    <item>
-      <title>How to Create a Simple Object Detection System with Python and ImageAI</title>
-      <link>https://towardsdatascience.com/how-to-create-a-simple-object-detection-system-with-python-and-imageai-ee1bcaf6b111/</link>
-      <description>As you have seen, ImageAI library enables us to build an object detection system without having to deal with the complexity behind object detection model like ResNet or YOLO for custom objects.</description>
-      <pubDate>Fri, 12 Jun 2026 18:28:54 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-to-create-a-simple-object-detection-system-with-python-and-imageai-ee1bcaf6b111/</guid>
-    </item>
-    <item>
-      <title>Classifying objects from 3D CAD files - OpenCV Forum</title>
-      <link>https://forum.opencv.org/t/classifying-objects-from-3d-cad-files/8849</link>
-      <description>Industrial inspection talks about “Machine Vision”. OpenCV industrial inspection.</description>
-      <pubDate>Fri, 12 Jun 2026 18:26:40 -0000</pubDate>
-      <guid>https://forum.opencv.org/t/classifying-objects-from-3d-cad-files/8849</guid>
     </item>
   </channel>
 </rss>
