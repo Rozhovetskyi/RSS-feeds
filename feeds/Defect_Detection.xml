@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>LIVE WEBINAR: Artificial Intelligence for Automatic Inspection</title>
+      <link>https://members.indfast.org/eventcalendar/Details/live-webinar-artificial-intelligence-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control-1495854?sourceTypeId=Website</link>
+      <description>Discover how machine learning enhances defect detection, reduces pseudo-rejects, and supports compliance with industry standards, highlighting practical implementations.</description>
+      <pubDate>Fri, 19 Jun 2026 18:09:54 -0000</pubDate>
+      <guid>https://members.indfast.org/eventcalendar/Details/live-webinar-artificial-intelligence-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control-1495854?sourceTypeId=Website</guid>
+    </item>
+    <item>
+      <title>Webinar: Preventing Critical Misses in Defect Detection - Voxel 51</title>
+      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
+      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection, focusing on practical implementations and strategies to prevent critical misses.</description>
+      <pubDate>Fri, 19 Jun 2026 18:09:48 -0000</pubDate>
+      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
+    </item>
+    <item>
       <title>Live Webinar - ASNT Education</title>
       <link>https://education.asnt.org/catalog/?format=Webinars</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
@@ -38,20 +52,6 @@
       <description>Discover practical implementations of AI-powered vision inspection to improve defect detection and production quality.</description>
       <pubDate>Sat, 13 Jun 2026 18:10:30 -0000</pubDate>
       <guid>https://www.automate.org/webinars/ai-powered-vision-inspection-practical-paths-to-better-quality-and-faster-decisions</guid>
-    </item>
-    <item>
-      <title>How Visual AI Minimizes Defects and Boosts Yield in Manufacturing</title>
-      <link>https://tech-stack.com/blog/visual-ai-reduces-defects-boosts-manufacturing-yield/</link>
-      <description>Nov 20, 2025 · Real-Time Defect Detection in Action. The practical implementation of visual inspection manufacturing systems delivers several core advantages</description>
-      <pubDate>Fri, 12 Jun 2026 18:10:08 -0000</pubDate>
-      <guid>https://tech-stack.com/blog/visual-ai-reduces-defects-boosts-manufacturing-yield/</guid>
-    </item>
-    <item>
-      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
-      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
-      <description>May 6, 2026 - In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
-      <pubDate>Fri, 12 Jun 2026 18:10:01 -0000</pubDate>
-      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
     </item>
   </channel>
 </rss>
