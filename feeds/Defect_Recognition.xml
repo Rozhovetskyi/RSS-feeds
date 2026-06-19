@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>How Computer Vision Can Improve Quality Inspection in... - OpenCV</title>
+      <link>https://forum.opencv.org/t/how-computer-vision-can-improve-quality-inspection-in-the-jewelry-industry/24422</link>
+      <description>Hello everyone, I’ve been exploring how computer vision technologies like OpenCV can be used in industries beyond typical automation, especially in the jewelry manufacturing sector.</description>
+      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
+      <guid>https://forum.opencv.org/t/how-computer-vision-can-improve-quality-inspection-in-the-jewelry-industry/24422</guid>
+    </item>
+    <item>
+      <title>Building a Vision Inspection CNN for an Industrial Application</title>
+      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
+      <description>Building a Vision Inspection CNN for an Industrial Application 217 4 Ingo...</description>
+      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
+      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
+    </item>
+    <item>
+      <title>Outlier Detection with RNN Autoencoders</title>
+      <link>https://towardsdatascience.com/outlier-detection-with-rnn-autoencoders-b82e2c230ed9/</link>
+      <description>Utilising a reconstruction autoencoder model to detect anomalies in time series data. anomaly detection is the task of detecting data points or ...</description>
+      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
+      <guid>https://towardsdatascience.com/outlier-detection-with-rnn-autoencoders-b82e2c230ed9/</guid>
+    </item>
+    <item>
       <title>Intro to Autoencoders | TensorFlow Core</title>
       <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
       <description>Intro to autoencoder anomaly detection code implementation.</description>
@@ -31,27 +52,6 @@
       <description>Practical guide for implementing YOLO for custom objects using MinIO.</description>
       <pubDate>Thu, 18 Jun 2026 18:08:29 -0000</pubDate>
       <guid>https://hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</guid>
-    </item>
-    <item>
-      <title>Hands-on Time Series Anomaly Detection using Autoencoders, with Python</title>
-      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
-      <description>This blog post is to guide the reader towards the idea of anomaly detection with Neural Networks, combining the two subjects in one unique piece of code.</description>
-      <pubDate>Tue, 16 Jun 2026 18:36:09 -0000</pubDate>
-      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
-    </item>
-    <item>
-      <title>The Comprehensive Guide to Training and Running YOLOv8 Models on Custom Datasets</title>
-      <link>https://towardsdatascience.com/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3/</link>
-      <description>This guide will act as a comprehensive tutorial covering the many different ways to train and run YOLOv8 models, as well as the strengths and limitations of ...</description>
-      <pubDate>Tue, 16 Jun 2026 18:36:09 -0000</pubDate>
-      <guid>https://towardsdatascience.com/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3/</guid>
-    </item>
-    <item>
-      <title>OpenCV G-API: From Imperative to Declarative Pipelines</title>
-      <link>https://opencv.org/opencv-g-api/</link>
-      <description>Complex Computer Vision Systems: Useful for surveillance, autonomous vehicles, and industrial inspection, where many processing stages need to be combined and optimized. 2. The G-API Architecture: 3-Layer Powerhouse G-API isn’t just a library of functions; it’s a framework with a unified API for image-processing pipelines across multiple ...</description>
-      <pubDate>Sat, 13 Jun 2026 18:17:35 -0000</pubDate>
-      <guid>https://opencv.org/opencv-g-api/</guid>
     </item>
   </channel>
 </rss>
