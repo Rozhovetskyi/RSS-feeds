@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection</title>
+      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
+      <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
+      <pubDate>Sat, 20 Jun 2026 18:30:01 -0000</pubDate>
+      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
+    </item>
+    <item>
       <title>LIVE WEBINAR: Artificial Intelligence for Automatic Inspection</title>
       <link>https://members.indfast.org/eventcalendar/Details/live-webinar-artificial-intelligence-for-automatic-inspection-fasteners-and-a-new-standard-in-quality-control-1495854?sourceTypeId=Website</link>
       <description>Discover how machine learning enhances defect detection, reduces pseudo-rejects, and supports compliance with industry standards, highlighting practical implementations.</description>
@@ -45,13 +52,6 @@
       <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
       <pubDate>Sun, 14 Jun 2026 18:24:00 -0000</pubDate>
       <guid>https://app.webinar.net/eldY4nkWnRj?mcc=AMWebsite</guid>
-    </item>
-    <item>
-      <title>AI-Powered Vision Inspection: Practical Paths to Better Quality and Faster Decisions</title>
-      <link>https://www.automate.org/webinars/ai-powered-vision-inspection-practical-paths-to-better-quality-and-faster-decisions</link>
-      <description>Discover practical implementations of AI-powered vision inspection to improve defect detection and production quality.</description>
-      <pubDate>Sat, 13 Jun 2026 18:10:30 -0000</pubDate>
-      <guid>https://www.automate.org/webinars/ai-powered-vision-inspection-practical-paths-to-better-quality-and-faster-decisions</guid>
     </item>
   </channel>
 </rss>
