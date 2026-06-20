@@ -5,6 +5,41 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>The inference time of YOLO model with compare to the other models like EfficientDet and RetinaNet is better. YOLO is known for its speed for detecting the objects in image/video.</description>
+      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
+      <title>Anomaly detection with synthetic data - vision - PyTorch Forums</title>
+      <link>https://discuss.pytorch.org/t/anomaly-detection-with-synthetic-data/102852</link>
+      <description>I’m working on a project in which I need to detect anomalies in a particular scene (two background scenes). The anomaly could be anything (bolts, pliers, glasses, etc.). However, I have generated synthetic data training with unity because I have very few realistic images and here...</description>
+      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
+      <guid>https://discuss.pytorch.org/t/anomaly-detection-with-synthetic-data/102852</guid>
+    </item>
+    <item>
+      <title>OpenCV: Contours : More Functions</title>
+      <link>https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</link>
+      <description>1. Convexity Defects. We saw what is convex hull in second chapter about contours. Any deviation of the object from this hull can be considered as convexity defect. OpenCV comes with a ready-made function to find this, cv.convexityDefects(). A basic function call would look like below</description>
+      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
+      <guid>https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</guid>
+    </item>
+    <item>
+      <title>Synthetic Data Generation with LLMs</title>
+      <link>https://towardsdatascience.com/synthetic-data-generation-with-llms/</link>
+      <description>The post Synthetic Data Generation with LLMs appeared first on Towards...</description>
+      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
+      <guid>https://towardsdatascience.com/synthetic-data-generation-with-llms/</guid>
+    </item>
+    <item>
+      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
+      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
+      <description>synthetic_data = model.sample(10000) synthetic_data.to_csv('synthetic_transactions.csv', index=False). Variational Autoencoder(VAEs): VAE's are generative models used in machine learning for generating new data from the input data they are trained on.</description>
+      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
+      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
+    </item>
+    <item>
       <title>How Computer Vision Can Improve Quality Inspection in... - OpenCV</title>
       <link>https://forum.opencv.org/t/how-computer-vision-can-improve-quality-inspection-in-the-jewelry-industry/24422</link>
       <description>Hello everyone, I’ve been exploring how computer vision technologies like OpenCV can be used in industries beyond typical automation, especially in the jewelry manufacturing sector.</description>
@@ -17,41 +52,6 @@
       <description>Building a Vision Inspection CNN for an Industrial Application 217 4 Ingo...</description>
       <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
       <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
-    </item>
-    <item>
-      <title>Outlier Detection with RNN Autoencoders</title>
-      <link>https://towardsdatascience.com/outlier-detection-with-rnn-autoencoders-b82e2c230ed9/</link>
-      <description>Utilising a reconstruction autoencoder model to detect anomalies in time series data. anomaly detection is the task of detecting data points or ...</description>
-      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
-      <guid>https://towardsdatascience.com/outlier-detection-with-rnn-autoencoders-b82e2c230ed9/</guid>
-    </item>
-    <item>
-      <title>Intro to Autoencoders | TensorFlow Core</title>
-      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
-      <description>Intro to autoencoder anomaly detection code implementation.</description>
-      <pubDate>Thu, 18 Jun 2026 18:08:40 -0000</pubDate>
-      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
-    </item>
-    <item>
-      <title>Creating Synthetic Data for Machine Learning</title>
-      <link>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</link>
-      <description>Implementation guide on synthetic data generation for defects in machine learning models.</description>
-      <pubDate>Thu, 18 Jun 2026 18:08:30 -0000</pubDate>
-      <guid>https://towardsdatascience.com/creating-synthetic-data-for-machine-learning-dab5728f6411/</guid>
-    </item>
-    <item>
-      <title>How Do Grayscale Images Affect Visual Anomaly Detection?</title>
-      <link>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</link>
-      <description>Using grayscale images with OpenCV industrial inspection techniques to identify defects.</description>
-      <pubDate>Thu, 18 Jun 2026 18:08:29 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-do-grayscale-images-affect-visual-anomaly-detection/</guid>
-    </item>
-    <item>
-      <title>How to Train an Object Detection Model Using a Custom Dataset with MinIO and YOLO</title>
-      <link>https://hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</link>
-      <description>Practical guide for implementing YOLO for custom objects using MinIO.</description>
-      <pubDate>Thu, 18 Jun 2026 18:08:29 -0000</pubDate>
-      <guid>https://hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</guid>
     </item>
   </channel>
 </rss>
