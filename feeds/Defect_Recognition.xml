@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Synthetic Data – key benefits, types, generation methods, and challenges</title>
+      <link>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</link>
+      <description>Synthetic Data – key benefits, types, generation methods, and challenges</description>
+      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
+      <guid>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</guid>
+    </item>
+    <item>
+      <title>Building a Vision Inspection CNN for an Industrial Application</title>
+      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
+      <description>Building a Vision Inspection CNN for an Industrial Application</description>
+      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
+      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
+    </item>
+    <item>
+      <title>Hands-on Time Series Anomaly Detection using Autoencoders</title>
+      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
+      <description>Hands-on Time Series Anomaly Detection using Autoencoders</description>
+      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
+      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
+    </item>
+    <item>
+      <title>Build a Custom-Trained Object Detection Model With 5 Lines of Code</title>
+      <link>https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi</link>
+      <description>Build a Custom-Trained Object Detection Model With</description>
+      <pubDate>Sun, 21 Jun 2026 18:12:50 -0000</pubDate>
+      <guid>https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi</guid>
+    </item>
+    <item>
       <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
       <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
       <description>The inference time of YOLO model with compare to the other models like EfficientDet and RetinaNet is better. YOLO is known for its speed for detecting the objects in image/video.</description>
@@ -24,34 +52,6 @@
       <description>1. Convexity Defects. We saw what is convex hull in second chapter about contours. Any deviation of the object from this hull can be considered as convexity defect. OpenCV comes with a ready-made function to find this, cv.convexityDefects(). A basic function call would look like below</description>
       <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
       <guid>https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</guid>
-    </item>
-    <item>
-      <title>Synthetic Data Generation with LLMs</title>
-      <link>https://towardsdatascience.com/synthetic-data-generation-with-llms/</link>
-      <description>The post Synthetic Data Generation with LLMs appeared first on Towards...</description>
-      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
-      <guid>https://towardsdatascience.com/synthetic-data-generation-with-llms/</guid>
-    </item>
-    <item>
-      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
-      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
-      <description>synthetic_data = model.sample(10000) synthetic_data.to_csv('synthetic_transactions.csv', index=False). Variational Autoencoder(VAEs): VAE's are generative models used in machine learning for generating new data from the input data they are trained on.</description>
-      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
-      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
-    </item>
-    <item>
-      <title>How Computer Vision Can Improve Quality Inspection in... - OpenCV</title>
-      <link>https://forum.opencv.org/t/how-computer-vision-can-improve-quality-inspection-in-the-jewelry-industry/24422</link>
-      <description>Hello everyone, I’ve been exploring how computer vision technologies like OpenCV can be used in industries beyond typical automation, especially in the jewelry manufacturing sector.</description>
-      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
-      <guid>https://forum.opencv.org/t/how-computer-vision-can-improve-quality-inspection-in-the-jewelry-industry/24422</guid>
-    </item>
-    <item>
-      <title>Building a Vision Inspection CNN for an Industrial Application</title>
-      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
-      <description>Building a Vision Inspection CNN for an Industrial Application 217 4 Ingo...</description>
-      <pubDate>Fri, 19 Jun 2026 18:19:10 -0000</pubDate>
-      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
     </item>
   </channel>
 </rss>
