@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Line-Scan Imaging and Illumination in Modern Machine Vision</title>
+      <link>https://www.qualitymag.com/articles/99677-line-scan-imaging-and-illumination-in-modern-machine-vision</link>
+      <description>This overview details how line-scan cameras and specialized illumination solve high-speed, continuous-web inspection challenges in modern industrial machine vision applications.</description>
+      <pubDate>Sun, 21 Jun 2026 06:22:21 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99677-line-scan-imaging-and-illumination-in-modern-machine-vision</guid>
+    </item>
+    <item>
+      <title>Why AI in Manufacturing Fails Without Quality Data</title>
+      <link>https://www.qualitymag.com/articles/99678-why-ai-in-manufacturing-fails-without-quality-data</link>
+      <description>This article discusses the critical importance of high-quality data foundations for achieving measurable enterprise-level impacts from AI deployments in manufacturing environments.</description>
+      <pubDate>Sun, 21 Jun 2026 06:22:21 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99678-why-ai-in-manufacturing-fails-without-quality-data</guid>
+    </item>
+    <item>
       <title>ADLINK eyes doube-digit growth - Taipei Times</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBTYUY0MXpJNHRiTDJubWI3Y3dzQ2lVa2dJd3dIZ0lNRUlzRk9KZjlpUHBUaDJXTy1rM0Y2TUxOUzBISkZyTFhhTnVPUlJiMElYM094SnUxMUV6R1k2NUJMaHl5Yndta0FwVUduTlhGOGNKZjZiSmc?oc=5</link>
       <description>ADLINK Technology projects double-digit growth, highlighting market trends in industrial machine vision and automated optical inspection.</description>
@@ -38,20 +52,6 @@
       <description>Waygate Technologies launches a new portable phased array platform tailored for non-destructive testing and industrial infrastructure inspection.</description>
       <pubDate>Fri, 19 Jun 2026 06:28:40 -0000</pubDate>
       <guid>https://metrology.news/waygate-unveils-future-ready-krautkramer-paxys-platform-for-industrial-ndt/</guid>
-    </item>
-    <item>
-      <title>From Camera to Insight: Platform Simplifies Industrial AI Inspection</title>
-      <link>https://www.vision-systems.com/embedded/article/55384667/industrial-ai-deployment-simplified-cost-effective-secure-and-scalable</link>
-      <description>Partnership creates an on-site AI inspection platform to offer secure, real-time quality control and scalable deployment for manufacturers.</description>
-      <pubDate>Fri, 19 Jun 2026 06:28:34 -0000</pubDate>
-      <guid>https://www.vision-systems.com/embedded/article/55384667/industrial-ai-deployment-simplified-cost-effective-secure-and-scalable</guid>
-    </item>
-    <item>
-      <title>Schneider Electric Sets a New Benchmark for AI-Driven Inspection</title>
-      <link>https://metrology.news/schneider-electric-sets-a-new-benchmark-for-ai-driven-inspection/</link>
-      <description>Schneider Electric has launched a new AI-driven inspection system to enhance quality control and automated defect detection in manufacturing facilities.</description>
-      <pubDate>Thu, 18 Jun 2026 06:13:09 -0000</pubDate>
-      <guid>https://metrology.news/schneider-electric-sets-a-new-benchmark-for-ai-driven-inspection/</guid>
     </item>
   </channel>
 </rss>
