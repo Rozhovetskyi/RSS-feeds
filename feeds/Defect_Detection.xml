@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Defect detection is one of the most established edge AI use cases in ...</title>
+      <link>https://x.com/edgeaivision/status/2051759893846307086</link>
+      <description>Defect detection is one of the most established edge AI use cases in industry. This webinar focuses on building practical computer vision pipelines for ...</description>
+      <pubDate>Sun, 21 Jun 2026 18:20:44 -0000</pubDate>
+      <guid>https://x.com/edgeaivision/status/2051759893846307086</guid>
+    </item>
+    <item>
+      <title>Edge AI for Defect Detection in Manufacturing - LinkedIn</title>
+      <link>https://www.linkedin.com/posts/edgeaivision_upcoming-webinar-on-computer-vision-and-edge-activity-7457526391270440960-Ce81</link>
+      <description>May 5, 2026 · Automated defect detection remains one of the most widely deployed applications of edge AI in manufacturing. This upcoming webinar focuses ...</description>
+      <pubDate>Sun, 21 Jun 2026 18:20:44 -0000</pubDate>
+      <guid>https://www.linkedin.com/posts/edgeaivision_upcoming-webinar-on-computer-vision-and-edge-activity-7457526391270440960-Ce81</guid>
+    </item>
+    <item>
       <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection</title>
       <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
       <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
@@ -38,20 +52,6 @@
       <description>The session is designed to provide insights into how AI-driven approaches can enhance defect detection accuracy in radiographic inspection, with a strong emphasis on a data-first methodology. It will highlight the importance of high-quality annotation, effective training practices, and robust performance measurement in real-world industrial environments for the diecasting industry.</description>
       <pubDate>Tue, 16 Jun 2026 18:03:54 -0000</pubDate>
       <guid>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</guid>
-    </item>
-    <item>
-      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
-      <pubDate>Mon, 15 Jun 2026 18:09:22 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Using Computer Vision and edge AI for Defect Detection</title>
-      <link>https://app.webinar.net/eldY4nkWnRj?mcc=AMWebsite</link>
-      <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
-      <pubDate>Sun, 14 Jun 2026 18:24:00 -0000</pubDate>
-      <guid>https://app.webinar.net/eldY4nkWnRj?mcc=AMWebsite</guid>
     </item>
   </channel>
 </rss>
