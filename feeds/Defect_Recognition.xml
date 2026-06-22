@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
+      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
+      <description>When applied to synthetic data generation, LLMs are prompted to generate structured data (like JSON, CSV, or database records) by comprehending the relationships, schema, and the data's desired characteristics.</description>
+      <pubDate>Mon, 22 Jun 2026 18:31:43 -0000</pubDate>
+      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
+    </item>
+    <item>
+      <title>How to Train A Custom Object Detection Model with YOLO v5</title>
+      <link>https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
+      <description>In this post, we will walk through how you can train the new YOLO v5 model to recognize your custom objects for your custom use case.</description>
+      <pubDate>Mon, 22 Jun 2026 18:31:32 -0000</pubDate>
+      <guid>https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</guid>
+    </item>
+    <item>
       <title>Synthetic Data – key benefits, types, generation methods, and challenges</title>
       <link>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</link>
       <description>Synthetic Data – key benefits, types, generation methods, and challenges</description>
@@ -38,20 +52,6 @@
       <description>The inference time of YOLO model with compare to the other models like EfficientDet and RetinaNet is better. YOLO is known for its speed for detecting the objects in image/video.</description>
       <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
       <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Anomaly detection with synthetic data - vision - PyTorch Forums</title>
-      <link>https://discuss.pytorch.org/t/anomaly-detection-with-synthetic-data/102852</link>
-      <description>I’m working on a project in which I need to detect anomalies in a particular scene (two background scenes). The anomaly could be anything (bolts, pliers, glasses, etc.). However, I have generated synthetic data training with unity because I have very few realistic images and here...</description>
-      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
-      <guid>https://discuss.pytorch.org/t/anomaly-detection-with-synthetic-data/102852</guid>
-    </item>
-    <item>
-      <title>OpenCV: Contours : More Functions</title>
-      <link>https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</link>
-      <description>1. Convexity Defects. We saw what is convex hull in second chapter about contours. Any deviation of the object from this hull can be considered as convexity defect. OpenCV comes with a ready-made function to find this, cv.convexityDefects(). A basic function call would look like below</description>
-      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
-      <guid>https://docs.opencv.org/4.x/d5/d45/tutorial_py_contours_more_functions.html</guid>
     </item>
   </channel>
 </rss>
