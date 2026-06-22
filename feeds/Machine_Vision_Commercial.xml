@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>From Camera to Insight: Platform Simplifies Industrial AI Inspection</title>
+      <link>https://www.vision-systems.com/embedded/article/55384667/industrial-ai-deployment-simplified-cost-effective-secure-and-scalable</link>
+      <description>PTZOptics, Detect-It, and Comtronix have partnered to create an on-site AI inspection platform for manufacturers, demonstrating the commercial trend of cost-effective on-premises factory automation.</description>
+      <pubDate>Mon, 22 Jun 2026 06:28:11 -0000</pubDate>
+      <guid>https://www.vision-systems.com/embedded/article/55384667/industrial-ai-deployment-simplified-cost-effective-secure-and-scalable</guid>
+    </item>
+    <item>
       <title>Line-Scan Imaging and Illumination in Modern Machine Vision</title>
       <link>https://www.qualitymag.com/articles/99677-line-scan-imaging-and-illumination-in-modern-machine-vision</link>
       <description>This overview details how line-scan cameras and specialized illumination solve high-speed, continuous-web inspection challenges in modern industrial machine vision applications.</description>
@@ -45,13 +52,6 @@
       <description>Teledyne DALSA announces the release of a next-generation 8k BSI TDI camera designed to advance ultra-high-speed machine vision imaging.</description>
       <pubDate>Fri, 19 Jun 2026 06:28:54 -0000</pubDate>
       <guid>https://metrology.news/8k-camera-for-ultra-high-speed-imaging-in-low-light-conditions-launched/</guid>
-    </item>
-    <item>
-      <title>Waygate Unveils Future-Ready Krautkrämer PAXYS Platform for Industrial NDT</title>
-      <link>https://metrology.news/waygate-unveils-future-ready-krautkramer-paxys-platform-for-industrial-ndt/</link>
-      <description>Waygate Technologies launches a new portable phased array platform tailored for non-destructive testing and industrial infrastructure inspection.</description>
-      <pubDate>Fri, 19 Jun 2026 06:28:40 -0000</pubDate>
-      <guid>https://metrology.news/waygate-unveils-future-ready-krautkramer-paxys-platform-for-industrial-ndt/</guid>
     </item>
   </channel>
 </rss>
