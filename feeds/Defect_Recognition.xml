@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Where to Start when Data is Limited: A Guide | Towards Data Science</title>
+      <link>https://towardsdatascience.com/effective-ml-with-limited-data-where-to-start-194492e7a6f8/</link>
+      <description>Explore GANs, VAEs, or diffusion models to produce synthetic data – but this often requires careful tuning, domain-aware constraints, and enough data to capture the underlying distribution.</description>
+      <pubDate>Tue, 23 Jun 2026 18:18:31 -0000</pubDate>
+      <guid>https://towardsdatascience.com/effective-ml-with-limited-data-where-to-start-194492e7a6f8/</guid>
+    </item>
+    <item>
+      <title>Identify Potatoes - Python - OpenCV Forum</title>
+      <link>https://forum.opencv.org/t/identify-potatoes/311</link>
+      <description>automated optical inspection for industrial use always depends on stable lighting. that's the most robust way to ensure reliable results</description>
+      <pubDate>Tue, 23 Jun 2026 18:18:24 -0000</pubDate>
+      <guid>https://forum.opencv.org/t/identify-potatoes/311</guid>
+    </item>
+    <item>
+      <title>Outlier Detection With Autoencoders - Towards Data Science</title>
+      <link>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</link>
+      <description>In this article, you will learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
+      <pubDate>Tue, 23 Jun 2026 18:18:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</guid>
+    </item>
+    <item>
+      <title>How to Train an Object Detection Model Using a Custom Dataset With ...</title>
+      <link>https://sia.hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</link>
+      <description>In this post, we will create a custom image dataset and then train a You-Only-Look-Once (YOLO) model for the ubiquitous task of object detection. We will then implement a system using MinIO Bucket Notifications that can automatically perform inference on a new image.</description>
+      <pubDate>Tue, 23 Jun 2026 18:17:57 -0000</pubDate>
+      <guid>https://sia.hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</guid>
+    </item>
+    <item>
       <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
       <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
       <description>When applied to synthetic data generation, LLMs are prompted to generate structured data (like JSON, CSV, or database records) by comprehending the relationships, schema, and the data's desired characteristics.</description>
@@ -24,34 +52,6 @@
       <description>Synthetic Data – key benefits, types, generation methods, and challenges</description>
       <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
       <guid>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</guid>
-    </item>
-    <item>
-      <title>Building a Vision Inspection CNN for an Industrial Application</title>
-      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
-      <description>Building a Vision Inspection CNN for an Industrial Application</description>
-      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
-      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
-    </item>
-    <item>
-      <title>Hands-on Time Series Anomaly Detection using Autoencoders</title>
-      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
-      <description>Hands-on Time Series Anomaly Detection using Autoencoders</description>
-      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
-      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
-    </item>
-    <item>
-      <title>Build a Custom-Trained Object Detection Model With 5 Lines of Code</title>
-      <link>https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi</link>
-      <description>Build a Custom-Trained Object Detection Model With</description>
-      <pubDate>Sun, 21 Jun 2026 18:12:50 -0000</pubDate>
-      <guid>https://hackernoon.com/build-a-custom-trained-object-detection-model-with-5-lines-of-code-y08n33vi</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>The inference time of YOLO model with compare to the other models like EfficientDet and RetinaNet is better. YOLO is known for its speed for detecting the objects in image/video.</description>
-      <pubDate>Sat, 20 Jun 2026 18:34:21 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
     </item>
   </channel>
 </rss>
