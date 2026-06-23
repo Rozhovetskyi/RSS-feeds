@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Defect Detection with Machine Vision - American Society for Quality</title>
+      <link>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</link>
+      <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how #AI and #Machine #Vision are transforming defect detection into a proactive, data-driven strategy.</description>
+      <pubDate>Tue, 23 Jun 2026 18:18:26 -0000</pubDate>
+      <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
+    </item>
+    <item>
       <title>Defect detection is one of the most established edge AI use cases in ...</title>
       <link>https://x.com/edgeaivision/status/2051759893846307086</link>
       <description>Defect detection is one of the most established edge AI use cases in industry. This webinar focuses on building practical computer vision pipelines for ...</description>
@@ -45,13 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
       <pubDate>Thu, 18 Jun 2026 18:36:24 -0000</pubDate>
       <guid>https://education.asnt.org/catalog/?format=Webinars</guid>
-    </item>
-    <item>
-      <title>Informative Session on Building AI Defect Recognition for Industrial Radiography in Die Casting</title>
-      <link>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</link>
-      <description>The session is designed to provide insights into how AI-driven approaches can enhance defect detection accuracy in radiographic inspection, with a strong emphasis on a data-first methodology. It will highlight the importance of high-quality annotation, effective training practices, and robust performance measurement in real-world industrial environments for the diecasting industry.</description>
-      <pubDate>Tue, 16 Jun 2026 18:03:54 -0000</pubDate>
-      <guid>https://www.alucast.co.in/alucast-upcoming-training-programs2.html</guid>
     </item>
   </channel>
 </rss>
