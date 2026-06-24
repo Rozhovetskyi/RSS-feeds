@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Synthetic YOLO Dataset Generator - vision - PyTorch Forums</title>
+      <link>https://discuss.pytorch.org/t/synthetic-yolo-dataset-generator/222024</link>
+      <description>It’s like a virtual data factory – great for augmenting real datasets or getting data for rare scenarios. I used this generator to create a dataset of 5k images for a custom object detector, and it significantly boosted my model’s accuracy.</description>
+      <pubDate>Wed, 24 Jun 2026 18:25:33 -0000</pubDate>
+      <guid>https://discuss.pytorch.org/t/synthetic-yolo-dataset-generator/222024</guid>
+    </item>
+    <item>
+      <title>Building a Vision Inspection CNN for an Industrial Application</title>
+      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
+      <description>In this article, we develop and code a Convolutional Neural Network (CNN) for a vision inspection classification task in the automotive electronics industry.</description>
+      <pubDate>Wed, 24 Jun 2026 18:25:19 -0000</pubDate>
+      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
+    </item>
+    <item>
+      <title>Hands-on Time Series Anomaly Detection using Autoencoders, with ...</title>
+      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
+      <description>This blog post is to guide the reader towards the idea of anomaly detection with Neural Networks, combining the two subjects in one unique piece of code.</description>
+      <pubDate>Wed, 24 Jun 2026 18:24:55 -0000</pubDate>
+      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
+    </item>
+    <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>YOLO expects to find certain files and folders set up correctly in order to do the training on your custom dataset.</description>
+      <pubDate>Wed, 24 Jun 2026 18:24:39 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>Where to Start when Data is Limited: A Guide | Towards Data Science</title>
       <link>https://towardsdatascience.com/effective-ml-with-limited-data-where-to-start-194492e7a6f8/</link>
       <description>Explore GANs, VAEs, or diffusion models to produce synthetic data – but this often requires careful tuning, domain-aware constraints, and enough data to capture the underlying distribution.</description>
@@ -24,34 +52,6 @@
       <description>In this article, you will learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
       <pubDate>Tue, 23 Jun 2026 18:18:09 -0000</pubDate>
       <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</guid>
-    </item>
-    <item>
-      <title>How to Train an Object Detection Model Using a Custom Dataset With ...</title>
-      <link>https://sia.hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</link>
-      <description>In this post, we will create a custom image dataset and then train a You-Only-Look-Once (YOLO) model for the ubiquitous task of object detection. We will then implement a system using MinIO Bucket Notifications that can automatically perform inference on a new image.</description>
-      <pubDate>Tue, 23 Jun 2026 18:17:57 -0000</pubDate>
-      <guid>https://sia.hackernoon.com/how-to-train-an-object-detection-model-using-a-custom-dataset-with-minio-and-yolo</guid>
-    </item>
-    <item>
-      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
-      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
-      <description>When applied to synthetic data generation, LLMs are prompted to generate structured data (like JSON, CSV, or database records) by comprehending the relationships, schema, and the data's desired characteristics.</description>
-      <pubDate>Mon, 22 Jun 2026 18:31:43 -0000</pubDate>
-      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
-    </item>
-    <item>
-      <title>How to Train A Custom Object Detection Model with YOLO v5</title>
-      <link>https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</link>
-      <description>In this post, we will walk through how you can train the new YOLO v5 model to recognize your custom objects for your custom use case.</description>
-      <pubDate>Mon, 22 Jun 2026 18:31:32 -0000</pubDate>
-      <guid>https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208</guid>
-    </item>
-    <item>
-      <title>Synthetic Data – key benefits, types, generation methods, and challenges</title>
-      <link>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</link>
-      <description>Synthetic Data – key benefits, types, generation methods, and challenges</description>
-      <pubDate>Sun, 21 Jun 2026 18:12:51 -0000</pubDate>
-      <guid>https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55/</guid>
     </item>
   </channel>
 </rss>
