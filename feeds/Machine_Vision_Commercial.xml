@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Pleora, imavix engineering GEV-Stream End-to-End GigE Vision 3.0 Streaming Solution</title>
+      <link>https://www.qualitymag.com/articles/99691-pleora-imavix-engineering-gev-stream-end-to-end-gige-vision-30-streaming-solution</link>
+      <description>Pleora and imavix release a new GigE Vision 3.0 streaming solution, expanding hardware options for industrial machine vision applications.</description>
+      <pubDate>Thu, 25 Jun 2026 06:23:06 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99691-pleora-imavix-engineering-gev-stream-end-to-end-gige-vision-30-streaming-solution</guid>
+    </item>
+    <item>
+      <title>Three Days, Three Keynotes: Trends and Insights from Automate 2026 in Chicago, June 22-25</title>
+      <link>https://www.vision-systems.com/factory/article/55386467/three-days-three-keynotes-trends-and-insights-from-automate-2026-in-chicago-june-22-25</link>
+      <description>Keynotes and trends from Automate 2026 highlight the latest commercial developments in machine vision and factory automation.</description>
+      <pubDate>Thu, 25 Jun 2026 06:23:04 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55386467/three-days-three-keynotes-trends-and-insights-from-automate-2026-in-chicago-june-22-25</guid>
+    </item>
+    <item>
       <title>AI in the Quality Department: A Practical Path Forward for Small Manufacturers</title>
       <link>https://www.qualitymag.com/articles/99684-ai-in-the-quality-department-a-practical-path-forward-for-small-manufacturers</link>
       <description>A practical guide for small manufacturers adopting AI-driven quality inspection and defect detection solutions.</description>
@@ -38,20 +52,6 @@
       <description>Nearfield has raised $380 million to advance its semiconductor metrology systems for AI hardware production.</description>
       <pubDate>Wed, 24 Jun 2026 06:24:15 -0000</pubDate>
       <guid>https://metrology.news/nearfield-raises-380m-to-advance-ai-era-semiconductor-metrology/</guid>
-    </item>
-    <item>
-      <title>ZEISS PiWeb Updates Help Manufacturers Reduce Quality Silos and Scale with Confidence</title>
-      <link>https://metrology.news/zeiss-piweb-updates-help-manufacturers-reduce-quality-silos-and-scale-with-confidence/</link>
-      <description>ZEISS PiWeb software updates aim to help manufacturers scale precision metrology data across the enterprise.</description>
-      <pubDate>Wed, 24 Jun 2026 06:24:09 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-piweb-updates-help-manufacturers-reduce-quality-silos-and-scale-with-confidence/</guid>
-    </item>
-    <item>
-      <title>Accenture Strengthen Software and Automation Capabilities with Acquisition of Industries eXcellence Group</title>
-      <link>https://metrology.news/accenture-strengthen-software-and-automation-capabilities-with-acquisition-of-industries-excellence-group/</link>
-      <description>Accenture's acquisition highlights a major market consolidation trend to bolster industrial automation and manufacturing software solutions.</description>
-      <pubDate>Tue, 23 Jun 2026 06:20:26 -0000</pubDate>
-      <guid>https://metrology.news/accenture-strengthen-software-and-automation-capabilities-with-acquisition-of-industries-excellence-group/</guid>
     </item>
   </channel>
 </rss>
