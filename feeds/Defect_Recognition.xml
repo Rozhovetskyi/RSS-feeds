@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>In this article, I will walk you through the steps to deploy your own custom YOLO model in localhost.</description>
+      <pubDate>Thu, 25 Jun 2026 18:24:42 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
       <title>Synthetic YOLO Dataset Generator - vision - PyTorch Forums</title>
       <link>https://discuss.pytorch.org/t/synthetic-yolo-dataset-generator/222024</link>
       <description>It’s like a virtual data factory – great for augmenting real datasets or getting data for rare scenarios. I used this generator to create a dataset of 5k images for a custom object detector, and it significantly boosted my model’s accuracy.</description>
@@ -45,13 +52,6 @@
       <description>automated optical inspection for industrial use always depends on stable lighting. that's the most robust way to ensure reliable results</description>
       <pubDate>Tue, 23 Jun 2026 18:18:24 -0000</pubDate>
       <guid>https://forum.opencv.org/t/identify-potatoes/311</guid>
-    </item>
-    <item>
-      <title>Outlier Detection With Autoencoders - Towards Data Science</title>
-      <link>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</link>
-      <description>In this article, you will learn how to build an outlier detector using autoencoders in Tensorflow in only a few lines.</description>
-      <pubDate>Tue, 23 Jun 2026 18:18:09 -0000</pubDate>
-      <guid>https://towardsdatascience.com/outlier-detection-with-autoencoders-6c7ac3e2aa90/</guid>
     </item>
   </channel>
 </rss>
