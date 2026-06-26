@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition &amp; AI in Digital Radiography - OnestopNDT</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection accuracy and efficiency.</description>
+      <pubDate>Fri, 26 Jun 2026 18:13:51 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
       <title>INSPIRE - University Transportation Center Webinars</title>
       <link>https://scholarsmine.mst.edu/inspire_webinars/</link>
       <description>This webinar will introduce the design and testing of new technologies for defect detection and localization, including practical implementations about how the systems work.</description>
@@ -45,13 +52,6 @@
       <description>May 5, 2026 · Automated defect detection remains one of the most widely deployed applications of edge AI in manufacturing. This upcoming webinar focuses ...</description>
       <pubDate>Sun, 21 Jun 2026 18:20:44 -0000</pubDate>
       <guid>https://www.linkedin.com/posts/edgeaivision_upcoming-webinar-on-computer-vision-and-edge-activity-7457526391270440960-Ce81</guid>
-    </item>
-    <item>
-      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection</title>
-      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
-      <description>Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the future of industrial manufacturing and computer vision. In this webinar, Sundeep introduces edgeRX Vision—a powerful combination of computer vision and edge AI designed to deliver fast, accurate quality control directly on the production line.</description>
-      <pubDate>Sat, 20 Jun 2026 18:30:01 -0000</pubDate>
-      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
     </item>
   </channel>
 </rss>
