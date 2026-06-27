@@ -5,6 +5,41 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Generating Synthetic Data with Code for Defect Detection</title>
+      <link>https://hackernoon.com/generating-synthetic-data-with-code-for-defect-detection</link>
+      <description>Implementation guide with code snippets for synthetic data generation for defects.</description>
+      <pubDate>Sat, 27 Jun 2026 18:17:44 -0000</pubDate>
+      <guid>https://hackernoon.com/generating-synthetic-data-with-code-for-defect-detection</guid>
+    </item>
+    <item>
+      <title>Real-World ML with Coral: Manufacturing</title>
+      <link>https://blog.tensorflow.org/2021/07/real-world-ml-with-coral-manufacturing.html</link>
+      <description>Real world manufacturing inspection using OpenCV and Coral.</description>
+      <pubDate>Sat, 27 Jun 2026 18:17:23 -0000</pubDate>
+      <guid>https://blog.tensorflow.org/2021/07/real-world-ml-with-coral-manufacturing.html</guid>
+    </item>
+    <item>
+      <title>Edge Detection Using OpenCV</title>
+      <link>https://opencv.org/blog/edge-detection-using-opencv/</link>
+      <description>OpenCV industrial inspection edge detection techniques.</description>
+      <pubDate>Sat, 27 Jun 2026 18:17:21 -0000</pubDate>
+      <guid>https://opencv.org/blog/edge-detection-using-opencv/</guid>
+    </item>
+    <item>
+      <title>Hands-on Time Series Anomaly Detection using Autoencoders, with Python</title>
+      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
+      <description>Autoencoder anomaly detection code tutorial.</description>
+      <pubDate>Sat, 27 Jun 2026 18:17:19 -0000</pubDate>
+      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
+    </item>
+    <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>Implementation guide for YOLO on custom datasets.</description>
+      <pubDate>Sat, 27 Jun 2026 18:17:17 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>Boosting Your Anomaly Detection With LLMs</title>
       <link>https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/</link>
       <description>Guide on synthetic data generation strategies and techniques for defect anomaly detection.</description>
@@ -17,41 +52,6 @@
       <description>Explores applications of OpenCV including industrial inspection and manufacturing use cases.</description>
       <pubDate>Fri, 26 Jun 2026 18:09:58 -0000</pubDate>
       <guid>https://opencv.org/opencv-applications-in-2023/</guid>
-    </item>
-    <item>
-      <title>Replicating conv autoencoder for anomaly detection</title>
-      <link>https://discuss.pytorch.org/t/replicating-conv-autoencoder-for-anomaly-detection/190960</link>
-      <description>Implementation details for a convolutional autoencoder to detect anomalies.</description>
-      <pubDate>Fri, 26 Jun 2026 18:09:51 -0000</pubDate>
-      <guid>https://discuss.pytorch.org/t/replicating-conv-autoencoder-for-anomaly-detection/190960</guid>
-    </item>
-    <item>
-      <title>Custom object detection in the browser using TensorFlow.js</title>
-      <link>https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html</link>
-      <description>Build and deploy a custom YOLO-style object detection model in the browser using TensorFlow.js.</description>
-      <pubDate>Fri, 26 Jun 2026 18:09:22 -0000</pubDate>
-      <guid>https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>In this article, I will walk you through the steps to deploy your own custom YOLO model in localhost.</description>
-      <pubDate>Thu, 25 Jun 2026 18:24:42 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Synthetic YOLO Dataset Generator - vision - PyTorch Forums</title>
-      <link>https://discuss.pytorch.org/t/synthetic-yolo-dataset-generator/222024</link>
-      <description>It’s like a virtual data factory – great for augmenting real datasets or getting data for rare scenarios. I used this generator to create a dataset of 5k images for a custom object detector, and it significantly boosted my model’s accuracy.</description>
-      <pubDate>Wed, 24 Jun 2026 18:25:33 -0000</pubDate>
-      <guid>https://discuss.pytorch.org/t/synthetic-yolo-dataset-generator/222024</guid>
-    </item>
-    <item>
-      <title>Building a Vision Inspection CNN for an Industrial Application</title>
-      <link>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</link>
-      <description>In this article, we develop and code a Convolutional Neural Network (CNN) for a vision inspection classification task in the automotive electronics industry.</description>
-      <pubDate>Wed, 24 Jun 2026 18:25:19 -0000</pubDate>
-      <guid>https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a/</guid>
     </item>
   </channel>
 </rss>
