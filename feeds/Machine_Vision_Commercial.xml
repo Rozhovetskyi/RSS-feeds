@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>TopMap Sherpa Launch Simplifies Surface Measurement and Analysis</title>
+      <link>https://metrology.news/topmap-sherpa-launch-simplifies-surface-measurement-and-analysis/</link>
+      <description>Polytec introduces a new software platform to simplify commercial surface metrology systems measurement workflows.</description>
+      <pubDate>Sun, 28 Jun 2026 06:36:25 -0000</pubDate>
+      <guid>https://metrology.news/topmap-sherpa-launch-simplifies-surface-measurement-and-analysis/</guid>
+    </item>
+    <item>
       <title>Agentic AI is scaling in manufacturing, but infrastructure gaps remain</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0N0OEVzZDBKczNLTms2QTZpYmpNOXh2TWdOeHFjUm90TlhPaTY0OFhwLWFwRmlXT3NFZ2xMcDQzaXZFbC1SLS1aWm5vQ0JJME00XzJGeGktNHNVQWNCSGRGUGNHZDE5SnM4QzZQMko3V2pfRTAtVWRCQ3dDNlE1eEdreGdmUm1RNjNSME1IMV9PVXBtcmlIVnJfbzA2c3B4SXc?oc=5</link>
       <description>Discussion on the commercial scaling of AI in manufacturing and the hardware/infrastructure investments needed to support automated inspection.</description>
@@ -45,13 +52,6 @@
       <description>Market trends predict massive commercial growth for industrial robot shipments driving automated quality inspection solutions by 2030.</description>
       <pubDate>Fri, 26 Jun 2026 06:12:27 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99696-annual-industrial-robot-shipments-will-reach-more-than-760k-units-in-2030</guid>
-    </item>
-    <item>
-      <title>Portable Optical Inspection System Built for High-Volume CNC Production</title>
-      <link>https://metrology.news/portable-optical-inspection-system-built-for-high-volume-cnc-production/</link>
-      <description>A new portable optical inspection system provides scalable solutions for high-volume CNC manufacturing environments.</description>
-      <pubDate>Fri, 26 Jun 2026 06:12:21 -0000</pubDate>
-      <guid>https://metrology.news/portable-optical-inspection-system-built-for-high-volume-cnc-production/</guid>
     </item>
   </channel>
 </rss>
