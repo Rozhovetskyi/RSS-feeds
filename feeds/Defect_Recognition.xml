@@ -5,6 +5,27 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Exploring OpenCV Applications in 2025</title>
+      <link>https://opencv.org/opencv-applications-in-2023/</link>
+      <description>Explores applications of OpenCV including industrial inspection and manufacturing use cases.</description>
+      <pubDate>Tue, 30 Jun 2026 18:22:50 -0000</pubDate>
+      <guid>https://opencv.org/opencv-applications-in-2023/</guid>
+    </item>
+    <item>
+      <title>Anomaly Detection in Manufacturing, Part 2: Building a Variational Autoencoder</title>
+      <link>https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-2-building-a-variational-autoencoder-248abce07349/</link>
+      <description>Autoencoder anomaly detection code implementation</description>
+      <pubDate>Tue, 30 Jun 2026 18:20:45 -0000</pubDate>
+      <guid>https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-2-building-a-variational-autoencoder-248abce07349/</guid>
+    </item>
+    <item>
+      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
+      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
+      <description>Step by step YOLO for custom objects model deployment in localhost using python.</description>
+      <pubDate>Tue, 30 Jun 2026 18:20:16 -0000</pubDate>
+      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
+    </item>
+    <item>
       <title>Generating Synthetic Data with Code for Defect Detection</title>
       <link>https://hackernoon.com/generating-synthetic-data-with-code-for-defect-detection</link>
       <description>Implementation guide with code snippets for synthetic data generation for defects.</description>
@@ -31,27 +52,6 @@
       <description>Autoencoder anomaly detection code tutorial.</description>
       <pubDate>Sat, 27 Jun 2026 18:17:19 -0000</pubDate>
       <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
-    </item>
-    <item>
-      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
-      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
-      <description>Implementation guide for YOLO on custom datasets.</description>
-      <pubDate>Sat, 27 Jun 2026 18:17:17 -0000</pubDate>
-      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
-    </item>
-    <item>
-      <title>Boosting Your Anomaly Detection With LLMs</title>
-      <link>https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/</link>
-      <description>Guide on synthetic data generation strategies and techniques for defect anomaly detection.</description>
-      <pubDate>Fri, 26 Jun 2026 18:10:05 -0000</pubDate>
-      <guid>https://towardsdatascience.com/boosting-your-anomaly-detection-with-llms/</guid>
-    </item>
-    <item>
-      <title>Exploring OpenCV Applications in 2025</title>
-      <link>https://opencv.org/opencv-applications-in-2023/</link>
-      <description>Explores applications of OpenCV including industrial inspection and manufacturing use cases.</description>
-      <pubDate>Fri, 26 Jun 2026 18:09:58 -0000</pubDate>
-      <guid>https://opencv.org/opencv-applications-in-2023/</guid>
     </item>
   </channel>
 </rss>
