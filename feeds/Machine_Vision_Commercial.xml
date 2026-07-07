@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>UnitX DeteX AI Smart Camera</title>
+      <link>https://www.qualitymag.com/articles/99722-unitx-detex-ai-smart-camera</link>
+      <description>UnitX launches the DeteX AI-powered smart camera, expanding the market for turnkey visual inspection hardware in manufacturing.</description>
+      <pubDate>Tue, 07 Jul 2026 06:30:05 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99722-unitx-detex-ai-smart-camera</guid>
+    </item>
+    <item>
+      <title>AI Agents Bring Contextual Intelligence to Manufacturing Quality Control</title>
+      <link>https://metrology.news/ai-agents-bring-contextual-intelligence-to-manufacturing-quality-control/</link>
+      <description>A new generation of AI systems introduces contextual intelligence to manufacturing quality control, enhancing defect detection and root-cause analysis.</description>
+      <pubDate>Tue, 07 Jul 2026 06:30:05 -0000</pubDate>
+      <guid>https://metrology.news/ai-agents-bring-contextual-intelligence-to-manufacturing-quality-control/</guid>
+    </item>
+    <item>
       <title>New Ethernet-Connected Laser Scanners Accelerate Digital Inspection</title>
       <link>https://metrology.news/new-ethernet-connected-laser-scanners-accelerate-digital-inspection/</link>
       <description>New ethernet-connected laser scanners are designed for data-intensive metrology tasks, enhancing commercial digital production and optimizing turnkey inspection processes.</description>
@@ -38,20 +52,6 @@
       <description>GigaVis secured a major commercial order for inspection equipment from a Chinese substrate maker, demonstrating significant market activity in the sector.</description>
       <pubDate>Sat, 04 Jul 2026 06:16:24 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOGdRd2NXYndyLUVvajlvSUZNV3B0bEtQcUZ3VENxMTNKRWVIcEp6NDNYQy1ORWlaWTdvTWN6dWtBeGJTM3lVcTdvYmMzZkoyNTJSdXNqSUhmQXRxZlZrZnJsbHVzQWc?oc=5</guid>
-    </item>
-    <item>
-      <title>Patented Pulseboard Technology Enables Faster Robotic Weld Inspection</title>
-      <link>https://metrology.news/patented-pulseboard-technology-enables-faster-robotic-weld-inspection/</link>
-      <description>This new patented technology significantly speeds up robotic weld inspection, highlighting advancements in turnkey quality control solutions.</description>
-      <pubDate>Sat, 04 Jul 2026 06:16:08 -0000</pubDate>
-      <guid>https://metrology.news/patented-pulseboard-technology-enables-faster-robotic-weld-inspection/</guid>
-    </item>
-    <item>
-      <title>Machine Vision Forecast: Interact Analysis on AI, Robotics, and Global Market Shifts</title>
-      <link>https://www.vision-systems.com/nextgen/article/55388213/machine-vision-forecast-interact-analysis-on-ai-robotics-and-global-market-shifts</link>
-      <description>This forecast highlights global market shifts in AI and robotics, providing critical market trend data for the machine vision industry.</description>
-      <pubDate>Sat, 04 Jul 2026 06:15:56 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/article/55388213/machine-vision-forecast-interact-analysis-on-ai-robotics-and-global-market-shifts</guid>
     </item>
   </channel>
 </rss>
