@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Teledyne Linea HS2 8k Camera</title>
+      <link>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</link>
+      <description>Teledyne DALSA releases its next-generation commercial camera aimed at enhancing high-speed turnkey quality control.</description>
+      <pubDate>Thu, 09 Jul 2026 06:12:43 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</guid>
+    </item>
+    <item>
+      <title>Pleora iPORT GEV-TB External Frame Grabber</title>
+      <link>https://www.qualitymag.com/articles/99731-pleora-iport-gev-tb-external-frame-grabber</link>
+      <description>Pleora Technologies launches a new external frame grabber hardware to simplify the integration of high-bandwidth industrial cameras.</description>
+      <pubDate>Thu, 09 Jul 2026 06:12:41 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99731-pleora-iport-gev-tb-external-frame-grabber</guid>
+    </item>
+    <item>
+      <title>Emesent Strengthens Autonomous Mapping Portfolio with $17 Million Funding</title>
+      <link>https://metrology.news/emesent-strengthens-autonomous-mapping-portfolio-with-17-million-funding/</link>
+      <description>Emesent has secured $17 million in funding to accelerate its commercial AI autonomy platform for industrial mapping.</description>
+      <pubDate>Thu, 09 Jul 2026 06:12:39 -0000</pubDate>
+      <guid>https://metrology.news/emesent-strengthens-autonomous-mapping-portfolio-with-17-million-funding/</guid>
+    </item>
+    <item>
+      <title>Interact Analysis on AI, Robotics, and Global Market Shifts</title>
+      <link>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</link>
+      <description>Insights reveal that the machine vision industry is experiencing rapid technological adoption and regional shifts in automation.</description>
+      <pubDate>Thu, 09 Jul 2026 06:12:37 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</guid>
+    </item>
+    <item>
       <title>Machine Vision Forecast: Interact Analysis on AI, Robotics, and Global Market Shifts</title>
       <link>https://www.vision-systems.com/nextgen/article/55388213/machine-vision-forecast-interact-analysis-on-ai-robotics-and-global-market-shifts</link>
       <description>New forecast report provides market trends and commercial insights for machine vision, highlighting AI and robotics growth.</description>
@@ -24,34 +52,6 @@
       <description>Detection Technology introduces new industrial X-ray detection hardware aimed at improving large-area quality control in manufacturing.</description>
       <pubDate>Wed, 08 Jul 2026 06:06:24 -0000</pubDate>
       <guid>https://metrology.news/detection-technology-raises-the-bar-for-large-area-industrial-x-ray-detection/</guid>
-    </item>
-    <item>
-      <title>UnitX DeteX AI Smart Camera</title>
-      <link>https://www.qualitymag.com/articles/99722-unitx-detex-ai-smart-camera</link>
-      <description>UnitX launches the DeteX AI-powered smart camera, expanding the market for turnkey visual inspection hardware in manufacturing.</description>
-      <pubDate>Tue, 07 Jul 2026 06:30:05 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99722-unitx-detex-ai-smart-camera</guid>
-    </item>
-    <item>
-      <title>AI Agents Bring Contextual Intelligence to Manufacturing Quality Control</title>
-      <link>https://metrology.news/ai-agents-bring-contextual-intelligence-to-manufacturing-quality-control/</link>
-      <description>A new generation of AI systems introduces contextual intelligence to manufacturing quality control, enhancing defect detection and root-cause analysis.</description>
-      <pubDate>Tue, 07 Jul 2026 06:30:05 -0000</pubDate>
-      <guid>https://metrology.news/ai-agents-bring-contextual-intelligence-to-manufacturing-quality-control/</guid>
-    </item>
-    <item>
-      <title>New Ethernet-Connected Laser Scanners Accelerate Digital Inspection</title>
-      <link>https://metrology.news/new-ethernet-connected-laser-scanners-accelerate-digital-inspection/</link>
-      <description>New ethernet-connected laser scanners are designed for data-intensive metrology tasks, enhancing commercial digital production and optimizing turnkey inspection processes.</description>
-      <pubDate>Mon, 06 Jul 2026 06:03:18 -0000</pubDate>
-      <guid>https://metrology.news/new-ethernet-connected-laser-scanners-accelerate-digital-inspection/</guid>
-    </item>
-    <item>
-      <title>OGP Launches StarLite S1 Compact Semi-Automatic Video Measurement System</title>
-      <link>https://metrology.news/ogp-launches-starlite-s1-compact-semi-automatic-video-measurement-system/</link>
-      <description>OGP introduces the StarLite S1 3-axis video measurement system, a commercial hardware solution combining automatic video measurements with manual stage motion.</description>
-      <pubDate>Mon, 06 Jul 2026 06:03:11 -0000</pubDate>
-      <guid>https://metrology.news/ogp-launches-starlite-s1-compact-semi-automatic-video-measurement-system/</guid>
     </item>
   </channel>
 </rss>
