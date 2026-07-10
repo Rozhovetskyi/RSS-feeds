@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Every Thread Counts: EyeVision Automated Inspection</title>
+      <link>https://www.qualitymag.com/articles/99736-every-thread-counts-eyevision-automated-inspection</link>
+      <description>EyeVision introduces an automated optical inspection turnkey solution specifically designed for high-speed commercial thread measurement and quality control.</description>
+      <pubDate>Fri, 10 Jul 2026 06:31:23 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99736-every-thread-counts-eyevision-automated-inspection</guid>
+    </item>
+    <item>
+      <title>Automate 2026 Breaks Records as Robotics and AI Drive Industry Growth</title>
+      <link>https://metrology.news/automate-2026-breaks-records-as-robotics-and-ai-drive-industry-growth/</link>
+      <description>Automate 2026 breaks attendance records, signaling robust commercial growth and increasing demand for robotics and AI-driven machine vision solutions.</description>
+      <pubDate>Fri, 10 Jul 2026 06:31:20 -0000</pubDate>
+      <guid>https://metrology.news/automate-2026-breaks-records-as-robotics-and-ai-drive-industry-growth/</guid>
+    </item>
+    <item>
+      <title>QuantumDiamonds Raises €91 Million For Next-Generation Chip Inspection</title>
+      <link>https://metrology.news/quantumdiamonds-raises-e91-million-for-next-generation-chip-inspection/</link>
+      <description>QuantumDiamonds secures 91 million euros funding to advance its commercial chip inspection technology, highlighting strong investment in the semiconductor defect detection market.</description>
+      <pubDate>Fri, 10 Jul 2026 06:31:18 -0000</pubDate>
+      <guid>https://metrology.news/quantumdiamonds-raises-e91-million-for-next-generation-chip-inspection/</guid>
+    </item>
+    <item>
       <title>Teledyne Linea HS2 8k Camera</title>
       <link>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</link>
       <description>Teledyne DALSA releases its next-generation commercial camera aimed at enhancing high-speed turnkey quality control.</description>
@@ -31,27 +52,6 @@
       <description>Insights reveal that the machine vision industry is experiencing rapid technological adoption and regional shifts in automation.</description>
       <pubDate>Thu, 09 Jul 2026 06:12:37 -0000</pubDate>
       <guid>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</guid>
-    </item>
-    <item>
-      <title>Machine Vision Forecast: Interact Analysis on AI, Robotics, and Global Market Shifts</title>
-      <link>https://www.vision-systems.com/nextgen/article/55388213/machine-vision-forecast-interact-analysis-on-ai-robotics-and-global-market-shifts</link>
-      <description>New forecast report provides market trends and commercial insights for machine vision, highlighting AI and robotics growth.</description>
-      <pubDate>Wed, 08 Jul 2026 06:06:25 -0000</pubDate>
-      <guid>https://www.vision-systems.com/nextgen/article/55388213/machine-vision-forecast-interact-analysis-on-ai-robotics-and-global-market-shifts</guid>
-    </item>
-    <item>
-      <title>PMT Expands Portable Metrology Portfolio with SMARTSCAN Handheld Scanner</title>
-      <link>https://metrology.news/pmt-expands-portable-metrology-portfolio-with-smartscan-handheld-scanner/</link>
-      <description>PMT broadens its commercial portable metrology hardware offerings with the release of the new SMARTSCAN handheld scanner.</description>
-      <pubDate>Wed, 08 Jul 2026 06:06:25 -0000</pubDate>
-      <guid>https://metrology.news/pmt-expands-portable-metrology-portfolio-with-smartscan-handheld-scanner/</guid>
-    </item>
-    <item>
-      <title>Detection Technology Raises the Bar for Large-Area Industrial X-Ray Detection</title>
-      <link>https://metrology.news/detection-technology-raises-the-bar-for-large-area-industrial-x-ray-detection/</link>
-      <description>Detection Technology introduces new industrial X-ray detection hardware aimed at improving large-area quality control in manufacturing.</description>
-      <pubDate>Wed, 08 Jul 2026 06:06:24 -0000</pubDate>
-      <guid>https://metrology.news/detection-technology-raises-the-bar-for-large-area-industrial-x-ray-detection/</guid>
     </item>
   </channel>
 </rss>
