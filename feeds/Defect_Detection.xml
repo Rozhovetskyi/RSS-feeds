@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Tiny Vision Models on Device: Image Apps Without the... - FutureExplain</title>
+      <link>https://futureexplain.com/tiny-vision-models-on-device-image-apps-without-the-cloud</link>
+      <description>You'll learn practical implementation strategies, privacy benefits, battery consumption considerations, and real-world case studies showing how businesses are deploying these solutions.</description>
+      <pubDate>Sun, 12 Jul 2026 18:28:36 -0000</pubDate>
+      <guid>https://futureexplain.com/tiny-vision-models-on-device-image-apps-without-the-cloud</guid>
+    </item>
+    <item>
+      <title>For my contacts in India (or Americans, Canadians or Brazilians that go... - LinkedIn</title>
+      <link>https://www.linkedin.com/posts/jean-pierre-allard-2864b66_for-my-contacts-in-india-or-americans-canadians-activity-7208457731123335168-757X</link>
+      <description>Join Our free-to-attend Webinar on Artificial Intelligence in Visual Inspection, where we will explore the evolution of AI across its various generations and its practical applications in visual inspection on production lines.</description>
+      <pubDate>Sun, 12 Jul 2026 18:27:17 -0000</pubDate>
+      <guid>https://www.linkedin.com/posts/jean-pierre-allard-2864b66_for-my-contacts-in-india-or-americans-canadians-activity-7208457731123335168-757X</guid>
+    </item>
+    <item>
       <title>Automated Defect Recognition &amp; AI in Digital Radiography - OnestopNDT</title>
       <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
       <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection accuracy and efficiency.</description>
@@ -38,20 +52,6 @@
       <description>Join us for an exclusive webinar hosted by the ASQ - World Headquarters Automotive Division to dive deep into how #AI and #Machine #Vision are transforming defect detection into a proactive, data-driven strategy.</description>
       <pubDate>Tue, 23 Jun 2026 18:18:26 -0000</pubDate>
       <guid>https://my.asq.org/events/event-description?CalendarEventKey=3c1b0c1f-a55c-4642-94f4-019c6849b135&amp;CommunityKey=8de232cd-b0f3-4024-a067-f8c16fd113b4&amp;Home=%2Fcommunities%2Fcommunity-home%2Frecent-community-events</guid>
-    </item>
-    <item>
-      <title>Defect detection is one of the most established edge AI use cases in ...</title>
-      <link>https://x.com/edgeaivision/status/2051759893846307086</link>
-      <description>Defect detection is one of the most established edge AI use cases in industry. This webinar focuses on building practical computer vision pipelines for ...</description>
-      <pubDate>Sun, 21 Jun 2026 18:20:44 -0000</pubDate>
-      <guid>https://x.com/edgeaivision/status/2051759893846307086</guid>
-    </item>
-    <item>
-      <title>Edge AI for Defect Detection in Manufacturing - LinkedIn</title>
-      <link>https://www.linkedin.com/posts/edgeaivision_upcoming-webinar-on-computer-vision-and-edge-activity-7457526391270440960-Ce81</link>
-      <description>May 5, 2026 · Automated defect detection remains one of the most widely deployed applications of edge AI in manufacturing. This upcoming webinar focuses ...</description>
-      <pubDate>Sun, 21 Jun 2026 18:20:44 -0000</pubDate>
-      <guid>https://www.linkedin.com/posts/edgeaivision_upcoming-webinar-on-computer-vision-and-edge-activity-7457526391270440960-Ce81</guid>
     </item>
   </channel>
 </rss>
