@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>New Machine Tool Probe Integrates Touch-Trigger, Scanning and Surface Finish Verification</title>
+      <link>https://metrology.news/new-machine-tool-probe-integrates-touch-trigger-scanning-and-surface-finish-verification/</link>
+      <description>New machine tool probe provides integrated touch-trigger, scanning, and surface finish verification for manufacturing quality control.</description>
+      <pubDate>Mon, 13 Jul 2026 06:14:44 -0000</pubDate>
+      <guid>https://metrology.news/new-machine-tool-probe-integrates-touch-trigger-scanning-and-surface-finish-verification/</guid>
+    </item>
+    <item>
+      <title>FARO CREAFORM Expands HandySCAN 3D Portfolio</title>
+      <link>https://metrology.news/faro-creaform-expands-handyscan-3d-portfolio/</link>
+      <description>FARO CREAFORM expands its HandySCAN 3D portfolio to offer more hardware solutions for metrology and quality control.</description>
+      <pubDate>Mon, 13 Jul 2026 06:14:38 -0000</pubDate>
+      <guid>https://metrology.news/faro-creaform-expands-handyscan-3d-portfolio/</guid>
+    </item>
+    <item>
       <title>Teledyne Linea HS2 8k Camera</title>
       <link>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</link>
       <description>Teledyne DALSA releases its next-generation 8k TDI camera, enhancing high-speed imaging capabilities for industrial machine vision applications.</description>
@@ -38,20 +52,6 @@
       <description>Machine vision expert David L. Dechow joins Arthur G. Russell Co., strengthening commercial expertise in factory automation and integration.</description>
       <pubDate>Sun, 12 Jul 2026 06:20:22 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/news/55389032/machine-vision-expert-david-dechow-joins-agr</guid>
-    </item>
-    <item>
-      <title>Focus On Vision:  Awards, Robotics, and Market Growth Projections | July 8, 2026</title>
-      <link>https://www.vision-systems.com/factory/video/55389477/focus-on-vision-awards-and-market-growth-projections-july-8-2026</link>
-      <description>Market trend projections highlight the continued commercial growth and expanding footprint of industrial machine vision.</description>
-      <pubDate>Sat, 11 Jul 2026 06:23:39 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/video/55389477/focus-on-vision-awards-and-market-growth-projections-july-8-2026</guid>
-    </item>
-    <item>
-      <title>From Nano-Scale to Large-Scale: Optimizing Electronics Yield with 3D Optical Metrology</title>
-      <link>https://www.qualitymag.com/articles/99737-from-nano-scale-to-large-scale-optimizing-electronics-yield-with-3d-optical-metrology</link>
-      <description>Commercial 3D optical metrology solutions are scaling to enhance defect detection and optimize manufacturing yields.</description>
-      <pubDate>Sat, 11 Jul 2026 06:23:38 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99737-from-nano-scale-to-large-scale-optimizing-electronics-yield-with-3d-optical-metrology</guid>
     </item>
   </channel>
 </rss>
