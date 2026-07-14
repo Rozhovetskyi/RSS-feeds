@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and ...</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
+      <pubDate>Tue, 14 Jul 2026 18:20:24 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
+      <title>Automated Defect Recognition &amp; AI in Digital Radiography</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
+      <pubDate>Tue, 14 Jul 2026 18:20:21 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
       <title>North America Automated Defect Recognition (Adr) Market: Future...</title>
       <link>https://www.linkedin.com/pulse/north-america-automated-defect-recognition-1pjtc</link>
       <description>The North American Automated Defect Recognition (ADR) market is witnessing rapid evolution driven by technological innovations, increasing manufacturing automation, and a growing emphasis on quality control with practical applications across various industries.</description>
@@ -38,20 +52,6 @@
       <description>The aim is to bridge the gap between theoretical fracture mechanics and its practical application, providing a clear understanding of how defect tolerance assessments are performed in practice and how confidence in results is established for engineering decision making.</description>
       <pubDate>Mon, 13 Jul 2026 18:13:32 -0000</pubDate>
       <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
-    </item>
-    <item>
-      <title>Tiny Vision Models on Device: Image Apps Without the... - FutureExplain</title>
-      <link>https://futureexplain.com/tiny-vision-models-on-device-image-apps-without-the-cloud</link>
-      <description>You'll learn practical implementation strategies, privacy benefits, battery consumption considerations, and real-world case studies showing how businesses are deploying these solutions.</description>
-      <pubDate>Sun, 12 Jul 2026 18:28:36 -0000</pubDate>
-      <guid>https://futureexplain.com/tiny-vision-models-on-device-image-apps-without-the-cloud</guid>
-    </item>
-    <item>
-      <title>For my contacts in India (or Americans, Canadians or Brazilians that go... - LinkedIn</title>
-      <link>https://www.linkedin.com/posts/jean-pierre-allard-2864b66_for-my-contacts-in-india-or-americans-canadians-activity-7208457731123335168-757X</link>
-      <description>Join Our free-to-attend Webinar on Artificial Intelligence in Visual Inspection, where we will explore the evolution of AI across its various generations and its practical applications in visual inspection on production lines.</description>
-      <pubDate>Sun, 12 Jul 2026 18:27:17 -0000</pubDate>
-      <guid>https://www.linkedin.com/posts/jean-pierre-allard-2864b66_for-my-contacts-in-india-or-americans-canadians-activity-7208457731123335168-757X</guid>
     </item>
   </channel>
 </rss>
