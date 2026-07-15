@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Revopoint Introduces Wireless Marker-Free Trackit SR 3D Scanner</title>
+      <link>https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/</link>
+      <description>Revopoint launches a wireless optical tracking 3D scanner designed to simplify industrial metrology workflows by eliminating cables.</description>
+      <pubDate>Wed, 15 Jul 2026 06:13:00 -0000</pubDate>
+      <guid>https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/</guid>
+    </item>
+    <item>
+      <title>PI Introduces A-123 Air Bearing Linear Stage for Nanometre-Precision Motion</title>
+      <link>https://metrology.news/pi-introduces-a-123-air-bearing-linear-stage-for-nanometre-precision-motion/</link>
+      <description>PI announces a new air bearing linear stage engineered for precision motion control in advanced metrology and automated inspection systems.</description>
+      <pubDate>Wed, 15 Jul 2026 06:12:58 -0000</pubDate>
+      <guid>https://metrology.news/pi-introduces-a-123-air-bearing-linear-stage-for-nanometre-precision-motion/</guid>
+    </item>
+    <item>
+      <title>Overview AI CEO Christopher Van Dyke on AI-Driven Visual Inspection Innovation</title>
+      <link>https://www.vision-systems.com/factory/manufacturing/podcast/55390677/visions-podcast-talking-ai-machine-vision-for-manufacturing</link>
+      <description>Overview AI's CEO discusses innovations in AI-driven visual inspection, highlighting advancements in factory automation and quality control.</description>
+      <pubDate>Wed, 15 Jul 2026 06:12:56 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/manufacturing/podcast/55390677/visions-podcast-talking-ai-machine-vision-for-manufacturing</guid>
+    </item>
+    <item>
       <title>Why the Semiconductor Growth Story Is Only Just Beginning - Industrial Equipment News</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmM5RG9ySmxLZHl2WWhzQ0UxTVJ2RU1HS2daTVd0d1o5UFd4WlpMZlA2YlR4NzZoSmdfVkRhT3BUbFctd1huaC1WSUQ4bFpnbWhZa3NRTFpmVWpXamo0cTRtM3lwdDBBZXhUMlBWc0pITnBqSXJjMm9IWnNmejc3VDlHd1pURS1rX1JhV2F3SFFFY1VzUUxucklERWFtWEpuWEZPYzgwMXQ?oc=5</link>
       <description>The semiconductor industry's continued growth drives demand for advanced automated optical inspection and metrology equipment.</description>
@@ -31,27 +52,6 @@
       <description>New machine tool probe provides integrated touch-trigger, scanning, and surface finish verification for manufacturing quality control.</description>
       <pubDate>Mon, 13 Jul 2026 06:14:44 -0000</pubDate>
       <guid>https://metrology.news/new-machine-tool-probe-integrates-touch-trigger-scanning-and-surface-finish-verification/</guid>
-    </item>
-    <item>
-      <title>FARO CREAFORM Expands HandySCAN 3D Portfolio</title>
-      <link>https://metrology.news/faro-creaform-expands-handyscan-3d-portfolio/</link>
-      <description>FARO CREAFORM expands its HandySCAN 3D portfolio to offer more hardware solutions for metrology and quality control.</description>
-      <pubDate>Mon, 13 Jul 2026 06:14:38 -0000</pubDate>
-      <guid>https://metrology.news/faro-creaform-expands-handyscan-3d-portfolio/</guid>
-    </item>
-    <item>
-      <title>Teledyne Linea HS2 8k Camera</title>
-      <link>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</link>
-      <description>Teledyne DALSA releases its next-generation 8k TDI camera, enhancing high-speed imaging capabilities for industrial machine vision applications.</description>
-      <pubDate>Sun, 12 Jul 2026 06:20:23 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99730-teledyne-linea-hs2-8k-camera</guid>
-    </item>
-    <item>
-      <title>Pleora iPORT GEV-TB External Frame Grabber</title>
-      <link>https://www.qualitymag.com/articles/99731-pleora-iport-gev-tb-external-frame-grabber</link>
-      <description>Pleora Technologies launches a new external frame grabber to simplify the integration of high-bandwidth GigE Vision cameras for commercial defect detection systems.</description>
-      <pubDate>Sun, 12 Jul 2026 06:20:23 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99731-pleora-iport-gev-tb-external-frame-grabber</guid>
     </item>
   </channel>
 </rss>
