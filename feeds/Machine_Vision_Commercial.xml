@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Apera AI Introduces Pre-Engineered VuePod Bin-Picking Cell</title>
+      <link>https://metrology.news/apera-ai-introduces-pre-engineered-vuepod-bin-picking-cell/</link>
+      <description>Apera AI launches VuePod, a pre-engineered robotic bin-picking workcell utilizing advanced 3D vision for automation.</description>
+      <pubDate>Thu, 16 Jul 2026 06:10:11 -0000</pubDate>
+      <guid>https://metrology.news/apera-ai-introduces-pre-engineered-vuepod-bin-picking-cell/</guid>
+    </item>
+    <item>
+      <title>UnitX Launches DeteX: An AI-Powered Smart Camera for Simplified Manufacturing Inspection</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</link>
+      <description>UnitX releases DeteX, an AI-driven smart camera designed to simplify manufacturing inspection processes.</description>
+      <pubDate>Thu, 16 Jul 2026 06:10:11 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</guid>
+    </item>
+    <item>
       <title>Revopoint Introduces Wireless Marker-Free Trackit SR 3D Scanner</title>
       <link>https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/</link>
       <description>Revopoint launches a wireless optical tracking 3D scanner designed to simplify industrial metrology workflows by eliminating cables.</description>
@@ -38,20 +52,6 @@
       <description>A podcast discussing emerging market trends and updates in the commercial machine vision sector.</description>
       <pubDate>Tue, 14 Jul 2026 06:23:32 -0000</pubDate>
       <guid>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</guid>
-    </item>
-    <item>
-      <title>U.S. Manufacturing Technology Orders Climb 32% Through First Five Months of 2026</title>
-      <link>https://metrology.news/u-s-manufacturing-technology-orders-climb-32-through-first-five-months-of-2026/</link>
-      <description>US manufacturing technology orders show strong 32 percent growth in early 2026, indicating increased investment in factory automation systems.</description>
-      <pubDate>Tue, 14 Jul 2026 06:23:28 -0000</pubDate>
-      <guid>https://metrology.news/u-s-manufacturing-technology-orders-climb-32-through-first-five-months-of-2026/</guid>
-    </item>
-    <item>
-      <title>New Machine Tool Probe Integrates Touch-Trigger, Scanning and Surface Finish Verification</title>
-      <link>https://metrology.news/new-machine-tool-probe-integrates-touch-trigger-scanning-and-surface-finish-verification/</link>
-      <description>New machine tool probe provides integrated touch-trigger, scanning, and surface finish verification for manufacturing quality control.</description>
-      <pubDate>Mon, 13 Jul 2026 06:14:44 -0000</pubDate>
-      <guid>https://metrology.news/new-machine-tool-probe-integrates-touch-trigger-scanning-and-surface-finish-verification/</guid>
     </item>
   </channel>
 </rss>
