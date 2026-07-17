@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Why Design Automation Is Starting to Reshape Inspection Workflows</title>
+      <link>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</link>
+      <description>Design automation is accelerating inspection workflows and reducing custom fixture design bottlenecks in quality control.</description>
+      <pubDate>Fri, 17 Jul 2026 06:30:00 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</guid>
+    </item>
+    <item>
+      <title>IMTS 2026 to Showcase the AI-Powered Future of Manufacturing</title>
+      <link>https://metrology.news/imts-2026-to-showcase-the-ai-powered-future-of-manufacturing/</link>
+      <description>The AI-powered future of manufacturing showcased at IMTS 2026 highlights the commercial impact of AI on factory automation and metrology.</description>
+      <pubDate>Fri, 17 Jul 2026 06:30:00 -0000</pubDate>
+      <guid>https://metrology.news/imts-2026-to-showcase-the-ai-powered-future-of-manufacturing/</guid>
+    </item>
+    <item>
       <title>Apera AI Introduces Pre-Engineered VuePod Bin-Picking Cell</title>
       <link>https://metrology.news/apera-ai-introduces-pre-engineered-vuepod-bin-picking-cell/</link>
       <description>Apera AI launches VuePod, a pre-engineered robotic bin-picking workcell utilizing advanced 3D vision for automation.</description>
@@ -38,20 +52,6 @@
       <description>Overview AI's CEO discusses innovations in AI-driven visual inspection, highlighting advancements in factory automation and quality control.</description>
       <pubDate>Wed, 15 Jul 2026 06:12:56 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/manufacturing/podcast/55390677/visions-podcast-talking-ai-machine-vision-for-manufacturing</guid>
-    </item>
-    <item>
-      <title>Why the Semiconductor Growth Story Is Only Just Beginning - Industrial Equipment News</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmM5RG9ySmxLZHl2WWhzQ0UxTVJ2RU1HS2daTVd0d1o5UFd4WlpMZlA2YlR4NzZoSmdfVkRhT3BUbFctd1huaC1WSUQ4bFpnbWhZa3NRTFpmVWpXamo0cTRtM3lwdDBBZXhUMlBWc0pITnBqSXJjMm9IWnNmejc3VDlHd1pURS1rX1JhV2F3SFFFY1VzUUxucklERWFtWEpuWEZPYzgwMXQ?oc=5</link>
-      <description>The semiconductor industry's continued growth drives demand for advanced automated optical inspection and metrology equipment.</description>
-      <pubDate>Tue, 14 Jul 2026 06:23:37 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmM5RG9ySmxLZHl2WWhzQ0UxTVJ2RU1HS2daTVd0d1o5UFd4WlpMZlA2YlR4NzZoSmdfVkRhT3BUbFctd1huaC1WSUQ4bFpnbWhZa3NRTFpmVWpXamo0cTRtM3lwdDBBZXhUMlBWc0pITnBqSXJjMm9IWnNmejc3VDlHd1pURS1rX1JhV2F3SFFFY1VzUUxucklERWFtWEpuWEZPYzgwMXQ?oc=5</guid>
-    </item>
-    <item>
-      <title>Visions Podcast: Machine Vision Markets Update</title>
-      <link>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</link>
-      <description>A podcast discussing emerging market trends and updates in the commercial machine vision sector.</description>
-      <pubDate>Tue, 14 Jul 2026 06:23:32 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/podcast/55389352/emerging-trends-in-machine-vision-insights-from-interact-analysis</guid>
     </item>
   </channel>
 </rss>
