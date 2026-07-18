@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>BYK Strengthens Measurement, Testing Portfolio With Strategic Acquisition</title>
+      <link>https://www.qualitymag.com/articles/99753-byk-strengthens-measurement-testing-portfolio-with-strategic-acquisition</link>
+      <description>BYK-Gardner acquires perisens GmbH to boost their measurement and testing capabilities in quality control.</description>
+      <pubDate>Sat, 18 Jul 2026 06:29:09 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99753-byk-strengthens-measurement-testing-portfolio-with-strategic-acquisition</guid>
+    </item>
+    <item>
+      <title>Beyond Specs: How Material and Surface Properties Impact 3D Sensor Performance</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55391111/orbecc-inc-beyond-specs-how-material-and-surface-properties-impact-3d-sensor-performance</link>
+      <description>An article highlighting real-world limitations and testing needs of 3D vision sensors for defect detection.</description>
+      <pubDate>Sat, 18 Jul 2026 06:29:05 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55391111/orbecc-inc-beyond-specs-how-material-and-surface-properties-impact-3d-sensor-performance</guid>
+    </item>
+    <item>
+      <title>AI Trends Shaping the Future of Industrial Inspection and Robotics</title>
+      <link>https://www.vision-systems.com/factory/article/55391489/ai-trends-shaping-the-future-of-industrial-inspection-and-robotics</link>
+      <description>AI is transitioning into a core element of machine vision, driving robust and adaptable factory automation systems.</description>
+      <pubDate>Sat, 18 Jul 2026 06:29:00 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55391489/ai-trends-shaping-the-future-of-industrial-inspection-and-robotics</guid>
+    </item>
+    <item>
       <title>Why Design Automation Is Starting to Reshape Inspection Workflows</title>
       <link>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</link>
       <description>Design automation is accelerating inspection workflows and reducing custom fixture design bottlenecks in quality control.</description>
@@ -31,27 +52,6 @@
       <description>UnitX releases DeteX, an AI-driven smart camera designed to simplify manufacturing inspection processes.</description>
       <pubDate>Thu, 16 Jul 2026 06:10:11 -0000</pubDate>
       <guid>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</guid>
-    </item>
-    <item>
-      <title>Revopoint Introduces Wireless Marker-Free Trackit SR 3D Scanner</title>
-      <link>https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/</link>
-      <description>Revopoint launches a wireless optical tracking 3D scanner designed to simplify industrial metrology workflows by eliminating cables.</description>
-      <pubDate>Wed, 15 Jul 2026 06:13:00 -0000</pubDate>
-      <guid>https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/</guid>
-    </item>
-    <item>
-      <title>PI Introduces A-123 Air Bearing Linear Stage for Nanometre-Precision Motion</title>
-      <link>https://metrology.news/pi-introduces-a-123-air-bearing-linear-stage-for-nanometre-precision-motion/</link>
-      <description>PI announces a new air bearing linear stage engineered for precision motion control in advanced metrology and automated inspection systems.</description>
-      <pubDate>Wed, 15 Jul 2026 06:12:58 -0000</pubDate>
-      <guid>https://metrology.news/pi-introduces-a-123-air-bearing-linear-stage-for-nanometre-precision-motion/</guid>
-    </item>
-    <item>
-      <title>Overview AI CEO Christopher Van Dyke on AI-Driven Visual Inspection Innovation</title>
-      <link>https://www.vision-systems.com/factory/manufacturing/podcast/55390677/visions-podcast-talking-ai-machine-vision-for-manufacturing</link>
-      <description>Overview AI's CEO discusses innovations in AI-driven visual inspection, highlighting advancements in factory automation and quality control.</description>
-      <pubDate>Wed, 15 Jul 2026 06:12:56 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/manufacturing/podcast/55390677/visions-podcast-talking-ai-machine-vision-for-manufacturing</guid>
     </item>
   </channel>
 </rss>
