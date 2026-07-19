@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Tomocube Launches HT-T1 Desktop for 3D Glass Substrate Defect Analysis in Advanced Packaging</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkxkMUtaSGYwN2pqU3JWOFhzUXo1ci1UZzI5bVlKZmtkcFcxU2JPTmlSdUF1Y1NxZWtKX0dhOG9jQ2NtOFlTX3VCOG9xUnJvdFBOQmZkT0wzcTF1NExIclk4by0ybFowTW1HbExWbEpZS184cW1ILXJBbUNEcHBUM1dEclB0Q3RQam4yZldkUjZiNmU3RWktS2wzZllnOWN4YXNRNVdIeWE1NGZXMVhMTEpJbTdPcklZLVlOTjYzZG12YkFMc1VVd0VWSXh5M205cWM4N29LVW9qMThZ?oc=5</link>
+      <description>Tomocube introduces a new desktop holotomography system aimed specifically at 3D defect analysis in advanced semiconductor packaging.</description>
+      <pubDate>Sun, 19 Jul 2026 06:13:01 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkxkMUtaSGYwN2pqU3JWOFhzUXo1ci1UZzI5bVlKZmtkcFcxU2JPTmlSdUF1Y1NxZWtKX0dhOG9jQ2NtOFlTX3VCOG9xUnJvdFBOQmZkT0wzcTF1NExIclk4by0ybFowTW1HbExWbEpZS184cW1ILXJBbUNEcHBUM1dEclB0Q3RQam4yZldkUjZiNmU3RWktS2wzZllnOWN4YXNRNVdIeWE1NGZXMVhMTEpJbTdPcklZLVlOTjYzZG12YkFMc1VVd0VWSXh5M205cWM4N29LVW9qMThZ?oc=5</guid>
+    </item>
+    <item>
+      <title>When Smart Manufacturing Meets Human Intuition</title>
+      <link>https://www.qualitymag.com/articles/99755-when-smart-manufacturing-meets-human-intuition</link>
+      <description>An analysis of the ongoing necessity of human intuition in interpreting data from smart manufacturing and vision systems.</description>
+      <pubDate>Sun, 19 Jul 2026 06:13:00 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99755-when-smart-manufacturing-meets-human-intuition</guid>
+    </item>
+    <item>
+      <title>Building Quality Systems for Semiconductor Yield Ramp and High-Volume Production</title>
+      <link>https://www.qualitymag.com/articles/99756-building-quality-systems-for-semiconductor-yield-ramp-and-high-volume-production</link>
+      <description>An interview discussing the challenges and requirements of building robust quality systems for high-volume semiconductor manufacturing.</description>
+      <pubDate>Sun, 19 Jul 2026 06:12:59 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99756-building-quality-systems-for-semiconductor-yield-ramp-and-high-volume-production</guid>
+    </item>
+    <item>
       <title>BYK Strengthens Measurement, Testing Portfolio With Strategic Acquisition</title>
       <link>https://www.qualitymag.com/articles/99753-byk-strengthens-measurement-testing-portfolio-with-strategic-acquisition</link>
       <description>BYK-Gardner acquires perisens GmbH to boost their measurement and testing capabilities in quality control.</description>
@@ -31,27 +52,6 @@
       <description>Design automation is accelerating inspection workflows and reducing custom fixture design bottlenecks in quality control.</description>
       <pubDate>Fri, 17 Jul 2026 06:30:00 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</guid>
-    </item>
-    <item>
-      <title>IMTS 2026 to Showcase the AI-Powered Future of Manufacturing</title>
-      <link>https://metrology.news/imts-2026-to-showcase-the-ai-powered-future-of-manufacturing/</link>
-      <description>The AI-powered future of manufacturing showcased at IMTS 2026 highlights the commercial impact of AI on factory automation and metrology.</description>
-      <pubDate>Fri, 17 Jul 2026 06:30:00 -0000</pubDate>
-      <guid>https://metrology.news/imts-2026-to-showcase-the-ai-powered-future-of-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Apera AI Introduces Pre-Engineered VuePod Bin-Picking Cell</title>
-      <link>https://metrology.news/apera-ai-introduces-pre-engineered-vuepod-bin-picking-cell/</link>
-      <description>Apera AI launches VuePod, a pre-engineered robotic bin-picking workcell utilizing advanced 3D vision for automation.</description>
-      <pubDate>Thu, 16 Jul 2026 06:10:11 -0000</pubDate>
-      <guid>https://metrology.news/apera-ai-introduces-pre-engineered-vuepod-bin-picking-cell/</guid>
-    </item>
-    <item>
-      <title>UnitX Launches DeteX: An AI-Powered Smart Camera for Simplified Manufacturing Inspection</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</link>
-      <description>UnitX releases DeteX, an AI-driven smart camera designed to simplify manufacturing inspection processes.</description>
-      <pubDate>Thu, 16 Jul 2026 06:10:11 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</guid>
     </item>
   </channel>
 </rss>
