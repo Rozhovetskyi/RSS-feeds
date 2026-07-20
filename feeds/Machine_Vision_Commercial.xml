@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Measured Intelligence: How AI Is Reshaping Metrology Training, Compliance, and Analysis</title>
+      <link>https://www.qualitymag.com/articles/99757-measured-intelligence-how-ai-is-reshaping-metrology-training-compliance-and-analysis</link>
+      <description>AI-driven advancements in metrology provide comprehensive solutions for commercial compliance, quality analysis, and workforce training.</description>
+      <pubDate>Mon, 20 Jul 2026 06:29:42 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99757-measured-intelligence-how-ai-is-reshaping-metrology-training-compliance-and-analysis</guid>
+    </item>
+    <item>
+      <title>Closing the Digital Quality Loop – Integrating Metrology into Smart Manufacturing</title>
+      <link>https://metrology.news/closing-the-digital-quality-loop-integrating-metrology-into-smart-manufacturing/</link>
+      <description>Integrating metrology into smart manufacturing enhances factory automation systems and quality control workflows.</description>
+      <pubDate>Mon, 20 Jul 2026 06:29:40 -0000</pubDate>
+      <guid>https://metrology.news/closing-the-digital-quality-loop-integrating-metrology-into-smart-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Hexagon Expands Large-Scale Inspection Solutions</title>
+      <link>https://metrology.news/hexagon-expands-large-scale-inspection-solutions/</link>
+      <description>Hexagon expands the availability of its horizontal arm CMM, bringing a proven large-scale metrology solution to wider global markets.</description>
+      <pubDate>Mon, 20 Jul 2026 06:29:27 -0000</pubDate>
+      <guid>https://metrology.news/hexagon-expands-large-scale-inspection-solutions/</guid>
+    </item>
+    <item>
       <title>Tomocube Launches HT-T1 Desktop for 3D Glass Substrate Defect Analysis in Advanced Packaging</title>
       <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkxkMUtaSGYwN2pqU3JWOFhzUXo1ci1UZzI5bVlKZmtkcFcxU2JPTmlSdUF1Y1NxZWtKX0dhOG9jQ2NtOFlTX3VCOG9xUnJvdFBOQmZkT0wzcTF1NExIclk4by0ybFowTW1HbExWbEpZS184cW1ILXJBbUNEcHBUM1dEclB0Q3RQam4yZldkUjZiNmU3RWktS2wzZllnOWN4YXNRNVdIeWE1NGZXMVhMTEpJbTdPcklZLVlOTjYzZG12YkFMc1VVd0VWSXh5M205cWM4N29LVW9qMThZ?oc=5</link>
       <description>Tomocube introduces a new desktop holotomography system aimed specifically at 3D defect analysis in advanced semiconductor packaging.</description>
@@ -31,27 +52,6 @@
       <description>BYK-Gardner acquires perisens GmbH to boost their measurement and testing capabilities in quality control.</description>
       <pubDate>Sat, 18 Jul 2026 06:29:09 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99753-byk-strengthens-measurement-testing-portfolio-with-strategic-acquisition</guid>
-    </item>
-    <item>
-      <title>Beyond Specs: How Material and Surface Properties Impact 3D Sensor Performance</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55391111/orbecc-inc-beyond-specs-how-material-and-surface-properties-impact-3d-sensor-performance</link>
-      <description>An article highlighting real-world limitations and testing needs of 3D vision sensors for defect detection.</description>
-      <pubDate>Sat, 18 Jul 2026 06:29:05 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55391111/orbecc-inc-beyond-specs-how-material-and-surface-properties-impact-3d-sensor-performance</guid>
-    </item>
-    <item>
-      <title>AI Trends Shaping the Future of Industrial Inspection and Robotics</title>
-      <link>https://www.vision-systems.com/factory/article/55391489/ai-trends-shaping-the-future-of-industrial-inspection-and-robotics</link>
-      <description>AI is transitioning into a core element of machine vision, driving robust and adaptable factory automation systems.</description>
-      <pubDate>Sat, 18 Jul 2026 06:29:00 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55391489/ai-trends-shaping-the-future-of-industrial-inspection-and-robotics</guid>
-    </item>
-    <item>
-      <title>Why Design Automation Is Starting to Reshape Inspection Workflows</title>
-      <link>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</link>
-      <description>Design automation is accelerating inspection workflows and reducing custom fixture design bottlenecks in quality control.</description>
-      <pubDate>Fri, 17 Jul 2026 06:30:00 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99754-why-design-automation-is-starting-to-reshape-inspection-workflows</guid>
     </item>
   </channel>
 </rss>
