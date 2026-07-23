@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Beyond Illumination: New Approaches to Reliable Automated Inspection</title>
+      <link>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</link>
+      <description>Explores new commercial methodologies in automated inspection systems to improve defect recognition and manufacturing quality control.</description>
+      <pubDate>Thu, 23 Jul 2026 06:03:02 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</guid>
+    </item>
+    <item>
+      <title>API Introduces Next-Generation Optical CMM for Automated Non-Contact Inspection</title>
+      <link>https://metrology.news/api-introduces-next-generation-optical-cmm-for-automated-non-contact-inspection/</link>
+      <description>API's new optical CMM hardware provides advanced non-contact inspection capabilities for turnkey factory automation solutions.</description>
+      <pubDate>Thu, 23 Jul 2026 06:03:00 -0000</pubDate>
+      <guid>https://metrology.news/api-introduces-next-generation-optical-cmm-for-automated-non-contact-inspection/</guid>
+    </item>
+    <item>
+      <title>Digital Metrology Solutions Launches TraceBossPro for Advanced Surface Roughness and Crosshatch Analysis</title>
+      <link>https://metrology.news/digital-metrology-solutions-launches-tracebosspro-for-advanced-surface-roughness-and-crosshatch-analysis/</link>
+      <description>The launch of TraceBossPro software enhances automated surface roughness analysis for industrial metrology and quality control.</description>
+      <pubDate>Thu, 23 Jul 2026 06:02:57 -0000</pubDate>
+      <guid>https://metrology.news/digital-metrology-solutions-launches-tracebosspro-for-advanced-surface-roughness-and-crosshatch-analysis/</guid>
+    </item>
+    <item>
       <title>Millimeter Wave Imaging Advances Industrial Quality Inspection</title>
       <link>https://metrology.news/millimeter-wave-imaging-advances-industrial-quality-inspection/</link>
       <description>Rohde &amp; Schwarz introduces a real-time millimeter wave inspection system for non-destructive industrial quality control.</description>
@@ -31,27 +52,6 @@
       <description>Integrating metrology into smart manufacturing enhances factory automation systems and quality control workflows.</description>
       <pubDate>Mon, 20 Jul 2026 06:29:40 -0000</pubDate>
       <guid>https://metrology.news/closing-the-digital-quality-loop-integrating-metrology-into-smart-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Hexagon Expands Large-Scale Inspection Solutions</title>
-      <link>https://metrology.news/hexagon-expands-large-scale-inspection-solutions/</link>
-      <description>Hexagon expands the availability of its horizontal arm CMM, bringing a proven large-scale metrology solution to wider global markets.</description>
-      <pubDate>Mon, 20 Jul 2026 06:29:27 -0000</pubDate>
-      <guid>https://metrology.news/hexagon-expands-large-scale-inspection-solutions/</guid>
-    </item>
-    <item>
-      <title>Tomocube Launches HT-T1 Desktop for 3D Glass Substrate Defect Analysis in Advanced Packaging</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkxkMUtaSGYwN2pqU3JWOFhzUXo1ci1UZzI5bVlKZmtkcFcxU2JPTmlSdUF1Y1NxZWtKX0dhOG9jQ2NtOFlTX3VCOG9xUnJvdFBOQmZkT0wzcTF1NExIclk4by0ybFowTW1HbExWbEpZS184cW1ILXJBbUNEcHBUM1dEclB0Q3RQam4yZldkUjZiNmU3RWktS2wzZllnOWN4YXNRNVdIeWE1NGZXMVhMTEpJbTdPcklZLVlOTjYzZG12YkFMc1VVd0VWSXh5M205cWM4N29LVW9qMThZ?oc=5</link>
-      <description>Tomocube introduces a new desktop holotomography system aimed specifically at 3D defect analysis in advanced semiconductor packaging.</description>
-      <pubDate>Sun, 19 Jul 2026 06:13:01 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkxkMUtaSGYwN2pqU3JWOFhzUXo1ci1UZzI5bVlKZmtkcFcxU2JPTmlSdUF1Y1NxZWtKX0dhOG9jQ2NtOFlTX3VCOG9xUnJvdFBOQmZkT0wzcTF1NExIclk4by0ybFowTW1HbExWbEpZS184cW1ILXJBbUNEcHBUM1dEclB0Q3RQam4yZldkUjZiNmU3RWktS2wzZllnOWN4YXNRNVdIeWE1NGZXMVhMTEpJbTdPcklZLVlOTjYzZG12YkFMc1VVd0VWSXh5M205cWM4N29LVW9qMThZ?oc=5</guid>
-    </item>
-    <item>
-      <title>When Smart Manufacturing Meets Human Intuition</title>
-      <link>https://www.qualitymag.com/articles/99755-when-smart-manufacturing-meets-human-intuition</link>
-      <description>An analysis of the ongoing necessity of human intuition in interpreting data from smart manufacturing and vision systems.</description>
-      <pubDate>Sun, 19 Jul 2026 06:13:00 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99755-when-smart-manufacturing-meets-human-intuition</guid>
     </item>
   </channel>
 </rss>
