@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Aerospace OEM Adopts ‘Machine-Agnostic’ In-Situ QA to Accelerate Confidence in Metal AM Builds</title>
+      <link>https://www.qualitymag.com/articles/99770-aerospace-oem-adopts-machine-agnostic-in-situ-qa-to-accelerate-confidence-in-metal-am-builds</link>
+      <description>Adoption of machine-agnostic in-situ quality assurance highlights commercial shifts towards automated defect detection.</description>
+      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99770-aerospace-oem-adopts-machine-agnostic-in-situ-qa-to-accelerate-confidence-in-metal-am-builds</guid>
+    </item>
+    <item>
+      <title>Simplifying Machine Vision: Exaktera's Integrated Approach</title>
+      <link>https://www.vision-systems.com/factory/podcast/55392432/visions-podcast</link>
+      <description>Exaktera offers an integrated hardware platform to reduce engineering complexity for commercial factory automation needs.</description>
+      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55392432/visions-podcast</guid>
+    </item>
+    <item>
+      <title>Practical Insights on Embedded Architectures and Machine Vision Innovation</title>
+      <link>https://www.vision-systems.com/embedded/article/55392984/texas-instruments-practical-insights-on-embedded-architectures-and-machine-vision-innovation</link>
+      <description>Insights on leveraging embedded hardware architectures to develop future-ready commercial machine vision solutions.</description>
+      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
+      <guid>https://www.vision-systems.com/embedded/article/55392984/texas-instruments-practical-insights-on-embedded-architectures-and-machine-vision-innovation</guid>
+    </item>
+    <item>
+      <title>GelSight Launches Remote Assist to Enable Live Remote Surface Metrology</title>
+      <link>https://metrology.news/gelsight-launches-remote-assist-to-enable-live-remote-surface-metrology/</link>
+      <description>GelSight's new Remote Assist feature provides real-time commercial remote surface metrology and defect inspection capabilities.</description>
+      <pubDate>Fri, 24 Jul 2026 06:26:59 -0000</pubDate>
+      <guid>https://metrology.news/gelsight-launches-remote-assist-to-enable-live-remote-surface-metrology/</guid>
+    </item>
+    <item>
       <title>Beyond Illumination: New Approaches to Reliable Automated Inspection</title>
       <link>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</link>
       <description>Explores new commercial methodologies in automated inspection systems to improve defect recognition and manufacturing quality control.</description>
@@ -24,34 +52,6 @@
       <description>The launch of TraceBossPro software enhances automated surface roughness analysis for industrial metrology and quality control.</description>
       <pubDate>Thu, 23 Jul 2026 06:02:57 -0000</pubDate>
       <guid>https://metrology.news/digital-metrology-solutions-launches-tracebosspro-for-advanced-surface-roughness-and-crosshatch-analysis/</guid>
-    </item>
-    <item>
-      <title>Millimeter Wave Imaging Advances Industrial Quality Inspection</title>
-      <link>https://metrology.news/millimeter-wave-imaging-advances-industrial-quality-inspection/</link>
-      <description>Rohde &amp; Schwarz introduces a real-time millimeter wave inspection system for non-destructive industrial quality control.</description>
-      <pubDate>Tue, 21 Jul 2026 06:25:10 -0000</pubDate>
-      <guid>https://metrology.news/millimeter-wave-imaging-advances-industrial-quality-inspection/</guid>
-    </item>
-    <item>
-      <title>UnitX Launches DeteX: An AI-Powered Smart Camera for Simplified Manufacturing Inspection</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</link>
-      <description>UnitX introduces a compact AI model smart camera for robust manufacturing defect detection and measurement with minimal retraining.</description>
-      <pubDate>Tue, 21 Jul 2026 06:25:06 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55390924/unitx-launches-ai-powered-smart-camera</guid>
-    </item>
-    <item>
-      <title>Measured Intelligence: How AI Is Reshaping Metrology Training, Compliance, and Analysis</title>
-      <link>https://www.qualitymag.com/articles/99757-measured-intelligence-how-ai-is-reshaping-metrology-training-compliance-and-analysis</link>
-      <description>AI-driven advancements in metrology provide comprehensive solutions for commercial compliance, quality analysis, and workforce training.</description>
-      <pubDate>Mon, 20 Jul 2026 06:29:42 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99757-measured-intelligence-how-ai-is-reshaping-metrology-training-compliance-and-analysis</guid>
-    </item>
-    <item>
-      <title>Closing the Digital Quality Loop – Integrating Metrology into Smart Manufacturing</title>
-      <link>https://metrology.news/closing-the-digital-quality-loop-integrating-metrology-into-smart-manufacturing/</link>
-      <description>Integrating metrology into smart manufacturing enhances factory automation systems and quality control workflows.</description>
-      <pubDate>Mon, 20 Jul 2026 06:29:40 -0000</pubDate>
-      <guid>https://metrology.news/closing-the-digital-quality-loop-integrating-metrology-into-smart-manufacturing/</guid>
     </item>
   </channel>
 </rss>
