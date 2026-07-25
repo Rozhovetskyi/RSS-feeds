@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Additive Assurance Signs Distribution Agreement with NTT DATA XAM Technologies to Launch AMiRIS Real-Time Quality Assurance in Japan</title>
+      <link>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</link>
+      <description>Additive Assurance expands its real-time quality assurance for metal additive manufacturing into the Japanese market.</description>
+      <pubDate>Sat, 25 Jul 2026 06:17:06 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</guid>
+    </item>
+    <item>
+      <title>Advanced chipmaking drives Taiwan inspection firms toward listings</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</link>
+      <description>Taiwanese automated inspection companies see growth and pursue listings driven by advanced semiconductor manufacturing demands.</description>
+      <pubDate>Sat, 25 Jul 2026 06:17:04 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</guid>
+    </item>
+    <item>
       <title>Aerospace OEM Adopts ‘Machine-Agnostic’ In-Situ QA to Accelerate Confidence in Metal AM Builds</title>
       <link>https://www.qualitymag.com/articles/99770-aerospace-oem-adopts-machine-agnostic-in-situ-qa-to-accelerate-confidence-in-metal-am-builds</link>
       <description>Adoption of machine-agnostic in-situ quality assurance highlights commercial shifts towards automated defect detection.</description>
@@ -38,20 +52,6 @@
       <description>Explores new commercial methodologies in automated inspection systems to improve defect recognition and manufacturing quality control.</description>
       <pubDate>Thu, 23 Jul 2026 06:03:02 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</guid>
-    </item>
-    <item>
-      <title>API Introduces Next-Generation Optical CMM for Automated Non-Contact Inspection</title>
-      <link>https://metrology.news/api-introduces-next-generation-optical-cmm-for-automated-non-contact-inspection/</link>
-      <description>API's new optical CMM hardware provides advanced non-contact inspection capabilities for turnkey factory automation solutions.</description>
-      <pubDate>Thu, 23 Jul 2026 06:03:00 -0000</pubDate>
-      <guid>https://metrology.news/api-introduces-next-generation-optical-cmm-for-automated-non-contact-inspection/</guid>
-    </item>
-    <item>
-      <title>Digital Metrology Solutions Launches TraceBossPro for Advanced Surface Roughness and Crosshatch Analysis</title>
-      <link>https://metrology.news/digital-metrology-solutions-launches-tracebosspro-for-advanced-surface-roughness-and-crosshatch-analysis/</link>
-      <description>The launch of TraceBossPro software enhances automated surface roughness analysis for industrial metrology and quality control.</description>
-      <pubDate>Thu, 23 Jul 2026 06:02:57 -0000</pubDate>
-      <guid>https://metrology.news/digital-metrology-solutions-launches-tracebosspro-for-advanced-surface-roughness-and-crosshatch-analysis/</guid>
     </item>
   </channel>
 </rss>
