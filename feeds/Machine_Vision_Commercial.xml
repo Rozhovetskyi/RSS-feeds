@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>From Transition to Compliance: Navigating QMSR Implementation and Inspection Readiness</title>
+      <link>https://www.qualitymag.com/articles/99775-from-transition-to-compliance-navigating-qmsr-implementation-and-inspection-readiness</link>
+      <description>This article provides insights into navigating QMSR implementation and inspection readiness, highlighting market trends in commercial quality control compliance.</description>
+      <pubDate>Mon, 27 Jul 2026 06:16:44 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99775-from-transition-to-compliance-navigating-qmsr-implementation-and-inspection-readiness</guid>
+    </item>
+    <item>
+      <title>ABB and NVIDIA Outline Physical AI Blueprint for the Future of Precision Manufacturing</title>
+      <link>https://metrology.news/abb-and-nvidia-outline-physical-ai-blueprint-for-the-future-of-precision-manufacturing/</link>
+      <description>The strategic collaboration between ABB and NVIDIA reflects a major market trend toward AI-driven automation in commercial precision manufacturing.</description>
+      <pubDate>Mon, 27 Jul 2026 06:16:37 -0000</pubDate>
+      <guid>https://metrology.news/abb-and-nvidia-outline-physical-ai-blueprint-for-the-future-of-precision-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Lumafield Introduces In-line Arrayed X-ray System</title>
+      <link>https://metrology.news/lumafield-introduces-in-line-arrayed-x-ray-system/</link>
+      <description>Lumafield's introduction of an in-line arrayed X-ray system expands commercial hardware options for automated non-destructive testing.</description>
+      <pubDate>Mon, 27 Jul 2026 06:16:35 -0000</pubDate>
+      <guid>https://metrology.news/lumafield-introduces-in-line-arrayed-x-ray-system/</guid>
+    </item>
+    <item>
       <title>Additive Assurance Signs Distribution Agreement with NTT DATA XAM Technologies to Launch AMiRIS Real-Time Quality Assurance in Japan</title>
       <link>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</link>
       <description>Additive Assurance expands its real-time quality assurance for metal additive manufacturing into the Japanese market.</description>
@@ -31,27 +52,6 @@
       <description>Exaktera offers an integrated hardware platform to reduce engineering complexity for commercial factory automation needs.</description>
       <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/podcast/55392432/visions-podcast</guid>
-    </item>
-    <item>
-      <title>Practical Insights on Embedded Architectures and Machine Vision Innovation</title>
-      <link>https://www.vision-systems.com/embedded/article/55392984/texas-instruments-practical-insights-on-embedded-architectures-and-machine-vision-innovation</link>
-      <description>Insights on leveraging embedded hardware architectures to develop future-ready commercial machine vision solutions.</description>
-      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
-      <guid>https://www.vision-systems.com/embedded/article/55392984/texas-instruments-practical-insights-on-embedded-architectures-and-machine-vision-innovation</guid>
-    </item>
-    <item>
-      <title>GelSight Launches Remote Assist to Enable Live Remote Surface Metrology</title>
-      <link>https://metrology.news/gelsight-launches-remote-assist-to-enable-live-remote-surface-metrology/</link>
-      <description>GelSight's new Remote Assist feature provides real-time commercial remote surface metrology and defect inspection capabilities.</description>
-      <pubDate>Fri, 24 Jul 2026 06:26:59 -0000</pubDate>
-      <guid>https://metrology.news/gelsight-launches-remote-assist-to-enable-live-remote-surface-metrology/</guid>
-    </item>
-    <item>
-      <title>Beyond Illumination: New Approaches to Reliable Automated Inspection</title>
-      <link>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</link>
-      <description>Explores new commercial methodologies in automated inspection systems to improve defect recognition and manufacturing quality control.</description>
-      <pubDate>Thu, 23 Jul 2026 06:03:02 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99768-beyond-illumination-new-approaches-to-reliable-automated-inspection</guid>
     </item>
   </channel>
 </rss>
