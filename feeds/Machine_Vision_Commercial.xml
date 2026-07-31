@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>BMW’s Smart Battery Factory Combines AI, Digital Twins and Inline Inspection</title>
+      <link>https://metrology.news/bmws-smart-battery-factory-combines-ai-digital-twins-and-inline-inspection/</link>
+      <description>BMW incorporates AI, digital twins, and inline automated inspection at its new plant to set industry standards for high-voltage battery assembly.</description>
+      <pubDate>Fri, 31 Jul 2026 06:25:12 -0000</pubDate>
+      <guid>https://metrology.news/bmws-smart-battery-factory-combines-ai-digital-twins-and-inline-inspection/</guid>
+    </item>
+    <item>
+      <title>Therness HeatCore AI</title>
+      <link>https://www.qualitymag.com/articles/99793-therness-heatcore-ai</link>
+      <description>Therness launches HeatCore AI, combining thermal imaging and AI for real-time defect detection during manufacturing processes.</description>
+      <pubDate>Fri, 31 Jul 2026 06:25:12 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99793-therness-heatcore-ai</guid>
+    </item>
+    <item>
+      <title>World First Combines Digital Holography with Coordinate Measuring Machines</title>
+      <link>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</link>
+      <description>Fraunhofer IPM introduces a multisensor system combining high-precision digital holography with a coordinate measuring machine for advanced industrial inspection.</description>
+      <pubDate>Fri, 31 Jul 2026 06:25:12 -0000</pubDate>
+      <guid>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</guid>
+    </item>
+    <item>
       <title>MICRONITE Aims to Redefine the Role of CMM Metrology for Proactive Process Control</title>
       <link>https://metrology.news/micronite-aims-to-redefine-the-role-of-cmm-metrology-for-proactive-process-control/</link>
       <description>New MICRONITE software aims to transform CMM metrology into a tool for proactive manufacturing process control.</description>
@@ -31,27 +52,6 @@
       <description>Additive Assurance expands its real-time quality assurance for metal additive manufacturing into the Japanese market.</description>
       <pubDate>Sat, 25 Jul 2026 06:17:06 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</guid>
-    </item>
-    <item>
-      <title>Advanced chipmaking drives Taiwan inspection firms toward listings</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</link>
-      <description>Taiwanese automated inspection companies see growth and pursue listings driven by advanced semiconductor manufacturing demands.</description>
-      <pubDate>Sat, 25 Jul 2026 06:17:04 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</guid>
-    </item>
-    <item>
-      <title>Aerospace OEM Adopts ‘Machine-Agnostic’ In-Situ QA to Accelerate Confidence in Metal AM Builds</title>
-      <link>https://www.qualitymag.com/articles/99770-aerospace-oem-adopts-machine-agnostic-in-situ-qa-to-accelerate-confidence-in-metal-am-builds</link>
-      <description>Adoption of machine-agnostic in-situ quality assurance highlights commercial shifts towards automated defect detection.</description>
-      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99770-aerospace-oem-adopts-machine-agnostic-in-situ-qa-to-accelerate-confidence-in-metal-am-builds</guid>
-    </item>
-    <item>
-      <title>Simplifying Machine Vision: Exaktera's Integrated Approach</title>
-      <link>https://www.vision-systems.com/factory/podcast/55392432/visions-podcast</link>
-      <description>Exaktera offers an integrated hardware platform to reduce engineering complexity for commercial factory automation needs.</description>
-      <pubDate>Fri, 24 Jul 2026 06:27:00 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55392432/visions-podcast</guid>
     </item>
   </channel>
 </rss>
