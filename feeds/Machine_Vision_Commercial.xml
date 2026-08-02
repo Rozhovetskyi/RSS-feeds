@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Smarter, Faster, Leaner: How Multi-Sensor Inspection Platforms Transform Production Lines</title>
+      <link>https://metrology.news/smarter-faster-leaner-how-multi-sensor-inspection-platforms-transform-production-lines/</link>
+      <description>New multi-sensor inspection platforms are transforming production lines by providing faster and more comprehensive automated quality control solutions.</description>
+      <pubDate>Sun, 02 Aug 2026 06:14:27 -0000</pubDate>
+      <guid>https://metrology.news/smarter-faster-leaner-how-multi-sensor-inspection-platforms-transform-production-lines/</guid>
+    </item>
+    <item>
+      <title>World First Combines Digital Holography with Coordinate Measuring Machines</title>
+      <link>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</link>
+      <description>The integration of digital holography into coordinate measuring machines offers new commercial capabilities for precision 3D metrology and defect recognition.</description>
+      <pubDate>Sun, 02 Aug 2026 06:14:24 -0000</pubDate>
+      <guid>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</guid>
+    </item>
+    <item>
       <title>Transforming Automation: Ritesh Gupta on Zebra Technologies' AI-Driven Platform</title>
       <link>https://www.vision-systems.com/factory/podcast/55394019/visions-podcast-zebras-unified-automation</link>
       <description>Zebra Technologies introduces a unified AI-driven automation platform for industrial integrators.</description>
@@ -38,20 +52,6 @@
       <description>RoboCT introduces an advanced system bringing large-scale computed tomography to industrial quality control.</description>
       <pubDate>Tue, 28 Jul 2026 06:28:32 -0000</pubDate>
       <guid>https://metrology.news/roboct-brings-large-scale-computed-tomography-out-of-the-lab/</guid>
-    </item>
-    <item>
-      <title>Embraer and Hexagon Advance Predictive Quality for Next-Generation Aircraft Manufacturing</title>
-      <link>https://metrology.news/embraer-and-hexagon-advance-predictive-quality-for-next-generation-aircraft-manufacturing/</link>
-      <description>Embraer and Hexagon are partnering to enhance predictive quality and automation in aircraft manufacturing.</description>
-      <pubDate>Tue, 28 Jul 2026 06:28:30 -0000</pubDate>
-      <guid>https://metrology.news/embraer-and-hexagon-advance-predictive-quality-for-next-generation-aircraft-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Additive Assurance Signs Distribution Agreement with NTT DATA XAM Technologies to Launch AMiRIS Real-Time Quality Assurance in Japan</title>
-      <link>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</link>
-      <description>Additive Assurance expands its real-time quality assurance for metal additive manufacturing into the Japanese market.</description>
-      <pubDate>Sat, 25 Jul 2026 06:17:06 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99773-additive-assurance-signs-distribution-agreement-with-ntt-data-xam-technologies-to-launch-amiris-real-time-quality-assurance-in-japan</guid>
     </item>
   </channel>
 </rss>
