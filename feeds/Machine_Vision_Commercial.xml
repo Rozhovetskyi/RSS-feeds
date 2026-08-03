@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Metrolog V25 and 3DCS Bring AI-Powered Quality Intelligence to Manufacturing</title>
+      <link>https://metrology.news/metrolog-v25-and-3dcs-bring-ai-powered-quality-intelligence-to-manufacturing/</link>
+      <description>The integration of Metrolog V25 and 3DCS brings advanced AI-powered quality intelligence and inspection capabilities to manufacturing processes.</description>
+      <pubDate>Mon, 03 Aug 2026 06:26:48 -0000</pubDate>
+      <guid>https://metrology.news/metrolog-v25-and-3dcs-bring-ai-powered-quality-intelligence-to-manufacturing/</guid>
+    </item>
+    <item>
+      <title>IDS Introduces Next-Generation Rugged GigE Vision Cameras for Factory Automation</title>
+      <link>https://metrology.news/ids-introduces-next-generation-rugged-gige-vision-cameras-for-factory-automation/</link>
+      <description>IDS introduces next-generation rugged GigE vision cameras designed for demanding factory automation and industrial machine vision applications.</description>
+      <pubDate>Mon, 03 Aug 2026 06:26:36 -0000</pubDate>
+      <guid>https://metrology.news/ids-introduces-next-generation-rugged-gige-vision-cameras-for-factory-automation/</guid>
+    </item>
+    <item>
       <title>Smarter, Faster, Leaner: How Multi-Sensor Inspection Platforms Transform Production Lines</title>
       <link>https://metrology.news/smarter-faster-leaner-how-multi-sensor-inspection-platforms-transform-production-lines/</link>
       <description>New multi-sensor inspection platforms are transforming production lines by providing faster and more comprehensive automated quality control solutions.</description>
@@ -38,20 +52,6 @@
       <description>BMW sets new industry standards for automated quality control by integrating inline inspection and AI in its new smart battery factory.</description>
       <pubDate>Sat, 01 Aug 2026 06:06:12 -0000</pubDate>
       <guid>https://metrology.news/bmws-smart-battery-factory-combines-ai-digital-twins-and-inline-inspection/</guid>
-    </item>
-    <item>
-      <title>MICRONITE Aims to Redefine the Role of CMM Metrology for Proactive Process Control</title>
-      <link>https://metrology.news/micronite-aims-to-redefine-the-role-of-cmm-metrology-for-proactive-process-control/</link>
-      <description>New MICRONITE software aims to transform CMM metrology into a tool for proactive manufacturing process control.</description>
-      <pubDate>Tue, 28 Jul 2026 06:28:35 -0000</pubDate>
-      <guid>https://metrology.news/micronite-aims-to-redefine-the-role-of-cmm-metrology-for-proactive-process-control/</guid>
-    </item>
-    <item>
-      <title>RoboCT Brings Large-Scale Computed Tomography Out of the Lab</title>
-      <link>https://metrology.news/roboct-brings-large-scale-computed-tomography-out-of-the-lab/</link>
-      <description>RoboCT introduces an advanced system bringing large-scale computed tomography to industrial quality control.</description>
-      <pubDate>Tue, 28 Jul 2026 06:28:32 -0000</pubDate>
-      <guid>https://metrology.news/roboct-brings-large-scale-computed-tomography-out-of-the-lab/</guid>
     </item>
   </channel>
 </rss>
