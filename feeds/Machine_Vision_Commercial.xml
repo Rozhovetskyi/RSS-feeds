@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>FARO CREAFORM Launches MetraSCAN BLACK2 to Enhance Flexibility for Shop-Floor Shop-Floor Dimensional Inspection</title>
+      <link>https://metrology.news/faro-creaform-launches-metrascan-black2-to-enhance-flexibility-for-shop-floor-shop-floor-dimensional-inspection/</link>
+      <description>FARO CREAFORM launches the MetraSCAN BLACK2, a next-generation portable optical 3D scanner designed for high-precision dimensional inspection in factory automation.</description>
+      <pubDate>Wed, 05 Aug 2026 06:13:05 -0000</pubDate>
+      <guid>https://metrology.news/faro-creaform-launches-metrascan-black2-to-enhance-flexibility-for-shop-floor-shop-floor-dimensional-inspection/</guid>
+    </item>
+    <item>
+      <title>Overview Unveils Generative AI Studio to Accelerate AI Vision Training</title>
+      <link>https://metrology.news/overview-unveils-generative-ai-studio-to-accelerate-ai-vision-training/</link>
+      <description>Overview introduces a generative AI tool to create synthetic defect data, accelerating the deployment of AI vision systems for manufacturing quality control.</description>
+      <pubDate>Wed, 05 Aug 2026 06:13:05 -0000</pubDate>
+      <guid>https://metrology.news/overview-unveils-generative-ai-studio-to-accelerate-ai-vision-training/</guid>
+    </item>
+    <item>
       <title>IDS Expands Range of Rugged Industrial Cameras with Sony STARVIS2 Sensors</title>
       <link>https://www.qualitymag.com/articles/99802-ids-expands-range-of-rugged-industrial-cameras-with-sony-starvis2-sensors</link>
       <description>IDS introduces new robust machine vision cameras designed for demanding industrial environments, enhancing automated inspection reliability.</description>
@@ -38,20 +52,6 @@
       <description>New multi-sensor inspection platforms are transforming production lines by providing faster and more comprehensive automated quality control solutions.</description>
       <pubDate>Sun, 02 Aug 2026 06:14:27 -0000</pubDate>
       <guid>https://metrology.news/smarter-faster-leaner-how-multi-sensor-inspection-platforms-transform-production-lines/</guid>
-    </item>
-    <item>
-      <title>World First Combines Digital Holography with Coordinate Measuring Machines</title>
-      <link>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</link>
-      <description>The integration of digital holography into coordinate measuring machines offers new commercial capabilities for precision 3D metrology and defect recognition.</description>
-      <pubDate>Sun, 02 Aug 2026 06:14:24 -0000</pubDate>
-      <guid>https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/</guid>
-    </item>
-    <item>
-      <title>Transforming Automation: Ritesh Gupta on Zebra Technologies' AI-Driven Platform</title>
-      <link>https://www.vision-systems.com/factory/podcast/55394019/visions-podcast-zebras-unified-automation</link>
-      <description>Zebra Technologies introduces a unified AI-driven automation platform for industrial integrators.</description>
-      <pubDate>Sat, 01 Aug 2026 06:06:32 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55394019/visions-podcast-zebras-unified-automation</guid>
     </item>
   </channel>
 </rss>
