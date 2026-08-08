@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Smart Thermal Imaging for Risk Management</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55395833/movimed-movitherm-smart-thermal-imaging-for-risk-management-movitherm-irley-camera-overview</link>
+      <description>The Movitherm Irley camera introduces advanced smart thermal imaging hardware for real-time risk management in critical industrial applications.</description>
+      <pubDate>Sat, 08 Aug 2026 06:10:14 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55395833/movimed-movitherm-smart-thermal-imaging-for-risk-management-movitherm-irley-camera-overview</guid>
+    </item>
+    <item>
+      <title>WENZEL Expands Portfolio with PMS Multisensor Measuring Machines</title>
+      <link>https://metrology.news/wenzel-expands-portfolio-with-pms-multisensor-measuring-machines-from-dr-heinrich-schneider/</link>
+      <description>WENZEL's portfolio expansion provides broader turnkey multisensor metrology solutions for industrial quality control.</description>
+      <pubDate>Sat, 08 Aug 2026 06:09:43 -0000</pubDate>
+      <guid>https://metrology.news/wenzel-expands-portfolio-with-pms-multisensor-measuring-machines-from-dr-heinrich-schneider/</guid>
+    </item>
+    <item>
       <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging - newswire.com</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
       <description>This hardware comparison highlights the growing commercial availability of advanced global shutter sensors for precision industrial machine vision applications.</description>
@@ -38,20 +52,6 @@
       <description>Overview introduces a generative AI tool to create synthetic defect data, accelerating the deployment of AI vision systems for manufacturing quality control.</description>
       <pubDate>Wed, 05 Aug 2026 06:13:05 -0000</pubDate>
       <guid>https://metrology.news/overview-unveils-generative-ai-studio-to-accelerate-ai-vision-training/</guid>
-    </item>
-    <item>
-      <title>IDS Expands Range of Rugged Industrial Cameras with Sony STARVIS2 Sensors</title>
-      <link>https://www.qualitymag.com/articles/99802-ids-expands-range-of-rugged-industrial-cameras-with-sony-starvis2-sensors</link>
-      <description>IDS introduces new robust machine vision cameras designed for demanding industrial environments, enhancing automated inspection reliability.</description>
-      <pubDate>Tue, 04 Aug 2026 06:10:23 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99802-ids-expands-range-of-rugged-industrial-cameras-with-sony-starvis2-sensors</guid>
-    </item>
-    <item>
-      <title>HBK Acquires Sentech to Expand Precision Sensor Portfolio</title>
-      <link>https://metrology.news/hbk-acquires-sentech-to-expand-precision-sensor-portfolio/</link>
-      <description>This acquisition strengthens HBK's precision sensor offerings, expanding their position in the metrology and industrial testing market.</description>
-      <pubDate>Tue, 04 Aug 2026 06:10:15 -0000</pubDate>
-      <guid>https://metrology.news/hbk-acquires-sentech-to-expand-precision-sensor-portfolio/</guid>
     </item>
   </channel>
 </rss>
