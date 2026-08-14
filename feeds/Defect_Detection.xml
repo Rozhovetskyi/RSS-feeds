@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automatic Defect Recognition (ADR) System For Real Time...</title>
+      <link>https://www.ndt.net/search/docs.php3?id=11977</link>
+      <description>use solution that delivers high resolution inspections with a coupling gel or thin film of water. With a powerful software platform, plotting and analyzing data is intuitive. The webinar will feature a hands-on demonstration applying actual inspection data. View and download this webinar anytime.</description>
+      <pubDate>Fri, 14 Aug 2026 18:09:20 -0000</pubDate>
+      <guid>https://www.ndt.net/search/docs.php3?id=11977</guid>
+    </item>
+    <item>
+      <title>JHCTECH Webinar--Accurate Capture: AI-based Automation of...</title>
+      <link>https://www.jhc-technology.com/visual-inspection-ai</link>
+      <description>In our next webinar, we would like to share our insights and solutions for Defect Detention and focus a bit on AI-based automated visual inspection (Machine Vision systems).</description>
+      <pubDate>Fri, 14 Aug 2026 18:09:14 -0000</pubDate>
+      <guid>https://www.jhc-technology.com/visual-inspection-ai</guid>
+    </item>
+    <item>
       <title>AI for NDT Professionals: Improving Accuracy, Speed, and ...</title>
       <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
@@ -38,20 +52,6 @@
       <description>Upcoming Events. Discover what’s coming up at SCA (Vic).This practical webinar, presented by Andrew Whitelaw, will explore how owners corporations and strata managers can effectively navigate building defects disputes and remediation.</description>
       <pubDate>Mon, 13 Jul 2026 18:13:50 -0000</pubDate>
       <guid>https://vic.strata.community/events/upcoming-events/</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition and Artificial Intelligence (AI ...</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?globalid=WEB202307</link>
-      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to evaluation, and covering practical implementations, applications, standards, and regulatory considerations in NDT.</description>
-      <pubDate>Mon, 13 Jul 2026 18:13:34 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?globalid=WEB202307</guid>
-    </item>
-    <item>
-      <title>Practical Defect Tolerance Assessment: From Defects to ...</title>
-      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
-      <description>The aim is to bridge the gap between theoretical fracture mechanics and its practical application, providing a clear understanding of how defect tolerance assessments are performed in practice and how confidence in results is established for engineering decision making.</description>
-      <pubDate>Mon, 13 Jul 2026 18:13:32 -0000</pubDate>
-      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
     </item>
   </channel>
 </rss>
