@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Robot Orders Increase in Q2 as Automation Demand Broadens Across Industries</title>
+      <link>https://www.qualitymag.com/articles/99830-robot-orders-increase-in-q2-as-automation-demand-broadens-across-industries</link>
+      <description>The second-quarter growth in North American robot orders and revenue indicates accelerating commercial investments in factory automation, which directly drives demand for integrated machine vision systems.</description>
+      <pubDate>Fri, 14 Aug 2026 06:14:19 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99830-robot-orders-increase-in-q2-as-automation-demand-broadens-across-industries</guid>
+    </item>
+    <item>
+      <title>Fraunhofer Advances In-Line Packaging Inspection with Optical Coherence Tomography</title>
+      <link>https://metrology.news/fraunhofer-advances-in-line-packaging-inspection-with-optical-coherence-tomography/</link>
+      <description>The development of non-destructive optical coherence tomography by Fraunhofer addresses the growing commercial need for high-speed, reliable inline defect detection in strict regulatory sectors like food and medical packaging.</description>
+      <pubDate>Fri, 14 Aug 2026 06:14:19 -0000</pubDate>
+      <guid>https://metrology.news/fraunhofer-advances-in-line-packaging-inspection-with-optical-coherence-tomography/</guid>
+    </item>
+    <item>
+      <title>Neuralyze Brings the Complete Vision AI Workflow into One Software Platform</title>
+      <link>https://metrology.news/neuralyze-brings-the-complete-vision-ai-workflow-into-one-software-platform/</link>
+      <description>senswork's release of the Neuralyze platform represents a commercial move toward making advanced deep learning inspection capabilities more accessible and standalone for industrial quality assurance.</description>
+      <pubDate>Fri, 14 Aug 2026 06:14:19 -0000</pubDate>
+      <guid>https://metrology.news/neuralyze-brings-the-complete-vision-ai-workflow-into-one-software-platform/</guid>
+    </item>
+    <item>
       <title>Scantron Advances Automated Surface Defect Detection with Proscan DDMS 3D Line</title>
       <link>https://metrology.news/scantron-advances-automated-surface-defect-detection-with-proscan-ddms-3d-line/</link>
       <description>Scantron's introduction of the Proscan DDMS 3D Line offers a robust hardware solution that enhances automated surface defect detection for industrial quality control applications.</description>
@@ -31,27 +52,6 @@
       <description>Verisurf's showcase of model-based metrology highlights commercial advancements in turnkey defect recognition systems for the manufacturing industry.</description>
       <pubDate>Wed, 12 Aug 2026 06:15:30 -0000</pubDate>
       <guid>https://metrology.news/verisurf-to-showcase-verisurf-2027-and-future-of-model-based-metrology-at-imts-2026/</guid>
-    </item>
-    <item>
-      <title>Build Better with Real-Time Manufacturing Visibility</title>
-      <link>https://www.qualitymag.com/articles/99828-build-better-with-real-time-manufacturing-visibility</link>
-      <description>Enhancing real-time manufacturing visibility is a key commercial trend driving the adoption of turnkey vision systems for comprehensive quality control.</description>
-      <pubDate>Wed, 12 Aug 2026 06:15:00 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99828-build-better-with-real-time-manufacturing-visibility</guid>
-    </item>
-    <item>
-      <title>2026 Manufacturing Technology Orders Set Half-Year Record</title>
-      <link>https://www.qualitymag.com/articles/99826-2026-manufacturing-technology-orders-set-half-year-record</link>
-      <description>A half-year record in manufacturing technology orders points to significant market growth and commercial investment in advanced industrial systems, including vision technologies.</description>
-      <pubDate>Wed, 12 Aug 2026 06:14:58 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99826-2026-manufacturing-technology-orders-set-half-year-record</guid>
-    </item>
-    <item>
-      <title>Inside Orbbec's Innovative Robot-Free Vision System for Enhanced AI Training</title>
-      <link>https://www.vision-systems.com/cameras-accessories/podcast/55397136/visions-podcast-orbbecs-robot-free-data-capture-platform</link>
-      <description>Orbbec's robot-free vision system improves data capture for AI training, offering a more efficient hardware setup for industrial automation applications.</description>
-      <pubDate>Wed, 12 Aug 2026 06:14:48 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/podcast/55397136/visions-podcast-orbbecs-robot-free-data-capture-platform</guid>
     </item>
   </channel>
 </rss>
