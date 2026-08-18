@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Removing the CPU Bottleneck in High-Bandwidth Machine Vision</title>
+      <link>https://www.qualitymag.com/articles/99841-removing-the-cpu-bottleneck-in-high-bandwidth-machine-vision</link>
+      <description>Advancements in high-bandwidth machine vision hardware alleviate CPU constraints, driving faster and more efficient commercial inspection systems.</description>
+      <pubDate>Tue, 18 Aug 2026 06:12:05 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99841-removing-the-cpu-bottleneck-in-high-bandwidth-machine-vision</guid>
+    </item>
+    <item>
       <title>Weld Bead Profile Reference Standards Market to Reach 172 Index by 2035 on AOI Adoption in Battery Assembly - IndexBox</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkR3enZXbUM5V3M3LW12SXcwOXVtQ2MtejRJZ0M2X3dSQmdCbGtCcUF4dGN0VmRjTE9IYVJsbjVDYUtMb0Q3a09FOG05ZC1xUUR5OVNJUElWb2VnX2ExRThINmJDMzZhbmd4d1djeEczUmRlMEM5ZS1mRlQxUVI2dndhbmVjdDVvRlEyOFFqWjUtS2R4a3FXRXRGcFFNYlZvblF1SFFEa3NQMllNMUk5bUt4VjBqU0k5dXdvYi1NdTZRVzUxcjNXb0ROcUFOSDJBMGVV?oc=5</link>
       <description>The projected growth in weld bead profile reference standards demonstrates the expanding market for automated optical inspection in battery assembly.</description>
@@ -45,13 +52,6 @@
       <description>Scantron's introduction of the Proscan DDMS 3D Line offers a robust hardware solution that enhances automated surface defect detection for industrial quality control applications.</description>
       <pubDate>Wed, 12 Aug 2026 06:16:44 -0000</pubDate>
       <guid>https://metrology.news/scantron-advances-automated-surface-defect-detection-with-proscan-ddms-3d-line/</guid>
-    </item>
-    <item>
-      <title>Callista Acquires Zero Touch Metrology from Sandvik Group</title>
-      <link>https://metrology.news/callista-acquires-zero-touch-metrology-from-sandvik-group/</link>
-      <description>Callista's acquisition of Zero Touch Metrology signals ongoing consolidation and market shifts within the industrial quality control sector.</description>
-      <pubDate>Wed, 12 Aug 2026 06:16:30 -0000</pubDate>
-      <guid>https://metrology.news/callista-acquires-zero-touch-metrology-from-sandvik-group/</guid>
     </item>
   </channel>
 </rss>
