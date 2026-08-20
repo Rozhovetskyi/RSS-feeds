@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging - Newswire.com</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
+      <description>A comparison of global shutter USB cameras, emphasizing the commercial implications of sensor choices for precision imaging in industrial applications.</description>
+      <pubDate>Thu, 20 Aug 2026 06:03:48 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</guid>
+    </item>
+    <item>
+      <title>Nigeria Automated Optical Inspection Systems - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNklTLVdWbHNpdllpUGVGcWI0aHBxZm1oeFNuRlRnLTcyTndPd254YUhTTEx1eGRvR05iQzA0bEFwaS1nNjBHZVV6a2NIUWNnQnFITGpwdmZEdElLSVY5a1JuTUx6aXJvWWNPNkZURWc2MGZ4a1JQd3NjRHIyZ0xpS2E3Nkt3LS01MFRwU2EtQWJTQ3ZLSVpoNlVVaTN6Q3NSX1N5SUFlLWlvaEVPNTVIT3ZubG45a0ZKeTQyeW05SW45NDg?oc=5</link>
+      <description>Market analysis detailing the growth and trends of Automated Optical Inspection systems in Nigeria, highlighting commercial opportunities in the region.</description>
+      <pubDate>Thu, 20 Aug 2026 06:03:45 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNklTLVdWbHNpdllpUGVGcWI0aHBxZm1oeFNuRlRnLTcyTndPd254YUhTTEx1eGRvR05iQzA0bEFwaS1nNjBHZVV6a2NIUWNnQnFITGpwdmZEdElLSVY5a1JuTUx6aXJvWWNPNkZURWc2MGZ4a1JQd3NjRHIyZ0xpS2E3Nkt3LS01MFRwU2EtQWJTQ3ZLSVpoNlVVaTN6Q3NSX1N5SUFlLWlvaEVPNTVIT3ZubG45a0ZKeTQyeW05SW45NDg?oc=5</guid>
+    </item>
+    <item>
       <title>Removing the CPU Bottleneck in High-Bandwidth Machine Vision</title>
       <link>https://www.qualitymag.com/articles/99841-removing-the-cpu-bottleneck-in-high-bandwidth-machine-vision</link>
       <description>Advancements in high-bandwidth machine vision hardware alleviate CPU constraints, driving faster and more efficient commercial inspection systems.</description>
@@ -38,20 +52,6 @@
       <description>Neuralyze introduces a unified vision AI platform, representing a key trend towards comprehensive turnkey software solutions in industrial machine vision.</description>
       <pubDate>Sat, 15 Aug 2026 06:27:57 -0000</pubDate>
       <guid>https://metrology.news/neuralyze-brings-the-complete-vision-ai-workflow-into-one-software-platform/</guid>
-    </item>
-    <item>
-      <title>Shelfmark Secures $3.5M to Expand AI Manufacturing Inspection Solutions</title>
-      <link>https://www.vision-systems.com/factory/article/55397484/shelfmark-grows-ai-platform-for-real-time-defect-detection</link>
-      <description>Shelfmark's recent funding demonstrates strong commercial investment in AI-driven real-time defect detection platforms for manufacturing.</description>
-      <pubDate>Sat, 15 Aug 2026 06:27:55 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55397484/shelfmark-grows-ai-platform-for-real-time-defect-detection</guid>
-    </item>
-    <item>
-      <title>Scantron Advances Automated Surface Defect Detection with Proscan DDMS 3D Line</title>
-      <link>https://metrology.news/scantron-advances-automated-surface-defect-detection-with-proscan-ddms-3d-line/</link>
-      <description>Scantron's introduction of the Proscan DDMS 3D Line offers a robust hardware solution that enhances automated surface defect detection for industrial quality control applications.</description>
-      <pubDate>Wed, 12 Aug 2026 06:16:44 -0000</pubDate>
-      <guid>https://metrology.news/scantron-advances-automated-surface-defect-detection-with-proscan-ddms-3d-line/</guid>
     </item>
   </channel>
 </rss>
