@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>UK&amp;I defect investigation: practical approaches to emerging ...</title>
+      <link>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</link>
+      <description>This webinar explores how a structured approach to defect investigation can improve the quality and consistency of inspections. Using practical examples, the session will explore defects linked to inappropriate retrofit works, fire separation issues, and brickwork and render failures.</description>
+      <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
+      <guid>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</guid>
+    </item>
+    <item>
+      <title>Webinar: Smarter Defect Detection | Cognex</title>
+      <link>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</link>
+      <description>Webinar Video: Smarter Defect Detection With recall costs exceeding $8B annually, 70% of defects traced to inspection gaps, and production lines running at thousands of parts per minute, traditional inspection methods are no longer sufficient. This webinar explores how AI-powered machine vision is transforming quality inspection across industries.</description>
+      <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
+      <guid>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</guid>
+    </item>
+    <item>
       <title>NAFEMS - Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
       <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
       <description>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions Free Webinar Tuesday, 11 August 2026 15:00 (London) | 16:00 (Berlin) 07:00 (Los Angeles) | 10:00 (New</description>
@@ -38,20 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
       <pubDate>Tue, 14 Jul 2026 18:20:24 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition &amp; AI in Digital Radiography</title>
-      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
-      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
-      <pubDate>Tue, 14 Jul 2026 18:20:21 -0000</pubDate>
-      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
-    </item>
-    <item>
-      <title>North America Automated Defect Recognition (Adr) Market: Future...</title>
-      <link>https://www.linkedin.com/pulse/north-america-automated-defect-recognition-1pjtc</link>
-      <description>The North American Automated Defect Recognition (ADR) market is witnessing rapid evolution driven by technological innovations, increasing manufacturing automation, and a growing emphasis on quality control with practical applications across various industries.</description>
-      <pubDate>Mon, 13 Jul 2026 18:14:24 -0000</pubDate>
-      <guid>https://www.linkedin.com/pulse/north-america-automated-defect-recognition-1pjtc</guid>
     </item>
   </channel>
 </rss>
