@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar</title>
+      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
+      <description>July 14, 2025 - Implementation Strategy Get practical guidance on integrating AI-powered inspection workflows into existing utility operations and compliance frameworks. Live Platform Demo Experience AeroMegh’s intuitive interface as we demonstrate real-time defect detection and automated reporting capabilities.</description>
+      <pubDate>Sun, 23 Aug 2026 18:30:07 -0000</pubDate>
+      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
+    </item>
+    <item>
       <title>UK&amp;I defect investigation: practical approaches to emerging ...</title>
       <link>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</link>
       <description>This webinar explores how a structured approach to defect investigation can improve the quality and consistency of inspections. Using practical examples, the session will explore defects linked to inappropriate retrofit works, fire separation issues, and brickwork and render failures.</description>
@@ -45,13 +52,6 @@
       <description>In our next webinar, we would like to share our insights and solutions for Defect Detention and focus a bit on AI-based automated visual inspection (Machine Vision systems).</description>
       <pubDate>Fri, 14 Aug 2026 18:09:14 -0000</pubDate>
       <guid>https://www.jhc-technology.com/visual-inspection-ai</guid>
-    </item>
-    <item>
-      <title>AI for NDT Professionals: Improving Accuracy, Speed, and ...</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
-      <pubDate>Tue, 14 Jul 2026 18:20:24 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
     </item>
   </channel>
 </rss>
