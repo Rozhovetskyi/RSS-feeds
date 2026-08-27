@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>North American PCB Demand Strengthens as July Bookings Surge 62%</title>
+      <link>https://www.qualitymag.com/articles/99867-north-american-pcb-demand-strengthens-as-july-bookings-surge-62</link>
+      <description>A 62% surge in North American PCB bookings indicates significant market growth and commercial opportunities for related automated optical inspection hardware.</description>
+      <pubDate>Thu, 27 Aug 2026 06:25:31 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99867-north-american-pcb-demand-strengthens-as-july-bookings-surge-62</guid>
+    </item>
+    <item>
+      <title>Gear Metrology Moves to the Center of Closed-Loop Manufacturing</title>
+      <link>https://metrology.news/gear-metrology-moves-to-the-center-of-closed-loop-manufacturing/</link>
+      <description>The integration of gear metrology into closed-loop manufacturing highlights a growing commercial trend for automated quality control systems.</description>
+      <pubDate>Thu, 27 Aug 2026 06:25:28 -0000</pubDate>
+      <guid>https://metrology.news/gear-metrology-moves-to-the-center-of-closed-loop-manufacturing/</guid>
+    </item>
+    <item>
+      <title>GM's BVSeal System: Cutting-Edge Solution for Leak Detection in Electric Vehicle Manufacturing</title>
+      <link>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</link>
+      <description>GM develops an automated inspection system for EV battery packs, showcasing a strong commercial application of machine vision in automotive manufacturing.</description>
+      <pubDate>Thu, 27 Aug 2026 06:25:26 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</guid>
+    </item>
+    <item>
       <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging - Newswire.com</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
       <description>Vadzo's comparison of high-end camera sensors highlights competitive commercial hardware choices in precision imaging for machine vision applications.</description>
@@ -31,27 +52,6 @@
       <description>Nordson Test &amp; Inspection's new Center of Excellence signifies substantial commercial investment in advanced testing and inspection infrastructure.</description>
       <pubDate>Tue, 25 Aug 2026 06:03:58 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99858-nordson-test-and-inspection-opens-state-of-the-art-center-of-excellence</guid>
-    </item>
-    <item>
-      <title>CalStudio Empowers Calibration Laboratories with Conduit and Intelligent Workflow Automation</title>
-      <link>https://metrology.news/calstudio-empowers-calibration-laboratories-with-conduit-and-intelligent-workflow-automation/</link>
-      <description>CalStudio's introduction of intelligent workflow automation in calibration laboratories underscores the commercial shift toward integrated automated metrology systems.</description>
-      <pubDate>Tue, 25 Aug 2026 06:03:56 -0000</pubDate>
-      <guid>https://metrology.news/calstudio-empowers-calibration-laboratories-with-conduit-and-intelligent-workflow-automation/</guid>
-    </item>
-    <item>
-      <title>Shelfmark Raises $3.5 Million to Bring Physical AI to Continuous Manufacturing</title>
-      <link>https://metrology.news/shelfmark-raises-3-5-million-to-bring-physical-ai-to-continuous-manufacturing/</link>
-      <description>Shelfmark's $3.5 million funding round highlights commercial momentum in deploying physical AI for continuous manufacturing processes.</description>
-      <pubDate>Tue, 25 Aug 2026 06:03:54 -0000</pubDate>
-      <guid>https://metrology.news/shelfmark-raises-3-5-million-to-bring-physical-ai-to-continuous-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Hexagon and Schaeffler Advance Industrial Humanoid Deployment with AEON</title>
-      <link>https://metrology.news/hexagon-and-schaeffler-advance-industrial-humanoid-deployment-with-aeon/</link>
-      <description>Hexagon partners with Schaeffler to push industrial automation with new humanoid robotics applications.</description>
-      <pubDate>Mon, 24 Aug 2026 06:20:23 -0000</pubDate>
-      <guid>https://metrology.news/hexagon-and-schaeffler-advance-industrial-humanoid-deployment-with-aeon/</guid>
     </item>
   </channel>
 </rss>
