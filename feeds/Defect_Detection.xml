@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Managing Defects Under the ECC - The CPD Register</title>
+      <link>https://thecpdregister.com/webinars/cpd-group-webinar--501221</link>
+      <description>Jun 9, 2026 · The webinar focuses on the practical application of the NEC4 Engineering and Construction Contract (ECC) defect provisions, helping project managers, supervisors and contractors understand how defects should be identified, managed and resolved throughout the contract lifecycle.</description>
+      <pubDate>Thu, 27 Aug 2026 18:11:54 -0000</pubDate>
+      <guid>https://thecpdregister.com/webinars/cpd-group-webinar--501221</guid>
+    </item>
+    <item>
+      <title>Automated Defect Recognition &amp; AI in Digital Radiography</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>Jul 12, 2023 · Automated Defect Recognition and Artificial Intelligence (AI) in Digital Radiography This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography. Discover how AI-driven solutions can enhance inspection efficiency, accuracy, and productivity in your industry.</description>
+      <pubDate>Thu, 27 Aug 2026 18:11:37 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
       <title>Sensofar webinars - Our knowledge and expertise available for you</title>
       <link>https://www.sensofar.com/metrology/webinars/</link>
       <description>Discover how our comprehensive solutions include general-purpose optical profilers and specialized surface inspection equipment for defect detection. Watch the webinar.</description>
@@ -38,20 +52,6 @@
       <description>Webinar Video: Smarter Defect Detection With recall costs exceeding $8B annually, 70% of defects traced to inspection gaps, and production lines running at thousands of parts per minute, traditional inspection methods are no longer sufficient. This webinar explores how AI-powered machine vision is transforming quality inspection across industries.</description>
       <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
       <guid>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</guid>
-    </item>
-    <item>
-      <title>NAFEMS - Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
-      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
-      <description>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions Free Webinar Tuesday, 11 August 2026 15:00 (London) | 16:00 (Berlin) 07:00 (Los Angeles) | 10:00 (New</description>
-      <pubDate>Tue, 18 Aug 2026 18:10:00 -0000</pubDate>
-      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
-    </item>
-    <item>
-      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
-      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
-      <description>May 6, 2026 - On May 14, 2026, at 12:00 pm PDT (2:00 pm EDT) TDK SensEI will deliver a webinar \u201cUsing Computer Vision and edge AI for Defect Detection\u201d From the event page: Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the ...</description>
-      <pubDate>Tue, 18 Aug 2026 18:09:54 -0000</pubDate>
-      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
     </item>
   </channel>
 </rss>
