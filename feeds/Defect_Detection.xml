@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Live Webinar - ASNT Education</title>
+      <link>https://education.asnt.org/catalog/</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
+      <pubDate>Sat, 29 Aug 2026 18:02:24 -0000</pubDate>
+      <guid>https://education.asnt.org/catalog/</guid>
+    </item>
+    <item>
       <title>Managing Defects Under the ECC - The CPD Register</title>
       <link>https://thecpdregister.com/webinars/cpd-group-webinar--501221</link>
       <description>Jun 9, 2026 · The webinar focuses on the practical application of the NEC4 Engineering and Construction Contract (ECC) defect provisions, helping project managers, supervisors and contractors understand how defects should be identified, managed and resolved throughout the contract lifecycle.</description>
@@ -45,13 +52,6 @@
       <description>This webinar explores how a structured approach to defect investigation can improve the quality and consistency of inspections. Using practical examples, the session will explore defects linked to inappropriate retrofit works, fire separation issues, and brickwork and render failures.</description>
       <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
       <guid>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</guid>
-    </item>
-    <item>
-      <title>Webinar: Smarter Defect Detection | Cognex</title>
-      <link>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</link>
-      <description>Webinar Video: Smarter Defect Detection With recall costs exceeding $8B annually, 70% of defects traced to inspection gaps, and production lines running at thousands of parts per minute, traditional inspection methods are no longer sufficient. This webinar explores how AI-powered machine vision is transforming quality inspection across industries.</description>
-      <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
-      <guid>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</guid>
     </item>
   </channel>
 </rss>
