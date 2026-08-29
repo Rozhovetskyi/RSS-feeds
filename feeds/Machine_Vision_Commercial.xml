@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>ZEISS Helps Manufacturers Find Certainty at IMTS 2026</title>
+      <link>https://metrology.news/zeiss-helps-manufacturers-find-certainty-at-imts-2026/</link>
+      <description>ZEISS is showcasing its latest turnkey metrology and automated quality control systems for manufacturers at the IMTS 2026 commercial trade show.</description>
+      <pubDate>Sat, 29 Aug 2026 06:08:26 -0000</pubDate>
+      <guid>https://metrology.news/zeiss-helps-manufacturers-find-certainty-at-imts-2026/</guid>
+    </item>
+    <item>
+      <title>Beyond Model Accuracy: The Critical Role of Sensor Calibration in Physical AI Vision Systems</title>
+      <link>https://www.vision-systems.com/cameras-accessories/image-sensors/article/55399464/beyond-model-accuracy-the-critical-role-of-sensor-calibration-in-physical-ai-vision-systems</link>
+      <description>Proper sensor calibration is essential for commercializing physical AI vision systems to ensure reliable hardware performance in factory automation.</description>
+      <pubDate>Sat, 29 Aug 2026 06:08:24 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/image-sensors/article/55399464/beyond-model-accuracy-the-critical-role-of-sensor-calibration-in-physical-ai-vision-systems</guid>
+    </item>
+    <item>
       <title>Vision Components VC EvoCam, New MIPI Cameras and VC MIPI Bricks System</title>
       <link>https://www.qualitymag.com/articles/99871-vision-components-vc-evocam-new-mipi-cameras-and-vc-mipi-bricks-system</link>
       <description>Vision Components' release of new MIPI cameras introduces updated hardware solutions for embedded commercial machine vision applications.</description>
@@ -38,20 +52,6 @@
       <description>GM develops an automated inspection system for EV battery packs, showcasing a strong commercial application of machine vision in automotive manufacturing.</description>
       <pubDate>Thu, 27 Aug 2026 06:25:26 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</guid>
-    </item>
-    <item>
-      <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging - Newswire.com</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
-      <description>Vadzo's comparison of high-end camera sensors highlights competitive commercial hardware choices in precision imaging for machine vision applications.</description>
-      <pubDate>Wed, 26 Aug 2026 06:30:39 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</guid>
-    </item>
-    <item>
-      <title>ACMI Launches $3 Million "Horizon Manufacturing Cup" Competition for Innovative Manufacturing and Hardware Companies</title>
-      <link>https://www.qualitymag.com/articles/99862-acmi-launches-3-million-horizon-manufacturing-cup-competition-for-innovative-manufacturing-and-hardware-companies</link>
-      <description>ACMI's new $3 million competition demonstrates substantial financial backing for innovative manufacturing and hardware companies in the commercial space.</description>
-      <pubDate>Wed, 26 Aug 2026 06:30:30 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99862-acmi-launches-3-million-horizon-manufacturing-cup-competition-for-innovative-manufacturing-and-hardware-companies</guid>
     </item>
   </channel>
 </rss>
