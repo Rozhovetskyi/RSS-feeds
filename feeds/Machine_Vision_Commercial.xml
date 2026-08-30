@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>High-Speed X-Ray Reveals EV Battery Failure in Real Time</title>
+      <link>https://metrology.news/high-speed-x-ray-reveals-ev-battery-failure-in-real-time/</link>
+      <description>High-speed X-ray technology offers a new commercial hardware solution for real-time defect detection in EV battery manufacturing.</description>
+      <pubDate>Sun, 30 Aug 2026 06:14:22 -0000</pubDate>
+      <guid>https://metrology.news/high-speed-x-ray-reveals-ev-battery-failure-in-real-time/</guid>
+    </item>
+    <item>
+      <title>Shelfmark Raises $3.5 Million to Bring Physical AI to Continuous Manufacturing</title>
+      <link>https://metrology.news/shelfmark-raises-3-5-million-to-bring-physical-ai-to-continuous-manufacturing/</link>
+      <description>Shelfmark's $3.5 million funding round highlights growing commercial investment in AI-driven continuous manufacturing inspection.</description>
+      <pubDate>Sun, 30 Aug 2026 06:14:20 -0000</pubDate>
+      <guid>https://metrology.news/shelfmark-raises-3-5-million-to-bring-physical-ai-to-continuous-manufacturing/</guid>
+    </item>
+    <item>
       <title>ZEISS Helps Manufacturers Find Certainty at IMTS 2026</title>
       <link>https://metrology.news/zeiss-helps-manufacturers-find-certainty-at-imts-2026/</link>
       <description>ZEISS is showcasing its latest turnkey metrology and automated quality control systems for manufacturers at the IMTS 2026 commercial trade show.</description>
@@ -38,20 +52,6 @@
       <description>A 62% surge in North American PCB bookings indicates significant market growth and commercial opportunities for related automated optical inspection hardware.</description>
       <pubDate>Thu, 27 Aug 2026 06:25:31 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99867-north-american-pcb-demand-strengthens-as-july-bookings-surge-62</guid>
-    </item>
-    <item>
-      <title>Gear Metrology Moves to the Center of Closed-Loop Manufacturing</title>
-      <link>https://metrology.news/gear-metrology-moves-to-the-center-of-closed-loop-manufacturing/</link>
-      <description>The integration of gear metrology into closed-loop manufacturing highlights a growing commercial trend for automated quality control systems.</description>
-      <pubDate>Thu, 27 Aug 2026 06:25:28 -0000</pubDate>
-      <guid>https://metrology.news/gear-metrology-moves-to-the-center-of-closed-loop-manufacturing/</guid>
-    </item>
-    <item>
-      <title>GM's BVSeal System: Cutting-Edge Solution for Leak Detection in Electric Vehicle Manufacturing</title>
-      <link>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</link>
-      <description>GM develops an automated inspection system for EV battery packs, showcasing a strong commercial application of machine vision in automotive manufacturing.</description>
-      <pubDate>Thu, 27 Aug 2026 06:25:26 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</guid>
     </item>
   </channel>
 </rss>
