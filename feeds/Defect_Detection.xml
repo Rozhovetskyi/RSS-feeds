@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
+      <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
+      <description>May 6, 2026 - On May 14, 2026, at 12:00 pm PDT (2:00 pm EDT) TDK SensEI will deliver a webinar \u201cUsing Computer Vision and edge AI for Defect Detection\u201d From the event page: Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the ...</description>
+      <pubDate>Sun, 30 Aug 2026 18:18:00 -0000</pubDate>
+      <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
+    </item>
+    <item>
       <title>Live Webinar - ASNT Education</title>
       <link>https://education.asnt.org/catalog/</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
@@ -45,13 +52,6 @@
       <description>July 14, 2025 - Implementation Strategy Get practical guidance on integrating AI-powered inspection workflows into existing utility operations and compliance frameworks. Live Platform Demo Experience AeroMegh’s intuitive interface as we demonstrate real-time defect detection and automated reporting capabilities.</description>
       <pubDate>Sun, 23 Aug 2026 18:30:07 -0000</pubDate>
       <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
-    </item>
-    <item>
-      <title>UK&amp;I defect investigation: practical approaches to emerging ...</title>
-      <link>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</link>
-      <description>This webinar explores how a structured approach to defect investigation can improve the quality and consistency of inspections. Using practical examples, the session will explore defects linked to inappropriate retrofit works, fire separation issues, and brickwork and render failures.</description>
-      <pubDate>Fri, 21 Aug 2026 18:04:55 -0000</pubDate>
-      <guid>https://www.rics.org/training-events/online-training/scheduled/ukandi-defect-investigation-practical-approaches-to-emerging-building-risks-webinar</guid>
     </item>
   </channel>
 </rss>
