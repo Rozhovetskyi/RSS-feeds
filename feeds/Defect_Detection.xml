@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Scaling edge AI for industrial defect inspection webinar</title>
+      <link>https://www.facebook.com/AdvantechUSA/posts/were-live-todayjoin-advantech-edge-impulse-and-qualcomm-for-scaling-edge-ai-for-/1926436605146933/</link>
+      <description>Discover how manufacturers can move beyond AI proof of concept and build a practical workflow for real-time defect detection at the edge.</description>
+      <pubDate>Tue, 01 Sep 2026 18:24:17 -0000</pubDate>
+      <guid>https://www.facebook.com/AdvantechUSA/posts/were-live-todayjoin-advantech-edge-impulse-and-qualcomm-for-scaling-edge-ai-for-/1926436605146933/</guid>
+    </item>
+    <item>
+      <title>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
+      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
+      <description>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions F ree Webinar Tuesday, 11 August 2026</description>
+      <pubDate>Tue, 01 Sep 2026 18:24:15 -0000</pubDate>
+      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
+    </item>
+    <item>
       <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
       <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
       <description>May 6, 2026 - On May 14, 2026, at 12:00 pm PDT (2:00 pm EDT) TDK SensEI will deliver a webinar \u201cUsing Computer Vision and edge AI for Defect Detection\u201d From the event page: Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the ...</description>
@@ -38,20 +52,6 @@
       <description>Discover how our comprehensive solutions include general-purpose optical profilers and specialized surface inspection equipment for defect detection. Watch the webinar.</description>
       <pubDate>Mon, 24 Aug 2026 18:26:28 -0000</pubDate>
       <guid>https://www.sensofar.com/metrology/webinars/</guid>
-    </item>
-    <item>
-      <title>AI for NDT Professionals: Improving Accuracy, Speed, and Reliability | ASNT Education</title>
-      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
-      <pubDate>Mon, 24 Aug 2026 18:26:07 -0000</pubDate>
-      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar</title>
-      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
-      <description>July 14, 2025 - Implementation Strategy Get practical guidance on integrating AI-powered inspection workflows into existing utility operations and compliance frameworks. Live Platform Demo Experience AeroMegh’s intuitive interface as we demonstrate real-time defect detection and automated reporting capabilities.</description>
-      <pubDate>Sun, 23 Aug 2026 18:30:07 -0000</pubDate>
-      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
     </item>
   </channel>
 </rss>
