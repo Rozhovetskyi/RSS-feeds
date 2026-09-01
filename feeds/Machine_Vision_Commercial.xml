@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Beyond the Scan: How the Next Generation of CT Image Processing Is Advancing Quality Assurance</title>
+      <link>https://www.qualitymag.com/articles/99864-beyond-the-scan-how-the-next-generation-of-ct-image-processing-is-advancing-quality-assurance</link>
+      <description>Next generation CT image processing provides quality teams with actionable insights for defect analysis and inspection, advancing commercial quality assurance.</description>
+      <pubDate>Tue, 01 Sep 2026 06:15:54 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99864-beyond-the-scan-how-the-next-generation-of-ct-image-processing-is-advancing-quality-assurance</guid>
+    </item>
+    <item>
+      <title>From Computer Vision to Physical AI – The Next Frontier for 3D Metrology</title>
+      <link>https://metrology.news/from-computer-vision-to-physical-ai-the-next-frontier-for-3d-metrology/</link>
+      <description>The shift toward physical AI in 3D metrology represents the next commercial frontier for industrial automation.</description>
+      <pubDate>Tue, 01 Sep 2026 06:15:47 -0000</pubDate>
+      <guid>https://metrology.news/from-computer-vision-to-physical-ai-the-next-frontier-for-3d-metrology/</guid>
+    </item>
+    <item>
+      <title>LUCID Triton Smart Camera</title>
+      <link>https://www.qualitymag.com/articles/99878-lucid-triton-smart-camera</link>
+      <description>LUCID Vision Labs announces a new open-source AI development tool for their Triton smart cameras, expanding options for industrial machine vision developers.</description>
+      <pubDate>Tue, 01 Sep 2026 06:15:41 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99878-lucid-triton-smart-camera</guid>
+    </item>
+    <item>
+      <title>Hexagon Launches METRICAL for Fully Autonomous CMM Inspection</title>
+      <link>https://metrology.news/hexagon-launches-metrical-for-fully-autonomous-cmm-inspection/</link>
+      <description>Hexagon launches METRICAL, a new automated queuing and loading system designed to enable fully autonomous CMM inspection in manufacturing.</description>
+      <pubDate>Tue, 01 Sep 2026 06:15:36 -0000</pubDate>
+      <guid>https://metrology.news/hexagon-launches-metrical-for-fully-autonomous-cmm-inspection/</guid>
+    </item>
+    <item>
       <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
       <description>Vadzo compares new global shutter USB cameras, evaluating commercial sensor options for precision imaging applications.</description>
@@ -24,34 +52,6 @@
       <description>Industrial Physics expands its precision measurement portfolio by acquiring Vitrek, showing market consolidation in measurement solutions.</description>
       <pubDate>Mon, 31 Aug 2026 06:27:30 -0000</pubDate>
       <guid>https://metrology.news/industrial-physics-expands-precision-measurement-portfolio-with-acquisition-of-vitrek/</guid>
-    </item>
-    <item>
-      <title>Nion Brings High-Resolution 3D Vision to Automation</title>
-      <link>https://metrology.news/nion-brings-high-resolution-3d-vision-to-automation3d-tof-imaging-to-industrial-automation/</link>
-      <description>Nion introduces new high-resolution 3D vision systems, providing advanced hardware solutions for industrial automation.</description>
-      <pubDate>Mon, 31 Aug 2026 06:27:26 -0000</pubDate>
-      <guid>https://metrology.news/nion-brings-high-resolution-3d-vision-to-automation3d-tof-imaging-to-industrial-automation/</guid>
-    </item>
-    <item>
-      <title>ZEISS Helps Manufacturers Find Certainty at IMTS 2026</title>
-      <link>https://metrology.news/zeiss-helps-manufacturers-find-certainty-at-imts-2026/</link>
-      <description>ZEISS is showcasing its latest turnkey metrology and automated quality control systems for manufacturers at the IMTS 2026 commercial trade show.</description>
-      <pubDate>Sat, 29 Aug 2026 06:08:26 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-helps-manufacturers-find-certainty-at-imts-2026/</guid>
-    </item>
-    <item>
-      <title>Beyond Model Accuracy: The Critical Role of Sensor Calibration in Physical AI Vision Systems</title>
-      <link>https://www.vision-systems.com/cameras-accessories/image-sensors/article/55399464/beyond-model-accuracy-the-critical-role-of-sensor-calibration-in-physical-ai-vision-systems</link>
-      <description>Proper sensor calibration is essential for commercializing physical AI vision systems to ensure reliable hardware performance in factory automation.</description>
-      <pubDate>Sat, 29 Aug 2026 06:08:24 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/image-sensors/article/55399464/beyond-model-accuracy-the-critical-role-of-sensor-calibration-in-physical-ai-vision-systems</guid>
-    </item>
-    <item>
-      <title>Vision Components VC EvoCam, New MIPI Cameras and VC MIPI Bricks System</title>
-      <link>https://www.qualitymag.com/articles/99871-vision-components-vc-evocam-new-mipi-cameras-and-vc-mipi-bricks-system</link>
-      <description>Vision Components' release of new MIPI cameras introduces updated hardware solutions for embedded commercial machine vision applications.</description>
-      <pubDate>Fri, 28 Aug 2026 06:31:11 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99871-vision-components-vc-evocam-new-mipi-cameras-and-vc-mipi-bricks-system</guid>
     </item>
   </channel>
 </rss>
