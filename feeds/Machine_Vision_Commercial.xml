@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Practical Machine Vision for 3D Bin Picking Applications</title>
+      <link>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</link>
+      <description>Practical machine vision solutions for 3D bin picking are enhancing factory automation and commercial manufacturing efficiency.</description>
+      <pubDate>Fri, 04 Sep 2026 06:25:46 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</guid>
+    </item>
+    <item>
+      <title>Dragonfly 3D World 2027 Adds AI Segmentation and Advanced CT Measurement Tools</title>
+      <link>https://metrology.news/dragonfly-3d-world-2027-adds-ai-segmentation-and-advanced-ct-measurement-tools/</link>
+      <description>The addition of AI segmentation and advanced CT tools to Dragonfly 3D World 2027 offers new turnkey capabilities for commercial defect recognition.</description>
+      <pubDate>Fri, 04 Sep 2026 06:25:44 -0000</pubDate>
+      <guid>https://metrology.news/dragonfly-3d-world-2027-adds-ai-segmentation-and-advanced-ct-measurement-tools/</guid>
+    </item>
+    <item>
+      <title>FARO CREAFORM to Showcase Portable Metrology Solutions at IMTS</title>
+      <link>https://metrology.news/faro-creaform-to-showcase-portable-metrology-solutions-at-imts/</link>
+      <description>FARO CREAFORM showcases portable metrology solutions at IMTS, highlighting commercial hardware advancements for industrial inspection.</description>
+      <pubDate>Fri, 04 Sep 2026 06:25:42 -0000</pubDate>
+      <guid>https://metrology.news/faro-creaform-to-showcase-portable-metrology-solutions-at-imts/</guid>
+    </item>
+    <item>
       <title>QuantumDiamonds Brings Contactless Current Imaging Closer to Inline Inspection</title>
       <link>https://metrology.news/quantumdiamonds-brings-contactless-current-imaging-closer-to-inline-inspection/</link>
       <description>QuantumDiamonds advances contactless current imaging, bringing enhanced capabilities to inline inspection systems for quality control.</description>
@@ -31,27 +52,6 @@
       <description>SHINING 3D launches new wireless scanning hardware to enhance flexible metrology and industrial inspection.</description>
       <pubDate>Wed, 02 Sep 2026 06:32:43 -0000</pubDate>
       <guid>https://metrology.news/shining-3d-introduces-wireless-3d-scanning-and-tracking-system/</guid>
-    </item>
-    <item>
-      <title>Beyond the Scan: How the Next Generation of CT Image Processing Is Advancing Quality Assurance</title>
-      <link>https://www.qualitymag.com/articles/99864-beyond-the-scan-how-the-next-generation-of-ct-image-processing-is-advancing-quality-assurance</link>
-      <description>Next generation CT image processing provides quality teams with actionable insights for defect analysis and inspection, advancing commercial quality assurance.</description>
-      <pubDate>Tue, 01 Sep 2026 06:15:54 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99864-beyond-the-scan-how-the-next-generation-of-ct-image-processing-is-advancing-quality-assurance</guid>
-    </item>
-    <item>
-      <title>From Computer Vision to Physical AI – The Next Frontier for 3D Metrology</title>
-      <link>https://metrology.news/from-computer-vision-to-physical-ai-the-next-frontier-for-3d-metrology/</link>
-      <description>The shift toward physical AI in 3D metrology represents the next commercial frontier for industrial automation.</description>
-      <pubDate>Tue, 01 Sep 2026 06:15:47 -0000</pubDate>
-      <guid>https://metrology.news/from-computer-vision-to-physical-ai-the-next-frontier-for-3d-metrology/</guid>
-    </item>
-    <item>
-      <title>LUCID Triton Smart Camera</title>
-      <link>https://www.qualitymag.com/articles/99878-lucid-triton-smart-camera</link>
-      <description>LUCID Vision Labs announces a new open-source AI development tool for their Triton smart cameras, expanding options for industrial machine vision developers.</description>
-      <pubDate>Tue, 01 Sep 2026 06:15:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99878-lucid-triton-smart-camera</guid>
     </item>
   </channel>
 </rss>
