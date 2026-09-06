@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition &amp; AI in Digital Radiography</title>
+      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
+      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography.</description>
+      <pubDate>Sun, 06 Sep 2026 18:09:25 -0000</pubDate>
+      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
+    </item>
+    <item>
+      <title>AI for NDT Professionals: Improving Accuracy, Speed, and ...</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php?productid=192</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
+      <pubDate>Sun, 06 Sep 2026 18:09:14 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
+    </item>
+    <item>
       <title>Sword and Shield: Practical Tips for Defect and Professional Construction Disputes | Perrin Conferences</title>
       <link>https://www.perrinconferences.com/webinars/defect-and-professional-construction-disputes/</link>
       <description>Sword and Shield: Practical Tips for Defect and Professional Construction Disputes</description>
@@ -38,20 +52,6 @@
       <description>May 6, 2026 - On May 14, 2026, at 12:00 pm PDT (2:00 pm EDT) TDK SensEI will deliver a webinar \u201cUsing Computer Vision and edge AI for Defect Detection\u201d From the event page: Join Sundeep Ahluwalia, Chief Product Officer at TDK SensEI, as he explores the ...</description>
       <pubDate>Sun, 30 Aug 2026 18:18:00 -0000</pubDate>
       <guid>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</guid>
-    </item>
-    <item>
-      <title>Live Webinar - ASNT Education</title>
-      <link>https://education.asnt.org/catalog/</link>
-      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies ...</description>
-      <pubDate>Sat, 29 Aug 2026 18:02:24 -0000</pubDate>
-      <guid>https://education.asnt.org/catalog/</guid>
-    </item>
-    <item>
-      <title>Managing Defects Under the ECC - The CPD Register</title>
-      <link>https://thecpdregister.com/webinars/cpd-group-webinar--501221</link>
-      <description>Jun 9, 2026 · The webinar focuses on the practical application of the NEC4 Engineering and Construction Contract (ECC) defect provisions, helping project managers, supervisors and contractors understand how defects should be identified, managed and resolved throughout the contract lifecycle.</description>
-      <pubDate>Thu, 27 Aug 2026 18:11:54 -0000</pubDate>
-      <guid>https://thecpdregister.com/webinars/cpd-group-webinar--501221</guid>
     </item>
   </channel>
 </rss>
