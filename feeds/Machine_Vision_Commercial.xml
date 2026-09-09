@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Careful Use of AI in Manufacturing Quality</title>
+      <link>https://www.qualitymag.com/articles/99903-careful-use-of-ai-in-manufacturing-quality</link>
+      <description>This article highlights crucial commercial market trends surrounding the cautious but growing adoption of AI for defect detection in manufacturing.</description>
+      <pubDate>Wed, 09 Sep 2026 06:03:25 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99903-careful-use-of-ai-in-manufacturing-quality</guid>
+    </item>
+    <item>
+      <title>Rockwell Expands AI-Driven Quality Inspection with Plex QMS</title>
+      <link>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</link>
+      <description>Rockwell's expansion of AI-driven quality inspection software demonstrates growth in commercial turnkey solutions for factory automation.</description>
+      <pubDate>Wed, 09 Sep 2026 06:03:23 -0000</pubDate>
+      <guid>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</guid>
+    </item>
+    <item>
+      <title>How Augmented Reality is Transforming Metrology in Smart Factories</title>
+      <link>https://metrology.news/how-augmented-reality-is-transforming-metrology-in-smart-factories/</link>
+      <description>The integration of augmented reality in smart factories indicates an important market trend towards more advanced, commercially-viable inspection systems.</description>
+      <pubDate>Wed, 09 Sep 2026 06:03:21 -0000</pubDate>
+      <guid>https://metrology.news/how-augmented-reality-is-transforming-metrology-in-smart-factories/</guid>
+    </item>
+    <item>
+      <title>Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics</title>
+      <link>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</link>
+      <description>Emesent's $2 million grant to develop an open AI platform for robotics represents a notable commercial advancement for hardware and turnkey solutions in defect recognition.</description>
+      <pubDate>Wed, 09 Sep 2026 06:03:18 -0000</pubDate>
+      <guid>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</guid>
+    </item>
+    <item>
       <title>IMTS 2026: Big Tech Sets Out the Future of Industrial AI</title>
       <link>https://metrology.news/imts-2026-big-tech-sets-out-the-future-of-industrial-ai/</link>
       <description>Big tech's vision for industrial AI at IMTS 2026 highlights growing market trends toward integrating advanced machine vision into factory turnkey solutions.</description>
@@ -24,34 +52,6 @@
       <description>Vadzo compares global shutter USB cameras from Sony and Onsemi, highlighting commercial hardware choices for industrial machine vision applications.</description>
       <pubDate>Sun, 06 Sep 2026 06:12:27 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</guid>
-    </item>
-    <item>
-      <title>GM's BVSeal System: Cutting-Edge Solution for Leak Detection in Electric Vehicle Manufacturing</title>
-      <link>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</link>
-      <description>GM's implementation of the BVSeal system highlights a significant turnkey commercial application of machine vision for EV manufacturing quality control.</description>
-      <pubDate>Sun, 06 Sep 2026 06:12:09 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</guid>
-    </item>
-    <item>
-      <title>University of Kentucky Researchers Develop “Bring Your Own Projector” Machine Vision Camera</title>
-      <link>https://www.qualitymag.com/articles/99888-university-of-kentucky-researchers-develop-bring-your-own-projector-machine-vision-camera</link>
-      <description>This new machine vision camera hardware from university researchers offers a flexible and cost-effective commercial solution for industrial defect recognition.</description>
-      <pubDate>Sat, 05 Sep 2026 06:31:20 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99888-university-of-kentucky-researchers-develop-bring-your-own-projector-machine-vision-camera</guid>
-    </item>
-    <item>
-      <title>AI, Vision and Robotics Converge at Advanced Vision &amp; AI Conference</title>
-      <link>https://metrology.news/ai-vision-and-robotics-converge-at-advanced-vision-ai-conference/</link>
-      <description>The convergence of AI and machine vision technologies at this conference highlights significant market trends and new turnkey solutions for industrial automation.</description>
-      <pubDate>Sat, 05 Sep 2026 06:31:17 -0000</pubDate>
-      <guid>https://metrology.news/ai-vision-and-robotics-converge-at-advanced-vision-ai-conference/</guid>
-    </item>
-    <item>
-      <title>Practical Machine Vision for 3D Bin Picking Applications</title>
-      <link>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</link>
-      <description>Practical machine vision solutions for 3D bin picking are enhancing factory automation and commercial manufacturing efficiency.</description>
-      <pubDate>Fri, 04 Sep 2026 06:25:46 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</guid>
     </item>
   </channel>
 </rss>
