@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>ZEISS Advances Virtual Clamping for Automated Inspection</title>
+      <link>https://metrology.news/zeiss-advances-virtual-clamping-for-automated-inspection/</link>
+      <description>ZEISS updates Virtual Clamping for automated inspection, expanding the commercial capabilities of its optical measurement turnkey solutions.</description>
+      <pubDate>Thu, 10 Sep 2026 06:06:59 -0000</pubDate>
+      <guid>https://metrology.news/zeiss-advances-virtual-clamping-for-automated-inspection/</guid>
+    </item>
+    <item>
+      <title>Rockwell Expands AI-Driven Quality Inspection with Plex QMS</title>
+      <link>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</link>
+      <description>Rockwell Automation integrates AI-driven quality inspection into Plex QMS, highlighting a growing commercial trend in factory automation software.</description>
+      <pubDate>Thu, 10 Sep 2026 06:06:57 -0000</pubDate>
+      <guid>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</guid>
+    </item>
+    <item>
+      <title>Anthropic Develops Standard for AI Agents to Control Manufacturing Equipment</title>
+      <link>https://metrology.news/anthropic-develops-standard-for-ai-agents-to-control-manufacturing-equipment/</link>
+      <description>Anthropic introduces the Model Hardware Standard to enable AI agents to directly control manufacturing equipment, representing a major commercial shift towards automated turnkey solutions.</description>
+      <pubDate>Thu, 10 Sep 2026 06:06:55 -0000</pubDate>
+      <guid>https://metrology.news/anthropic-develops-standard-for-ai-agents-to-control-manufacturing-equipment/</guid>
+    </item>
+    <item>
       <title>IMTS 2026: Big Tech Sets Out the Future of Industrial AI</title>
       <link>https://metrology.news/imts-2026-big-tech-sets-out-the-future-of-industrial-ai/</link>
       <description>Big tech's vision for industrial AI at IMTS 2026 highlights growing market trends toward integrating advanced machine vision into factory turnkey solutions.</description>
@@ -31,27 +52,6 @@
       <description>GM's implementation of the BVSeal system highlights a significant turnkey commercial application of machine vision for EV manufacturing quality control.</description>
       <pubDate>Sun, 06 Sep 2026 06:12:09 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/automotive-manufacturing/article/55399931/gm-develops-automated-inspection-for-ev-battery-packs</guid>
-    </item>
-    <item>
-      <title>University of Kentucky Researchers Develop “Bring Your Own Projector” Machine Vision Camera</title>
-      <link>https://www.qualitymag.com/articles/99888-university-of-kentucky-researchers-develop-bring-your-own-projector-machine-vision-camera</link>
-      <description>This new machine vision camera hardware from university researchers offers a flexible and cost-effective commercial solution for industrial defect recognition.</description>
-      <pubDate>Sat, 05 Sep 2026 06:31:20 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99888-university-of-kentucky-researchers-develop-bring-your-own-projector-machine-vision-camera</guid>
-    </item>
-    <item>
-      <title>AI, Vision and Robotics Converge at Advanced Vision &amp; AI Conference</title>
-      <link>https://metrology.news/ai-vision-and-robotics-converge-at-advanced-vision-ai-conference/</link>
-      <description>The convergence of AI and machine vision technologies at this conference highlights significant market trends and new turnkey solutions for industrial automation.</description>
-      <pubDate>Sat, 05 Sep 2026 06:31:17 -0000</pubDate>
-      <guid>https://metrology.news/ai-vision-and-robotics-converge-at-advanced-vision-ai-conference/</guid>
-    </item>
-    <item>
-      <title>Practical Machine Vision for 3D Bin Picking Applications</title>
-      <link>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</link>
-      <description>Practical machine vision solutions for 3D bin picking are enhancing factory automation and commercial manufacturing efficiency.</description>
-      <pubDate>Fri, 04 Sep 2026 06:25:46 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99889-practical-machine-vision-for-3d-bin-picking-applications</guid>
     </item>
   </channel>
 </rss>
