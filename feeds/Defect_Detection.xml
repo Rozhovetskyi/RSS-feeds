@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated Defect Recognition and Artificial Intelligence (AI) in</title>
+      <link>https://education.asnt.org/local/catalog/view/product.php</link>
+      <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to practical implementations.</description>
+      <pubDate>Thu, 10 Sep 2026 18:16:07 -0000</pubDate>
+      <guid>https://education.asnt.org/local/catalog/view/product.php</guid>
+    </item>
+    <item>
       <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar</title>
       <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
       <description>Implementation Strategy Get practical guidance on integrating AI-powered inspection workflows into existing utility operations and compliance frameworks. Live Platform Demo Experience AeroMegh’s intuitive interface as we demonstrate real-time defect detection and automated reporting capabilities.</description>
@@ -45,13 +52,6 @@
       <description>Discover how manufacturers can move beyond AI proof of concept and build a practical workflow for real-time defect detection at the edge.</description>
       <pubDate>Tue, 01 Sep 2026 18:24:17 -0000</pubDate>
       <guid>https://www.facebook.com/AdvantechUSA/posts/were-live-todayjoin-advantech-edge-impulse-and-qualcomm-for-scaling-edge-ai-for-/1926436605146933/</guid>
-    </item>
-    <item>
-      <title>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
-      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
-      <description>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions F ree Webinar Tuesday, 11 August 2026</description>
-      <pubDate>Tue, 01 Sep 2026 18:24:15 -0000</pubDate>
-      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
     </item>
   </channel>
 </rss>
