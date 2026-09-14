@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Lumafield Launches Saturn Large-Format Industrial CT Scanner</title>
+      <link>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</link>
+      <description>Lumafield's new Saturn large-format industrial CT scanner introduces a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
+      <pubDate>Mon, 14 Sep 2026 06:01:53 -0000</pubDate>
+      <guid>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</guid>
+    </item>
+    <item>
+      <title>OGP Expands Automated Video Metrology</title>
+      <link>https://metrology.news/ogp-expands-automated-video-metrology/</link>
+      <description>OGP's new automated video metrology systems provide advanced commercial turnkey solutions for quality control in manufacturing.</description>
+      <pubDate>Mon, 14 Sep 2026 06:01:47 -0000</pubDate>
+      <guid>https://metrology.news/ogp-expands-automated-video-metrology/</guid>
+    </item>
+    <item>
       <title>1factory FedRAMP Moderate Equivalent Environment to Support Defense Manufacturers Pursuing CMMC 2.0 Compliance</title>
       <link>https://www.qualitymag.com/articles/99911-1factory-fedramp-moderate-equivalent-environment-to-support-defense-manufacturers-pursuing-cmmc-20-compliance</link>
       <description>1factory announces a FedRAMP environment to support defense manufacturers in quality compliance, reflecting growth in regulated sector metrology solutions.</description>
@@ -38,20 +52,6 @@
       <description>Teledyne e2v's expansion of its Flash CMOS image sensor family increases commercial hardware options for advanced machine vision applications.</description>
       <pubDate>Fri, 11 Sep 2026 06:11:26 -0000</pubDate>
       <guid>https://metrology.news/teledyne-e2v-expands-flash-cmos-image-sensor-family/</guid>
-    </item>
-    <item>
-      <title>ZEISS Advances Virtual Clamping for Automated Inspection</title>
-      <link>https://metrology.news/zeiss-advances-virtual-clamping-for-automated-inspection/</link>
-      <description>ZEISS updates Virtual Clamping for automated inspection, expanding the commercial capabilities of its optical measurement turnkey solutions.</description>
-      <pubDate>Thu, 10 Sep 2026 06:06:59 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-advances-virtual-clamping-for-automated-inspection/</guid>
-    </item>
-    <item>
-      <title>Rockwell Expands AI-Driven Quality Inspection with Plex QMS</title>
-      <link>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</link>
-      <description>Rockwell Automation integrates AI-driven quality inspection into Plex QMS, highlighting a growing commercial trend in factory automation software.</description>
-      <pubDate>Thu, 10 Sep 2026 06:06:57 -0000</pubDate>
-      <guid>https://metrology.news/rockwell-expands-ai-driven-quality-inspection-with-plex-qms/</guid>
     </item>
   </channel>
 </rss>
