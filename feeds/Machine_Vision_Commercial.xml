@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Lyte Raises $165 Million to Advance AI-Powered Robotic Perception</title>
+      <link>https://metrology.news/lyte-raises-165-million-to-advance-ai-powered-robotic-perception/</link>
+      <description>This major funding round highlights the growing commercial investment and market expansion in AI-driven physical perception systems.</description>
+      <pubDate>Tue, 15 Sep 2026 06:14:26 -0000</pubDate>
+      <guid>https://metrology.news/lyte-raises-165-million-to-advance-ai-powered-robotic-perception/</guid>
+    </item>
+    <item>
+      <title>Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics</title>
+      <link>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</link>
+      <description>This grant expands the commercial applications of AI in robotics for autonomous navigation, opening new markets in GPS-denied environments.</description>
+      <pubDate>Tue, 15 Sep 2026 06:14:24 -0000</pubDate>
+      <guid>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</guid>
+    </item>
+    <item>
       <title>Lumafield Launches Saturn Large-Format Industrial CT Scanner</title>
       <link>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</link>
       <description>Lumafield's new Saturn large-format industrial CT scanner introduces a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
@@ -38,20 +52,6 @@
       <description>Geolava's spatial AI integration showcases a major commercial shift towards advanced vision systems in factory automation.</description>
       <pubDate>Sun, 13 Sep 2026 06:29:24 -0000</pubDate>
       <guid>https://www.vision-systems.com/factory/podcast/55403374/how-spatial-intelligence-is-transforming-machine-vision</guid>
-    </item>
-    <item>
-      <title>Stratasys Targets Scalable Additive Production With In-Situ Quality Monitoring</title>
-      <link>https://metrology.news/stratasys-targets-scalable-additive-production-with-in-situ-quality-monitoring/</link>
-      <description>Stratasys' in-situ quality monitoring targets scalable additive production, enhancing commercial automated defect recognition.</description>
-      <pubDate>Fri, 11 Sep 2026 06:11:29 -0000</pubDate>
-      <guid>https://metrology.news/stratasys-targets-scalable-additive-production-with-in-situ-quality-monitoring/</guid>
-    </item>
-    <item>
-      <title>Teledyne e2v Expands Flash CMOS Image Sensor Family</title>
-      <link>https://metrology.news/teledyne-e2v-expands-flash-cmos-image-sensor-family/</link>
-      <description>Teledyne e2v's expansion of its Flash CMOS image sensor family increases commercial hardware options for advanced machine vision applications.</description>
-      <pubDate>Fri, 11 Sep 2026 06:11:26 -0000</pubDate>
-      <guid>https://metrology.news/teledyne-e2v-expands-flash-cmos-image-sensor-family/</guid>
     </item>
   </channel>
 </rss>
