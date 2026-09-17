@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>PrismIQ Launch Brings AI-Powered Visual Inspection to Manufacturing</title>
+      <link>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</link>
+      <description>Opsio's launch of PrismIQ introduces a new commercial AI-powered visual inspection solution targeted at optimizing manufacturing quality.</description>
+      <pubDate>Thu, 17 Sep 2026 06:06:52 -0000</pubDate>
+      <guid>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Lumafield Uses Agentic AI to Detect Unknown Manufacturing Defects</title>
+      <link>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</link>
+      <description>Lumafield has launched an agentic AI system for automated defect detection, providing a commercially viable AI solution for advanced quality control.</description>
+      <pubDate>Thu, 17 Sep 2026 06:06:46 -0000</pubDate>
+      <guid>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</guid>
+    </item>
+    <item>
+      <title>AI Smart Camera Solution to Accelerate Smart Manufacturing</title>
+      <link>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</link>
+      <description>USI announces an edge AI and vision solution to accelerate smart manufacturing, reflecting growing demand for turnkey AI hardware in industrial automation.</description>
+      <pubDate>Thu, 17 Sep 2026 06:06:42 -0000</pubDate>
+      <guid>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</guid>
+    </item>
+    <item>
       <title>Advanced chipmaking drives Taiwan inspection firms toward listings - Taiwan News</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</link>
       <description>The growth in advanced semiconductor manufacturing is driving commercial expansion and public listings for automated optical inspection firms in Taiwan.</description>
@@ -31,27 +52,6 @@
       <description>This grant expands the commercial applications of AI in robotics for autonomous navigation, opening new markets in GPS-denied environments.</description>
       <pubDate>Tue, 15 Sep 2026 06:14:24 -0000</pubDate>
       <guid>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</guid>
-    </item>
-    <item>
-      <title>Lumafield Launches Saturn Large-Format Industrial CT Scanner</title>
-      <link>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</link>
-      <description>Lumafield's new Saturn large-format industrial CT scanner introduces a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
-      <pubDate>Mon, 14 Sep 2026 06:01:53 -0000</pubDate>
-      <guid>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</guid>
-    </item>
-    <item>
-      <title>OGP Expands Automated Video Metrology</title>
-      <link>https://metrology.news/ogp-expands-automated-video-metrology/</link>
-      <description>OGP's new automated video metrology systems provide advanced commercial turnkey solutions for quality control in manufacturing.</description>
-      <pubDate>Mon, 14 Sep 2026 06:01:47 -0000</pubDate>
-      <guid>https://metrology.news/ogp-expands-automated-video-metrology/</guid>
-    </item>
-    <item>
-      <title>1factory FedRAMP Moderate Equivalent Environment to Support Defense Manufacturers Pursuing CMMC 2.0 Compliance</title>
-      <link>https://www.qualitymag.com/articles/99911-1factory-fedramp-moderate-equivalent-environment-to-support-defense-manufacturers-pursuing-cmmc-20-compliance</link>
-      <description>1factory announces a FedRAMP environment to support defense manufacturers in quality compliance, reflecting growth in regulated sector metrology solutions.</description>
-      <pubDate>Sun, 13 Sep 2026 06:29:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99911-1factory-fedramp-moderate-equivalent-environment-to-support-defense-manufacturers-pursuing-cmmc-20-compliance</guid>
     </item>
   </channel>
 </rss>
