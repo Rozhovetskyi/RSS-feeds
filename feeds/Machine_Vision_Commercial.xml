@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Modular Multispectral Imaging: Inside Torrent Photonics' SpectroCam 2</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</link>
+      <description>Torrent Photonics releases SpectroCam 2, offering modular multispectral imaging for industrial applications.</description>
+      <pubDate>Fri, 18 Sep 2026 06:09:27 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</guid>
+    </item>
+    <item>
+      <title>Streamlining Complex Surface Measurements: Faro's Latest Innovations in Laser Scanning</title>
+      <link>https://www.vision-systems.com/factory/article/55405690/streamlining-complex-surface-measurements-faros-latest-innovations-in-laser-scanning</link>
+      <description>Faro introduces new innovations in laser scanning to streamline complex surface measurements in manufacturing.</description>
+      <pubDate>Fri, 18 Sep 2026 06:09:22 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/article/55405690/streamlining-complex-surface-measurements-faros-latest-innovations-in-laser-scanning</guid>
+    </item>
+    <item>
+      <title>AI Smart Camera Solution to Accelerate Smart Manufacturing</title>
+      <link>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</link>
+      <description>New AI smart camera solution introduced to accelerate smart manufacturing and automation.</description>
+      <pubDate>Fri, 18 Sep 2026 06:09:17 -0000</pubDate>
+      <guid>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</guid>
+    </item>
+    <item>
+      <title>1factory Integrates Compliance with Shop-Floor Quality</title>
+      <link>https://metrology.news/1factory-integrates-compliance-with-shop-floor-quality/</link>
+      <description>1factory integrates compliance with shop-floor quality to improve efficiency.</description>
+      <pubDate>Fri, 18 Sep 2026 06:09:10 -0000</pubDate>
+      <guid>https://metrology.news/1factory-integrates-compliance-with-shop-floor-quality/</guid>
+    </item>
+    <item>
       <title>Advanced chipmaking drives Taiwan inspection firms toward listings - Taiwan News</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</link>
       <description>The growth in advanced semiconductor manufacturing is driving commercial expansion and public listings for automated optical inspection firms in Taiwan.</description>
@@ -24,34 +52,6 @@
       <description>This major funding round highlights the growing commercial investment and market expansion in AI-driven physical perception systems.</description>
       <pubDate>Tue, 15 Sep 2026 06:14:26 -0000</pubDate>
       <guid>https://metrology.news/lyte-raises-165-million-to-advance-ai-powered-robotic-perception/</guid>
-    </item>
-    <item>
-      <title>Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics</title>
-      <link>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</link>
-      <description>This grant expands the commercial applications of AI in robotics for autonomous navigation, opening new markets in GPS-denied environments.</description>
-      <pubDate>Tue, 15 Sep 2026 06:14:24 -0000</pubDate>
-      <guid>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</guid>
-    </item>
-    <item>
-      <title>Lumafield Launches Saturn Large-Format Industrial CT Scanner</title>
-      <link>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</link>
-      <description>Lumafield's new Saturn large-format industrial CT scanner introduces a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
-      <pubDate>Mon, 14 Sep 2026 06:01:53 -0000</pubDate>
-      <guid>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</guid>
-    </item>
-    <item>
-      <title>OGP Expands Automated Video Metrology</title>
-      <link>https://metrology.news/ogp-expands-automated-video-metrology/</link>
-      <description>OGP's new automated video metrology systems provide advanced commercial turnkey solutions for quality control in manufacturing.</description>
-      <pubDate>Mon, 14 Sep 2026 06:01:47 -0000</pubDate>
-      <guid>https://metrology.news/ogp-expands-automated-video-metrology/</guid>
-    </item>
-    <item>
-      <title>1factory FedRAMP Moderate Equivalent Environment to Support Defense Manufacturers Pursuing CMMC 2.0 Compliance</title>
-      <link>https://www.qualitymag.com/articles/99911-1factory-fedramp-moderate-equivalent-environment-to-support-defense-manufacturers-pursuing-cmmc-20-compliance</link>
-      <description>1factory announces a FedRAMP environment to support defense manufacturers in quality compliance, reflecting growth in regulated sector metrology solutions.</description>
-      <pubDate>Sun, 13 Sep 2026 06:29:41 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99911-1factory-fedramp-moderate-equivalent-environment-to-support-defense-manufacturers-pursuing-cmmc-20-compliance</guid>
     </item>
   </channel>
 </rss>
