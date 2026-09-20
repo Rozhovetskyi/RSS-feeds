@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Modular Multispectral Imaging: Inside Torrent Photonics' SpectroCam 2</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</link>
+      <description>Torrent Photonics discusses new modular multispectral imaging hardware, offering advanced sensor capabilities for complex machine vision applications.</description>
+      <pubDate>Sun, 20 Sep 2026 06:08:11 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</guid>
+    </item>
+    <item>
+      <title>PrismIQ Launch Brings AI-Powered Visual Inspection to Manufacturing</title>
+      <link>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</link>
+      <description>Opsio launches PrismIQ, a new automated visual inspection service, expanding the market for turnkey AI defect detection solutions.</description>
+      <pubDate>Sun, 20 Sep 2026 06:08:09 -0000</pubDate>
+      <guid>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Lumafield Uses Agentic AI to Detect Unknown Manufacturing Defects</title>
+      <link>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</link>
+      <description>Lumafield introduces an agentic AI system for automated defect detection, highlighting market trends towards AI-driven quality control solutions.</description>
+      <pubDate>Sun, 20 Sep 2026 06:08:07 -0000</pubDate>
+      <guid>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</guid>
+    </item>
+    <item>
+      <title>EWI Leads INSITE Program for In-Process Additive Manufacturing Inspection</title>
+      <link>https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/</link>
+      <description>EWI leads a 3.2 million national program to develop in-process defect detection for additive manufacturing, advancing commercial adoption.</description>
+      <pubDate>Sun, 20 Sep 2026 06:08:05 -0000</pubDate>
+      <guid>https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/</guid>
+    </item>
+    <item>
       <title>Streamlining Complex Surface Measurements: Faro's Latest Innovations in Laser Scanning</title>
       <link>https://www.vision-systems.com/factory/article/55405690/streamlining-complex-surface-measurements-faros-latest-innovations-in-laser-scanning</link>
       <description>Faro's new laser scanning innovations provide advanced hardware solutions for streamlining complex surface measurements in manufacturing.</description>
@@ -24,34 +52,6 @@
       <description>The growth in advanced semiconductor manufacturing is driving commercial expansion and public listings for automated optical inspection firms in Taiwan.</description>
       <pubDate>Wed, 16 Sep 2026 06:28:59 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</guid>
-    </item>
-    <item>
-      <title>ZEISS Combines X-Ray Microscopy and MicroCT in VersaXRM 5 Insight</title>
-      <link>https://metrology.news/zeiss-combines-x-ray-microscopy-and-microct-in-versaxrm-5-insight/</link>
-      <description>ZEISS introduces a new hybrid 3D X-ray microscope, providing a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
-      <pubDate>Wed, 16 Sep 2026 06:28:29 -0000</pubDate>
-      <guid>https://metrology.news/zeiss-combines-x-ray-microscopy-and-microct-in-versaxrm-5-insight/</guid>
-    </item>
-    <item>
-      <title>Lyte Raises $165 Million to Advance AI-Powered Robotic Perception</title>
-      <link>https://metrology.news/lyte-raises-165-million-to-advance-ai-powered-robotic-perception/</link>
-      <description>This major funding round highlights the growing commercial investment and market expansion in AI-driven physical perception systems.</description>
-      <pubDate>Tue, 15 Sep 2026 06:14:26 -0000</pubDate>
-      <guid>https://metrology.news/lyte-raises-165-million-to-advance-ai-powered-robotic-perception/</guid>
-    </item>
-    <item>
-      <title>Emesent Secures $2 Million Grant to Develop Open AI Platform for Robotics</title>
-      <link>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</link>
-      <description>This grant expands the commercial applications of AI in robotics for autonomous navigation, opening new markets in GPS-denied environments.</description>
-      <pubDate>Tue, 15 Sep 2026 06:14:24 -0000</pubDate>
-      <guid>https://www.vision-systems.com/non-factory/article/55403263/emesent-secures-2-million-grant-to-develop-open-ai-platform-for-robotics</guid>
-    </item>
-    <item>
-      <title>Lumafield Launches Saturn Large-Format Industrial CT Scanner</title>
-      <link>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</link>
-      <description>Lumafield's new Saturn large-format industrial CT scanner introduces a powerful hardware solution for enhanced non-destructive inspection in manufacturing.</description>
-      <pubDate>Mon, 14 Sep 2026 06:01:53 -0000</pubDate>
-      <guid>https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/</guid>
     </item>
   </channel>
 </rss>
