@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Universal Robots Launches Seventh-Generation Cobot Platform</title>
+      <link>https://metrology.news/universal-robots-launches-seventh-generation-cobot-platform/</link>
+      <description>Universal Robots launches its seventh-generation cobot platform, signaling ongoing growth in automated factory solutions.</description>
+      <pubDate>Mon, 21 Sep 2026 06:17:30 -0000</pubDate>
+      <guid>https://metrology.news/universal-robots-launches-seventh-generation-cobot-platform/</guid>
+    </item>
+    <item>
+      <title>1factory Integrates Compliance with Shop-Floor Quality</title>
+      <link>https://metrology.news/1factory-integrates-compliance-with-shop-floor-quality/</link>
+      <description>1factory integrates compliance capabilities with shop-floor quality solutions for streamlined manufacturing operations.</description>
+      <pubDate>Mon, 21 Sep 2026 06:17:23 -0000</pubDate>
+      <guid>https://metrology.news/1factory-integrates-compliance-with-shop-floor-quality/</guid>
+    </item>
+    <item>
+      <title>Hexagon and GelSight Integrate Portable Dimensional and Surface Inspection</title>
+      <link>https://metrology.news/hexagon-and-gelsight-integrate-portable-dimensional-and-surface-inspection/</link>
+      <description>Hexagon and GelSight have integrated their technologies to offer a new portable dimensional and surface inspection solution for manufacturers.</description>
+      <pubDate>Mon, 21 Sep 2026 06:17:16 -0000</pubDate>
+      <guid>https://metrology.news/hexagon-and-gelsight-integrate-portable-dimensional-and-surface-inspection/</guid>
+    </item>
+    <item>
       <title>Modular Multispectral Imaging: Inside Torrent Photonics' SpectroCam 2</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</link>
       <description>Torrent Photonics discusses new modular multispectral imaging hardware, offering advanced sensor capabilities for complex machine vision applications.</description>
@@ -31,27 +52,6 @@
       <description>EWI leads a 3.2 million national program to develop in-process defect detection for additive manufacturing, advancing commercial adoption.</description>
       <pubDate>Sun, 20 Sep 2026 06:08:05 -0000</pubDate>
       <guid>https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/</guid>
-    </item>
-    <item>
-      <title>Streamlining Complex Surface Measurements: Faro's Latest Innovations in Laser Scanning</title>
-      <link>https://www.vision-systems.com/factory/article/55405690/streamlining-complex-surface-measurements-faros-latest-innovations-in-laser-scanning</link>
-      <description>Faro's new laser scanning innovations provide advanced hardware solutions for streamlining complex surface measurements in manufacturing.</description>
-      <pubDate>Sat, 19 Sep 2026 06:20:47 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55405690/streamlining-complex-surface-measurements-faros-latest-innovations-in-laser-scanning</guid>
-    </item>
-    <item>
-      <title>AI Smart Camera Solution to Accelerate Smart Manufacturing</title>
-      <link>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</link>
-      <description>New AI smart camera solutions are accelerating smart manufacturing by providing advanced defect detection capabilities.</description>
-      <pubDate>Sat, 19 Sep 2026 06:20:33 -0000</pubDate>
-      <guid>https://metrology.news/ai-smart-camera-solution-to-accelerate-smart-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Advanced chipmaking drives Taiwan inspection firms toward listings - Taiwan News</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</link>
-      <description>The growth in advanced semiconductor manufacturing is driving commercial expansion and public listings for automated optical inspection firms in Taiwan.</description>
-      <pubDate>Wed, 16 Sep 2026 06:28:59 -0000</pubDate>
-      <guid>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JUEJ5azJ2cGgybHdKQ25NUEVIeElVSWMxeklNSkc3Uk0zMDZVVzlDWlBYcXNQQzcxcFB1WEo3eUFGX3pIclBkTjZJX2NBWVNkUzgzcA?oc=5</guid>
     </item>
   </channel>
 </rss>
