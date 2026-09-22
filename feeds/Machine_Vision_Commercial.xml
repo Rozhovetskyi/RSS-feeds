@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>IRSX-2 Brings Intelligent Thermal Inspection to the Process</title>
+      <link>https://metrology.news/irsx-2-brings-intelligent-thermal-inspection-to-the-process/</link>
+      <description>The new IRSX-2 intelligent thermal inspection camera offers a turnkey hardware solution for automated process monitoring and quality control.</description>
+      <pubDate>Tue, 22 Sep 2026 06:19:08 -0000</pubDate>
+      <guid>https://metrology.news/irsx-2-brings-intelligent-thermal-inspection-to-the-process/</guid>
+    </item>
+    <item>
+      <title>Siemens and P&amp;G Scale Industrial AI for Real-Time Quality Inspection</title>
+      <link>https://metrology.news/siemens-and-pg-scale-industrial-ai-for-real-time-quality-inspection/</link>
+      <description>Siemens partners with P&amp;G to scale industrial AI for automated real-time quality inspection, reflecting a strong turnkey solution market trend.</description>
+      <pubDate>Tue, 22 Sep 2026 06:19:05 -0000</pubDate>
+      <guid>https://metrology.news/siemens-and-pg-scale-industrial-ai-for-real-time-quality-inspection/</guid>
+    </item>
+    <item>
       <title>Universal Robots Launches Seventh-Generation Cobot Platform</title>
       <link>https://metrology.news/universal-robots-launches-seventh-generation-cobot-platform/</link>
       <description>Universal Robots launches its seventh-generation cobot platform, signaling ongoing growth in automated factory solutions.</description>
@@ -38,20 +52,6 @@
       <description>Opsio launches PrismIQ, a new automated visual inspection service, expanding the market for turnkey AI defect detection solutions.</description>
       <pubDate>Sun, 20 Sep 2026 06:08:09 -0000</pubDate>
       <guid>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Lumafield Uses Agentic AI to Detect Unknown Manufacturing Defects</title>
-      <link>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</link>
-      <description>Lumafield introduces an agentic AI system for automated defect detection, highlighting market trends towards AI-driven quality control solutions.</description>
-      <pubDate>Sun, 20 Sep 2026 06:08:07 -0000</pubDate>
-      <guid>https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/</guid>
-    </item>
-    <item>
-      <title>EWI Leads INSITE Program for In-Process Additive Manufacturing Inspection</title>
-      <link>https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/</link>
-      <description>EWI leads a 3.2 million national program to develop in-process defect detection for additive manufacturing, advancing commercial adoption.</description>
-      <pubDate>Sun, 20 Sep 2026 06:08:05 -0000</pubDate>
-      <guid>https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/</guid>
     </item>
   </channel>
 </rss>
