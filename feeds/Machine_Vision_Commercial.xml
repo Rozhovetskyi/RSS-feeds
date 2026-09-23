@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Marposs and TITANS of CNC Partner to Advance Lights-Out Manufacturing</title>
+      <link>https://metrology.news/marposs-and-titans-of-cnc-partner-to-advance-lights-out-manufacturing/</link>
+      <description>The partnership advances lights-out manufacturing and highlights strong market growth in automated and turnkey factory solutions.</description>
+      <pubDate>Wed, 23 Sep 2026 06:14:55 -0000</pubDate>
+      <guid>https://metrology.news/marposs-and-titans-of-cnc-partner-to-advance-lights-out-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Hybrid Manufacturing Platform Integrates Additive Manufacturing, Machining and Inspection</title>
+      <link>https://metrology.news/hybrid-manufacturing-platform-integrates-additive-manufacturing-machining-and-inspection/</link>
+      <description>This hybrid platform offers a new turnkey solution by integrating additive manufacturing with in-line inspection capabilities for automated quality control.</description>
+      <pubDate>Wed, 23 Sep 2026 06:14:51 -0000</pubDate>
+      <guid>https://metrology.news/hybrid-manufacturing-platform-integrates-additive-manufacturing-machining-and-inspection/</guid>
+    </item>
+    <item>
       <title>IRSX-2 Brings Intelligent Thermal Inspection to the Process</title>
       <link>https://metrology.news/irsx-2-brings-intelligent-thermal-inspection-to-the-process/</link>
       <description>The new IRSX-2 intelligent thermal inspection camera offers a turnkey hardware solution for automated process monitoring and quality control.</description>
@@ -38,20 +52,6 @@
       <description>Hexagon and GelSight have integrated their technologies to offer a new portable dimensional and surface inspection solution for manufacturers.</description>
       <pubDate>Mon, 21 Sep 2026 06:17:16 -0000</pubDate>
       <guid>https://metrology.news/hexagon-and-gelsight-integrate-portable-dimensional-and-surface-inspection/</guid>
-    </item>
-    <item>
-      <title>Modular Multispectral Imaging: Inside Torrent Photonics' SpectroCam 2</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</link>
-      <description>Torrent Photonics discusses new modular multispectral imaging hardware, offering advanced sensor capabilities for complex machine vision applications.</description>
-      <pubDate>Sun, 20 Sep 2026 06:08:11 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55405568/modular-multispectral-imaging-inside-torrent-photonics-spectrocam-2</guid>
-    </item>
-    <item>
-      <title>PrismIQ Launch Brings AI-Powered Visual Inspection to Manufacturing</title>
-      <link>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</link>
-      <description>Opsio launches PrismIQ, a new automated visual inspection service, expanding the market for turnkey AI defect detection solutions.</description>
-      <pubDate>Sun, 20 Sep 2026 06:08:09 -0000</pubDate>
-      <guid>https://metrology.news/prismiq-launch-brings-ai-powered-visual-inspection-to-manufacturing/</guid>
     </item>
   </channel>
 </rss>
