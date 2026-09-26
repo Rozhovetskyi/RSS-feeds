@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
+      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
+      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection, focusing on practical implementations.</description>
+      <pubDate>Sat, 26 Sep 2026 18:08:42 -0000</pubDate>
+      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
+    </item>
+    <item>
+      <title>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
+      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
+      <description>This webinar focuses on a practical, end-to-end application of defect tolerance assessment.</description>
+      <pubDate>Sat, 26 Sep 2026 18:08:33 -0000</pubDate>
+      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
+    </item>
+    <item>
       <title>Upcoming Webinar on Computer Vision and Edge AI for Defect Detection - Edge AI and Vision Alliance</title>
       <link>https://www.edge-ai-vision.com/2026/05/upcoming-webinar-on-computer-vision-and-edge-ai-for-defect-detection/</link>
       <description>On May 14, 2026, at 12:00 pm PDT (2:00 pm EDT) TDK SensEI will deliver a webinar “Using Computer Vision and edge AI for Defect Detection”</description>
@@ -38,20 +52,6 @@
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs.</description>
       <pubDate>Sun, 06 Sep 2026 18:09:14 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php?productid=192</guid>
-    </item>
-    <item>
-      <title>Sword and Shield: Practical Tips for Defect and Professional Construction Disputes | Perrin Conferences</title>
-      <link>https://www.perrinconferences.com/webinars/defect-and-professional-construction-disputes/</link>
-      <description>Sword and Shield: Practical Tips for Defect and Professional Construction Disputes</description>
-      <pubDate>Sat, 05 Sep 2026 18:08:11 -0000</pubDate>
-      <guid>https://www.perrinconferences.com/webinars/defect-and-professional-construction-disputes/</guid>
-    </item>
-    <item>
-      <title>Webinars - Additive Manufacturing Media</title>
-      <link>https://www.additivemanufacturing.media/webinars</link>
-      <description>Machine Learning in AM: Layer-by-Layer Defect Detection in Powder Bed Fusion</description>
-      <pubDate>Sat, 05 Sep 2026 18:08:08 -0000</pubDate>
-      <guid>https://www.additivemanufacturing.media/webinars</guid>
     </item>
   </channel>
 </rss>
