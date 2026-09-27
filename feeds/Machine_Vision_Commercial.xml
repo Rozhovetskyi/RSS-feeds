@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Verisurf Software Powers Renishaw PH20 PLUS 5-Axis Touch-Trigger System</title>
+      <link>https://www.qualitymag.com/articles/99934-verisurf-software-powers-renishaw-ph20-plus-5-axis-touch-trigger-system</link>
+      <description>Verisurf Software partners with Renishaw to integrate their software with the new PH20 PLUS system, expanding turnkey commercial capabilities in CMM inspection.</description>
+      <pubDate>Sun, 27 Sep 2026 06:14:34 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99934-verisurf-software-powers-renishaw-ph20-plus-5-axis-touch-trigger-system</guid>
+    </item>
+    <item>
+      <title>digiVIT Enables Flexible Non-Contact Position and Displacement Measurement</title>
+      <link>https://metrology.news/digivit-enables-flexible-non-contact-position-and-displacement-measurement/</link>
+      <description>KMM Precision Measuring launches digiVIT, a new digital signal conditioner for non-contact position sensing hardware, expanding flexible hardware options for automated inspection systems.</description>
+      <pubDate>Sun, 27 Sep 2026 06:14:10 -0000</pubDate>
+      <guid>https://metrology.news/digivit-enables-flexible-non-contact-position-and-displacement-measurement/</guid>
+    </item>
+    <item>
       <title>Machine Vision Advances Support IFR Growth Findings in Industrial Robotics</title>
       <link>https://www.vision-systems.com/factory/robotics/news/55407521/machine-vision-advances-support-ifr-growth-findings-in-industrial-robotics</link>
       <description>Advancements in machine vision are directly supporting and driving the global growth of the industrial robotics market.</description>
@@ -38,20 +52,6 @@
       <description>The partnership advances lights-out manufacturing and highlights strong market growth in automated and turnkey factory solutions.</description>
       <pubDate>Wed, 23 Sep 2026 06:14:55 -0000</pubDate>
       <guid>https://metrology.news/marposs-and-titans-of-cnc-partner-to-advance-lights-out-manufacturing/</guid>
-    </item>
-    <item>
-      <title>Hybrid Manufacturing Platform Integrates Additive Manufacturing, Machining and Inspection</title>
-      <link>https://metrology.news/hybrid-manufacturing-platform-integrates-additive-manufacturing-machining-and-inspection/</link>
-      <description>This hybrid platform offers a new turnkey solution by integrating additive manufacturing with in-line inspection capabilities for automated quality control.</description>
-      <pubDate>Wed, 23 Sep 2026 06:14:51 -0000</pubDate>
-      <guid>https://metrology.news/hybrid-manufacturing-platform-integrates-additive-manufacturing-machining-and-inspection/</guid>
-    </item>
-    <item>
-      <title>IRSX-2 Brings Intelligent Thermal Inspection to the Process</title>
-      <link>https://metrology.news/irsx-2-brings-intelligent-thermal-inspection-to-the-process/</link>
-      <description>The new IRSX-2 intelligent thermal inspection camera offers a turnkey hardware solution for automated process monitoring and quality control.</description>
-      <pubDate>Tue, 22 Sep 2026 06:19:08 -0000</pubDate>
-      <guid>https://metrology.news/irsx-2-brings-intelligent-thermal-inspection-to-the-process/</guid>
     </item>
   </channel>
 </rss>
