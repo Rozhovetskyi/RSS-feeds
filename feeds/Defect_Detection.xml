@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Webinar Video: Smarter Defect Detection</title>
+      <link>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</link>
+      <description>This webinar explores how AI-powered machine vision is transforming quality inspection across industries.</description>
+      <pubDate>Mon, 28 Sep 2026 18:18:54 -0000</pubDate>
+      <guid>https://www.cognex.com/en/tools-and-resources/resource-center/smarter-defect-detection-webinar</guid>
+    </item>
+    <item>
+      <title>Smarter Defect Detection: Trends Driving Automation in Quality Inspection</title>
+      <link>https://control.com/industry-webinars/smarter-defect-detection-inside-trends-driving-automation-in-quality-inspection/</link>
+      <description>In this on-demand webinar, discover how to select the right machine vision approach for your manufacturing environment and avoid overengineering your inspection solution.</description>
+      <pubDate>Mon, 28 Sep 2026 18:18:49 -0000</pubDate>
+      <guid>https://control.com/industry-webinars/smarter-defect-detection-inside-trends-driving-automation-in-quality-inspection/</guid>
+    </item>
+    <item>
       <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
       <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
       <description>A recap of Zetamotion’s first 2026 webinar on machine vision trends, the data bottleneck, synthetic data, edge AI, and what it takes to scale AI quality control beyond pilots.</description>
@@ -38,20 +52,6 @@
       <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to practical implementations.</description>
       <pubDate>Thu, 10 Sep 2026 18:16:07 -0000</pubDate>
       <guid>https://education.asnt.org/local/catalog/view/product.php</guid>
-    </item>
-    <item>
-      <title>AI-Driven Power Line Inspection &amp; Defect Detection Webinar</title>
-      <link>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</link>
-      <description>Implementation Strategy Get practical guidance on integrating AI-powered inspection workflows into existing utility operations and compliance frameworks. Live Platform Demo Experience AeroMegh’s intuitive interface as we demonstrate real-time defect detection and automated reporting capabilities.</description>
-      <pubDate>Wed, 09 Sep 2026 18:07:36 -0000</pubDate>
-      <guid>https://aeromegh.ai/webinar/ai-power-line-inspection-defect-detection-webinar/</guid>
-    </item>
-    <item>
-      <title>Automated Defect Recognition &amp; AI in Digital Radiography</title>
-      <link>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</link>
-      <description>This webinar is designed to provide valuable insights into the practical applications of AI in NDT and Digital Radiography.</description>
-      <pubDate>Sun, 06 Sep 2026 18:09:25 -0000</pubDate>
-      <guid>https://www.onestopndt.com/ndt-webinars/automated-defect-recognition-and-artificial-intelligence-ai-in-digital-radiography</guid>
     </item>
   </channel>
 </rss>
