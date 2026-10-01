@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Machvision boosts capacity target - Taipei Times</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1OOFkzWElVVU1oQk9qbUhleFM3RVJheVJJeGJ4TlpFMmNlakp3MXlWU1RLeDNkMmpmU1RheFlJbmpsaU1LRTJvWVlHUkg0RjNjdThzbk12djBKWkotaXJjdUozZG15cDZfWHFnWGwyc2QxZDhDYXc?oc=5</link>
+      <description>Machvision increases its capacity target, signaling market growth for automated optical inspection in semiconductor manufacturing.</description>
+      <pubDate>Thu, 01 Oct 2026 06:21:39 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMidkFVX3lxTE1OOFkzWElVVU1oQk9qbUhleFM3RVJheVJJeGJ4TlpFMmNlakp3MXlWU1RLeDNkMmpmU1RheFlJbmpsaU1LRTJvWVlHUkg0RjNjdThzbk12djBKWkotaXJjdUozZG15cDZfWHFnWGwyc2QxZDhDYXc?oc=5</guid>
+    </item>
+    <item>
+      <title>eviXscan3D Advances 100% In-Line Inspection with Multi-Scanner Systems</title>
+      <link>https://metrology.news/evixscan3d-advances-100-in-line-inspection-with-multi-scanner-systems/</link>
+      <description>eviXscan3D advances industrial defect detection with multi-scanner systems for automated 100% in-line quality inspection.</description>
+      <pubDate>Thu, 01 Oct 2026 06:21:25 -0000</pubDate>
+      <guid>https://metrology.news/evixscan3d-advances-100-in-line-inspection-with-multi-scanner-systems/</guid>
+    </item>
+    <item>
       <title>From Prototype to Production: Engineering Edge AI for the Factory Floor</title>
       <link>https://www.vision-systems.com/factory/article/55408356/from-prototype-to-production-engineering-edge-ai-for-the-factory-floor</link>
       <description>The deployment of Edge AI on the factory floor is driving new commercial turnkey solutions for industrial machine vision and automation.</description>
@@ -38,20 +52,6 @@
       <description>Qualcomm's acquisition of PickNik demonstrates a major market consolidation aimed at accelerating AI-driven capabilities in industrial robotics and machine vision.</description>
       <pubDate>Tue, 29 Sep 2026 06:33:19 -0000</pubDate>
       <guid>https://metrology.news/qualcomm-to-acquire-picknik-to-accelerate-ai-driven-robotics/</guid>
-    </item>
-    <item>
-      <title>Machine Vision Advances Support IFR Growth Findings in Industrial Robotics</title>
-      <link>https://www.vision-systems.com/factory/robotics/news/55407521/machine-vision-advances-support-ifr-growth-findings-in-industrial-robotics</link>
-      <description>Advancements in machine vision are directly supporting and driving the global growth of the industrial robotics market.</description>
-      <pubDate>Sat, 26 Sep 2026 06:04:51 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/robotics/news/55407521/machine-vision-advances-support-ifr-growth-findings-in-industrial-robotics</guid>
-    </item>
-    <item>
-      <title>Exaktera Brings Machine Vision Technologies Under One Global Brand</title>
-      <link>https://metrology.news/exaktera-brings-machine-vision-technologies-under-one-global-brand/</link>
-      <description>Exaktera consolidates its machine vision portfolio under a single global brand to streamline its commercial offerings.</description>
-      <pubDate>Sat, 26 Sep 2026 06:04:49 -0000</pubDate>
-      <guid>https://metrology.news/exaktera-brings-machine-vision-technologies-under-one-global-brand/</guid>
     </item>
   </channel>
 </rss>
