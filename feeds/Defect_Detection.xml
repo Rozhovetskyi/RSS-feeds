@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Catalog: Search | ASNT Education</title>
+      <link>https://education.asnt.org/catalog/?format=Webinars</link>
+      <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
+      <pubDate>Thu, 01 Oct 2026 18:11:34 -0000</pubDate>
+      <guid>https://education.asnt.org/catalog/?format=Webinars</guid>
+    </item>
+    <item>
       <title>Automated Defect Recognition and Artificial Intelligence (AI) in</title>
       <link>https://education.asnt.org/local/catalog/view/product.php</link>
       <description>This webinar examines how AI and automated defect recognition (ADR) are transforming digital radiography, shifting the bottleneck from image acquisition to practical implementations.</description>
@@ -45,13 +52,6 @@
       <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection, focusing on practical implementations.</description>
       <pubDate>Sat, 26 Sep 2026 18:08:42 -0000</pubDate>
       <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
-    </item>
-    <item>
-      <title>Practical Defect Tolerance Assessment: From Defects to Engineering Decisions</title>
-      <link>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</link>
-      <description>This webinar focuses on a practical, end-to-end application of defect tolerance assessment.</description>
-      <pubDate>Sat, 26 Sep 2026 18:08:33 -0000</pubDate>
-      <guid>https://www.nafems.org/events/nafems/2026/practical-defect-tolerance-assessment-from-defects-to-engineering-decisions/</guid>
     </item>
   </channel>
 </rss>
