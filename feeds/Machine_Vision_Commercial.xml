@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Teledyne Linea ML 32K Camera</title>
+      <link>https://www.qualitymag.com/articles/99953-teledyne-linea-ml-32k-camera</link>
+      <description>Teledyne DALSA expands its machine vision portfolio with the release of the new high-resolution Linea ML 32K line scan camera.</description>
+      <pubDate>Fri, 02 Oct 2026 06:17:51 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99953-teledyne-linea-ml-32k-camera</guid>
+    </item>
+    <item>
+      <title>Micro-Epsilon Launches High-Precision Confocal Chromatic 3D Sensor</title>
+      <link>https://metrology.news/micro-epsilon-launches-high-precision-confocal-chromatic-3d-sensor/</link>
+      <description>Micro-Epsilon releases a new confocal chromatic line sensor offering high precision 3D metrology for industrial applications.</description>
+      <pubDate>Fri, 02 Oct 2026 06:17:14 -0000</pubDate>
+      <guid>https://metrology.news/micro-epsilon-launches-high-precision-confocal-chromatic-3d-sensor/</guid>
+    </item>
+    <item>
+      <title>Cognex Launches AI-Powered Wafer Identification System</title>
+      <link>https://metrology.news/cognex-launches-ai-powered-wafer-identification-system/</link>
+      <description>Cognex introduces a new In-Sight 1750 Series wafer identification system to help semiconductor manufacturers enhance traceability and reduce disruptions.</description>
+      <pubDate>Fri, 02 Oct 2026 06:16:34 -0000</pubDate>
+      <guid>https://metrology.news/cognex-launches-ai-powered-wafer-identification-system/</guid>
+    </item>
+    <item>
       <title>Machvision boosts capacity target - Taipei Times</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1OOFkzWElVVU1oQk9qbUhleFM3RVJheVJJeGJ4TlpFMmNlakp3MXlWU1RLeDNkMmpmU1RheFlJbmpsaU1LRTJvWVlHUkg0RjNjdThzbk12djBKWkotaXJjdUozZG15cDZfWHFnWGwyc2QxZDhDYXc?oc=5</link>
       <description>Machvision increases its capacity target, signaling market growth for automated optical inspection in semiconductor manufacturing.</description>
@@ -31,27 +52,6 @@
       <description>Leopard Imaging and Lumotive have partnered to introduce a new 3D LiDAR sensor designed for robotics and industrial automation applications.</description>
       <pubDate>Wed, 30 Sep 2026 06:19:13 -0000</pubDate>
       <guid>https://metrology.news/leopard-imaging-and-lumotive-introduce-3d-lidar-for-robotics-and-industrial-automation/</guid>
-    </item>
-    <item>
-      <title>PiXARGUS Introduces Flexible Inline Inspection for Rubber Extrusion</title>
-      <link>https://metrology.news/pixargus-introduces-flexible-inline-inspection-for-rubber-extrusion/</link>
-      <description>PiXARGUS launches a new flexible inline inspection system targeting the rubber extrusion market, enhancing automated quality control.</description>
-      <pubDate>Wed, 30 Sep 2026 06:19:11 -0000</pubDate>
-      <guid>https://metrology.news/pixargus-introduces-flexible-inline-inspection-for-rubber-extrusion/</guid>
-    </item>
-    <item>
-      <title>InnovMetric Announces Global Partnership with Wuhan VISION3D</title>
-      <link>https://www.qualitymag.com/articles/99942-innovmetric-announces-global-partnership-with-wuhan-vision3d</link>
-      <description>The global partnership between InnovMetric and Wuhan VISION3D expands international market reach for comprehensive 3D metrology and turnkey inspection solutions.</description>
-      <pubDate>Tue, 29 Sep 2026 06:33:22 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99942-innovmetric-announces-global-partnership-with-wuhan-vision3d</guid>
-    </item>
-    <item>
-      <title>Qualcomm to Acquire PickNik to Accelerate AI-Driven Robotics</title>
-      <link>https://metrology.news/qualcomm-to-acquire-picknik-to-accelerate-ai-driven-robotics/</link>
-      <description>Qualcomm's acquisition of PickNik demonstrates a major market consolidation aimed at accelerating AI-driven capabilities in industrial robotics and machine vision.</description>
-      <pubDate>Tue, 29 Sep 2026 06:33:19 -0000</pubDate>
-      <guid>https://metrology.news/qualcomm-to-acquire-picknik-to-accelerate-ai-driven-robotics/</guid>
     </item>
   </channel>
 </rss>
