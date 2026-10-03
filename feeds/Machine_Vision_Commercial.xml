@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Quality Teams Need AI That Builds Inspectors, Not Just Faster Inspections</title>
+      <link>https://www.qualitymag.com/articles/99967-quality-teams-need-ai-that-builds-inspectors-not-just-faster-inspections</link>
+      <description>AI applications in quality control are evolving to build better inspectors, a key trend in manufacturing.</description>
+      <pubDate>Sat, 03 Oct 2026 06:30:24 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99967-quality-teams-need-ai-that-builds-inspectors-not-just-faster-inspections</guid>
+    </item>
+    <item>
+      <title>FANUC Launches 5-Axis Integrated Technology Initiative to Enhance Complex Part Production</title>
+      <link>https://metrology.news/fanuc-launches-5-axis-integrated-technology-initiative-to-enhance-complex-part-production/</link>
+      <description>FANUC's new 5-axis integrated technology initiative enhances complex part production, impacting industrial automation.</description>
+      <pubDate>Sat, 03 Oct 2026 06:30:17 -0000</pubDate>
+      <guid>https://metrology.news/fanuc-launches-5-axis-integrated-technology-initiative-to-enhance-complex-part-production/</guid>
+    </item>
+    <item>
+      <title>GiantEye Advances High-Energy CT for Large-Scale Industrial Metrology</title>
+      <link>https://metrology.news/gianteye-advances-high-energy-ct-for-large-scale-industrial-metrology/</link>
+      <description>GiantEye advances large-scale industrial metrology with high-energy CT for non-destructive inspection.</description>
+      <pubDate>Sat, 03 Oct 2026 06:30:11 -0000</pubDate>
+      <guid>https://metrology.news/gianteye-advances-high-energy-ct-for-large-scale-industrial-metrology/</guid>
+    </item>
+    <item>
       <title>Teledyne Linea ML 32K Camera</title>
       <link>https://www.qualitymag.com/articles/99953-teledyne-linea-ml-32k-camera</link>
       <description>Teledyne DALSA expands its machine vision portfolio with the release of the new high-resolution Linea ML 32K line scan camera.</description>
@@ -31,27 +52,6 @@
       <description>Machvision increases its capacity target, signaling market growth for automated optical inspection in semiconductor manufacturing.</description>
       <pubDate>Thu, 01 Oct 2026 06:21:39 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMidkFVX3lxTE1OOFkzWElVVU1oQk9qbUhleFM3RVJheVJJeGJ4TlpFMmNlakp3MXlWU1RLeDNkMmpmU1RheFlJbmpsaU1LRTJvWVlHUkg0RjNjdThzbk12djBKWkotaXJjdUozZG15cDZfWHFnWGwyc2QxZDhDYXc?oc=5</guid>
-    </item>
-    <item>
-      <title>eviXscan3D Advances 100% In-Line Inspection with Multi-Scanner Systems</title>
-      <link>https://metrology.news/evixscan3d-advances-100-in-line-inspection-with-multi-scanner-systems/</link>
-      <description>eviXscan3D advances industrial defect detection with multi-scanner systems for automated 100% in-line quality inspection.</description>
-      <pubDate>Thu, 01 Oct 2026 06:21:25 -0000</pubDate>
-      <guid>https://metrology.news/evixscan3d-advances-100-in-line-inspection-with-multi-scanner-systems/</guid>
-    </item>
-    <item>
-      <title>From Prototype to Production: Engineering Edge AI for the Factory Floor</title>
-      <link>https://www.vision-systems.com/factory/article/55408356/from-prototype-to-production-engineering-edge-ai-for-the-factory-floor</link>
-      <description>The deployment of Edge AI on the factory floor is driving new commercial turnkey solutions for industrial machine vision and automation.</description>
-      <pubDate>Wed, 30 Sep 2026 06:19:15 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55408356/from-prototype-to-production-engineering-edge-ai-for-the-factory-floor</guid>
-    </item>
-    <item>
-      <title>Leopard Imaging and Lumotive Introduce 3D LiDAR for Robotics and Industrial Automation</title>
-      <link>https://metrology.news/leopard-imaging-and-lumotive-introduce-3d-lidar-for-robotics-and-industrial-automation/</link>
-      <description>Leopard Imaging and Lumotive have partnered to introduce a new 3D LiDAR sensor designed for robotics and industrial automation applications.</description>
-      <pubDate>Wed, 30 Sep 2026 06:19:13 -0000</pubDate>
-      <guid>https://metrology.news/leopard-imaging-and-lumotive-introduce-3d-lidar-for-robotics-and-industrial-automation/</guid>
     </item>
   </channel>
 </rss>
