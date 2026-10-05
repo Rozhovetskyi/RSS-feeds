@@ -5,6 +5,20 @@
     <description>Latest news about Defect_Detection</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Live Webinar: Practical Applications of AI Defect Recognition</title>
+      <link>https://www.qualitymag.com/events/upcoming-webinar-practical-ai-defect-recognition</link>
+      <description>Register for our upcoming live webinar detailing practical applications and case studies of AI-based defect recognition.</description>
+      <pubDate>Mon, 05 Oct 2026 18:20:56 -0000</pubDate>
+      <guid>https://www.qualitymag.com/events/upcoming-webinar-practical-ai-defect-recognition</guid>
+    </item>
+    <item>
+      <title>Upcoming Webinar: Next-Gen Defect Recognition in Manufacturing</title>
+      <link>https://www.vision-systems.com/events/upcoming-webinar-next-gen-defect-recognition-practical</link>
+      <description>Join our upcoming webinar on practical implementations of automated defect recognition in modern manufacturing.</description>
+      <pubDate>Mon, 05 Oct 2026 18:20:54 -0000</pubDate>
+      <guid>https://www.vision-systems.com/events/upcoming-webinar-next-gen-defect-recognition-practical</guid>
+    </item>
+    <item>
       <title>Catalog: Search | ASNT Education</title>
       <link>https://education.asnt.org/catalog/?format=Webinars</link>
       <description>Explore how AI is transforming NDT through automated defect recognition in digital radiography. This webinar highlights practical implementation strategies, real-world case studies, and key benefits such as faster analysis, improved accuracy, and reduced costs. Designed for technicians, Level III supervisors, and managers.</description>
@@ -38,20 +52,6 @@
       <description>In this on-demand webinar, discover how to select the right machine vision approach for your manufacturing environment and avoid overengineering your inspection solution.</description>
       <pubDate>Mon, 28 Sep 2026 18:18:49 -0000</pubDate>
       <guid>https://control.com/industry-webinars/smarter-defect-detection-inside-trends-driving-automation-in-quality-inspection/</guid>
-    </item>
-    <item>
-      <title>Beyond Defect Detection: The New Rules of AI Quality Control in 2026</title>
-      <link>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</link>
-      <description>A recap of Zetamotion’s first 2026 webinar on machine vision trends, the data bottleneck, synthetic data, edge AI, and what it takes to scale AI quality control beyond pilots.</description>
-      <pubDate>Sun, 27 Sep 2026 18:10:53 -0000</pubDate>
-      <guid>https://zetamotion.com/beyond-defect-detection-the-new-rules-of-ai-quality-control-in-2026/</guid>
-    </item>
-    <item>
-      <title>Webinar: Preventing Critical Misses in Defect Detection</title>
-      <link>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</link>
-      <description>Join technical experts from Voxel51 and MongoDB to explore a data-centric approach to defect detection, focusing on practical implementations.</description>
-      <pubDate>Sat, 26 Sep 2026 18:08:42 -0000</pubDate>
-      <guid>https://voxel51.com/events/preventing-critical-misses-in-defect-detection</guid>
     </item>
   </channel>
 </rss>
