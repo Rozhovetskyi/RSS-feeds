@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Retrofitting Machines to Improve Manufacturing Quality</title>
+      <link>https://www.qualitymag.com/articles/99975-retrofitting-machines-to-improve-manufacturing-quality</link>
+      <description>An overview of how retrofitting older machines with modern vision systems can improve manufacturing quality.</description>
+      <pubDate>Tue, 06 Oct 2026 06:24:22 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99975-retrofitting-machines-to-improve-manufacturing-quality</guid>
+    </item>
+    <item>
+      <title>Kitov Prime Brings AI-Driven Surface Inspection of Complex Parts into One Workflow</title>
+      <link>https://metrology.news/kitov-prime-brings-ai-driven-surface-inspection-of-complex-parts-into-one-workflow/</link>
+      <description>Kitov introduces AI-driven surface inspection to streamline quality control workflows in manufacturing.</description>
+      <pubDate>Tue, 06 Oct 2026 06:24:15 -0000</pubDate>
+      <guid>https://metrology.news/kitov-prime-brings-ai-driven-surface-inspection-of-complex-parts-into-one-workflow/</guid>
+    </item>
+    <item>
+      <title>Verisurf 2027 Accelerates Model-Based Inspection from Shop Floor to the Enterprise</title>
+      <link>https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/</link>
+      <description>Verisurf launches a new 2027 version accelerating model-based inspection for factory automation and quality control.</description>
+      <pubDate>Tue, 06 Oct 2026 06:24:08 -0000</pubDate>
+      <guid>https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/</guid>
+    </item>
+    <item>
       <title>Vadzo Compares Global Shutter USB Camera Products: Sony Pregius S IMX900 Sensor vs Onsemi AR0234 Sensor for Precision USB Camera Imaging - Newswire.com</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUtRcUZuckRqdF8tbTVfVzdxLXAwQ1RjUUVTU0N3N1V5UEFsc29ELWozU0oydVB5cE5FcGllZjdXZnE2bDdDSV92YnY0a1ljZlNIVEhJSHJxdmp1c21XaGxMcXZYT2hOMDJCbzRsRXlwYmt2a0hiSFpWRDlrOU1PSHRtai0zUEJDWFZxQ2lkaDQ0SzFBN1ZwbXZlS2FCTEhzTmhBTHZB?oc=5</link>
       <description>An analysis comparing industrial machine vision camera sensors, crucial for high-precision USB camera imaging in automated inspection.</description>
@@ -31,27 +52,6 @@
       <description>An overview of the machine vision industry landscape in Germany, detailing innovations in camera technologies and accessories.</description>
       <pubDate>Mon, 05 Oct 2026 06:17:10 -0000</pubDate>
       <guid>https://www.vision-systems.com/cameras-accessories/blog/55408621/beyond-the-spiel-castles-cameras-and-curiosity-in-germany</guid>
-    </item>
-    <item>
-      <title>Why Modern EV Powertrains Demand Advanced Gear Surface Metrology</title>
-      <link>https://www.qualitymag.com/articles/99968-why-modern-ev-powertrains-demand-advanced-gear-surface-metrology</link>
-      <description>Advanced gear surface metrology is essential for ensuring the quality of modern EV powertrains in the automotive manufacturing sector.</description>
-      <pubDate>Mon, 05 Oct 2026 06:16:55 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99968-why-modern-ev-powertrains-demand-advanced-gear-surface-metrology</guid>
-    </item>
-    <item>
-      <title>Edge Computing for Real-Time Manufacturing</title>
-      <link>https://metrology.news/edge-computing-for-real-time-manufacturing/</link>
-      <description>The integration of edge computing is becoming crucial for real-time manufacturing and automated optical inspection systems.</description>
-      <pubDate>Mon, 05 Oct 2026 06:16:53 -0000</pubDate>
-      <guid>https://metrology.news/edge-computing-for-real-time-manufacturing/</guid>
-    </item>
-    <item>
-      <title>GeoDict Quantify Software Launched for Micro-CT and FIB-SEM Image Analysis</title>
-      <link>https://metrology.news/geodict-quantify-software-launched-for-micro-ct-and-fib-sem-image-analysis/</link>
-      <description>Math2Market releases GeoDict Quantify, a new software solution for analyzing Micro-CT and FIB-SEM images to enhance non-destructive material inspection.</description>
-      <pubDate>Mon, 05 Oct 2026 06:16:41 -0000</pubDate>
-      <guid>https://metrology.news/geodict-quantify-software-launched-for-micro-ct-and-fib-sem-image-analysis/</guid>
     </item>
   </channel>
 </rss>
