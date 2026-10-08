@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>AI4RVI Brings Onboard AI to High-Definition Tube Inspection</title>
+      <link>https://metrology.news/ai4rvi-brings-onboard-ai-to-high-definition-tube-inspection/</link>
+      <description>The integration of AI into high-definition tube inspection offers a new turnkey solution for automated defect recognition.</description>
+      <pubDate>Thu, 08 Oct 2026 06:25:30 -0000</pubDate>
+      <guid>https://metrology.news/ai4rvi-brings-onboard-ai-to-high-definition-tube-inspection/</guid>
+    </item>
+    <item>
+      <title>Renishaw Expands Miskin Site as Demand Drives Manufacturing Growth</title>
+      <link>https://metrology.news/renishaw-expands-miskin-site-as-demand-drives-manufacturing-growth/</link>
+      <description>Renishaw's facility expansion highlights strong market growth and increasing demand for advanced metrology and manufacturing solutions.</description>
+      <pubDate>Thu, 08 Oct 2026 06:25:28 -0000</pubDate>
+      <guid>https://metrology.news/renishaw-expands-miskin-site-as-demand-drives-manufacturing-growth/</guid>
+    </item>
+    <item>
       <title>AOI Solutions: How MEK Is Advancing Electronics Manufacturing in India - Electronics Media</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5BMndjX2VhSTVtUlJBTUdoNmRxX2ZlZVZfVHZFTHZscmlYQ0R</link>
       <description>Insight into how MEK's automated optical inspection solutions are driving electronics manufacturing growth in India.</description>
@@ -38,20 +52,6 @@
       <description>An overview of how retrofitting older machines with modern vision systems can improve manufacturing quality.</description>
       <pubDate>Tue, 06 Oct 2026 06:24:22 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99975-retrofitting-machines-to-improve-manufacturing-quality</guid>
-    </item>
-    <item>
-      <title>Kitov Prime Brings AI-Driven Surface Inspection of Complex Parts into One Workflow</title>
-      <link>https://metrology.news/kitov-prime-brings-ai-driven-surface-inspection-of-complex-parts-into-one-workflow/</link>
-      <description>Kitov introduces AI-driven surface inspection to streamline quality control workflows in manufacturing.</description>
-      <pubDate>Tue, 06 Oct 2026 06:24:15 -0000</pubDate>
-      <guid>https://metrology.news/kitov-prime-brings-ai-driven-surface-inspection-of-complex-parts-into-one-workflow/</guid>
-    </item>
-    <item>
-      <title>Verisurf 2027 Accelerates Model-Based Inspection from Shop Floor to the Enterprise</title>
-      <link>https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/</link>
-      <description>Verisurf launches a new 2027 version accelerating model-based inspection for factory automation and quality control.</description>
-      <pubDate>Tue, 06 Oct 2026 06:24:08 -0000</pubDate>
-      <guid>https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/</guid>
     </item>
   </channel>
 </rss>
