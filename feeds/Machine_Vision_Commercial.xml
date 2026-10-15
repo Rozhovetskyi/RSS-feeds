@@ -5,6 +5,27 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Inspect What You Used to Pass On</title>
+      <link>https://www.qualitymag.com/articles/99996-inspect-what-you-used-to-pass-on</link>
+      <description>BrinqAI introduces on-premises vision inspection solutions for complex products in commercial manufacturing.</description>
+      <pubDate>Thu, 15 Oct 2026 06:18:12 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/99996-inspect-what-you-used-to-pass-on</guid>
+    </item>
+    <item>
+      <title>Teledyne FLIR Launches HD Thermal Imaging for Microscopic Heat Analysis</title>
+      <link>https://metrology.news/teledyne-flir-launches-hd-thermal-imaging-for-microscopic-heat-analysis/</link>
+      <description>Teledyne FLIR releases the A8481 HD thermal camera to enhance commercial microscopic heat analysis hardware.</description>
+      <pubDate>Thu, 15 Oct 2026 06:17:34 -0000</pubDate>
+      <guid>https://metrology.news/teledyne-flir-launches-hd-thermal-imaging-for-microscopic-heat-analysis/</guid>
+    </item>
+    <item>
+      <title>ZEISS Advances Inspection and Metrology for Next-Generation Semiconductor Manufacturing</title>
+      <link>https://metrology.news/zeiss-advances-inspection-and-metrology-for-next-generation-semiconductor-manufacturing/</link>
+      <description>ZEISS advances its metrology solutions to improve key processes in commercial semiconductor manufacturing.</description>
+      <pubDate>Thu, 15 Oct 2026 06:16:58 -0000</pubDate>
+      <guid>https://metrology.news/zeiss-advances-inspection-and-metrology-for-next-generation-semiconductor-manufacturing/</guid>
+    </item>
+    <item>
       <title>Revolutionizing Machine Vision with Programmable RGB+Depth Sensing in Sirius Max Platform</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/55411247/revolutionizing-machine-vision-with-programmable-rgbdepth-sensing-in-sirius-max-platform</link>
       <description>The Sirius Max platform advances machine vision hardware with programmable RGB and depth sensing capabilities for commercial industrial use.</description>
@@ -31,27 +52,6 @@
       <description>InnovMetric's release of MasterKey by PolyWorks introduces new commercial capabilities for industrial 3D measurement.</description>
       <pubDate>Mon, 12 Oct 2026 06:30:52 -0000</pubDate>
       <guid>https://metrology.news/innovmetric-unveils-masterkey-by-polyworks/</guid>
-    </item>
-    <item>
-      <title>InnovMetric MasterKey by PolyWorks</title>
-      <link>https://www.qualitymag.com/articles/99982-innovmetric-masterkey-by-polyworks</link>
-      <description>InnovMetric introduces MasterKey by PolyWorks, enhancing commercial metrology software for industrial 3D measurement.</description>
-      <pubDate>Sun, 11 Oct 2026 06:04:17 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99982-innovmetric-masterkey-by-polyworks</guid>
-    </item>
-    <item>
-      <title>Cognex Acquires RealSense to Expand into Robotic Perception Market</title>
-      <link>https://www.vision-systems.com/cameras-accessories/news/55409707/cognex-to-acquire-realsense</link>
-      <description>Cognex's acquisition of RealSense represents a major commercial expansion into the 3D robotic perception hardware market.</description>
-      <pubDate>Sun, 11 Oct 2026 06:04:16 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/news/55409707/cognex-to-acquire-realsense</guid>
-    </item>
-    <item>
-      <title>AI4RVI Brings Onboard AI to High-Definition Tube Inspection</title>
-      <link>https://metrology.news/ai4rvi-brings-onboard-ai-to-high-definition-tube-inspection/</link>
-      <description>AI4RVI integrates onboard AI for high-definition tube inspection, offering a new turnkey solution for industrial non-destructive testing.</description>
-      <pubDate>Sun, 11 Oct 2026 06:04:16 -0000</pubDate>
-      <guid>https://metrology.news/ai4rvi-brings-onboard-ai-to-high-definition-tube-inspection/</guid>
     </item>
   </channel>
 </rss>
