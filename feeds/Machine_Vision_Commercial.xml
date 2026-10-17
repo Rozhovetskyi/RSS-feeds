@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Cintoo Launches Collaborative Digital Twin Reviews Using Real-World Scan Data</title>
+      <link>https://metrology.news/cintoo-launches-collaborative-digital-twin-reviews-using-real-world-scan-data/</link>
+      <description>Cintoo's collaborative digital twin reviews enhance capabilities in commercial scan data applications.</description>
+      <pubDate>Sat, 17 Oct 2026 06:12:22 -0000</pubDate>
+      <guid>https://metrology.news/cintoo-launches-collaborative-digital-twin-reviews-using-real-world-scan-data/</guid>
+    </item>
+    <item>
       <title>Visions Podcast: Cognex Acquires RealSense</title>
       <link>https://www.vision-systems.com/factory/podcast/55411368/visions-podcast-cognex-acquires-realsense</link>
       <description>Cognex's acquisition of RealSense marks a significant consolidation in the commercial 3D vision hardware market.</description>
@@ -45,13 +52,6 @@
       <description>The Sirius Max platform advances machine vision hardware with programmable RGB and depth sensing capabilities for commercial industrial use.</description>
       <pubDate>Tue, 13 Oct 2026 06:19:59 -0000</pubDate>
       <guid>https://www.vision-systems.com/cameras-accessories/article/55411247/revolutionizing-machine-vision-with-programmable-rgbdepth-sensing-in-sirius-max-platform</guid>
-    </item>
-    <item>
-      <title>Bertrandt and Bosch Rexroth Combine Machine Vision AI and Automation</title>
-      <link>https://metrology.news/bertrandt-and-bosch-rexroth-combine-machine-vision-ai-and-automation/</link>
-      <description>The strategic integration by Bertrandt and Bosch Rexroth combines machine vision AI and automation for enhanced commercial industrial quality control.</description>
-      <pubDate>Tue, 13 Oct 2026 06:19:59 -0000</pubDate>
-      <guid>https://metrology.news/bertrandt-and-bosch-rexroth-combine-machine-vision-ai-and-automation/</guid>
     </item>
   </channel>
 </rss>
