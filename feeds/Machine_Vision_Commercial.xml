@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Omron to Acquire OnLogic for 75 Million to Advance Industrial AI</title>
+      <link>https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/</link>
+      <description>Major acquisition by Omron strengthens their position in industrial AI and machine vision capabilities.</description>
+      <pubDate>Mon, 19 Oct 2026 06:07:20 -0000</pubDate>
+      <guid>https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/</guid>
+    </item>
+    <item>
       <title>Bertrandt and Bosch Rexroth Combine Machine Vision AI and Automation</title>
       <link>https://metrology.news/bertrandt-and-bosch-rexroth-combine-machine-vision-ai-and-automation/</link>
       <description>Collaboration to enhance commercial industrial processes combining machine vision AI and automation.</description>
@@ -45,13 +52,6 @@
       <description>BrinqAI introduces on-premises vision inspection solutions for complex products in commercial manufacturing.</description>
       <pubDate>Thu, 15 Oct 2026 06:18:12 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/99996-inspect-what-you-used-to-pass-on</guid>
-    </item>
-    <item>
-      <title>Teledyne FLIR Launches HD Thermal Imaging for Microscopic Heat Analysis</title>
-      <link>https://metrology.news/teledyne-flir-launches-hd-thermal-imaging-for-microscopic-heat-analysis/</link>
-      <description>Teledyne FLIR releases the A8481 HD thermal camera to enhance commercial microscopic heat analysis hardware.</description>
-      <pubDate>Thu, 15 Oct 2026 06:17:34 -0000</pubDate>
-      <guid>https://metrology.news/teledyne-flir-launches-hd-thermal-imaging-for-microscopic-heat-analysis/</guid>
     </item>
   </channel>
 </rss>
