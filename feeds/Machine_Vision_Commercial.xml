@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>3D Scanning Streamlines Inspection of Complex Fabricated Assemblies</title>
+      <link>https://metrology.news/3d-scanning-streamlines-inspection-of-complex-fabricated-assemblies/</link>
+      <description>New 3D scanning technologies streamline the inspection of complex fabricated assemblies in commercial manufacturing environments.</description>
+      <pubDate>Tue, 20 Oct 2026 06:30:22 -0000</pubDate>
+      <guid>https://metrology.news/3d-scanning-streamlines-inspection-of-complex-fabricated-assemblies/</guid>
+    </item>
+    <item>
+      <title>Specim SX10 Advances Spectral Precision in Research and Industrial Imaging</title>
+      <link>https://metrology.news/specim-sx10-advances-spectral-precision-in-research-and-industrial-imaging/</link>
+      <description>Specim introduces SX10 to advance spectral precision, enhancing commercial industrial imaging capabilities.</description>
+      <pubDate>Tue, 20 Oct 2026 06:30:15 -0000</pubDate>
+      <guid>https://metrology.news/specim-sx10-advances-spectral-precision-in-research-and-industrial-imaging/</guid>
+    </item>
+    <item>
+      <title>Lens &amp; Lighting Control plus Vision Simulation</title>
+      <link>https://www.vision-systems.com/home/video/55412808/lens-lighting-control-plus-vision-simulation</link>
+      <description>Basler's new vision system architecture directly controls lens and lighting via camera, facilitating virtual development without physical prototypes for commercial vision applications.</description>
+      <pubDate>Tue, 20 Oct 2026 06:30:07 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/video/55412808/lens-lighting-control-plus-vision-simulation</guid>
+    </item>
+    <item>
+      <title>Beyond 10 GigE: The Next Era of Machine Vision</title>
+      <link>https://www.vision-systems.com/home/video/55412844/beyond-10-gige-the-next-era-of-machine-vision</link>
+      <description>Pleora Technologies introduces new networking architectures enabling the next generation of high-performance machine vision systems for commercial applications.</description>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 -0000</pubDate>
+      <guid>https://www.vision-systems.com/home/video/55412844/beyond-10-gige-the-next-era-of-machine-vision</guid>
+    </item>
+    <item>
       <title>Omron to Acquire OnLogic for 75 Million to Advance Industrial AI</title>
       <link>https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/</link>
       <description>Major acquisition by Omron strengthens their position in industrial AI and machine vision capabilities.</description>
@@ -24,34 +52,6 @@
       <description>Octave advances its intelligent quality management platform with AI for commercial industrial defect detection.</description>
       <pubDate>Sun, 18 Oct 2026 06:15:53 -0000</pubDate>
       <guid>https://metrology.news/octave-advances-nxg-intelligent-quality-management-platform-with-ai/</guid>
-    </item>
-    <item>
-      <title>Cintoo Launches Collaborative Digital Twin Reviews Using Real-World Scan Data</title>
-      <link>https://metrology.news/cintoo-launches-collaborative-digital-twin-reviews-using-real-world-scan-data/</link>
-      <description>Cintoo's collaborative digital twin reviews enhance capabilities in commercial scan data applications.</description>
-      <pubDate>Sat, 17 Oct 2026 06:12:22 -0000</pubDate>
-      <guid>https://metrology.news/cintoo-launches-collaborative-digital-twin-reviews-using-real-world-scan-data/</guid>
-    </item>
-    <item>
-      <title>Visions Podcast: Cognex Acquires RealSense</title>
-      <link>https://www.vision-systems.com/factory/podcast/55411368/visions-podcast-cognex-acquires-realsense</link>
-      <description>Cognex's acquisition of RealSense marks a significant consolidation in the commercial 3D vision hardware market.</description>
-      <pubDate>Fri, 16 Oct 2026 06:06:29 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/podcast/55411368/visions-podcast-cognex-acquires-realsense</guid>
-    </item>
-    <item>
-      <title>ETEL Launches High-Precision METIS HP Platform for Semiconductor Scanning</title>
-      <link>https://metrology.news/etel-launches-high-precision-metis-hp-platform-for-semiconductor-scanning/</link>
-      <description>ETEL introduces the METIS HP platform to enhance precision in commercial semiconductor scanning applications.</description>
-      <pubDate>Fri, 16 Oct 2026 06:06:27 -0000</pubDate>
-      <guid>https://metrology.news/etel-launches-high-precision-metis-hp-platform-for-semiconductor-scanning/</guid>
-    </item>
-    <item>
-      <title>Inspect What You Used to Pass On</title>
-      <link>https://www.qualitymag.com/articles/99996-inspect-what-you-used-to-pass-on</link>
-      <description>BrinqAI introduces on-premises vision inspection solutions for complex products in commercial manufacturing.</description>
-      <pubDate>Thu, 15 Oct 2026 06:18:12 -0000</pubDate>
-      <guid>https://www.qualitymag.com/articles/99996-inspect-what-you-used-to-pass-on</guid>
     </item>
   </channel>
 </rss>
