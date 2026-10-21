@@ -5,6 +5,34 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>KUKA Launches AI-Powered 2D and 3D Vision System for Industrial Robotics</title>
+      <link>https://metrology.news/kuka-launches-ai-powered-2d-and-3d-vision-system-for-industrial-robotics/</link>
+      <description>KUKA has introduced iiQKA.AI Vision, an AI-powered industrial image processing solution designed to integrate completely into its new robot operating system.</description>
+      <pubDate>Wed, 21 Oct 2026 06:24:30 -0000</pubDate>
+      <guid>https://metrology.news/kuka-launches-ai-powered-2d-and-3d-vision-system-for-industrial-robotics/</guid>
+    </item>
+    <item>
+      <title>Nordson Unveils Acoustic Inspection System for Advanced Semiconductor Manufacturing</title>
+      <link>https://metrology.news/nordson-unveils-acoustic-inspection-system-for-advanced-semiconductor-manufacturing/</link>
+      <description>Nordson Test &amp; Inspection recently introduced its new SonoFlex Acoustic Microscopy Inspection system designed for advanced semiconductor manufacturing.</description>
+      <pubDate>Wed, 21 Oct 2026 06:24:28 -0000</pubDate>
+      <guid>https://metrology.news/nordson-unveils-acoustic-inspection-system-for-advanced-semiconductor-manufacturing/</guid>
+    </item>
+    <item>
+      <title>Revolutionizing Machine Vision with Programmable RGB+Depth Sensing in Sirius Max Platform</title>
+      <link>https://www.vision-systems.com/cameras-accessories/article/55411247/revolutionizing-machine-vision-with-programmable-rgbdepth-sensing-in-sirius-max-platform</link>
+      <description>The platform leverages software-defined optical sensing, allowing real-time reconfiguration of sensors for automated optical inspection.</description>
+      <pubDate>Wed, 21 Oct 2026 06:24:25 -0000</pubDate>
+      <guid>https://www.vision-systems.com/cameras-accessories/article/55411247/revolutionizing-machine-vision-with-programmable-rgbdepth-sensing-in-sirius-max-platform</guid>
+    </item>
+    <item>
+      <title>Cognex Acquires RealSense</title>
+      <link>https://www.vision-systems.com/factory/podcast/55411368/visions-podcast-cognex-acquires-realsense</link>
+      <description>In this episode, Cognex CEO Matt Moschner discusses the company's significant acquisition of RealSense.</description>
+      <pubDate>Wed, 21 Oct 2026 06:24:23 -0000</pubDate>
+      <guid>https://www.vision-systems.com/factory/podcast/55411368/visions-podcast-cognex-acquires-realsense</guid>
+    </item>
+    <item>
       <title>3D Scanning Streamlines Inspection of Complex Fabricated Assemblies</title>
       <link>https://metrology.news/3d-scanning-streamlines-inspection-of-complex-fabricated-assemblies/</link>
       <description>New 3D scanning technologies streamline the inspection of complex fabricated assemblies in commercial manufacturing environments.</description>
@@ -24,34 +52,6 @@
       <description>Basler's new vision system architecture directly controls lens and lighting via camera, facilitating virtual development without physical prototypes for commercial vision applications.</description>
       <pubDate>Tue, 20 Oct 2026 06:30:07 -0000</pubDate>
       <guid>https://www.vision-systems.com/home/video/55412808/lens-lighting-control-plus-vision-simulation</guid>
-    </item>
-    <item>
-      <title>Beyond 10 GigE: The Next Era of Machine Vision</title>
-      <link>https://www.vision-systems.com/home/video/55412844/beyond-10-gige-the-next-era-of-machine-vision</link>
-      <description>Pleora Technologies introduces new networking architectures enabling the next generation of high-performance machine vision systems for commercial applications.</description>
-      <pubDate>Tue, 20 Oct 2026 06:30:00 -0000</pubDate>
-      <guid>https://www.vision-systems.com/home/video/55412844/beyond-10-gige-the-next-era-of-machine-vision</guid>
-    </item>
-    <item>
-      <title>Omron to Acquire OnLogic for 75 Million to Advance Industrial AI</title>
-      <link>https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/</link>
-      <description>Major acquisition by Omron strengthens their position in industrial AI and machine vision capabilities.</description>
-      <pubDate>Mon, 19 Oct 2026 06:07:20 -0000</pubDate>
-      <guid>https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/</guid>
-    </item>
-    <item>
-      <title>Bertrandt and Bosch Rexroth Combine Machine Vision AI and Automation</title>
-      <link>https://metrology.news/bertrandt-and-bosch-rexroth-combine-machine-vision-ai-and-automation/</link>
-      <description>Collaboration to enhance commercial industrial processes combining machine vision AI and automation.</description>
-      <pubDate>Sun, 18 Oct 2026 06:15:59 -0000</pubDate>
-      <guid>https://metrology.news/bertrandt-and-bosch-rexroth-combine-machine-vision-ai-and-automation/</guid>
-    </item>
-    <item>
-      <title>Octave Advances NXG Intelligent Quality Management Platform with AI</title>
-      <link>https://metrology.news/octave-advances-nxg-intelligent-quality-management-platform-with-ai/</link>
-      <description>Octave advances its intelligent quality management platform with AI for commercial industrial defect detection.</description>
-      <pubDate>Sun, 18 Oct 2026 06:15:53 -0000</pubDate>
-      <guid>https://metrology.news/octave-advances-nxg-intelligent-quality-management-platform-with-ai/</guid>
     </item>
   </channel>
 </rss>
