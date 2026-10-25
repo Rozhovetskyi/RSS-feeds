@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Epson to Showcase Collaborative 6-Axis Robot and Integrated Automation Solutions at The ASSEMBLY Show / The Quality Show 2026</title>
+      <link>https://www.qualitymag.com/articles/100019-epson-to-showcase-collaborative-6-axis-robot-and-integrated-automation-solutions-at-the-assembly-show-the-quality-show-2026</link>
+      <description>Epson is showcasing integrated automation and robotics solutions, highlighting turnkey factory automation capabilities for quality control.</description>
+      <pubDate>Sun, 25 Oct 2026 07:21:08 -0000</pubDate>
+      <guid>https://www.qualitymag.com/articles/100019-epson-to-showcase-collaborative-6-axis-robot-and-integrated-automation-solutions-at-the-assembly-show-the-quality-show-2026</guid>
+    </item>
+    <item>
       <title>Real Voices from VISION 2026: AI, Human Expertise, and the Evolving Role of Integrators</title>
       <link>https://www.vision-systems.com/cameras-accessories/article/55413620/real-voices-from-vision-2026-ai-human-expertise-and-the-evolving-role-of-integrators</link>
       <description>Industry discussion at VISION 2026 highlights the growing commercial role of systems integrators in deploying AI-driven machine vision solutions for industrial automation.</description>
@@ -45,13 +52,6 @@
       <description>MSI Viking's acquisition of ICM expands its capabilities in the metrology market.</description>
       <pubDate>Thu, 22 Oct 2026 06:18:39 -0000</pubDate>
       <guid>https://metrology.news/msi-viking-acquires-icm-to-expand-michigan-metrology-operations/</guid>
-    </item>
-    <item>
-      <title>KUKA Launches AI-Powered 2D and 3D Vision System for Industrial Robotics</title>
-      <link>https://metrology.news/kuka-launches-ai-powered-2d-and-3d-vision-system-for-industrial-robotics/</link>
-      <description>KUKA has introduced iiQKA.AI Vision, an AI-powered industrial image processing solution designed to integrate completely into its new robot operating system.</description>
-      <pubDate>Wed, 21 Oct 2026 06:24:30 -0000</pubDate>
-      <guid>https://metrology.news/kuka-launches-ai-powered-2d-and-3d-vision-system-for-industrial-robotics/</guid>
     </item>
   </channel>
 </rss>
