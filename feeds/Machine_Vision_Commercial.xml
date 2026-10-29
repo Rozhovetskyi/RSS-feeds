@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>K3Metrology Secures Further Funding for Next-Generation Coordinate Measurement</title>
+      <link>https://metrology.news/k3metrology-secures-further-funding-for-next-generation-coordinate-measurement/</link>
+      <description>K3Metrology secures funding to advance Metralis for scalable commercial deployment in high-value manufacturing sectors.</description>
+      <pubDate>Thu, 29 Oct 2026 07:28:23 -0000</pubDate>
+      <guid>https://metrology.news/k3metrology-secures-further-funding-for-next-generation-coordinate-measurement/</guid>
+    </item>
+    <item>
       <title>Hyundai Motor and Kia Advance Vision for Software-Defined Factories</title>
       <link>https://metrology.news/hyundai-motor-and-kia-advance-vision-for-software-defined-factories/</link>
       <description>Hyundai and Kia are advancing their vision for software-defined factories (SDFs) where integrated data, AI, and standardised software platforms optimize manufacturing operations.</description>
@@ -45,13 +52,6 @@
       <description>Epson is showcasing integrated automation and robotics solutions, highlighting turnkey factory automation capabilities for quality control.</description>
       <pubDate>Sun, 25 Oct 2026 07:21:08 -0000</pubDate>
       <guid>https://www.qualitymag.com/articles/100019-epson-to-showcase-collaborative-6-axis-robot-and-integrated-automation-solutions-at-the-assembly-show-the-quality-show-2026</guid>
-    </item>
-    <item>
-      <title>Real Voices from VISION 2026: AI, Human Expertise, and the Evolving Role of Integrators</title>
-      <link>https://www.vision-systems.com/cameras-accessories/article/55413620/real-voices-from-vision-2026-ai-human-expertise-and-the-evolving-role-of-integrators</link>
-      <description>Industry discussion at VISION 2026 highlights the growing commercial role of systems integrators in deploying AI-driven machine vision solutions for industrial automation.</description>
-      <pubDate>Fri, 23 Oct 2026 06:22:33 -0000</pubDate>
-      <guid>https://www.vision-systems.com/cameras-accessories/article/55413620/real-voices-from-vision-2026-ai-human-expertise-and-the-evolving-role-of-integrators</guid>
     </item>
   </channel>
 </rss>
