@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Automated optical inspection of FAST's reflector surface using drones and computer vision</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XX1haczVZcFIwUXAwcmNVQzdQR2tWUzVsX0pmSHJUSTllTkVlUGZHREhzYmlvWGhIMElKYTEtQV93NTk3YzhuUDJzUTFnSE9BQkg3ZVJLX3ZwWFk?oc=5</link>
+      <description>Automated drone-based optical inspection systems provide advanced turnkey solutions for detecting surface defects on large-scale infrastructure.</description>
+      <pubDate>Sun, 01 Nov 2026 07:16:12 -0000</pubDate>
+      <guid>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XX1haczVZcFIwUXAwcmNVQzdQR2tWUzVsX0pmSHJUSTllTkVlUGZHREhzYmlvWGhIMElKYTEtQV93NTk3YzhuUDJzUTFnSE9BQkg3ZVJLX3ZwWFk?oc=5</guid>
+    </item>
+    <item>
       <title>HP-FX Brings High-Precision Surface Inspection Directly to the Shop Floor</title>
       <link>https://metrology.news/hp-fx-brings-high-precision-surface-inspection-directly-to-the-shop-floor/</link>
       <description>The introduction of HP-FX to the shop floor highlights a key commercial trend in bringing advanced turnkey surface inspection solutions directly to manufacturing environments.</description>
@@ -45,13 +52,6 @@
       <description>Hyundai and Kia are advancing their vision for software-defined factories (SDFs) where integrated data, AI, and standardised software platforms optimize manufacturing operations.</description>
       <pubDate>Wed, 28 Oct 2026 07:30:52 -0000</pubDate>
       <guid>https://metrology.news/hyundai-motor-and-kia-advance-vision-for-software-defined-factories/</guid>
-    </item>
-    <item>
-      <title>Smart Sensors Drive Process Optimization and Factory Connectivity</title>
-      <link>https://metrology.news/smart-sensors-drive-process-optimization-and-factory-connectivity/</link>
-      <description>Connected sensing technologies are helping manufacturers improve process control, equipment performance and quality assurance by turning real-time production data into actionable information.</description>
-      <pubDate>Wed, 28 Oct 2026 07:30:51 -0000</pubDate>
-      <guid>https://metrology.news/smart-sensors-drive-process-optimization-and-factory-connectivity/</guid>
     </item>
   </channel>
 </rss>
