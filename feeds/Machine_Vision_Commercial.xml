@@ -5,6 +5,13 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Kreon Unveils High-Precision ANEMO 3D Scanner</title>
+      <link>https://metrology.news/kreon-unveils-high-precision-anemo-3d-scanner/</link>
+      <description>The launch of the ANEMO 3D laser scanner introduces a high-speed, high-precision hardware solution for inspecting complex manufactured components with tight tolerances.</description>
+      <pubDate>Mon, 02 Nov 2026 07:06:03 -0000</pubDate>
+      <guid>https://metrology.news/kreon-unveils-high-precision-anemo-3d-scanner/</guid>
+    </item>
+    <item>
       <title>Automated optical inspection of FAST's reflector surface using drones and computer vision</title>
       <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XX1haczVZcFIwUXAwcmNVQzdQR2tWUzVsX0pmSHJUSTllTkVlUGZHREhzYmlvWGhIMElKYTEtQV93NTk3YzhuUDJzUTFnSE9BQkg3ZVJLX3ZwWFk?oc=5</link>
       <description>Automated drone-based optical inspection systems provide advanced turnkey solutions for detecting surface defects on large-scale infrastructure.</description>
@@ -45,13 +52,6 @@
       <description>K3Metrology secures funding to advance Metralis for scalable commercial deployment in high-value manufacturing sectors.</description>
       <pubDate>Thu, 29 Oct 2026 07:28:23 -0000</pubDate>
       <guid>https://metrology.news/k3metrology-secures-further-funding-for-next-generation-coordinate-measurement/</guid>
-    </item>
-    <item>
-      <title>Hyundai Motor and Kia Advance Vision for Software-Defined Factories</title>
-      <link>https://metrology.news/hyundai-motor-and-kia-advance-vision-for-software-defined-factories/</link>
-      <description>Hyundai and Kia are advancing their vision for software-defined factories (SDFs) where integrated data, AI, and standardised software platforms optimize manufacturing operations.</description>
-      <pubDate>Wed, 28 Oct 2026 07:30:52 -0000</pubDate>
-      <guid>https://metrology.news/hyundai-motor-and-kia-advance-vision-for-software-defined-factories/</guid>
     </item>
   </channel>
 </rss>
