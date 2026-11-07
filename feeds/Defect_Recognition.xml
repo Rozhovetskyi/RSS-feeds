@@ -5,6 +5,13 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core</title>
+      <link>https://pytorch.org/blog/pytorch-2-10torchao/</link>
+      <description>Less than 10 lines of code to train and test an autoencoder anomaly detection code model in PyTorch.</description>
+      <pubDate>Sat, 07 Nov 2026 19:17:48 -0000</pubDate>
+      <guid>https://pytorch.org/blog/pytorch-2-10torchao/</guid>
+    </item>
+    <item>
       <title>Exploring OpenCV Applications in 2025</title>
       <link>https://opencv.org/opencv-applications-in-2023/</link>
       <description>Explores applications of OpenCV including industrial inspection and manufacturing use cases.</description>
@@ -45,13 +52,6 @@
       <description>OpenCV industrial inspection edge detection techniques.</description>
       <pubDate>Sat, 27 Jun 2026 18:17:21 -0000</pubDate>
       <guid>https://opencv.org/blog/edge-detection-using-opencv/</guid>
-    </item>
-    <item>
-      <title>Hands-on Time Series Anomaly Detection using Autoencoders, with Python</title>
-      <link>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</link>
-      <description>Autoencoder anomaly detection code tutorial.</description>
-      <pubDate>Sat, 27 Jun 2026 18:17:19 -0000</pubDate>
-      <guid>https://towardsdatascience.com/hands-on-time-series-anomaly-detection-using-autoencoders-with-python-7cd893bbc122/</guid>
     </item>
   </channel>
 </rss>
