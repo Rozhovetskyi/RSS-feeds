@@ -5,6 +5,20 @@
     <description>Latest news about Machine_Vision_Commercial</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>Foxconn Builds Self-Learning AI Factories to Transform Manufacturing</title>
+      <link>https://metrology.news/foxconn-builds-self-learning-ai-factories-to-transform-manufacturing/</link>
+      <description>Foxconn is deploying large-scale AI infrastructure to create self-learning manufacturing environments, showcasing a major market trend in commercial factory automation.</description>
+      <pubDate>Tue, 10 Nov 2026 07:18:45 -0000</pubDate>
+      <guid>https://metrology.news/foxconn-builds-self-learning-ai-factories-to-transform-manufacturing/</guid>
+    </item>
+    <item>
+      <title>ORAFOL Fresnel Optics Cuts Inspection Times in Half with AI Machine Vision Solution</title>
+      <link>https://metrology.news/orafol-fresnel-optics-cuts-inspection-times-in-half-with-ai-machine-vision-solution/</link>
+      <description>Zebra Technologies has helped ORAFOL intelligently automate quality control using AI machine vision, providing a highly effective commercial turnkey solution.</description>
+      <pubDate>Tue, 10 Nov 2026 07:18:43 -0000</pubDate>
+      <guid>https://metrology.news/orafol-fresnel-optics-cuts-inspection-times-in-half-with-ai-machine-vision-solution/</guid>
+    </item>
+    <item>
       <title>Metrology’s Expanding Role in Semiconductor Manufacturing</title>
       <link>https://metrology.news/metrologys-expanding-role-in-semiconductor-manufacturing/</link>
       <description>The growing role of metrology in semiconductor manufacturing highlights key market growth in high-precision commercial defect recognition solutions.</description>
@@ -38,20 +52,6 @@
       <description>TT Vision's subsidiary received a major automated optical inspection equipment order, confirming steady commercial demand for defect recognition technologies.</description>
       <pubDate>Sat, 07 Nov 2026 07:13:02 -0000</pubDate>
       <guid>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYVZjMkVmNkpOVlpjWUFMRHNzWmh5bk05NkJVUkM3NmhJbXVDR0FRa0hHSjYwWmFyWU5qSERkQU1jWkY3Wkc1ZnVuWlk4UnZzbGE4YjJpbjRlcjBrUE5RdDEwdTFGWWx3UTFzRUgzaDFKYnhEYlIyWU82TmpIWWxlOWhMalM4V0pZa0ttaTc5c3RwM1BFTndMN1J5cmFBRkU1a3JZTXMyS1VZQTIxMkdmTkx3VFlwQnp0S2ZJWkJhVjdkVHlVYXladzNLdnphTXlBOEhVVTFR?oc=5</guid>
-    </item>
-    <item>
-      <title>Machine Vision Moves Beyond the Bin in Automated Storage</title>
-      <link>https://www.vision-systems.com/factory/article/55416762/machine-vision-moves-beyond-the-bin-in-automated-storage</link>
-      <description>Machine vision applications are expanding into broader automated storage solutions, indicating a growing commercial market in factory automation.</description>
-      <pubDate>Sat, 07 Nov 2026 07:13:01 -0000</pubDate>
-      <guid>https://www.vision-systems.com/factory/article/55416762/machine-vision-moves-beyond-the-bin-in-automated-storage</guid>
-    </item>
-    <item>
-      <title>MVTec, BMG, Bosch Rexroth Partner to Simplify Machine Vision Integration</title>
-      <link>https://www.vision-systems.com/embedded/news/55417340/mvtec-bmg-bosch-rexroth-partner-to-simplify-machine-vision-integration</link>
-      <description>MVTec, BMG, and Bosch Rexroth have formed a strategic partnership to streamline machine vision integration, creating a stronger turnkey solution ecosystem.</description>
-      <pubDate>Sat, 07 Nov 2026 07:13:01 -0000</pubDate>
-      <guid>https://www.vision-systems.com/embedded/news/55417340/mvtec-bmg-bosch-rexroth-partner-to-simplify-machine-vision-integration</guid>
     </item>
   </channel>
 </rss>
