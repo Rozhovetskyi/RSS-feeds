@@ -5,6 +5,34 @@
     <description>Latest news about Defect_Recognition</description>
     <link>https://github.com/jules/feeds</link>
     <item>
+      <title>You Can’t Scale AI With Real Data Alone: A Practical Guide to Synthetic Data Generation</title>
+      <link>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</link>
+      <description>Practical guide with code implementation for Synthetic data generation for defects.</description>
+      <pubDate>Tue, 10 Nov 2026 19:29:22 -0000</pubDate>
+      <guid>https://hackernoon.com/you-cant-scale-ai-with-real-data-alone-a-practical-guide-to-synthetic-data-generation</guid>
+    </item>
+    <item>
+      <title>Intro to Autoencoders - TensorFlow Core</title>
+      <link>https://www.tensorflow.org/tutorials/generative/autoencoder</link>
+      <description>Practical tutorial code implementation for Autoencoder anomaly detection code using TensorFlow.</description>
+      <pubDate>Tue, 10 Nov 2026 19:29:02 -0000</pubDate>
+      <guid>https://www.tensorflow.org/tutorials/generative/autoencoder</guid>
+    </item>
+    <item>
+      <title>Deep Learning for Computer Vision: Models &amp; Real World Applications</title>
+      <link>https://opencv.org/deep-learning-with-computer-vision/</link>
+      <description>OpenCV industrial inspection practical tutorial code implementation for monitoring and inspection of industrial sites.</description>
+      <pubDate>Tue, 10 Nov 2026 19:28:09 -0000</pubDate>
+      <guid>https://opencv.org/deep-learning-with-computer-vision/</guid>
+    </item>
+    <item>
+      <title>Train YOLO for Object Detection on a Custom Dataset using Python</title>
+      <link>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</link>
+      <description>Detailed tutorial explaining how to efficiently train the object detection algorithm YOLO for custom objects on your own custom dataset. Includes practical tutorial code implementations.</description>
+      <pubDate>Tue, 10 Nov 2026 19:28:09 -0000</pubDate>
+      <guid>https://towardsdatascience.com/train-yolo-for-object-detection-on-a-custom-dataset-using-python-e4fe5eb94673/</guid>
+    </item>
+    <item>
       <title>PyTorch 2.10+TorchAO: Powering AIPC scenarios on Intel® Core</title>
       <link>https://pytorch.org/blog/pytorch-2-10torchao/</link>
       <description>Less than 10 lines of code to train and test an autoencoder anomaly detection code model in PyTorch.</description>
@@ -24,34 +52,6 @@
       <description>Autoencoder anomaly detection code implementation</description>
       <pubDate>Tue, 30 Jun 2026 18:20:45 -0000</pubDate>
       <guid>https://towardsdatascience.com/anomaly-detection-in-manufacturing-part-2-building-a-variational-autoencoder-248abce07349/</guid>
-    </item>
-    <item>
-      <title>Deploy Custom Object Detection using Flask &amp; Python, Step by Step</title>
-      <link>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</link>
-      <description>Step by step YOLO for custom objects model deployment in localhost using python.</description>
-      <pubDate>Tue, 30 Jun 2026 18:20:16 -0000</pubDate>
-      <guid>https://towardsdatascience.com/step-by-step-yolo-model-deployment-in-localhost-using-python-8537e93a1784/</guid>
-    </item>
-    <item>
-      <title>Generating Synthetic Data with Code for Defect Detection</title>
-      <link>https://hackernoon.com/generating-synthetic-data-with-code-for-defect-detection</link>
-      <description>Implementation guide with code snippets for synthetic data generation for defects.</description>
-      <pubDate>Sat, 27 Jun 2026 18:17:44 -0000</pubDate>
-      <guid>https://hackernoon.com/generating-synthetic-data-with-code-for-defect-detection</guid>
-    </item>
-    <item>
-      <title>Real-World ML with Coral: Manufacturing</title>
-      <link>https://blog.tensorflow.org/2021/07/real-world-ml-with-coral-manufacturing.html</link>
-      <description>Real world manufacturing inspection using OpenCV and Coral.</description>
-      <pubDate>Sat, 27 Jun 2026 18:17:23 -0000</pubDate>
-      <guid>https://blog.tensorflow.org/2021/07/real-world-ml-with-coral-manufacturing.html</guid>
-    </item>
-    <item>
-      <title>Edge Detection Using OpenCV</title>
-      <link>https://opencv.org/blog/edge-detection-using-opencv/</link>
-      <description>OpenCV industrial inspection edge detection techniques.</description>
-      <pubDate>Sat, 27 Jun 2026 18:17:21 -0000</pubDate>
-      <guid>https://opencv.org/blog/edge-detection-using-opencv/</guid>
     </item>
   </channel>
 </rss>
